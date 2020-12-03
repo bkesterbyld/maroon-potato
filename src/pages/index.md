@@ -46,8 +46,8 @@ sections:
         content: >-
           Above's control flow logic engine allows you to implement CRUD,
           complex workflows and analytics. It also offers parallel processing of
-          massive data sets as wells as in-memory crunching of data science and
-          AI/ML models.
+          massive data sets as wells as in-memory crunching for intense
+          calculations.
         actions:
           - label: Learn More
             url: /style-guide
