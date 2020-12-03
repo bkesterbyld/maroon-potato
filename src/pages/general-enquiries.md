@@ -43,7 +43,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
+          - I want to join the beta
           - Sponsorship
           - Other
       - input_type: textarea
