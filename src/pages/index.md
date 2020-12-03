@@ -57,7 +57,7 @@ sections:
             icon_position: right
         image: images/logicb.png
         media_position: left
-        media_width: fifty
+        media_width: sixty
       - title: Edge Processing
         subtitle: ''
         content: >-
