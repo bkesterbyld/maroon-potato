@@ -5,7 +5,7 @@ sections:
     title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
-      Create a serverless backend for you apps, hardware or websites in minutes
+      Create a serverless backend for your app, hardware or website in minutes
       without having to learn anything. Take advantage of edge computing to
       speed up user interactions, manage massive data sets or comply with
       privacy laws.
@@ -69,10 +69,9 @@ sections:
       - title: Edge Processing
         subtitle: ''
         content: >-
-          You can process and position data anywhere in the world to provide the
-          fastest response times to your users. Our active data management
-          technology constantly replicates field-level changes across a global
-          cloud network.
+          Process and position data anywhere in the world to provide the fastest
+          response times to your users. Our active data management technology
+          keeps field-level changes replicated across a global cloud network.
         actions: []
         image: images/frontc2.png
         media_position: right
@@ -101,9 +100,9 @@ sections:
         title_align: left
         content: >-
           IoT project fail 75% of the time because it's technically difficult to
-          fuse remote sensor and corporate data into new customer-facing
-          workflows. Above sits between real-time IoT and corporate data sources
-          to enable creation of automated processes that scale.
+          fuse remote sensor and corporate data into valuable new workflows.
+          Above sits between real-time IoT and corporate data sources to enable
+          creation of automated processes that scale.
         content_align: left
         actions: []
         actions_align: left
@@ -142,10 +141,8 @@ sections:
         image: images/1516637847938.jpg
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I can work on higher level problems and tasks, and get things done
-          fast.
-
+      - content: |-
+          I can work on higher level problems and tasks, things get done fast.
 
           **Nick Bonakis,** *Velocityraptor.co*
         image: images/0.jpg
@@ -158,7 +155,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: 'Frontend, Mobile or IoT Developer?'
-    content: We'd love to have you try it out for your side gig or hobby project!
+    content: We'd love to have you try Above for your side gig or hobby project!
     actions:
       - label: Beta Sign Up
         url: /general-enquiries
