@@ -69,10 +69,9 @@ sections:
       - title: Edge Processing
         subtitle: ''
         content: >-
-          You can process and position data anywhere in the world to provide the
-          fastest response times to your users. Our active data management
-          technology constantly replicates field-level changes across a global
-          cloud network.
+          Process and position data anywhere in the world to provide the fastest
+          response times to your users. Our active data management technology
+          keeps field-level changes replicated across a global cloud network.
         actions: []
         image: images/frontc2.png
         media_position: right
