@@ -59,7 +59,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Edge Processing
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: ''
         content: >-
           You can process and store data anywhere in the world to provide the
           fastest response times to your users. Our active data management
