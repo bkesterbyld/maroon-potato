@@ -126,10 +126,11 @@ sections:
       - title: Internet of Things (IoT)
         title_align: left
         content: >-
-          By definition, IoT data is distributed across wide areas and regions
-          of the globe. At scale, it becomes difficult to build performant and
-          resilient IoT applications that fuse existing corporate data. Above's
-          distributed edge processing technologies 
+          The IoT failure rate is incredibly high at 75%. A major reason is the
+          inability to fuse sensor and existing data into valuable workflows,
+          and scale. Above can sit between your IoT ingestion service and SaaS
+          and backbone systems to drive valuable new workflows—and scale
+          infinitely without concurrency or other issues. 
         content_align: left
         actions:
           - label: Learn More
