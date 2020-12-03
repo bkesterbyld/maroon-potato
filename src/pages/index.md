@@ -103,7 +103,7 @@ sections:
     title: Solutions
     subtitle: Grid Section Example
     grid_items:
-      - title: Ecommerce & Product Websites
+      - title: 'Ecommerce & Product '
         title_align: left
         content: >-
           It's well known that customers will abandon ecommerce and product
