@@ -126,11 +126,11 @@ sections:
       - title: Internet of Things (IoT)
         title_align: left
         content: >-
-          The IoT failure rate is incredibly high at 75% because it's hard to
-          fuse sensor and existing data together into valuable workflows. Above
-          can sit between your real-time IoT data and corporate systems to drive
-          business processes—and scale infinitely without concurrency or other
-          issues. 
+          The IoT failure rate is incredibly high at 75% because it's
+          technically challenging to fuse product sensor and corporate data
+          together into new workflows. Above can sit between your real-time IoT
+          data and corporate systems to drive business processes—and scale
+          infinitely without concurrency or other real-time processing issues.
         content_align: left
         actions:
           - label: Learn More
