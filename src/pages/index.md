@@ -182,11 +182,11 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          Above frees you to work on higher level problems and tasks, and get
+          things done fast.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Nick Bonatsakis,** *Velocityraptor.co*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
