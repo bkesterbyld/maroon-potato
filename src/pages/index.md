@@ -141,10 +141,8 @@ sections:
         image: images/1516637847938.jpg
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I can work on higher level problems and tasks, and get things done
-          fast.
-
+      - content: |-
+          I can work on higher level problems and tasks, things get done fast.
 
           **Nick Bonakis,** *Velocityraptor.co*
         image: images/0.jpg
