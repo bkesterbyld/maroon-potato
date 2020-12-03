@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'No Code, Powerful Backend API'
+    title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
       Try an easy to use, powerful serverless backend you can setup in minutes.
