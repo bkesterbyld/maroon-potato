@@ -88,10 +88,9 @@ sections:
       - title: eCommerce
         title_align: left
         content: >-
-          Customers will abandon ecommerce and product sites that don't with
-          respond within 1-3 seconds. Above's turnkey backend solution can keep
-          dynamic data flowing on par with the static files served from modern
-          CDNs.
+          Customers abandon ecommerce and product sites that don't respond
+          within 1-3 seconds. Above's turnkey backend solution can keep dynamic
+          data flowing on par with the static files served from modern CDNs.
         content_align: left
         actions: []
         actions_align: left
