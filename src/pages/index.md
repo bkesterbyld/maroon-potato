@@ -310,7 +310,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >
-      ## Create Experiences, Not Infrastructure
+      ###### Create Experiences, Not Infrastructure
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
