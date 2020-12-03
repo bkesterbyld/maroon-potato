@@ -61,8 +61,8 @@ sections:
         content: >-
           Above's control flow logic allows you to implement CRUD, workflow and
           analytics without having to learn anything. It also offers parallel
-          processing of massive data sets as wells as in-memory handling of
-          intense calculations.
+          and in-memory processing options to take on heavy computing
+          challenges.
         actions: []
         image: images/logicb.png
         media_position: left
