@@ -5,9 +5,10 @@ sections:
     title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
-      Build a backend for you apps, hardware or websites in minutes without
-      having to learn anything. Take advantage of edge processing to speed up
-      user interactions, distribute heavy loads or comply with privacy laws.
+      Create a serverless backend for you apps, hardware or websites in minutes
+      without having to learn anything. Take advantage of edge processing to
+      speed up user interactions, manage massive data sets or comply with
+      privacy laws.
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -51,7 +52,7 @@ sections:
         content: >-
           Model data tables and complex relationships right from a web page. The
           service supports typical database fields, can handle files/blobs and
-          offers advanced modeling approaches such as nested arrays.
+          offers advanced modeling approaches such as nested data structures.
         actions: []
         image: images/relational-a2.png
         media_position: right
@@ -60,8 +61,8 @@ sections:
         content: >-
           Above's control flow logic allows you to implement CRUD, workflow and
           analytics without having to learn anything. It also offers parallel
-          processing of massive data sets as wells as in-memory handling of
-          intense calculations.
+          and in-memory processing options to take on heavy computing
+          challenges.
         actions: []
         image: images/logicb.png
         media_position: left
@@ -87,10 +88,10 @@ sections:
       - title: eCommerce
         title_align: left
         content: >-
-          It's well known that customers will abandon ecommerce and product
-          sites that don't with respond within 1-3 seconds. Above's turnkey
-          backend solution can keep dynamic data flowing on par with the static
-          files served from modern CDNs.
+          Customers will abandon ecommerce and product sites that don't with
+          respond within 1-3 seconds. Above's turnkey backend solution can keep
+          dynamic data flowing on par with the static files served from modern
+          CDNs.
         content_align: left
         actions: []
         actions_align: left
@@ -102,9 +103,9 @@ sections:
         title_align: left
         content: >-
           IoT project fail 75% of the time because it's technically challenging
-          to fuse product sensor and corporate data together into new workflows.
-          Above sits between your real-time IoT and corporate data sources to
-          enable creation of new, automated processes. 
+          and costly to fuse remote sensor and corporate data into new
+          workflows. Above sits between real-time IoT and corporate data sources
+          to enable creation of new, automated processes that scale.
         content_align: left
         actions: []
         actions_align: left
@@ -112,7 +113,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Customer Data & Privacy
+      - title: Unified Customer Data & Privacy
         title_align: left
         content: >-
           Siloed customer data across SaaS, marketing, service and social media
