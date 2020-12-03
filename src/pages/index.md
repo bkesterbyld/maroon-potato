@@ -16,7 +16,7 @@ sections:
     image: images/Picture6.png
     media_position: right
     media_width: sixty
-    align: right
+    align: left
     padding_top: large
     padding_bottom: large
     background_color: primary
