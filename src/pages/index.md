@@ -140,7 +140,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/iot.png
+        image: images/Picture2.png
         image_position: top
         image_align: center
         image_has_padding: true
