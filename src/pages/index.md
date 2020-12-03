@@ -28,11 +28,8 @@ sections:
       databases, app servers, web servers, containers, DevOps and backend QA. We
       free your brain to focus on client logic, interfaces and other satisfying
       work.
-    content: >
-      ###### Create Experiences, Not Infrastructure
+    content: |+
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
     actions: []
     video_embed_html: ''
     media_position: top
