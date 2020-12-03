@@ -106,9 +106,9 @@ sections:
       - title: Ecommerce & Product Websites
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          It's well known that current and potential customers will abandon
+          ecommerce and product sites that don't with respond within 1-3
+          seconds. 
         content_align: left
         actions:
           - label: Learn More
