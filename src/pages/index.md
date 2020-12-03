@@ -88,6 +88,29 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    content: >
+      ###### Create Experiences, Not Infrastructure
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    actions: []
+    video_embed_html: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
@@ -307,28 +330,5 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    content: >
-      ###### Create Experiences, Not Infrastructure
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    actions: []
-    video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
 template: advanced
 ---
