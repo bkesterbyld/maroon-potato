@@ -174,12 +174,10 @@ sections:
     title: 'What '
     subtitle: ''
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: |-
+          This is going to be epic and save me an enormous amount of time
 
-
-          **Hanson Deck,** *App Developer, Studio*
+          **Dick Lucas** *Fullsend.io*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
