@@ -178,7 +178,7 @@ sections:
           This is going to be epic and save me an enormous amount of time
 
           **Dick Lucas** *Fullsend.io*
-        image: images/hanson-deck.png
+        image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
       - content: >-
