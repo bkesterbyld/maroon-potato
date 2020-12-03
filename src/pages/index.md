@@ -279,7 +279,7 @@ sections:
       - label: Button
         url: /pricing
         style: primary
-    actions_position: bottom
+    actions_position: right
     align: center
     padding_top: large
     padding_bottom: large
