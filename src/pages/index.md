@@ -147,11 +147,10 @@ sections:
       - title: Real-Time Customer Profiles
         title_align: left
         content: >-
-          Having your real-time customer data siloed into disparate SaaS,
-          marketing, service and order systems creates missed revenue
-          opportunities. Above can aggregate disparate data sources into unified
-          customer profiles and run analytics for promotion identification,
-          possible churn and more. 
+          Siloed customer data across SaaS, marketing, service and order systems
+          creates missed revenue opportunities. Above can aggregate disparate
+          data sources into unified customer profiles and run real-time
+          analytics for promotion identification, possible churn and more. 
         content_align: left
         actions:
           - label: Learn More
