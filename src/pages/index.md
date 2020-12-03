@@ -27,7 +27,7 @@ sections:
 
       Above is a computing experience that replaces databases, code frameworks,
       app servers, containers, DevOps and backend QA. We free your brain to
-      focus on client logic, interfaces and other satisfying work.
+      focus on client logic, interfaces and satisfying work.
     actions: []
     video_embed_html: ''
     media_position: top
@@ -117,8 +117,8 @@ sections:
         content: >-
           Siloed customer data across SaaS, marketing, service and social media
           systems creates both missed revenue opportunities and privacy
-          liabilities. Above can can create and act on real-time customer
-          profiles aggregated from far-flung sources.
+          liabilities. Above can create and act on real-time customer profiles
+          aggregated from far-flung sources.
         content_align: left
         actions: []
         actions_align: left
@@ -137,7 +137,7 @@ sections:
     subtitle: ''
     grid_items:
       - content: |-
-          This is going to be epic and save me an enormous amount of time
+          This is going to be epic and saves an enormous amount of time.
 
           **Dick Lucas** *Fullsend.io*
         image: images/1516637847938.jpg
