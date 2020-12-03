@@ -14,7 +14,7 @@ sections:
         style: secondary
     image: images/Picture6.png
     media_position: left
-    media_width: sixty
+    media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
