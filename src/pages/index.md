@@ -5,8 +5,9 @@ sections:
     title: 'No Code, Powerful Backend API'
     subtitle: ''
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Try an easy to use, powerful serverless backend you can setup in minutes.
+      It unifies relational data modeling with a native logic engine to help
+      frontend, mobile and IoT developers be more productive.
     actions:
       - label: Try Free
         url: /pricing
