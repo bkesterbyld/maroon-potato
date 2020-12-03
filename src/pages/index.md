@@ -147,9 +147,11 @@ sections:
       - title: Unified Customer Profiling
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Having your real-time customer data siloed into disparate SaaS,
+          marketing, service and order systems creates missed revenue
+          opportunities. Above can aggregate disparate data sources into unified
+          customer profiles and run analytics for promotion identification,
+          possible churn and more. 
         content_align: left
         actions:
           - label: Learn More
