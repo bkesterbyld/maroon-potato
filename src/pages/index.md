@@ -121,7 +121,7 @@ sections:
         actions_align: left
         image: images/ecom.png
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
       - title: Internet of Things (IoT)
         title_align: left
