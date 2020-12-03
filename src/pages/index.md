@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >-
       Create a serverless backend for you apps, hardware or websites in minutes
-      without having to learn anything. Take advantage of edge processing to
+      without having to learn anything. Take advantage of edge computing to
       speed up user interactions, manage massive data sets or comply with
       privacy laws.
     actions:
@@ -14,7 +14,7 @@ sections:
         url: /general-enquiries
         style: secondary
     image: images/Picture6.png
-    media_position: left
+    media_position: right
     media_width: sixty
     align: left
     padding_top: large
@@ -61,8 +61,7 @@ sections:
         content: >-
           Above's control flow logic allows you to implement CRUD, workflow and
           analytics without having to learn anything. It also offers parallel
-          and in-memory processing options to take on heavy computing
-          challenges.
+          and in-memory processing options for heavy computing challenges.
         actions: []
         image: images/logicb.png
         media_position: left
