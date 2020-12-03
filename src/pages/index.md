@@ -144,7 +144,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Real-Time Customer Profiling
+      - title: Real-Time Customer Profiles
         title_align: left
         content: >-
           Having your real-time customer data siloed into disparate SaaS,
