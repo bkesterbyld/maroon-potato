@@ -6,8 +6,7 @@ sections:
     subtitle: ''
     content: >-
       Build a backend for you app in minutes. Take advantage of edge processing
-      to put data & logic right next to speed up page loads and comply with
-      privacy laws.
+      to to speed up page loads or comply with privacy laws.
     actions:
       - label: Learn More
         url: /features
