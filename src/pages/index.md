@@ -92,13 +92,7 @@ sections:
           backend solution can keep dynamic data flowing on par with the static
           files served from modern CDNs.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/Picture1.png
         image_position: top
