@@ -130,8 +130,8 @@ sections:
           The IoT failure rate is incredibly high at 75% because it's
           technically challenging to fuse product sensor and corporate data
           together into new workflows. Above can sit between your real-time IoT
-          data and corporate systems to drive business processes—and scale
-          infinitely without technical issues.
+          and corporate datat to drive business processes—without risk of
+          overload and technical failure. 
         content_align: left
         actions:
           - label: Learn More
