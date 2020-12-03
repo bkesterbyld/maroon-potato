@@ -137,7 +137,7 @@ sections:
     subtitle: ''
     grid_items:
       - content: |-
-          This is going to be epic and save me an enormous amount of time
+          This is going to be epic and saves an enormous amount of time.
 
           **Dick Lucas** *Fullsend.io*
         image: images/1516637847938.jpg
