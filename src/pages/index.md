@@ -7,8 +7,8 @@ sections:
     content: >-
       Create a serverless backend for you apps, hardware or websites in minutes
       without having to learn anything. Take advantage of edge processing to
-      speed up user interactions, manage masive data sets or comply with privacy
-      laws.
+      speed up user interactions, manage massive data sets or comply with
+      privacy laws.
     actions:
       - label: Join the Beta
         url: /general-enquiries
