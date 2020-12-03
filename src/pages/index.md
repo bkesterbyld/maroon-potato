@@ -110,13 +110,14 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Unified Customer Data & Privacy
+      - title: Active Customer Data Management
         title_align: left
         content: >-
-          Siloed customer data across SaaS, marketing, service and social media
+          Siloed customer data across SaaS, marketing, service and other 
           systems creates both missed revenue opportunities and privacy
           liabilities. Above can create and act on real-time customer profiles
-          aggregated from far-flung sources.
+          aggregated from far-flung sources, and securely syndicate data sets to
+          stakeholders in your company. 
         content_align: left
         actions: []
         actions_align: left
