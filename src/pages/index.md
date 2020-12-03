@@ -142,7 +142,7 @@ sections:
         actions_align: left
         image: images/iot.png
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
       - title: Real-Time Customer Profiles
         title_align: left
