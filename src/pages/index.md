@@ -88,10 +88,9 @@ sections:
       - title: eCommerce
         title_align: left
         content: >-
-          Customers will abandon ecommerce and product sites that don't with
-          respond within 1-3 seconds. Above's turnkey backend solution can keep
-          dynamic data flowing on par with the static files served from modern
-          CDNs.
+          Customers abandon ecommerce and product sites that don't respond
+          within 1-3 seconds. Above's turnkey backend solution can keep dynamic
+          data flowing on par with the static files served from modern CDNs.
         content_align: left
         actions: []
         actions_align: left
@@ -104,8 +103,9 @@ sections:
         content: >-
           IoT project fail 75% of the time because it's technically challenging
           and costly to fuse remote sensor and corporate data into new
-          workflows. Above sits between real-time IoT and corporate data sources
-          to enable creation of new, automated processes that scale.
+          customer-facing workflows. Above sits between real-time IoT and
+          corporate data sources to enable creation of automated processes that
+          scale.
         content_align: left
         actions: []
         actions_align: left
