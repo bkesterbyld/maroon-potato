@@ -197,7 +197,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: 'Frontend, Mobile or IoT Developer?'
-    content: 'We''d love to have you try this out and give us your thoughts. '
+    content: We'd love to have you try it out for your side gig!
     actions:
       - label: Beta Sign Up
         url: /features
