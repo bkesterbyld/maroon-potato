@@ -8,7 +8,7 @@ sections:
       Try an easy to use, powerful serverless backend you can setup in minutes.
       Our proprietary edge processing technology allows you to serve dynamic,
       real-time data anywhere in the world to meet the instant response needs of
-      demanding web, mobile and hardware users.
+      web, mobile and hardware users.
     actions:
       - label: Learn More
         url: /features
