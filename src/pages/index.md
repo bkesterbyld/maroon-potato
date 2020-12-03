@@ -120,13 +120,7 @@ sections:
           liabilities. Above can can create and act on real-time customer
           profiles aggregated from far-flung sources.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/Picture3.png
         image_position: top
