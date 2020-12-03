@@ -119,7 +119,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/ecom.png
+        image: images/Picture1.png
         image_position: top
         image_align: center
         image_has_padding: true
