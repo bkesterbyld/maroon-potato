@@ -10,7 +10,7 @@ sections:
       client interaction or comply with privacy laws.
     actions:
       - label: Join the Beta
-        url: /features
+        url: /general-enquiries
         style: secondary
     image: images/Picture6.png
     media_position: left
