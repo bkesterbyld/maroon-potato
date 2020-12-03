@@ -25,7 +25,7 @@ sections:
   - title: ''
     subtitle: ''
     content: >
-      ###### Create Experience, Not Infrastructure
+      ##### Create Experience, Not Infrastructure
 
       Above is a computing service that eliminates the need for databases, app
       servers, web servers, containers, DevOps and backend QA. We free your
