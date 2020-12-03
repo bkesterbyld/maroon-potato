@@ -7,7 +7,7 @@ sections:
     content: >-
       Build a backend for you apps, hardware or websites in minutes without
       having to learn anything. Take advantage of edge processing to speed up
-      client interaction or comply with privacy laws.
+      user interactions, distribute heavy loads or comply with privacy laws.
     actions:
       - label: Join the Beta
         url: /general-enquiries
