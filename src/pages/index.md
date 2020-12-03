@@ -9,7 +9,7 @@ sections:
       having to learn anything. Take advantage of edge processing to speed up
       client interaction or comply with privacy laws.
     actions:
-      - label: J
+      - label: Join the Beta
         url: /features
         style: secondary
     image: images/Picture6.png
