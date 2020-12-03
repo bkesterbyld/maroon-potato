@@ -171,7 +171,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: 'What '
+    title: ''
     subtitle: ''
     grid_items:
       - content: |-
