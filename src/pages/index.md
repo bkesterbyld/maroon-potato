@@ -99,7 +99,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Solutions
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - title: eCommerce
         title_align: left
