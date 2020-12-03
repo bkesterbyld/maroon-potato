@@ -62,4 +62,5 @@ sections:
     padding_bottom: medium
     background_color: primary
 template: advanced
+excerpt: Beta Signup for Distributed Comput
 ---
