@@ -148,10 +148,10 @@ sections:
       - title: Customer Data & Privacy
         title_align: left
         content: >-
-          Siloed customer data across SaaS, marketing, service and order systems
-          creates missed revenue opportunities. Above can aggregate disparate
-          data sources into unified customer profiles and run real-time
-          analytics for promotion identification, possible churn and more. 
+          Siloed customer data across SaaS, marketing, service and social media
+          systems creates both missed revenue opportunities and privacy
+          liabilities. Above can aggregate, analyze and manage real-time
+          customer data.
         content_align: left
         actions:
           - label: Learn More
