@@ -186,7 +186,7 @@ sections:
           fast.
 
 
-          **Nick Bonatsakis,** *Velocityraptor.co*
+          **Nick Bonakis,** *Velocityraptor.co*
         image: images/0.jpg
         image_position: left
         image_width: twenty-five
