@@ -1,6 +1,6 @@
 {
     "description": "A \"do it yourself\" theme for Stackbit",
-    "layout": "full-width",
+    "layout": "boxed",
     "style": "classic",
     "palette": "blue",
     "mode": "light",
