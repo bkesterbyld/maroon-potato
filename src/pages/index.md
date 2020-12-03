@@ -108,8 +108,8 @@ sections:
         content: >-
           It's well known that customers will abandon ecommerce and product
           sites that don't with respond within 1-3 seconds. Above's turnkey
-          backend solution can keep dynamic data flowing on par with modern
-          CDNs.
+          backend solution can keep dynamic data flowing on par with the static
+          files served from modern CDNs.
         content_align: left
         actions:
           - label: Learn More
