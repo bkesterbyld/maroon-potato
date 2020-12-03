@@ -45,7 +45,7 @@ sections:
     type: hero_section
   - type: features_section
     title: ''
-    subtitle: Features Section Example
+    subtitle: ''
     features:
       - title: Relational Data Modeling
         subtitle: ''
