@@ -99,27 +99,17 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
-    title: Cards Grid Section
+    title: Solutions
     subtitle: Grid Section Example
     grid_items:
-      - title: Section Item 1
+      - title: eCommerce
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          It's well known that customers will abandon ecommerce and product
+          sites that don't with respond within 1-3 seconds. Above's turnkey
+          backend solution can keep dynamic data flowing on par with the static
+          files served from modern CDNs.
         content_align: left
         actions:
           - label: Learn More
@@ -129,16 +119,18 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-1.svg
+        image: images/Picture1.png
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
-      - title: Section Item 2
+      - title: Internet of Things (IoT)
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          The IoT failure rate is incredibly high at 75% because it's
+          technically challenging to fuse product sensor and corporate data
+          together into new workflows. Above can sit between your real-time IoT
+          data and corporate systems to drive business processes—and scale
+          infinitely without technical issues.
         content_align: left
         actions:
           - label: Learn More
@@ -148,16 +140,17 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-2.svg
+        image: images/Picture2.png
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
-      - title: Section Item 3
+      - title: Real-Time Customer Profiles
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Siloed customer data across SaaS, marketing, service and order systems
+          creates missed revenue opportunities. Above can aggregate disparate
+          data sources into unified customer profiles and run real-time
+          analytics for promotion identification, possible churn and more. 
         content_align: left
         actions:
           - label: Learn More
@@ -167,9 +160,9 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-3.svg
+        image: images/Picture3.png
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
     grid_cols: three
     grid_gap_horiz: medium
@@ -308,5 +301,16 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
+  - type: features_section
+    features:
+      - title: >-
+          “Stackbit is fast! Themes are always up to date. It’s easy to use
+          across the organization, and collaboration is easy.”
+        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        image: images/brandon-guidelines.png
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
 template: advanced
 ---
