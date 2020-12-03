@@ -10,7 +10,7 @@ sections:
       real-time data anywhere in the world to meet the instant response needs of
       demanding web, mobile and hardware users.
     actions:
-      - label: ''
+      - label: blahc
         url: /pricing
         style: primary
       - label: Learn More
