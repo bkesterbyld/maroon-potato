@@ -126,9 +126,10 @@ sections:
       - title: Internet of Things (IoT)
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          By definition, IoT data is distributed across wide areas and regions
+          of the globe. At scale, it becomes difficult to build performant and
+          resilient IoT applications that fuse existing corporate data. Above's
+          distributed edge processing technologies 
         content_align: left
         actions:
           - label: Learn More
