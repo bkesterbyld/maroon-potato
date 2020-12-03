@@ -26,7 +26,7 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: The Big Title For the Feature
+      - title: Relational Data Modeling
         subtitle: ''
         content: >-
           Model data tables and complex relationships right from a web page. The
