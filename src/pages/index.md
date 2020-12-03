@@ -5,9 +5,9 @@ sections:
     title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
-      Try an easy to use, powerful serverless backend you can setup in minutes.
-      We help you meet the demanding needs of global users with our proprietary
-      edge processing technology. 
+      Build a backend for you app in minutes. Take advantage of edge processing
+      to put data & logic right next to speed up page loads and comply with
+      privacy laws.
     actions:
       - label: Learn More
         url: /features
