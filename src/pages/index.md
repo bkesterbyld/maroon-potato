@@ -146,8 +146,8 @@ sections:
         content: >-
           Siloed customer data across SaaS, marketing, service and social media
           systems creates both missed revenue opportunities and privacy
-          liabilities. Above can aggregate, analyze and manage real-time
-          customer data.
+          liabilities. Above can can create and act on real-time customer
+          profiles aggregated from far-flung sources.
         content_align: left
         actions:
           - label: Learn More
