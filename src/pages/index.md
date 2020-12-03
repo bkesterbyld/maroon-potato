@@ -63,7 +63,8 @@ sections:
         content: >-
           You can process and store data anywhere in the world to provide the
           fastest response times to your users. Our active data management
-          technology keeps dynamic data updated across a global cloud network.
+          technology constantly replicates field-level updates across a global
+          cloud network.
         actions:
           - label: Learn More
             url: /style-guide
