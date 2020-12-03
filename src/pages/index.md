@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >-
       Create a serverless backend for you apps, hardware or websites in minutes
-      without having to learn anything. Take advantage of edge processing to
+      without having to learn anything. Take advantage of edge computing to
       speed up user interactions, manage massive data sets or comply with
       privacy laws.
     actions:
