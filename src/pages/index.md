@@ -27,7 +27,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: ''
         content: >-
           Model data tables and complex relationships right from a web page. The
           service supports typical database fields, can handle files/blobs and
