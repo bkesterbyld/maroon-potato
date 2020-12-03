@@ -88,7 +88,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-  - title: lorem-ipsum
+  - title: 'Create Experience, Not Infrastructure'
     subtitle: lorem-ipsum
     content: >
       ###### Create Experiences, Not Infrastructure
