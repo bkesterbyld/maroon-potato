@@ -124,11 +124,11 @@ sections:
       - title: IoT Products
         title_align: left
         content: >-
-          The IoT failure rate is incredibly high at 75% because it's
-          technically challenging to fuse product sensor and corporate data
-          together into new workflows. Above sits between your real-time IoT and
-          corporate data to enable creation of new, automated processes. And
-          it's infinitely scalable.
+          IoT project fail 75% of the time because it's technically challenging
+          to fuse product sensor and corporate data together into new workflows.
+          Above sits between your real-time IoT and corporate data sources to
+          enable creation of new, automated processes. And it's infinitely
+          scalable to support your data science.
         content_align: left
         actions:
           - label: Learn More
