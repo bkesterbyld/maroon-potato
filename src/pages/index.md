@@ -73,13 +73,7 @@ sections:
           fastest response times to your users. Our active data management
           technology constantly replicates field-level changes across a global
           cloud network.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/frontc2.png
         media_position: right
         media_width: fourty
