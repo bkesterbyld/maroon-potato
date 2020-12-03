@@ -74,7 +74,7 @@ sections:
             icon_position: right
         image: images/frontc2.png
         media_position: right
-        media_width: fifty
+        media_width: sixty
     feature_padding_vert: large
     align: center
     background_color: secondary
