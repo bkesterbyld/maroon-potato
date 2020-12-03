@@ -111,7 +111,7 @@
                 "label": "Twitter",
                 "url": "",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "twitter",
                 "icon_position": "center",
                 "new_window": true
