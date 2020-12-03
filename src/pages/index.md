@@ -171,7 +171,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Preview Feedback
+    title: Early Feedback
     subtitle: ''
     grid_items:
       - content: |-
