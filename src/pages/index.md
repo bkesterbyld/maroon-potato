@@ -52,7 +52,7 @@ sections:
         content: >-
           Model data tables and complex relationships right from a web page. The
           service supports typical database fields, can handle files/blobs and
-          offers advanced modeling approaches such as nested arrays.
+          offers advanced modeling approaches such as nested data structures.
         actions: []
         image: images/relational-a2.png
         media_position: right
