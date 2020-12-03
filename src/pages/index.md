@@ -121,7 +121,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Internet of Things (IoT)
+      - title: IoT Products
         title_align: left
         content: >-
           The IoT failure rate is incredibly high at 75% because it's
