@@ -29,9 +29,9 @@ sections:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Model data tables and complex relationships right from a web page. The
+          service supports typical database fields, can handle files/blobs and
+          offers advanced modeling approaches such as nested arrays.
         actions:
           - label: Learn More
             url: /style-guide
