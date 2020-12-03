@@ -41,7 +41,7 @@ sections:
             icon_position: right
         image: images/relational-a2.png
         media_position: right
-        media_width: fifty
+        media_width: sixty
       - title: Powerful Native Logic
         content: >-
           Above's control flow logic engine allows you to implement CRUD,
