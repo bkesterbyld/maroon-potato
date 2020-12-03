@@ -187,7 +187,7 @@ sections:
 
 
           **Nick Bonatsakis,** *Velocityraptor.co*
-        image: images/miles-tone.png
+        image: images/0.jpg
         image_position: left
         image_width: twenty-five
     grid_cols: two
