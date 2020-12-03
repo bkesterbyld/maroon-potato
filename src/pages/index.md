@@ -195,15 +195,6 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
           **Gordon Norman,** *Web Designer, Studio*
         image: images/gordon-norman.png
         image_position: left
