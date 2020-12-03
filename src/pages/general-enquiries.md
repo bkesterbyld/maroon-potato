@@ -10,17 +10,16 @@ sections:
     background_color: none
   - type: form_section
     content: >-
-      ### Billing
+      ### It's Free
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      We'd love to help you with some pet project or anything you can think of.
+      In exchange for your use and feedback we'll put you on our swag list (when
+      we have enough of it) and anything you build up to 500,000 rows of data
+      you can keep running forever, no charge. 
 
       ### Privacy
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      We never sell information to third parties. Period. 
     content_align: left
     form_position: right
     form_width: fifty
