@@ -110,7 +110,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Unified Customer Data & Privacy
+      - title: Act
         title_align: left
         content: >-
           Siloed customer data across SaaS, marketing, service and social media
