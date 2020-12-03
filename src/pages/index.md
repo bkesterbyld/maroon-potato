@@ -39,7 +39,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/front.png
+        image: images/relational-a2.png
         media_position: right
         media_width: fifty
       - title: The Big Title For the Feature
