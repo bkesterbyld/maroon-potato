@@ -145,7 +145,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Customer Promotions
+      - title: Customer Profiling
         title_align: left
         content: >-
           Siloed customer data across SaaS, marketing, service and order systems
