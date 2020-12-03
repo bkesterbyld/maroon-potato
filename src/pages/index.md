@@ -131,7 +131,7 @@ sections:
           technically challenging to fuse product sensor and corporate data
           together into new workflows. Above can sit between your real-time IoT
           and corporate datat to drive business processes—without risk of
-          overload and technical failure. 
+          technical failure. 
         content_align: left
         actions:
           - label: Learn More
