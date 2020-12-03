@@ -109,7 +109,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "",
                 "style": "link",
                 "has_icon": true,
                 "icon": "twitter",
