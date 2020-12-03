@@ -14,7 +14,7 @@ sections:
         url: /general-enquiries
         style: secondary
     image: images/Picture6.png
-    media_position: top
+    media_position: right
     media_width: sixty
     align: left
     padding_top: large
