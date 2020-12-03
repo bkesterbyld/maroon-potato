@@ -45,9 +45,8 @@ sections:
       - title: Powerful Native Logic
         content: >-
           Above's control flow logic engine allows you to implement CRUD,
-          complex workflows and analytics. It also offers parallel processing of
-          massive data sets as wells as in-memory crunching for intense
-          calculations.
+          workflow and analytics. It also offers parallel processing of massive
+          data sets as wells as in-memory handling of intense calculations.
         actions:
           - label: Learn More
             url: /style-guide
