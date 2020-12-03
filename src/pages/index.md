@@ -27,9 +27,9 @@ sections:
     content: >
       #### Create Apps, Not Infrastructure
 
-      Above is a computing expereince that eliminates the need for databases,
-      app servers, web servers, containers, DevOps and backend QA. We free your
-      brain to focus on client logic, interfaces and other satisfying work.
+      Above is a computing experience that replaces databases, app servers, web
+      servers, containers, DevOps and backend QA. We free your brain to focus on
+      client logic, interfaces and other satisfying work.
     actions: []
     video_embed_html: ''
     media_position: top
