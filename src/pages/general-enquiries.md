@@ -2,7 +2,7 @@
 title: Beta Signup
 sections:
   - type: hero_section
-    title: This is the Hero
+    title: Be a part of our beta
     subtitle: The optional subtitle
     align: center
     padding_top: medium
