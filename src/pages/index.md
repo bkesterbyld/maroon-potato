@@ -2,24 +2,24 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'No Code, Powerful Backend API'
+    title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
-      Try an easy to use, powerful serverless backend you can setup in minutes.
-      Our proprietary edge processing technology allows you to serve dynamic,
-      real-time data anywhere in the world to meet the instant response needs of
-      web, mobile and hardware users.
+      Build a backend for you apps, hardware or websites in minutes without
+      having to learn anything. Take advantage of edge processing to speed up
+      client interaction or comply with privacy laws.
     actions:
-      - label: Learn More
-        url: /features
+      - label: Join the Beta
+        url: /general-enquiries
         style: secondary
-    image: images/Picture4.png
+    image: images/Picture6.png
     media_position: left
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: large
     padding_bottom: large
     background_color: primary
+    has_border: false
   - title: ''
     subtitle: ''
     content: >
@@ -52,28 +52,17 @@ sections:
           Model data tables and complex relationships right from a web page. The
           service supports typical database fields, can handle files/blobs and
           offers advanced modeling approaches such as nested arrays.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/relational-a2.png
         media_position: right
         media_width: fourty
       - title: Powerful Native Logic
         content: >-
-          Above's control flow logic engine allows you to implement CRUD,
-          workflow and analytics. It also offers parallel processing of massive
-          data sets as wells as in-memory handling of intense calculations.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+          Above's control flow logic allows you to implement CRUD, workflow and
+          analytics without having to learn anything. It also offers parallel
+          processing of massive data sets as wells as in-memory handling of
+          intense calculations.
+        actions: []
         image: images/logicb.png
         media_position: left
         media_width: fourty
@@ -84,13 +73,7 @@ sections:
           fastest response times to your users. Our active data management
           technology constantly replicates field-level changes across a global
           cloud network.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/frontc2.png
         media_position: right
         media_width: fourty
@@ -99,7 +82,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Solutions
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - title: eCommerce
         title_align: left
@@ -109,34 +92,21 @@ sections:
           backend solution can keep dynamic data flowing on par with the static
           files served from modern CDNs.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/Picture1.png
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Internet of Things (IoT)
+      - title: IoT Products
         title_align: left
         content: >-
-          The IoT failure rate is incredibly high at 75% because it's
-          technically challenging to fuse product sensor and corporate data
-          together into new workflows. Above sits between your real-time IoT and
-          corporate data to enable creation of new, automated processes. And
-          it's infinitely scalable.
+          IoT project fail 75% of the time because it's technically challenging
+          to fuse product sensor and corporate data together into new workflows.
+          Above sits between your real-time IoT and corporate data sources to
+          enable creation of new, automated processes. 
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/Picture2.png
         image_position: top
@@ -147,16 +117,10 @@ sections:
         content: >-
           Siloed customer data across SaaS, marketing, service and social media
           systems creates both missed revenue opportunities and privacy
-          liabilities. Above can aggregate, analyze and manage real-time
-          customer data.
+          liabilities. Above can can create and act on real-time customer
+          profiles aggregated from far-flung sources.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/Picture3.png
         image_position: top
@@ -198,7 +162,7 @@ sections:
     content: We'd love to have you try it out for your side gig or hobby project!
     actions:
       - label: Beta Sign Up
-        url: /features
+        url: /general-enquiries
         style: secondary
     actions_position: right
     actions_width: fourty

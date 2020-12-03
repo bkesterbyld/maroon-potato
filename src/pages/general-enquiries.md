@@ -1,26 +1,25 @@
 ---
-title: General enquiries
+title: Above - Beta Signup
 sections:
   - type: hero_section
-    title: This is the Hero
-    subtitle: The optional subtitle
+    title: Be a part of our beta
+    subtitle: Coming in Q1 2021
     align: center
     padding_top: medium
     padding_bottom: medium
     background_color: none
   - type: form_section
     content: >-
-      ### Billing
+      ### It's Free
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      We'd love to help you with some pet project or anything you can think of.
+      In exchange for your use and feedback we'll put you on our swag list (when
+      we have enough of it) and anything you build up to 500,000 rows of data
+      you can keep running forever, no charge. 
 
       ### Privacy
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      We never sell information to third parties. Period. 
     content_align: left
     form_position: right
     form_width: fifty
@@ -44,12 +43,12 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - I want to join the beta
+          - I have questions
+          - Other (use message box)
       - input_type: textarea
         name: message
-        label: Message
+        label: Message?
         default_value: Your message
       - input_type: checkbox
         name: consent
@@ -63,4 +62,5 @@ sections:
     padding_bottom: medium
     background_color: primary
 template: advanced
+excerpt: Beta Signup for Distributed Backend API
 ---
