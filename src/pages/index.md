@@ -130,7 +130,7 @@ sections:
           technically challenging to fuse product sensor and corporate data
           together into new workflows. Above can sit between your real-time IoT
           data and corporate systems to drive business processes—and scale
-          infinitely without concurrency or other real-time processing issues.
+          infinitely without technical issues.
         content_align: left
         actions:
           - label: Learn More
