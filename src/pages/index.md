@@ -27,7 +27,7 @@ sections:
 
       Above is a computing experience that replaces databases, code frameworks,
       app servers, containers, DevOps and backend QA. We free your brain to
-      focus on client logic, interfaces and other satisfying work.
+      focus on client logic, interfaces and satisfying work.
     actions: []
     video_embed_html: ''
     media_position: top
