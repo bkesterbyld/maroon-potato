@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: 'Create Experience, Not Infrastructure'
+  - title: ''
     subtitle: >-
       Above is a computing service that eliminates the need for you to sweat
       databases, app servers, web servers, containers, DevOps and backend QA. We
