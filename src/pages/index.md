@@ -197,10 +197,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: 'Frontend, Mobile or IoT Developer?'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: 'We''d love to have you try this out and give us your thoughts. '
     actions:
       - label: Beta Sign Up
         url: /features
