@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >-
       Build a backend for you apps, hardware or websites in minutes without
-      having to learn anything. Take advantage of edge processing to to speed up
+      having to learn anything. Take advantage of edge processing to speed up
       client interaction or comply with privacy laws.
     actions:
       - label: Learn More
