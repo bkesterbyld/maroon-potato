@@ -44,9 +44,10 @@ sections:
         media_width: fifty
       - title: Powerful Native Logic
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Above's control flow logic engine allows you to implement CRUD,
+          complex workflows and analytics. It also offers parallel processing of
+          massive data sets as wells as in-memory crunching of data science and
+          AI/ML models.
         actions:
           - label: Learn More
             url: /style-guide
