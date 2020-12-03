@@ -45,7 +45,7 @@ sections:
         options:
           - I want to join the beta
           - I have questions
-          - Other
+          - Other (use message box)
       - input_type: textarea
         name: message
         label: Message
