@@ -6,9 +6,8 @@ sections:
     subtitle: ''
     content: >-
       Try an easy to use, powerful serverless backend you can setup in minutes.
-      And edge processing technology allows you to serve dynamic, real-time data
-      anywhere in the world to meet the instant response needs of web, mobile
-      and hardware users.
+      We help you meet the demanding needs of global users with our proprietary
+      edge processing technology. 
     actions:
       - label: Learn More
         url: /features
