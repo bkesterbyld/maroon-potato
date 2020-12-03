@@ -5,8 +5,9 @@ sections:
     title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
-      Build a backend for you app in minutes. Take advantage of edge processing
-      to to speed up page loads or comply with privacy laws.
+      Build a backend for you apps, hardware or websites in minutes. Take
+      advantage of edge processing to to speed up client loads or comply with
+      privacy laws.
     actions:
       - label: Learn More
         url: /features
