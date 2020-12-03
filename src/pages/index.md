@@ -19,7 +19,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    has_border: true
+    has_border: false
   - title: ''
     subtitle: ''
     content: >
