@@ -198,7 +198,7 @@ sections:
     content: We'd love to have you try it out for your side gig or hobby project!
     actions:
       - label: Beta Sign Up
-        url: /features
+        url: /general-enquiries
         style: secondary
     actions_position: right
     actions_width: fourty
