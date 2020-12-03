@@ -182,8 +182,8 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          Above frees you to work on higher level problems and tasks, and get
-          things done fast.
+          I can work on higher level problems and tasks, and get things done
+          fast.
 
 
           **Nick Bonatsakis,** *Velocityraptor.co*
