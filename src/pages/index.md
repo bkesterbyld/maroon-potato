@@ -15,7 +15,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/2020-12-02_20-41-28.png
+    image: images/Picture4.png
     media_position: left
     media_width: fifty
     align: left
