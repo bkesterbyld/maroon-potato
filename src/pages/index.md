@@ -6,8 +6,9 @@ sections:
     subtitle: ''
     content: >-
       Try an easy to use, powerful serverless backend you can setup in minutes.
-      It unifies relational data modeling with a native logic engine to help
-      frontend, mobile and IoT developers be more productive.
+      Our proprietary edge processing technology allows you to serve dynamic,
+      real-time data near users anywhere in the world to meet the response needs
+      of demanding web, mobile and hardware clients.
     actions:
       - label: Try Free
         url: /pricing
