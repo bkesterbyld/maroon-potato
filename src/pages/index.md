@@ -23,11 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: ''
-    subtitle: >-
-      Above is a computing service that eliminates the need for you to sweat
-      databases, app servers, web servers, containers, DevOps and backend QA. We
-      free your brain to focus on client logic, interfaces and other satisfying
-      work.
+    subtitle: ''
     content: >
       ###### Create Experience, Not Infrastructure
 
