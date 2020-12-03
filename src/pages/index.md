@@ -103,7 +103,7 @@ sections:
     title: Solutions
     subtitle: Grid Section Example
     grid_items:
-      - title: Fronte
+      - title: Ecommerce & Product Websites
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
