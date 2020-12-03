@@ -100,11 +100,10 @@ sections:
       - title: IoT Products
         title_align: left
         content: >-
-          IoT project fail 75% of the time because it's technically challenging
-          and costly to fuse remote sensor and corporate data into new
-          customer-facing workflows. Above sits between real-time IoT and
-          corporate data sources to enable creation of automated processes that
-          scale.
+          IoT project fail 75% of the time because it's technically difficult to
+          fuse remote sensor and corporate data into new customer-facing
+          workflows. Above sits between real-time IoT and corporate data sources
+          to enable creation of automated processes that scale.
         content_align: left
         actions: []
         actions_align: left
