@@ -103,7 +103,7 @@ sections:
     title: Solutions
     subtitle: Grid Section Example
     grid_items:
-      - title: Jamstack Ecommerce & Web Apps
+      - title: Fronte
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
