@@ -44,7 +44,7 @@ sections:
         default_value: Please select
         options:
           - I want to join the beta
-          - Sponsorship
+          - I have questions
           - Other
       - input_type: textarea
         name: message
