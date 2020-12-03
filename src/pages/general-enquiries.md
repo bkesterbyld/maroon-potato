@@ -1,5 +1,5 @@
 ---
-title: General enquiries
+title: Beta Signup
 sections:
   - type: hero_section
     title: This is the Hero
