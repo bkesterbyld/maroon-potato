@@ -110,7 +110,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Active Corporate Data Management
+      - title: Active Customer Data Management
         title_align: left
         content: >-
           Siloed customer data across SaaS, marketing, service and social media
