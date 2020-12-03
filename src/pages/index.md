@@ -6,16 +6,14 @@ sections:
     subtitle: ''
     content: >-
       Try an easy to use, powerful serverless backend you can setup in minutes.
-      It unifies relational data modeling with a native logic engine to help
-      frontend, mobile and IoT developers be more productive.
+      Our proprietary edge processing technology allows you to serve dynamic,
+      real-time data anywhere in the world to meet the instant response needs of
+      web, mobile and hardware users.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
-    image: images/screen1ba.png
+    image: images/Picture4.png
     media_position: left
     media_width: fifty
     align: left
@@ -25,11 +23,11 @@ sections:
   - title: ''
     subtitle: ''
     content: >
-      #### Create Experience, Not Infrastructure
+      #### Create Apps, Not Infrastructure
 
-      Above is a computing service that eliminates the need for databases, app
-      servers, web servers, containers, DevOps and backend QA. We free your
-      brain to focus on client logic, interfaces and other satisfying work.
+      Above is a computing experience that replaces databases, code frameworks,
+      app servers, containers, DevOps and backend QA. We free your brain to
+      focus on client logic, interfaces and other satisfying work.
     actions: []
     video_embed_html: ''
     media_position: top
@@ -128,9 +126,9 @@ sections:
         content: >-
           The IoT failure rate is incredibly high at 75% because it's
           technically challenging to fuse product sensor and corporate data
-          together into new workflows. Above can sit between your real-time IoT
-          data and corporate systems to drive business processes—and scale
-          infinitely without technical issues.
+          together into new workflows. Above sits between your real-time IoT and
+          corporate data to enable creation of new, automated processes. And
+          it's infinitely scalable.
         content_align: left
         actions:
           - label: Learn More
@@ -144,13 +142,13 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Real-Time Customer Profiles
+      - title: Customer Data & Privacy
         title_align: left
         content: >-
-          Siloed customer data across SaaS, marketing, service and order systems
-          creates missed revenue opportunities. Above can aggregate disparate
-          data sources into unified customer profiles and run real-time
-          analytics for promotion identification, possible churn and more. 
+          Siloed customer data across SaaS, marketing, service and social media
+          systems creates both missed revenue opportunities and privacy
+          liabilities. Above can aggregate, analyze and manage real-time
+          customer data.
         content_align: left
         actions:
           - label: Learn More
@@ -171,43 +169,23 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
+    title: Feedback
+    subtitle: ''
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: |-
+          This is going to be epic and save me an enormous amount of time
 
-
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
+          **Dick Lucas** *Fullsend.io*
+        image: images/1516637847938.jpg
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          I can work on higher level problems and tasks, and get things done
+          fast.
 
 
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
+          **Nick Bonakis,** *Velocityraptor.co*
+        image: images/0.jpg
         image_position: left
         image_width: twenty-five
     grid_cols: two
@@ -216,13 +194,10 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    title: 'Frontend, Mobile or IoT Developer?'
+    content: We'd love to have you try it out for your side gig or hobby project!
     actions:
-      - label: Learn More
+      - label: Beta Sign Up
         url: /features
         style: secondary
     actions_position: right
@@ -230,87 +205,6 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
-  - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: secondary
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Button
-        url: /pricing
-        style: primary
-    actions_position: right
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
-  - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_align: center
-      - image: images/logo-2.svg
-        image_align: center
-      - image: images/logo-3.svg
-        image_align: center
-      - image: images/logo-4.svg
-        image_align: center
-      - image: images/logo-5.svg
-        image_align: center
-      - image: images/logo-6.svg
-        image_align: center
-      - image: images/logo-7.svg
-        image_align: center
-      - image: images/logo-8.svg
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-  - type: features_section
-    features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
     background_color: primary
 template: advanced
 ---
