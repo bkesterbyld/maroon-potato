@@ -5,9 +5,9 @@ sections:
     title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
-      Create a serverless backend for your app, hardware or website in minutes
+      Create a serverless backend for your app, website or hardware in minutes
       without having to learn anything. Take advantage of edge computing to
-      speed up user interactions, manage massive data sets or comply with
+      speed up user interactions, handle massive data sets or comply with
       privacy laws.
     actions:
       - label: Join the Beta
@@ -99,10 +99,10 @@ sections:
       - title: IoT Products
         title_align: left
         content: >-
-          IoT project fail 75% of the time because it's technically difficult to
-          fuse remote sensor and corporate data into valuable new workflows.
-          Above sits between real-time IoT and corporate data sources to enable
-          creation of automated processes that scale.
+          IoT project fail 75% of the time because it's technically hard to fuse
+          remote sensor and corporate data into valuable new workflows. Above
+          sits between real-time IoT and corporate data sources to create
+          automated processes that scale.
         content_align: left
         actions: []
         actions_align: left
@@ -113,10 +113,10 @@ sections:
       - title: Active Customer Data Management
         title_align: left
         content: >-
-          Siloed customer data across SaaS, marketing, service and other 
-          systems creates both missed revenue opportunities and privacy
-          liabilities. Above can create and act on real-time customer profiles
-          aggregated from far-flung sources, and securely syndicate data sets to
+          Siloed customer data across SaaS, marketing, service and other systems
+          creates both missed revenue opportunities and privacy liabilities.
+          Above can create and act on real-time customer profiles aggregated
+          from far-flung sources, and securely syndicate data sets to
           stakeholders in your company. 
         content_align: left
         actions: []
