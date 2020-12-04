@@ -8,7 +8,7 @@ sections:
       Create a serverless backend for your app, website or hardware in minutes
       without having to learn anything. Take advantage of edge computing to
       speed up user interactions, handle massive data sets or comply with
-      privacy laws.
+      privacy concerns.
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -113,11 +113,10 @@ sections:
       - title: Active Customer Data Management
         title_align: left
         content: >-
-          Siloed customer data across SaaS, marketing, service and other systems
-          creates both missed revenue opportunities and privacy liabilities.
-          Above can create and act on real-time customer profiles aggregated
-          from far-flung sources, and securely syndicate data sets to
-          stakeholders in your company. 
+          Siloed customer data creates both missed revenue opportunities and
+          privacy liabilities. Above can aggregate and act on real-time customer
+          data from far-flung sources. Then it can securely syndicate data sets
+          to business and developer users in your company. 
         content_align: left
         actions: []
         actions_align: left
