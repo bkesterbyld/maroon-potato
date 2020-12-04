@@ -116,7 +116,7 @@ sections:
           Siloed customer data creates both missed revenue opportunities and
           privacy liabilities. Above can aggregate and act on real-time customer
           data from far-flung sources. Then it can securely syndicate data sets
-          to stakeholders and app builders in your company. 
+          to business and developer users in your company. 
         content_align: left
         actions: []
         actions_align: left
