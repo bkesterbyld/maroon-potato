@@ -5,7 +5,7 @@ sections:
     title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
-      Create a serverless backend for your app, hardware or website in minutes
+      Create a serverless backend for your app, website or hardware in minutes
       without having to learn anything. Take advantage of edge computing to
       speed up user interactions, handle massive data sets or comply with
       privacy laws.
