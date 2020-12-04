@@ -7,7 +7,7 @@ sections:
     content: >-
       Create a serverless backend for your app, hardware or website in minutes
       without having to learn anything. Take advantage of edge computing to
-      speed up user interactions, manage massive data sets or comply with
+      speed up user interactions, handle massive data sets or comply with
       privacy laws.
     actions:
       - label: Join the Beta
