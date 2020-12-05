@@ -83,7 +83,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: eCommerce
+      - title: Performant eCommerce
         title_align: left
         content: >-
           Customers abandon ecommerce and product sites that don't respond
@@ -96,27 +96,28 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: IoT Products
+      - title: ERP Mirroring
         title_align: left
         content: >-
-          IoT project fail 75% of the time because it's technically hard to fuse
-          remote sensor and corporate data into valuable new workflows. Above
-          sits between real-time IoT and corporate data sources to create
-          automated processes that scale.
+          Aggregating disparate ERP and corporate data to power new eCommerce
+          and product site features is time consuming and costly. Above provides
+          an easy aggregation and transformation layer that can serve new apps
+          and components quickly.  
         content_align: left
         actions: []
         actions_align: left
-        image: images/Picture2.png
+        image: images/Picture8.png
         image_position: top
         image_align: center
         image_has_padding: true
       - title: Active Customer Data Management
         title_align: left
         content: >-
-          Siloed customer data creates both missed revenue opportunities and
-          privacy liabilities. Above can aggregate and act on real-time customer
-          data from far-flung sources. Then it can securely syndicate data sets
-          to business and developer users in your company. 
+          Siloed customer data across SaaS, marketing, service and other 
+          systems creates both missed revenue opportunities and privacy
+          liabilities. Above can create and act on real-time customer profiles
+          aggregated from far-flung sources, and securely syndicate data sets to
+          stakeholders in your company. 
         content_align: left
         actions: []
         actions_align: left
