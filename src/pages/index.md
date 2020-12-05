@@ -103,7 +103,7 @@ sections:
           Aggregating disparate corporate data to power new eCommerce revenue
           and engagement features is time consuming and costly. Above provides
           an easy ingestion and transformation layer that can serve new apps and
-          components quickly.  
+          page components quickly.  
         content_align: left
         actions: []
         actions_align: left
