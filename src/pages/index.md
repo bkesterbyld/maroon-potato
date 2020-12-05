@@ -96,7 +96,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: IoT Products
+      - title: ERP Mirroring
         title_align: left
         content: >-
           IoT project fail 75% of the time because it's technically hard to fuse
