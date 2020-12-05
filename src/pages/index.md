@@ -99,10 +99,10 @@ sections:
       - title: ERP Mirroring
         title_align: left
         content: >-
-          IoT project fail 75% of the time because it's technically hard to fuse
-          remote sensor and corporate data into valuable new workflows. Above
-          sits between real-time IoT and corporate data sources to create
-          automated processes that scale.
+          Aggregating disparate ERP and corporate systems to build new features
+          and capabilities is hard. Above provides an easy no-code data mapping,
+          transformation and aggregation layer that can serve new apps and
+          components quickly.  
         content_align: left
         actions: []
         actions_align: left
