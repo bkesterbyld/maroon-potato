@@ -107,7 +107,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/Picture9.png
+        image: images/Picture10.png
         image_position: top
         image_align: center
         image_has_padding: true
