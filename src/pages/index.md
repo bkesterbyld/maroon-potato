@@ -100,25 +100,25 @@ sections:
       - title: ERP Mirroring
         title_align: left
         content: >-
-          Aggregating disparate corporate data to power new eCommerce and
-          product site features is time consuming and costly. Above provides an
-          easy aggregation and transformation layer that can serve new apps and
-          components quickly.  
+          Aggregating disparate corporate data to power new eCommerce revenue
+          and engagement features is time consuming and costly. Above provides
+          an easy ingestion and transformation layer that can serve new apps and
+          page components quickly.  
         content_align: left
         actions: []
         actions_align: left
-        image: images/Picture20.png
+        image: images/Picture21.png
         image_position: top
         image_align: center
         image_has_padding: true
       - title: Active Customer Data Management
         title_align: left
         content: >-
-          Siloed customer data across SaaS, marketing, service and other 
-          systems creates both missed revenue opportunities and privacy
-          liabilities. Above can create and act on real-time customer profiles
-          aggregated from far-flung sources, and securely syndicate data sets to
-          stakeholders in your company. 
+          Siloed customer data across systems creates both missed revenue
+          opportunities and privacy liabilities. Above can create and act on
+          real-time customer profiles aggregated from far-flung sources, and
+          securely syndicate data sets to stakeholders and app developers in
+          your company. 
         content_align: left
         actions: []
         actions_align: left
