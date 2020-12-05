@@ -83,7 +83,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: eCommerce
+      - title: Responsi
         title_align: left
         content: >-
           Customers abandon ecommerce and product sites that don't respond
