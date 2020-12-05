@@ -88,7 +88,8 @@ sections:
         content: >-
           Customers abandon ecommerce and product sites that don't respond
           within 1-3 seconds. Above's turnkey backend solution can keep dynamic
-          data flowing on par with the static files served from modern CDNs.
+          data flowing on par with the static files served from modern CDNs for
+          site innovations, upgrades or rebuilds.
         content_align: left
         actions: []
         actions_align: left
@@ -99,14 +100,14 @@ sections:
       - title: ERP Mirroring
         title_align: left
         content: >-
-          Aggregating disparate ERP and corporate data to power new eCommerce
-          and product site features is time consuming and costly. Above provides
-          an easy aggregation and transformation layer that can serve new apps
-          and components quickly.  
+          Aggregating disparate corporate data to power new eCommerce and
+          product site features is time consuming and costly. Above provides an
+          easy aggregation and transformation layer that can serve new apps and
+          components quickly.  
         content_align: left
         actions: []
         actions_align: left
-        image: images/Picture8.png
+        image: images/Picture20.png
         image_position: top
         image_align: center
         image_has_padding: true
