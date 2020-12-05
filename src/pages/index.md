@@ -99,10 +99,10 @@ sections:
       - title: ERP Mirroring
         title_align: left
         content: >-
-          Aggregating disparate ERP and corporate systems to build new features
-          and capabilities is hard. Above provides an easy no-code data mapping,
-          transformation and aggregation layer that can serve new apps and
-          components quickly.  
+          Aggregating disparate ERP and corporate systems to power new eCommerce
+          and product site features is time consuming and costly. Above provides
+          an easy mapping, transformation and aggregation layer that can serve
+          new apps and components quickly.  
         content_align: left
         actions: []
         actions_align: left
