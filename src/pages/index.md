@@ -99,10 +99,9 @@ sections:
       - title: ERP Mirroring
         title_align: left
         content: >-
-          Aggregating disparate corporate data to power new eCommerce revenue
-          and engagement features is time consuming and costly. Above provides
-          an easy ingestion and transformation layer that can serve new apps and
-          page components quickly.  
+          Aggregating disparate corporate data to power new eCommerce  features
+          is time consuming and costly. Above provides an easy ingestion and
+          workflow layer that can serve new apps and page components quickly.  
         content_align: left
         actions: []
         actions_align: left
