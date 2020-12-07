@@ -5,10 +5,10 @@ sections:
     title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
-      Create a serverless backend for your app, website or hardware in minutes
-      without having to learn anything. Take advantage of edge computing to
-      speed up user interactions, handle massive data sets or comply with
-      privacy concerns.
+      Create a serverless backend for your app, hardware or website in minutes
+      without having to learn anything. Take advantage of Above's edge computing
+      features to speed up user interactions, manage massive data sets or comply
+      with privacy laws.
     actions:
       - label: Join the Beta
         url: /general-enquiries
