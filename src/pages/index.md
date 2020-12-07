@@ -112,11 +112,10 @@ sections:
       - title: Active Customer Data Management
         title_align: left
         content: >-
-          Siloed customer data across systems creates both missed revenue
-          opportunities and privacy liabilities. Above can create and act on
-          real-time customer profiles aggregated from far-flung sources, and
-          securely syndicate data sets to stakeholders and app developers in
-          your company. 
+          Siloed customer data creates both missed revenue opportunities and
+          privacy liabilities. Above can create and act on real-time customer
+          profiles aggregated from far-flung sources, while syndicating data
+          sets to stakeholders and developers.
         content_align: left
         actions: []
         actions_align: left
