@@ -100,8 +100,9 @@ sections:
         title_align: left
         content: >-
           Aggregating disparate corporate data to power new eCommerce  features
-          is time consuming and costly. Above provides an easy ingestion and
-          logic layer that can serve new apps and page components quickly.  
+          is time consuming and costly. Above provides an easy data collection
+          and logic layer that can serve new features and page components
+          quickly.  
         content_align: left
         actions: []
         actions_align: left
