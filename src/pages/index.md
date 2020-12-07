@@ -87,9 +87,8 @@ sections:
         title_align: left
         content: >-
           Customers abandon ecommerce and product sites that don't respond
-          within 1-3 seconds. Above's turnkey backend solution can keep dynamic
-          data flowing on par with the static files served from modern CDNs for
-          site innovations, upgrades or rebuilds.
+          within 1-3 seconds. Above's edge processing keeps dynamic data flowing
+          on par with the static files served from modern CDNs.
         content_align: left
         actions: []
         actions_align: left
@@ -100,10 +99,10 @@ sections:
       - title: ERP Mirroring
         title_align: left
         content: >-
-          Aggregating disparate corporate data to power new eCommerce revenue
-          and engagement features is time consuming and costly. Above provides
-          an easy ingestion and transformation layer that can serve new apps and
-          page components quickly.  
+          Aggregating disparate corporate data to power new eCommerce  features
+          is time consuming and costly. Above provides an easy data collection
+          and logic layer that can serve new features and page components
+          quickly.  
         content_align: left
         actions: []
         actions_align: left
@@ -114,11 +113,10 @@ sections:
       - title: Active Customer Data Management
         title_align: left
         content: >-
-          Siloed customer data across systems creates both missed revenue
-          opportunities and privacy liabilities. Above can create and act on
-          real-time customer profiles aggregated from far-flung sources, and
-          securely syndicate data sets to stakeholders and app developers in
-          your company. 
+          Siloed customer data creates both missed revenue opportunities and
+          privacy liabilities. Above can create and act on real-time customer
+          profiles aggregated from far-flung sources, while syndicating data
+          sets to stakeholders and developers.
         content_align: left
         actions: []
         actions_align: left
