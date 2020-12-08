@@ -103,7 +103,8 @@ sections:
         content: >-
           Aggregating disparate corporate data to power new eCommerce  features
           is time consuming and costly. Above provides a virtual backend for
-          frontend developers that syncs with data sources.  
+          developers to build workflow, site features and more above existing
+          silos.
         content_align: left
         actions: []
         actions_align: left
