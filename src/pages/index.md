@@ -98,7 +98,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Systems Mirroring
+      - title: Digital Operations
         title_align: left
         content: >-
           Aggregating disparate corporate data to power new online commerce 
