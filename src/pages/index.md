@@ -63,7 +63,7 @@ sections:
           analytics without having to learn anything. It also offers parallel
           and in-memory processing options for heavy computing challenges.
         actions: []
-        image: images/logicb.png
+        image: images/logic1.png
         media_position: left
         media_width: fourty
       - title: Edge Processing
