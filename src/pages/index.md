@@ -54,7 +54,7 @@ sections:
           service supports typical database fields, can handle files/blobs and
           offers advanced modeling approaches such as nested data structures.
         actions: []
-        image: images/relational-a2.png
+        image: images/relational0.png
         media_position: right
         media_width: fourty
       - title: Powerful Native Logic
