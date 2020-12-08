@@ -101,10 +101,10 @@ sections:
       - title: Digital Operations
         title_align: left
         content: >-
-          Aggregating disparate corporate data to power new online commerce 
-          features is slow and painful. Above provides a virtual backend for
-          developers to build workflow, site features and more that syncs with
-          existing silos.
+          Aggregating disparate corporate data to power new online experiences
+          is slow and painful. Above provides a virtual backend for developers
+          to build workflow, site features and more that syncs with existing
+          SaaS, offline and on premise silos.
         content_align: left
         actions: []
         actions_align: left
