@@ -73,7 +73,7 @@ sections:
           response times to your users. Our active data management technology
           keeps field-level changes replicated across a global cloud network.
         actions: []
-        image: images/frontc2.png
+        image: images/edge0.png
         media_position: right
         media_width: fourty
     feature_padding_vert: large
