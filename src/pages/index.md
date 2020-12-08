@@ -54,7 +54,7 @@ sections:
           service supports typical database fields, can handle files/blobs and
           offers advanced modeling approaches such as nested data structures.
         actions: []
-        image: images/relational1.png
+        image: images/relate1.png
         media_position: right
         media_width: fourty
       - title: Powerful Native Logic
@@ -63,7 +63,7 @@ sections:
           analytics without having to learn anything. It also offers parallel
           and in-memory processing options for heavy computing challenges.
         actions: []
-        image: images/logic1.png
+        image: images/logic040.png
         media_position: left
         media_width: fourty
       - title: Edge Processing
@@ -73,7 +73,7 @@ sections:
           response times to your users. Our active data management technology
           keeps field-level changes replicated across a global cloud network.
         actions: []
-        image: images/edge0.png
+        image: images/edge20.png
         media_position: right
         media_width: fourty
     feature_padding_vert: large
@@ -155,7 +155,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: 'Frontend, Mobile or IoT Developer?'
-    content: We'd love to have you try Above for your side gig or hobby project!
+    content: We'd love to have you try Above for your work or side gig!
     actions:
       - label: Beta Sign Up
         url: /general-enquiries
