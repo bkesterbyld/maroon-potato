@@ -5,8 +5,8 @@ sections:
     title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
-      Create a serverless backend for your app or website in minutes without
-      having to learn anything. Take advantage of Above's edge computing
+      Create a serverless backend for your commerce app or website in minutes
+      without having to learn anything. Take advantage of Above's edge computing
       features to speed up user interactions, manage massive data sets or comply
       with privacy laws.
     actions:
@@ -85,10 +85,10 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Performant eCommerce
+      - title: Performant Frontends
         title_align: left
         content: >-
-          Customers abandon ecommerce and product sites that don't respond
+          Customers abandon ecommerce and B2B product sites that don't respond
           within 1-3 seconds. Above's edge processing keeps dynamic data flowing
           on par with the static files served from modern CDNs.
         content_align: left
@@ -98,13 +98,13 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Systems Mirroring
+      - title: Digital Operations
         title_align: left
         content: >-
-          Aggregating disparate corporate data to power new eCommerce  features
-          is time consuming and costly. Above provides a virtual backend for
-          developers to build workflow, site features and more above existing
-          silos.
+          Aggregating disparate corporate and partner data to power new online
+          experiences is slow and painful. Above provides a virtual backend for
+          developers to build workflow, site features and more that syncs with
+          existing SaaS, offline and on premise silos.
         content_align: left
         actions: []
         actions_align: left
