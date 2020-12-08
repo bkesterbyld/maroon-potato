@@ -85,7 +85,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Performant Commerce
+      - title: Performant Online Commerce
         title_align: left
         content: >-
           Customers abandon ecommerce and product sites that don't respond
