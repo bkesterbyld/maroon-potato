@@ -85,7 +85,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Online Commerce
+      - title: Performant Frontends
         title_align: left
         content: >-
           Customers abandon ecommerce and B2B product sites that don't respond
