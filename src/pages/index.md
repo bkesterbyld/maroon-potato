@@ -155,7 +155,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: 'Frontend, Mobile or IoT Developer?'
-    content: We'd love to have you try Above for your side gig or hobby project!
+    content: We'd love to have you try Above for your work or side gig!
     actions:
       - label: Beta Sign Up
         url: /general-enquiries
