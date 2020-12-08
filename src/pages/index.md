@@ -98,13 +98,12 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: ERP Mirroring
+      - title: Systems Mirroring
         title_align: left
         content: >-
           Aggregating disparate corporate data to power new eCommerce  features
-          is time consuming and costly. Above provides an easy data collection
-          and logic layer that can serve new features and page components
-          quickly.  
+          is time consuming and costly. Above provides a virtual backend for
+          frontend developers that syncs with data sources.  
         content_align: left
         actions: []
         actions_align: left
@@ -118,7 +117,7 @@ sections:
           Siloed customer data creates both missed revenue opportunities and
           privacy liabilities. Above can create and act on real-time customer
           profiles aggregated from far-flung sources and syndicate data to
-          stakeholders, partners and developers.
+          marketing and dev teams.
         content_align: left
         actions: []
         actions_align: left
