@@ -5,8 +5,8 @@ sections:
     title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
-      Create a serverless backend for your app, hardware or website in minutes
-      without having to learn anything. Take advantage of Above's edge computing
+      Create a serverless backend for your app or website in minutes without
+      having to learn anything. Take advantage of Above's edge computing
       features to speed up user interactions, manage massive data sets or comply
       with privacy laws.
     actions:
@@ -54,7 +54,7 @@ sections:
           service supports typical database fields, can handle files/blobs and
           offers advanced modeling approaches such as nested data structures.
         actions: []
-        image: images/relational-a2.png
+        image: images/relational1.png
         media_position: right
         media_width: fourty
       - title: Powerful Native Logic
@@ -63,7 +63,7 @@ sections:
           analytics without having to learn anything. It also offers parallel
           and in-memory processing options for heavy computing challenges.
         actions: []
-        image: images/logicb.png
+        image: images/logic1.png
         media_position: left
         media_width: fourty
       - title: Edge Processing
@@ -73,7 +73,7 @@ sections:
           response times to your users. Our active data management technology
           keeps field-level changes replicated across a global cloud network.
         actions: []
-        image: images/frontc2.png
+        image: images/edge0.png
         media_position: right
         media_width: fourty
     feature_padding_vert: large
