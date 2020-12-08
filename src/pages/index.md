@@ -98,7 +98,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: ERP Mirroring
+      - title: Backbone Systems Mirroring
         title_align: left
         content: >-
           Aggregating disparate corporate data to power new eCommerce  features
