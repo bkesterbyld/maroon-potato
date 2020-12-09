@@ -112,7 +112,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Customer Data Profiles
+      - title: 360 Customer Profiles
         title_align: left
         content: >-
           Siloed customer data creates both missed revenue opportunities and
