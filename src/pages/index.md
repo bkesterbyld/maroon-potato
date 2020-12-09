@@ -103,8 +103,8 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new online
           experiences is slow and painful. Above provides a virtual backend for
-          developers to build workflow, site features and more that syncs with
-          existing SaaS, offline and on premise silos.
+          developers to build workflow, site features and more that actively
+          manages and reconciles data with existing sources.
         content_align: left
         actions: []
         actions_align: left
