@@ -10,7 +10,7 @@ sections:
     features:
       - title: Performant Frontends
         subtitle: Create new features fast and put a full backend close to users
-        content: >-
+        content: >+
           Above helps you get data **and** processing next to your users without
           deploying databases, writing centralized code or calling cloud
           functions that have performance limits. You can deploy full backend
@@ -30,6 +30,7 @@ sections:
           intense real-time calculations, AI or ML. In many extreme use cases,
           Above is a more powerful toolset to manage, shape and serve data than
           any custom backend. Best of all, it doesn't ask you to learn anything.
+
         image: images/PerformantFrontend.png
         media_position: right
         media_width: fifty
