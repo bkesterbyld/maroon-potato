@@ -44,6 +44,7 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: fifty
+        image: images/aggregation.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
