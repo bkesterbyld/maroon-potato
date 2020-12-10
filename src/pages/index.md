@@ -7,7 +7,7 @@ sections:
     content: >-
       Create a serverless backend for your commerce app or website in minutes
       without having to learn anything. Take advantage of Above's edge computing
-      features to speed up user interactions, manage massive data sets or comply
+      features to speed up user interactions, process massive loads or comply
       with privacy laws.
     actions:
       - label: Join the Beta
