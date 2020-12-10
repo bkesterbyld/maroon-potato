@@ -89,8 +89,9 @@ sections:
         title_align: left
         content: >-
           Customers abandon ecommerce and B2B product sites that don't respond
-          within 1-3 seconds. Above's edge processing keeps dynamic data flowing
-          on par with the static files served from modern CDNs.
+          within 1-3 seconds. Get a virtual backend running fast for new
+          features and leverage edge processing to keep dynamic data flowing on
+          par with the static files served from modern CDNs.
         content_align: left
         actions: []
         actions_align: left
