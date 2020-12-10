@@ -113,19 +113,6 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: 360° Customer Profiles
-        title_align: left
-        content: >-
-          Siloed customer data leads to missed revenue opportunities and privacy
-          liabilities. Above enables real-time customer profiles from far-flung
-          sources for use by devs, marketers and data scientists.
-        content_align: left
-        actions: []
-        actions_align: left
-        image: images/Picture3.png
-        image_position: top
-        image_align: center
-        image_has_padding: true
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
