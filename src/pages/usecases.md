@@ -60,7 +60,7 @@ sections:
         media_width: sixty
         image: images/aggregation.png
   - type: cta_section
-    title: This is a Call to ActionHav
+    title: 'More Questions? Check out '
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
