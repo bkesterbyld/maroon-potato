@@ -82,7 +82,7 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: Solutions
+    title: Use Cases
     subtitle: ''
     grid_items:
       - title: Performant Frontends
