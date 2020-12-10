@@ -14,7 +14,7 @@ sections:
 
       We'd love to help you with some pet project or anything you can think of.
       In exchange for your use and feedback we'll put you on our swag list (when
-      we have enough of it) and anything you build up to 500,000 rows of data
+      we have enough of it) and anything you build up to 250,000 rows of data
       you can keep running forever, no charge. 
 
       ### Privacy
