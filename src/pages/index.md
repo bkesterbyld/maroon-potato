@@ -103,9 +103,9 @@ sections:
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new online
-          experiences is slow and painful. Above provides an aggregation
-          environment to create reusable master data sets that can be replicated
-          to frontend teams, marketers, and agencies.
+          experiences is slow and painful. Above provides an easy environment to
+          create and manipulate reusable master data sets that can be replicated
+          to internal and external stakeholders.
         content_align: left
         actions: []
         actions_align: left
