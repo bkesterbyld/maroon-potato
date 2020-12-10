@@ -3,7 +3,7 @@ title: Features
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Explore Features
+    title: Use Cases
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
