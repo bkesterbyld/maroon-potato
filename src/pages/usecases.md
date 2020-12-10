@@ -13,7 +13,16 @@ sections:
         content: >-
           Above helps you get data **and** processing next to your users without
           deploying databases, writing code or calling cloud functions that have
-          limitations. 
+          limitations. You can deploy full backend functionality next to your
+          users, while keeping copies synced globally without massive data
+          transfers. Above does this with Active Data Management technology that
+          detects field-level changes in data sets and replicates only changed
+          data. Because it's no code and easy to use, it enables you to create
+          an autonomous global processing network that is extremley easy to
+          maintain and extend.
+
+
+          Because 
         image: images/PerformantFrontend.png
         media_position: right
         media_width: fifty
