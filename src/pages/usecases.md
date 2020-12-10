@@ -33,7 +33,7 @@ sections:
 
         image: images/PerformantFrontend.png
         media_position: right
-        media_width: fifty
+        media_width: sixty
       - title: Digital Operations Environment
         subtitle: >-
           Create real-time, global inventory and customer views accessible to
