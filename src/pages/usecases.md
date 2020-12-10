@@ -60,7 +60,7 @@ sections:
         media_width: sixty
         image: images/aggregation.png
   - type: cta_section
-    title: 'More Questions? Check out '
+    title: More questions? Check our our FAQ
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
