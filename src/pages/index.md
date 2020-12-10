@@ -116,9 +116,9 @@ sections:
       - title: 360° Customer Profiles
         title_align: left
         content: >-
-          Siloed customer data creates both missed revenue opportunities and
-          privacy liabilities. Create real-time customer profiles from far-flung
-          sources and securely syndicate to other team members and stakeholders.
+          Siloed customer data leads to missed revenue opportunities and privacy
+          liabilities. Above enables real-time customer profiles from far-flung
+          sources for use by devs, marketers and data scientists.
         content_align: left
         actions: []
         actions_align: left
