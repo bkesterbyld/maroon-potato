@@ -104,8 +104,8 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new online
           experiences is slow and painful. Above provides an easy environment to
-          create and manipulate reusable master data sets that can be replicated
-          to internal and external stakeholders.
+          create and manipulate master data sets that can spawn unique views to
+          internal and external techincal and business users.
         content_align: left
         actions: []
         actions_align: left
