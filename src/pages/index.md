@@ -103,9 +103,9 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new online
           experiences is slow and painful. Above provides an aggregation and
-          analytics environment to assemble reusable data sets that can be
-          securely replicated and syndicated to frontend teams, agencies and
-          data scientists.
+          analytics environment to assemble reusable master data sets that can
+          be securely replicated and syndicated to frontend teams, product
+          managers, agencies and data scientists.
         content_align: left
         actions: []
         actions_align: left
