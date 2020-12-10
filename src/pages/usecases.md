@@ -49,7 +49,7 @@ sections:
 
 
           Once in Above's environment, you can create new aggregations and views
-          of that data, run analytics and syndicate syncrhonized copies out to
+          of that data, run analytics and syndicate synchronized copies out to
           other teammates, colleagues and partner. You set the logic and rules
           for how data gets updated and synced all without coding. And
           businesspeople can login to view data, or subsets of data in a
