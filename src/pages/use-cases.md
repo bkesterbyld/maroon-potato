@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Use Cases
 excerpt: lorem-ipsum
 template: page
 ---
