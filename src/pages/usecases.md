@@ -11,9 +11,9 @@ sections:
       - title: Performant Frontends
         subtitle: Create new features fast and put the processing next to users
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Above helps you get data **and** processing next to your users without
+          deploying databases, writing code or calling cloud functions that have
+          limitations. 
         image: images/PerformantFrontend.png
         media_position: right
         media_width: fifty
