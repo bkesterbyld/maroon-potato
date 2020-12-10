@@ -61,7 +61,7 @@ sections:
         image: images/aggregation.png
   - type: cta_section
     title: More questions? Check our our FAQ.
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: ''
     actions:
       - label: Compare Plans
         url: /pricing
