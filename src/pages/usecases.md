@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Performant Frontends
-        subtitle: ''
+        subtitle: Create new features fast and put th
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
