@@ -4,7 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: Use Cases
-    subtitle: Features Page Demo
+    subtitle: Welcome to Distributed Computing
     background_color: primary
   - type: features_section
     features:
