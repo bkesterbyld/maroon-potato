@@ -37,7 +37,7 @@ sections:
       - title: Digital Operations Environment
         subtitle: >-
           Create real-time, global inventory and customer and corporate data
-          views accessible to key sta
+          views accessible to key stakeholders
         content: >-
           Need inventory, customer or other corporate data to get your project
           done? With Above, you can create master data models that mirror what's
