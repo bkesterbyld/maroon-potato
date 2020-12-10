@@ -12,25 +12,24 @@ sections:
         subtitle: Create new features fast and put the processing next to users
         content: >-
           Above helps you get data **and** processing next to your users without
-          deploying databases, writing code that runs in a single location or
-          calling cloud functions that are limited and might execute from
-          anywhere. You can deploy full backend functionality next to your
-          users, while keeping copies synced globally without massive data
-          transfers. Above does this with Active Data Management technology that
-          detects field-level changes in data sets and replicates only changed
-          data. Because it's no code and easy to use, it enables you to create
-          an autonomous global processing network that is extremley easy to
-          maintain and extend.
+          deploying databases, writing centralized code or calling cloud
+          functions that have performance limits. You can deploy full backend
+          functionality next to your users, while keeping copies synced globally
+          without massive data transfers. Above does this with Active Data
+          Management technology that detects field-level changes in data sets
+          from native logic, replicating only changed data. Because the service
+          is no code, it enables you to create an autonomous global processing
+          network that is extremley easy to maintain and extend.
 
 
-          Above couples this distribution capability with powerful, advanced
-          computing options to assure high levels of performance to local users.
-          You can put any data set into memory to handle high loads or high
+          Above couples this global processing with powerful, advanced computing
+          options to assure high levels of performance to local users. You can
+          put any data set into memory to handle high loads or high
           transactional throughput. You can break massive data sets down to
           execute parallel processing for either load management or to run
-          intense real-time calculations, AI or ML. In any case, Above is a
-          powerful toolset to manage, shape and serve your data for utmost
-          client responsiveness. 
+          intense real-time calculations, AI or ML. In many extreme use cases,
+          Above is a more powerful toolset to manage, shape and serve data than
+          any custom backend. Best of all, it doesn't ask you to learn anything.
         image: images/PerformantFrontend.png
         media_position: right
         media_width: fifty
