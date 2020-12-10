@@ -16,10 +16,10 @@ sections:
           functions that have performance limits. You can deploy full backend
           functionality next to your users, while keeping copies synced globally
           without massive data transfers. Above does this with Active Data
-          Management technology that detects field-level changes in data sets
-          from native logic, replicating only changed data. Because the service
-          is no code, it enables you to create an autonomous global processing
-          network that is extremley easy to maintain and extend.
+          Management technology that detects field-level changes in data sets,
+          replicating only the changes. Because the service is no code, it
+          enables you to create an autonomous global processing network that is
+          extremley easy to maintain and extend.
 
 
           Above couples this global processing with powerful, advanced computing
