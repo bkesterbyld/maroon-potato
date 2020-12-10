@@ -99,7 +99,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Real-Time Inventory & Customer Views
+      - title: Digital Operations Environment
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new online
