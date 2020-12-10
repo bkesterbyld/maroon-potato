@@ -63,7 +63,7 @@ sections:
     title: More questions? Check our our FAQ.
     content: ''
     actions:
-      - label: Compare Plans
+      - label: Go to FAQ
         url: /pricing
         style: primary
     actions_position: right
