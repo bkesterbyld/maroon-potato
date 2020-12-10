@@ -44,7 +44,7 @@ sections:
           fringilla, fringilla.
         video_embed_html: ''
         media_position: left
-        media_width: fifty
+        media_width: fourty
         image: images/aggregation.png
   - type: grid_section
     title: Cards Section
