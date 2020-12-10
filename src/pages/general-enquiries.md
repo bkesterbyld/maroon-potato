@@ -3,7 +3,7 @@ title: Above - Beta Signup
 sections:
   - type: hero_section
     title: Be a part of our beta
-    subtitle: Coming in Q1 2021
+    subtitle: Coming in 2021
     align: center
     padding_top: medium
     padding_bottom: medium
