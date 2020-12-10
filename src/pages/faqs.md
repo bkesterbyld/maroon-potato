@@ -3,7 +3,7 @@ title: Pricing
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: FAQs
     subtitle: Optional hero section subtitle
     align: center
     padding_top: large
