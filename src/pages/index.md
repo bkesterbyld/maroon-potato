@@ -78,7 +78,7 @@ sections:
         image: images/edge20.png
         media_position: right
         media_width: fourty
-      - title: In-Memory & Parallel Processing
+      - title: ''
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
