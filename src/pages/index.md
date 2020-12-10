@@ -99,13 +99,13 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Digital Operations
+      - title: Digital Ops Environment
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new online
-          experiences is slow and painful. Above provides an aggregation
-          environment to create reusable master data sets that can be replicated
-          to frontend teams, marketers, agencies and data scientists.
+          experiences is slow and painful. Above provides an easy environment to
+          create and manipulate reusable master data sets that can be replicated
+          to internal and external stakeholders.
         content_align: left
         actions: []
         actions_align: left
@@ -116,10 +116,9 @@ sections:
       - title: 360° Customer Profiles
         title_align: left
         content: >-
-          Siloed customer data creates both missed revenue opportunities and
-          privacy liabilities. Above can create and act on real-time customer
-          profiles aggregated from far-flung sources and securely syndicate to
-          stakeholders.
+          Siloed customer data leads to missed revenue opportunities and privacy
+          liabilities. Above enables real-time customer profiles from far-flung
+          sources for use by devs, marketers and data scientists.
         content_align: left
         actions: []
         actions_align: left
