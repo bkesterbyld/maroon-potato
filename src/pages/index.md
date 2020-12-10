@@ -104,8 +104,8 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new online
           experiences is slow and painful. Above provides an easy environment to
-          create and manipulate master data sets that can spawn unique views to
-          internal and external techincal and business users.
+          create, manipulate and analyze master data sets that can spawn unique
+          real-time views to internal and external techincal and business users.
         content_align: left
         actions: []
         actions_align: left
