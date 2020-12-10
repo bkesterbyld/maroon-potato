@@ -102,9 +102,9 @@ sections:
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new online
-          experiences is slow and painful. Above provides a virtual backend for
-          developers to build workflow, site features and more that actively
-          manages and reconciles data with existing sources.
+          experiences is slow and painful. Above provides an aggregation and
+          analytics environment to assemble reusable data sets for that can be
+          securely syndicated to teams, agencies and data scientists.
         content_align: left
         actions: []
         actions_align: left
