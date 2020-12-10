@@ -10,7 +10,7 @@ sections:
     background_color: none
   - type: form_section
     content: >-
-      ### It's Free
+      ### Free Cyber and Real Stuff
 
       We'd love to help you with some pet project or anything you can think of.
       In exchange for your use and feedback we'll put you on our swag list (when
