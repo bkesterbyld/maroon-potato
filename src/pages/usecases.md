@@ -33,7 +33,7 @@ sections:
         image: images/PerformantFrontend.png
         media_position: right
         media_width: fifty
-      - title: Dig
+      - title: Digital Operations Environment
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
