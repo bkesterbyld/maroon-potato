@@ -117,9 +117,8 @@ sections:
         title_align: left
         content: >-
           Siloed customer data creates both missed revenue opportunities and
-          privacy liabilities. Above can create and act on real-time customer
-          profiles aggregated from far-flung sources and securely syndicate to
-          stakeholders.
+          privacy liabilities. Create real-time customer profiles from far-flung
+          sources and securely syndicate to other team members and stakeholders.
         content_align: left
         actions: []
         actions_align: left
