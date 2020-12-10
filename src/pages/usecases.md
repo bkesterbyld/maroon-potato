@@ -48,12 +48,13 @@ sections:
           as needed, without coding. 
 
 
-          That's where things get fun. One in Above, you can create new
+          That's where things get fun. Once in Above, you can create new
           aggregations and views of that data, run analytics and syndicate
           copies out to other teammates, colleagues and partner. You set the
-          logic and rules for how data gets updated, all without coding. And
-          businesspeople can login to view data, or subsets of data in a
-          read-only mode, greatly helping with requirements collaboration.  
+          logic and rules for how data gets updated and synced all without
+          coding. And businesspeople can login to view data, or subsets of data
+          in a read-only mode, greatly helping with requirements collaboration,
+          and reducing everyone's workload.
         video_embed_html: ''
         media_position: left
         media_width: sixty
