@@ -104,9 +104,9 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new online
           experiences is slow and painful. Above provides an aggregation
-          environment to create reusable master data backends that can be
-          replicated and modified by frontend teams, marketers, agencies and
-          data scientists.
+          environment to create reusable master data sets that can be replicated
+          and enhanced by frontend teams, marketers, agencies and data
+          scientists.
         content_align: left
         actions: []
         actions_align: left
