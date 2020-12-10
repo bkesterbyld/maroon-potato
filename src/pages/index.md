@@ -103,9 +103,9 @@ sections:
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new online
-          experiences is slow and painful. Above provides an easy environment to
-          create, manipulate and analyze master data sets that can spawn unique
-          real-time views to internal and external techincal and business users.
+          experiences is slow and painful. Above provides a no code environment
+          to create, manipulate and analyze master data sets that can spawn
+          unique real-time views to stakeholders.
         content_align: left
         actions: []
         actions_align: left
