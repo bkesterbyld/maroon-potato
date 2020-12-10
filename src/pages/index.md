@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'No Code, Modern Backend API'
+    title: 'No Code, Distribug Backend API'
     subtitle: ''
     content: >-
       Create a serverless backend for your commerce app or website in minutes
