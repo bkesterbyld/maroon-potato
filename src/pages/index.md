@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'No Code, Distributed Backend API'
+    title: 'No Code, Modern Backend API'
     subtitle: ''
     content: >-
       Create a serverless backend for your commerce app or website in minutes
       without having to learn anything. Take advantage of Above's edge computing
-      features to speed up user interactions, manage massive data sets or comply
+      features to speed up user interactions, process massive loads or comply
       with privacy laws.
     actions:
       - label: Join the Beta
@@ -89,8 +89,9 @@ sections:
         title_align: left
         content: >-
           Customers abandon ecommerce and B2B product sites that don't respond
-          within 1-3 seconds. Above's edge processing keeps dynamic data flowing
-          on par with the static files served from modern CDNs.
+          within 1-3 seconds. Above's in-memory compute and edge processing keep
+          dynamic data flowing on par with the static files served from modern
+          CDNs.
         content_align: left
         actions: []
         actions_align: left
@@ -102,9 +103,9 @@ sections:
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new online
-          experiences is slow and painful. Above provides a virtual backend for
-          developers to build workflow, site features and more that actively
-          manages and reconciles data with existing sources.
+          experiences is slow and painful. Above provides an aggregation
+          environment to create reusable master data sets that can be replicated
+          to frontend teams, marketers, agencies and data scientists.
         content_align: left
         actions: []
         actions_align: left
@@ -112,13 +113,13 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: 360 Customer Profiles
+      - title: 360° Customer Profiles
         title_align: left
         content: >-
           Siloed customer data creates both missed revenue opportunities and
           privacy liabilities. Above can create and act on real-time customer
-          profiles aggregated from far-flung sources and syndicate data to
-          marketing, sales, data scientists and developers.
+          profiles aggregated from far-flung sources and securely syndicate to
+          stakeholders.
         content_align: left
         actions: []
         actions_align: left
