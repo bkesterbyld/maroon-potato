@@ -40,7 +40,8 @@ sections:
           from Above into your database of choice via the API. Within Above,
           you'll know where your data is stored in terms of cloud provider and
           location—so in many cases you do the transfer without incurring
-          bandwidth egress charges from your provider.
+          bandwidth egress charges from your provider. We anticipate adding
+          robust data migration services via vendor partners as we grow. 
       - title: What are parallel and in-memory processing?
         content: >-
           Parallel and in-memory processing are two techniques to handle high
