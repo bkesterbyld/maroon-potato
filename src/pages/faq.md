@@ -56,15 +56,13 @@ sections:
           or assemble reports. They can also be called from the API to execute
           their mission(s). When agents are combined with Above's data modeling
           and processing options, developers can move beyond CRUD and workflow
-          to execute performant real-time analytics across massive datasets. The
-          service will generate a schematic of the logic built to aid teams in
-          understanding how any given solution works, which is much easier than
-          tracing someone's hardcode. 
+          to execute performant real-time analytics across massive datasets. 
 
 
           While we obviously are big believers in the convenience and power of
           this approach, we do plan to support sandboxed execution of JS and
-          other scripts/languages as we grow. 
+          other scripts/languages as we grow, and also allow you to call Lambdas
+          or Cloudflare workers as needed.
       - title: How do I avoid lock-in?
         content: >-
           We run at many of the cloud providers and locations that you may
