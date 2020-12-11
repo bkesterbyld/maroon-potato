@@ -23,9 +23,13 @@ sections:
     grid_items:
       - title: Are you a database company?
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          No. Above is a service that runs above mature SQL, NoSQL and Object
+          storage technologies across cloud providers. Above's underlying
+          technology is an abstraction layer that brings physical storage
+          together with a virtualized data modeling and logic. Because we use
+          proven technologies, Above is safe, reliable and predictable. Also,
+          since we don't have to develop a database, we stay focused on bringing
+          you new features such as data warehousing (in our future). 
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
