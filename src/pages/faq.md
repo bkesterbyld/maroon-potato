@@ -90,10 +90,10 @@ sections:
           backend developer might normally hardcode. Agents can call each other
           to perform tasks and work in a group to accomplish objectives. They
           run in real-time based on events and data changes, or can operate on a
-          timer to do periodic checks of assemble reports. They can also be
+          timer to do periodic processing or assemble reports. They can also be
           called from the API to execute their mission(s). When agents are
-          combined with Above's data modeling and processing options, you can
-          move beyond CRUD and workflow to execute performant real-time
+          combined with Above's data modeling and processing options, developers
+          can move beyond CRUD and workflow to execute performant real-time
           analytics across massive datasets.
 
 
