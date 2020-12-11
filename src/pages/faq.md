@@ -62,8 +62,8 @@ sections:
 
 
           Parallel processing is important for manipulating large data sets and
-          getting a performant response. The approach is to break data sets into
-          pieces and use syncrhonous logic to achieve some CRUD result faster,
+          getting a quick response. The approach is to break data sets into
+          pieces and use synchronous logic to achieve some CRUD result faster,
           or transform some data set into higher level analytics without waiting
           hours or a day.
 
@@ -72,13 +72,13 @@ sections:
           throughput operations and calculations—where speed is essential or you
           are trying to do a simulataneous operations on many large, massive,
           disparate data sets. By putting data into memory, you can do
-          calculations in nanosecond timeframes while  avoiding physical
-          database contention, CPU racing and other nasty computer science
-          problems. 
+          calculations in nanosecond timeframes while avoiding physical database
+          read/write issues.
 
 
-          With Above's approach, you can mix standard, edge, parallel and
-          in-memory processing in the right ratios for your use case and budget.
+          With Above's approach, you can architect standard, edge, parallel and
+          in-memory processing in the right ratios for your use case and
+          budget—we turn frontend developers into backend wizards.
       - title: How does the logic work? Can I code my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
