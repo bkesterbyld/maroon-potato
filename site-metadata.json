@@ -9,7 +9,18 @@
         "title": "",
         "logo": "images/abovecorp.png",
         "has_primary_nav": true,
-        "primary_nav_links": [],
+        "primary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
+            }
+        ],
         "has_secondary_nav": false,
         "secondary_nav_links": [
             {
