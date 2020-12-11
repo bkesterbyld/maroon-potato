@@ -96,7 +96,7 @@ sections:
 
       - dolor sit amet
     actions: []
-    actions_position: bottom
+    actions_position: right
     actions_width: fourty
     align: left
     padding_top: medium
