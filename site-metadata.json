@@ -13,7 +13,7 @@
             {
                 "label": "Use Cases",
                 "url": "/usecases",
-                "style": "secondary",
+                "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
@@ -23,7 +23,7 @@
             {
                 "label": "FAQ",
                 "url": "/faq",
-                "style": "secondary",
+                "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",

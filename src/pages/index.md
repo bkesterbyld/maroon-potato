@@ -24,11 +24,11 @@ sections:
   - title: ''
     subtitle: ''
     content: >
-      #### Create Apps, Not Infrastructure
+      #### Create Experiences, Not Infrastructure
 
-      Above is a computing experience that replaces databases, backend
-      frameworks, app servers, containers, DevOps and backend QA. We free your
-      brain to focus on client logic, interfaces and satisfying work.
+      Above is a computing service that replaces databases, backend frameworks,
+      app servers, containers, DevOps and backend QA. We free your brain to
+      focus on client logic, experiences and satisfying work.
     actions: []
     video_embed_html: ''
     media_position: top
