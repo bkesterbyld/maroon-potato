@@ -39,22 +39,21 @@ sections:
           Setup real-time global inventory, customer and corporate data views
           for key stakeholders
         content: >-
-          Need inventory, customer or other corporate data to get your project
-          done? With Above, you can create master data models that mirror what's
-          in your big iron, SaaS, ERP, WMS, POS, CRM and other systems. These
-          master data sets can be populated through connectors, integration
-          services or by pushing the data into Above's API. Then you can build
-          data normalization, cleansing and transformation logic as needed,
-          without coding. 
+          Need inventory, customer or other corporate data to get your feature
+          or project done? With Above, you can create data models that mirror
+          what's in your big iron, SaaS, ERP, WMS, POS, CRM and other systems.
+          These master data sets can be populated through connectors,
+          integration services or by pushing the data into Above's API. Then you
+          can build data normalization, cleansing and transformation logic as
+          needed, without coding. 
 
 
           Once in Above's environment, you can create new aggregations and views
           of that data, run analytics and syndicate synchronized copies out to
           other teammates, colleagues and partner. You set the logic and rules
           for how data gets updated and synced, all without coding.
-          Businesspeople can login to view data, or subsets of data in a
-          read-only mode—greatly helping with requirements collaboration and
-          project efficiency.
+          Businesspeople can login to view data in a read-only mode—speedping up
+          requirements lock and the project timeline.
         video_embed_html: ''
         media_position: left
         media_width: sixty
