@@ -55,7 +55,7 @@ sections:
           into memory, you can do calculations in nanosecond timeframes while
           also avoiding physical database contention, CPU racing and other nasty
           computer science problems. 
-      - title: How does the logic work? Can I use my own?
+      - title: How does the logic work? Can I code my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
           ](https://en.wikipedia.org/wiki/Control_flow)principles. The approach
