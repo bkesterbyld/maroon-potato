@@ -33,7 +33,7 @@
             {
                 "label": "Beta Signup",
                 "url": "/general-enquiries",
-                "style": "primary",
+                "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
