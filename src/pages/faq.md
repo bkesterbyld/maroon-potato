@@ -71,11 +71,6 @@ sections:
           datasets. While we obviously are big believers in the convenience and
           power of this approach, we do plan to support sandboxed execution of
           JS and other scripts/languages as we grow. 
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
