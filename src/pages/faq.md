@@ -54,10 +54,10 @@ sections:
           some data set into higher level analytics without waiting hours or a
           day. In-memory processing, on the other hand, is extremely useful for
           high throughput operations and calculations where either speed is
-          essential or concurrency becomes a real problem. By putting data sets
-          into memory, you can do calculations in nanosecond timeframes while 
-          avoiding physical database contention, CPU racing and other nasty
-          computer science problems. 
+          essential or concurrency becomes a blocking problem. By putting data
+          sets into memory, you can do calculations in nanosecond timeframes
+          while  avoiding physical database contention, CPU racing and other
+          nasty computer science problems. 
       - title: How does the logic work? Can I code my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
