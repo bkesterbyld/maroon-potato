@@ -83,7 +83,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Signup for the beta!
     content: |+
       We'd love to have you try Above for your work or side gig!
 
