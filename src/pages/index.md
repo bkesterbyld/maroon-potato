@@ -107,7 +107,15 @@ sections:
           to create, manipulate and analyze master data sets that can spawn
           unique real-time views to stakeholders.
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            type: action
         actions_align: left
         image: images/Picture21.png
         image_position: top
