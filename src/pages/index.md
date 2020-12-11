@@ -5,7 +5,7 @@ sections:
     title: 'No Code, Distributed Data Management API'
     subtitle: ''
     content: >-
-      Create a serverless backend for your app or website in minutes without
+      Create a data and logic API for your app or website in minutes without
       having to learn anything. Take advantage of Above's edge, parallel and
       in-memory computing features to speed up user interactions and quickly
       process real-time, disparate data sets.
