@@ -88,7 +88,7 @@ sections:
       We'd love to have you try Above for your work or side gig!
 
     actions:
-      - label: Beta
+      - label: Beta si
         url: lorem-ipsum
         style: link
         has_icon: false
