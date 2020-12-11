@@ -60,9 +60,9 @@ sections:
       - title: Powerful Native Logic
         content: >-
           Above's [control flow
-          logic](https://en.wikipedia.org/wiki/Control_flow) allows you to
-          implement CRUD, workflow and analytics without having to learn
-          anything. It also offers [parallel and in-memory processing
+          logic](https://en.wikipedia.org/wiki/Control_flow) enables CRUD,
+          workflow and analytics without having to learn anything. It pairs with
+          [parallel and in-memory processing
           options](https://www.abovecomp.com/faq) for heavy computing
           challenges.
         actions: []
