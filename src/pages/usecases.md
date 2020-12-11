@@ -64,7 +64,7 @@ sections:
     content: ''
     actions:
       - label: Go to FAQ
-        url: /pricing
+        url: /faw
         style: primary
     actions_position: right
     align: left
