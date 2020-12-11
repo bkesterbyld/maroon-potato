@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Use Cases",
-                "url": "lorem-ipsum",
+                "url": "/usecases",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
