@@ -32,9 +32,12 @@ sections:
           you new features such as data warehousing (in our future). 
       - title: How do I avoid lock-in?
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          We run at many of the cloud providers and locations that you may
+          already be running traditional infrastructure at. You can extract data
+          from Above into your database of choice via the API. Within Above,
+          you'll know where your data is stored in terms of cloud provider and
+          location—so in many cases you do the transfer without incurring
+          bandwidth egress charges from your provider.
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
