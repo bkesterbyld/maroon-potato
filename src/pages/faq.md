@@ -80,9 +80,9 @@ sections:
       - title: How does the logic work? Can I code my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
-          ](https://en.wikipedia.org/wiki/Control_flow)principles. The approach
-          is to assemble independent logic agents that operate across a global
-          network of data sets.
+          ](https://en.wikipedia.org/wiki/Control_flow)principles. However, our
+          approach is to assemble independent logic agents that operate across a
+          global network of data sets.
 
 
           Agents are comprised of commands and actions similar to statements a
