@@ -48,8 +48,8 @@ sections:
 
 
           Within Above, you'll know where your data is stored in terms of cloud
-          provider and location—so in many cases you do the transfer without
-          incurring bandwidth egress charges from your provider. 
+          provider and location—so in many cases there are no bandwidth egress
+          charges from your provider. 
 
 
           We anticipate adding robust data migration services via vendor
