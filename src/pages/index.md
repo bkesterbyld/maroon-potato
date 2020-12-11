@@ -111,9 +111,9 @@ sections:
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new projects
-          is slow and painful. Above provides a no code environment to get
-          structured, unstructured and object data into one place, manipulate it
-          and then share synced copies to stakeholders.
+          is slow and painful. Above provides a no code environment to customer,
+          marketing, inventory and other data into one place, manipulate it and
+          then share synced copies to stakeholders.
         content_align: left
         actions:
           - label: Learn More
