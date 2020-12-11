@@ -102,7 +102,7 @@ sections:
           in-memory processing in the right ratios for your use case, goals and
           budget.
       - title: How much does this cost?
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           ## Lorem ipsum
