@@ -52,7 +52,7 @@ sections:
           into memory, you can do calculations in nanosecond timeframes while
           also avoiding physical database contention, CPU racing and other nasty
           computer science problems. 
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+      - title: How does the logic work? Can I use my own?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
