@@ -30,7 +30,7 @@ sections:
           proven technologies, Above is safe, reliable and predictable. Also,
           since we don't have to develop a database, we stay focused on bringing
           you new features such as data warehousing (in our future). 
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: How do I avoid lock-in?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
