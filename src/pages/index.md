@@ -90,9 +90,9 @@ sections:
         title_align: left
         content: >-
           Customers abandon ecommerce and B2B product sites that don't respond
-          within 1-3 seconds. Above's in-memory compute and edge processing can
-          keep your new dynamic features flowing on par with the static files
-          served from modern CDNs.
+          within 1-3 seconds. Above's in-memory compute and edge processing
+          keeps dynamic data flowing on par with the static files served from
+          modern CDNs.
         content_align: left
         actions:
           - label: Learn More
