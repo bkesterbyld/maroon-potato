@@ -19,7 +19,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: 'Learn About '
+    title: About Above Computing
     grid_items:
       - title: Are you a database company?
         content: >-
