@@ -65,7 +65,7 @@ sections:
     actions:
       - label: Go to FAQ
         url: /faq
-        style: primary
+        style: secondary
     actions_position: right
     align: left
     padding_top: medium
