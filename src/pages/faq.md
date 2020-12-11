@@ -23,7 +23,9 @@ sections:
     grid_items:
       - title: Are you a database company?
         content: >-
-          No. Above is a service that runs above mature SQL, NoSQL and Object
+          **No.**
+
+          Above is a service that runs above mature SQL, NoSQL and Object
           storage technologies across cloud providers. Above's underlying
           technology is an abstraction layer that brings physical distributed
           servers together with virtualized data modeling and logic technology
