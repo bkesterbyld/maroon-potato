@@ -55,8 +55,8 @@ sections:
           day. In-memory processing, on the other hand, is extremely useful for
           high throughput operations and calculations where either speed is
           essential or concurrency becomes a real problem. By putting data sets
-          into memory, you can do calculations in nanosecond timeframes while
-          also avoiding physical database contention, CPU racing and other nasty
+          into memory, you can do calculations in nanosecond timeframes while 
+          avoiding physical database contention, CPU racing and other nasty
           computer science problems. 
       - title: How does the logic work? Can I code my own?
         content: >-
