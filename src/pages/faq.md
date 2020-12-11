@@ -87,13 +87,14 @@ sections:
 
 
           Agents are comprised of commands and actions similar to statements a
-          backend developer you might normally hardcode. Agents can call each
-          other to perform tasks and work in a group to accomplish objectives.
-          They run in real-time based on events and data changes, or can operate
-          on a timer. They can also be called from the API to execute their
-          mission(s). When agents are combined with Above's data modeling  and
-          processing options, you can move beyond CRUD and workflow to execute
-          performant real-time analytics across massive datasets.
+          backend developer might normally hardcode. Agents can call each other
+          to perform tasks and work in a group to accomplish objectives. They
+          run in real-time based on events and data changes, or can operate on a
+          timer to do periodic checks of assemble reports. They can also be
+          called from the API to execute their mission(s). When agents are
+          combined with Above's data modeling and processing options, you can
+          move beyond CRUD and workflow to execute performant real-time
+          analytics across massive datasets.
 
 
           While we obviously are big believers in the convenience and power of
