@@ -21,7 +21,7 @@ sections:
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
-      - title: 'Are you a '
+      - title: Are you a database company?
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
