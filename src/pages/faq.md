@@ -43,20 +43,23 @@ sections:
       - title: How does the logic work? Can I code my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
-          ](https://en.wikipedia.org/wiki/Control_flow)principles. However, our
-          approach is to assemble independent logic agents that operate across a
-          global network of data sets.
+          ](https://en.wikipedia.org/wiki/Control_flow)principles. However,
+          instead of coded statements that have no knowledge of the data being
+          worked on, our approach is to use data-aware independent agents to
+          execute logic. 
 
 
-          Agents are comprised of commands and actions similar to statements a
-          backend developer might normally hardcode. Agents can call each other
-          to perform tasks and work in a group to accomplish objectives. They
-          run in real-time based on events and data changes, or can operate on a
-          timer to do periodic processing or assemble reports. They can also be
-          called from the API to execute their mission(s). When agents are
-          combined with Above's data modeling and processing options, developers
-          can move beyond CRUD and workflow to execute performant real-time
-          analytics across massive datasets.
+          Agents are comprised of commands and actions that can be clicked
+          together. Agents can call each other to perform tasks and work in a
+          group to accomplish objectives. They run in real-time based on events
+          and data changes, or can operate on a timer to do periodic processing
+          or assemble reports. They can also be called from the API to execute
+          their mission(s). When agents are combined with Above's data modeling
+          and processing options, developers can move beyond CRUD and workflow
+          to execute performant real-time analytics across massive datasets. The
+          service will generate a schematic of the logic built to aid teams in
+          understanding how any given solution works, which is much easier than
+          tracing someone's hardcode. 
 
 
           While we obviously are big believers in the convenience and power of
