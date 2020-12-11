@@ -10,28 +10,6 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Premium
-        subtitle: Optional subtitle
-        title_align: left
-        content: |-
-          ---
-
-          ### $19
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
-        content_align: left
-        actions:
-          - label: Start with Premium
-            url: /features
-            style: primary
-        actions_align: left
-        actions_width: full-width
       - title: Business
         subtitle: Optional subtitle
         title_align: left
