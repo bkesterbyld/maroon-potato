@@ -50,7 +50,7 @@ sections:
           high throughput operations and calculations where either speed is
           essential or concurrency becomes a real problem. By putting data sets
           into memory, you can do calculations in nanosecond timeframes while
-          aslo avoiding physical database contention, CPU racing and other nasty
+          also avoiding physical database contention, CPU racing and other nasty
           computer science problems. 
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
