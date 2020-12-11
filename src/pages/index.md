@@ -93,7 +93,15 @@ sections:
           keep your new dynamic features flowing on par with the static files
           served from modern CDNs.
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            type: action
         actions_align: left
         image: images/Picture1.png
         image_position: top
