@@ -78,7 +78,7 @@ sections:
 
           With Above's approach, you can mix standard, edge, parallel and
           in-memory processing in the right ratios for your use case and budget.
-      - title: How does the logic work? Can I code my own?
+      - title: How does the no code logic work? Can I code my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
           ](https://en.wikipedia.org/wiki/Control_flow)principles. The approach
