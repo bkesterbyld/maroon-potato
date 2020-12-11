@@ -93,15 +93,16 @@ sections:
 
 
           In-memory processing, on the other hand, is extremely useful for high
-          throughput operations and calculations—where speed is essential or you
-          are trying to do a simulataneous operations on many large, massive,
+          throughput operations and calculations—where speed is essential or
+          there is a high amount of simulataneous operations across many large,
           disparate data sets. By putting data into memory, you can do
           calculations in nanosecond timeframes while avoiding physical database
-          read/write issues.
+          read/write locking and performance issues.
 
 
           With Above's approach, you can architect standard, edge, parallel and
-          in-memory processing in the right ratios for your use case and budget.
+          in-memory processing in the right ratios for your use case, goals and
+          budget.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
