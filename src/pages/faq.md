@@ -26,15 +26,15 @@ sections:
           **No.**
 
           Above is a service that runs above mature SQL, NoSQL and Object
-          storage technologies across cloud providers. Above's underlying
-          technology is an abstraction layer that brings physical distributed
-          servers together with virtualized data modeling and logic technology
-          that we've been working on for 10 years and was proven in a prior
-          company that did extreme enterprise-grade work for companies like
-          Tesla, BAE Systems, Facebook and more. Because we use proven
-          technologies, Above is safe, reliable and predictable. Also, since we
-          don't have to develop a database, we stay focused on bringing you new
-          features such as data warehousing (in our future). 
+          storage technologies across cloud providers. Above is an abstraction
+          layer that brings physical distributed servers together with virtual
+          data modeling and logic technology. We've been perfecting that
+          technology for 10 years and it's been proven in a prior company that
+          handled extreme enterprise-grade projects for Tesla, BAE Systems,
+          Facebook, Microsoft, AWS and more. Because we use proven technologies,
+          Above is safe, reliable and predictable. Also, since we don't have to
+          develop a database, all of our time is focused on bringing you new
+          features.
       - title: How do I avoid lock-in?
         content: >-
           We run at many of the cloud providers and locations that you may
