@@ -6,9 +6,9 @@ sections:
     subtitle: ''
     content: >-
       Create a serverless backend for your commerce app or website in minutes
-      without having to learn anything. Take advantage of Above's edge and
-      in-memory computing features to speed up user interactions, handle massive
-      loads or comply with privacy laws.
+      without having to learn anything. Take advantage of Above's edge computing
+      features to speed up user interactions, handle massive data or comply with
+      privacy laws.
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -28,7 +28,7 @@ sections:
 
       Above is a computing service that replaces databases, backend frameworks,
       app servers, containers, DevOps and backend QA. We free your brain to
-      focus on client logic, experiences and satisfying work.
+      focus on client logic, UX and other higher level work.
     actions: []
     video_embed_html: ''
     media_position: top
@@ -62,8 +62,9 @@ sections:
           Above's [control flow
           logic](https://en.wikipedia.org/wiki/Control_flow) allows you to
           implement CRUD, workflow and analytics without having to learn
-          anything. It also offers parallel and in-memory processing options for
-          heavy computing challenges.
+          anything. It also offers [parallel and in-memory processing
+          options](https://www.abovecomp.com/faq) for heavy computing
+          challenges.
         actions: []
         image: images/logic040.png
         media_position: left
@@ -89,9 +90,9 @@ sections:
         title_align: left
         content: >-
           Customers abandon ecommerce and B2B product sites that don't respond
-          within 1-3 seconds. Above's in-memory compute and edge processing can
-          keep your new dynamic features flowing on par with the static files
-          served from modern CDNs.
+          within 1-3 seconds. Above's in-memory compute and edge processing
+          keeps dynamic data flowing on par with the static files served from
+          modern CDNs.
         content_align: left
         actions:
           - label: Learn More
@@ -112,8 +113,8 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new online
           experiences is slow and painful. Above provides a no code environment
-          to create, manipulate and analyze master data sets that can spawn
-          unique real-time views to stakeholders.
+          to get disparate data into one place, manipulate it and then
+          distribute synced copies to stakeholders.
         content_align: left
         actions:
           - label: Learn More
@@ -143,14 +144,14 @@ sections:
           This is going to be epic, saves an enormous amount of time.
 
           **Dick Lucas** *Fullsend.io*
-        image: images/1516637847938.jpg
+        image: images/2020-12-10_21-53-01.png
         image_position: left
         image_width: twenty-five
       - content: |-
           I can work on higher level problems and tasks, things get done fast.
 
           **Nick Bonakis,** *Velocityraptor.co*
-        image: images/0.jpg
+        image: images/dickylucas.png
         image_position: left
         image_width: twenty-five
     grid_cols: two

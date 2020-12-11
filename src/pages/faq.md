@@ -39,8 +39,7 @@ sections:
 
           Because we use proven technologies, Above is safe, reliable and
           predictable. Also, since we don't have to develop a database, all of
-          our time is focused on bringing you new features such as data
-          warehousing (planned). 
+          our time is focused on bringing new features to our users. 
       - title: How do I avoid lock-in?
         content: >-
           We run at many of the cloud providers and locations that you may
@@ -49,8 +48,8 @@ sections:
 
 
           Within Above, you'll know where your data is stored in terms of cloud
-          provider and location—so in many cases you do the transfer without
-          incurring bandwidth egress charges from your provider. 
+          provider and location—so in many cases there are no bandwidth egress
+          charges from your provider. 
 
 
           We anticipate adding robust data migration services via vendor
@@ -77,24 +76,23 @@ sections:
 
 
           With Above's approach, you can architect standard, edge, parallel and
-          in-memory processing in the right ratios for your use case and
-          budget—we turn frontend developers into backend wizards.
+          in-memory processing in the right ratios for your use case and budget.
       - title: How does the logic work? Can I code my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
-          ](https://en.wikipedia.org/wiki/Control_flow)principles. The approach
-          is to assemble independent logic agents that operate across a global
-          network of data sets.
+          ](https://en.wikipedia.org/wiki/Control_flow)principles. However, our
+          approach is to assemble independent logic agents that operate across a
+          global network of data sets.
 
 
           Agents are comprised of commands and actions similar to statements a
           backend developer might normally hardcode. Agents can call each other
           to perform tasks and work in a group to accomplish objectives. They
           run in real-time based on events and data changes, or can operate on a
-          timer to do periodic checks of assemble reports. They can also be
+          timer to do periodic processing or assemble reports. They can also be
           called from the API to execute their mission(s). When agents are
-          combined with Above's data modeling and processing options, you can
-          move beyond CRUD and workflow to execute performant real-time
+          combined with Above's data modeling and processing options, developers
+          can move beyond CRUD and workflow to execute performant real-time
           analytics across massive datasets.
 
 
