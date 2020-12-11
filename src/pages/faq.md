@@ -32,9 +32,9 @@ sections:
           processing network.
 
 
-          We've been perfecting that technology for 10 years and it's been
-          proven in a prior company that handled extreme enterprise-grade
-          projects for Tesla, BAE Systems, Facebook, Microsoft, AWS and others. 
+          We've been perfecting the technology for 10 years and it's been proven
+          in a prior company that handled extreme enterprise-grade projects for
+          Tesla, BAE Systems, Facebook, Microsoft, AWS and others. 
 
 
           Because we use proven technologies, Above is safe, reliable and
