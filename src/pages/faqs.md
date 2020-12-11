@@ -2,12 +2,6 @@
 title: Pricing
 excerpt: lorem-ipsum
 sections:
-  - type: hero_section
-    title: FAQs
-    subtitle: Optional hero section subtitle
-    align: center
-    padding_top: large
-    padding_bottom: small
   - type: grid_section
     grid_items: []
     grid_cols: three
