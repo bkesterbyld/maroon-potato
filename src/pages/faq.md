@@ -28,7 +28,8 @@ sections:
           Above is a service that runs above mature SQL, NoSQL and Object
           storage technologies across cloud providers. It's an abstraction layer
           that brings physical distributed servers together with virtual data
-          modeling and logic technology.
+          modeling and logic technology. The result is a global, resilient data
+          processing network.
 
 
           We've been perfecting that technology for 10 years and it's been
