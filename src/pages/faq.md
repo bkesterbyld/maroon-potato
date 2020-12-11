@@ -32,9 +32,9 @@ sections:
           processing network.
 
 
-          We've been perfecting that technology for 10 years and it's been
-          proven in a prior company that handled extreme enterprise-grade
-          projects for Tesla, BAE Systems, Facebook, Microsoft, AWS and others. 
+          We've been perfecting the technology for 10 years and it's been proven
+          in a prior company that handled extreme enterprise-grade projects for
+          Tesla, BAE Systems, Facebook, Microsoft, AWS and others. 
 
 
           Because we use proven technologies, Above is safe, reliable and
@@ -56,15 +56,13 @@ sections:
           or assemble reports. They can also be called from the API to execute
           their mission(s). When agents are combined with Above's data modeling
           and processing options, developers can move beyond CRUD and workflow
-          to execute performant real-time analytics across massive datasets. The
-          service will generate a schematic of the logic built to aid teams in
-          understanding how any given solution works, which is much easier than
-          tracing someone's hardcode. 
+          to execute performant real-time analytics across massive datasets. 
 
 
           While we obviously are big believers in the convenience and power of
           this approach, we do plan to support sandboxed execution of JS and
-          other scripts/languages as we grow. 
+          other scripts/languages as we grow, and also allow you to call Lambdas
+          or Cloudflare workers as needed.
       - title: How do I avoid lock-in?
         content: >-
           We run at many of the cloud providers and locations that you may
@@ -93,15 +91,40 @@ sections:
 
 
           In-memory processing, on the other hand, is extremely useful for high
-          throughput operations and calculations—where speed is essential or you
-          are trying to do a simulataneous operations on many large, massive,
+          throughput operations and calculations—where speed is essential or
+          there is a high amount of simulataneous operations across many large,
           disparate data sets. By putting data into memory, you can do
           calculations in nanosecond timeframes while avoiding physical database
-          read/write issues.
+          read/write locking and performance issues.
 
 
           With Above's approach, you can architect standard, edge, parallel and
-          in-memory processing in the right ratios for your use case and budget.
+          in-memory processing in the right ratios for your use case, goals and
+          budget.
+      - title: How much does this cost?
+        subtitle: ''
+        title_align: left
+        content: >
+          The service will offer a generous free plan that should be able to
+          support small projects forever. We anticipate that graduating from
+          that will be a double-digit spend per month.
+
+
+          Our goal is to provide a stable and predictable base prices as a core
+          with consumption based pricing as an *option*. Like all developers,
+          we're tired of surprise computing bills or forgetting we had something
+          running. We're as confused as anybody by the myriad pricing schemes
+          from the big cloud providers. We'll go out of our way to remind you
+          that you have something running at Above. 
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium

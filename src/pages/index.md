@@ -5,10 +5,10 @@ sections:
     title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
-      Create a serverless backend for your commerce app or website in minutes
-      without having to learn anything. Take advantage of Above's edge computing
-      features to speed up user interactions, handle massive data or comply with
-      privacy laws.
+      Create a serverless backend for your app or website in minutes without
+      having to learn anything. Take advantage of Above's edge, parallel and
+      in-memory computing features to speed up user interactions and quickly
+      process real-time, disparate data sets.
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -28,7 +28,7 @@ sections:
 
       Above is a computing service that replaces databases, backend frameworks,
       app servers, containers, DevOps and backend QA. We free your brain to
-      focus on client logic, UX and other higher level work.
+      focus on UX, client logic and other higher level work.
     actions: []
     video_embed_html: ''
     media_position: top
@@ -60,9 +60,9 @@ sections:
       - title: Powerful Native Logic
         content: >-
           Above's [control flow
-          logic](https://en.wikipedia.org/wiki/Control_flow) allows you to
-          implement CRUD, workflow and analytics without having to learn
-          anything. It also offers [parallel and in-memory processing
+          logic](https://en.wikipedia.org/wiki/Control_flow) enables CRUD,
+          workflow and analytics without having to learn anything. It pairs with
+          [parallel and in-memory processing
           options](https://www.abovecomp.com/faq) for heavy computing
           challenges.
         actions: []
@@ -73,8 +73,8 @@ sections:
         subtitle: ''
         content: >-
           Process and position data anywhere in the world to provide the fastest
-          response times to your users. Our active data management technology
-          keeps field-level changes replicated across a global cloud network.
+          response times to users. Active data management technology keeps
+          field-level changes replicated across a global cloud network.
         actions: []
         image: images/edge20.png
         media_position: right
@@ -113,8 +113,8 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new online
           experiences is slow and painful. Above provides a no code environment
-          to get disparate data into one place, manipulate it and then
-          distribute synced copies to stakeholders.
+          to get structured, unstructured and object data into one place,
+          manipulate it and then share synced copies to stakeholders.
         content_align: left
         actions:
           - label: Learn More
