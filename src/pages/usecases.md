@@ -31,7 +31,7 @@ sections:
           powerful toolset to manage, shape and serve data than any custom
           backend. Best of all, it doesn't ask you to learn anything.
 
-        image: images/PerformantFrontend.png
+        image: images/PerformantFrontend1.png
         media_position: right
         media_width: sixty
       - title: Digital Operations Environment
