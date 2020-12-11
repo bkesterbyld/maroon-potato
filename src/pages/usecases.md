@@ -36,8 +36,8 @@ sections:
         media_width: sixty
       - title: Digital Operations Environment
         subtitle: >-
-          Setup real-time global inventory, customer and corporate data views
-          for key stakeholders
+          Quickly setup real-time global inventory, customer and corporate data
+          views for key stakeholders
         content: >-
           Need inventory, customer or other corporate data to get your feature
           or project done? With Above, you can create data models that mirror
