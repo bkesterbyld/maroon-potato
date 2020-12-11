@@ -3,18 +3,18 @@ title: Above - Beta Signup
 sections:
   - type: hero_section
     title: Be a part of our beta
-    subtitle: Coming in Q1 2021
+    subtitle: Coming in 2021
     align: center
     padding_top: medium
     padding_bottom: medium
     background_color: none
   - type: form_section
     content: >-
-      ### It's Free
+      ### Free Cyber and Real Stuff
 
       We'd love to help you with some pet project or anything you can think of.
       In exchange for your use and feedback we'll put you on our swag list (when
-      we have enough of it) and anything you build up to 500,000 rows of data
+      we have enough of it) and anything you build up to 250,000 rows of data
       you can keep running forever, no charge. 
 
       ### Privacy

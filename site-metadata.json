@@ -8,33 +8,37 @@
     "header": {
         "title": "",
         "logo": "images/abovecorp.png",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
+                "label": "Use Cases",
+                "url": "/usecases",
+                "style": "secondary",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link",
-                "has_icon": false
+                "label": "FAQ",
+                "url": "/faq",
+                "style": "secondary",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
             },
             {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
+                "label": "Beta Signup",
+                "url": "/general-enquiries",
+                "style": "primary",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
             }
         ],
         "has_secondary_nav": false,

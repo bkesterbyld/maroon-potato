@@ -2,13 +2,13 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'No Code, Modern Backend API'
+    title: 'No Code, Distributed Backend API'
     subtitle: ''
     content: >-
       Create a serverless backend for your commerce app or website in minutes
-      without having to learn anything. Take advantage of Above's edge computing
-      features to speed up user interactions, process massive loads or comply
-      with privacy laws.
+      without having to learn anything. Take advantage of Above's edge and
+      in-memory computing features to speed up user interactions, handle massive
+      loads or comply with privacy laws.
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -82,51 +82,54 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: Solutions
+    title: Use Cases
     subtitle: ''
     grid_items:
       - title: Performant Frontends
         title_align: left
         content: >-
           Customers abandon ecommerce and B2B product sites that don't respond
-          within 1-3 seconds. Above's in-memory compute and edge processing keep
-          dynamic data flowing on par with the static files served from modern
-          CDNs.
+          within 1-3 seconds. Above's in-memory compute and edge processing can
+          keep your new dynamic features flowing on par with the static files
+          served from modern CDNs.
         content_align: left
-        actions: []
+        actions:
+          - label: Learn More
+            url: /usecases
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            type: action
         actions_align: left
         image: images/Picture1.png
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Digital Ops Environment
+      - title: Digital Operations Environment
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new online
-          experiences is slow and painful. Above provides an easy environment to
-          create and manipulate reusable master data sets that can be replicated
-          to internal and external stakeholders.
+          experiences is slow and painful. Above provides a no code environment
+          to create, manipulate and analyze master data sets that can spawn
+          unique real-time views to stakeholders.
         content_align: left
-        actions: []
+        actions:
+          - label: Learn More
+            url: /usecases
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            type: action
         actions_align: left
         image: images/Picture21.png
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: 360° Customer Profiles
-        title_align: left
-        content: >-
-          Siloed customer data leads to missed revenue opportunities and privacy
-          liabilities. Above enables real-time customer profiles from far-flung
-          sources for use by devs, marketers and data scientists.
-        content_align: left
-        actions: []
-        actions_align: left
-        image: images/Picture3.png
-        image_position: top
-        image_align: center
-        image_has_padding: true
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
     enable_cards: true
