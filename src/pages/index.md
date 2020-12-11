@@ -144,7 +144,7 @@ sections:
           This is going to be epic, saves an enormous amount of time.
 
           **Dick Lucas** *Fullsend.io*
-        image: images/1516637847938.jpg
+        image: images/2020-12-10_21-53-01.png
         image_position: left
         image_width: twenty-five
       - content: |-
