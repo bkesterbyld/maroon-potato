@@ -68,12 +68,16 @@ sections:
 
 
           In-memory processing, on the other hand, is extremely useful for high
-          throughput operations and calculations where either speed is essential
-          or you are trying to do a simulataneous operation of many large,
-          massive, disparate data sets. By putting data into memory, you can do
+          throughput operations and calculations—where speed is essential or you
+          are trying to do a simulataneous operations on many large, massive,
+          disparate data sets. By putting data into memory, you can do
           calculations in nanosecond timeframes while  avoiding physical
           database contention, CPU racing and other nasty computer science
           problems. 
+
+
+          With Above's approach, you can mix standard, edge, parallel and
+          in-memory processing in the right ratios for your use case and budget.
       - title: How does the logic work? Can I code my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
