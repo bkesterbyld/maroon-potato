@@ -57,16 +57,21 @@ sections:
       - title: What are parallel and in-memory processing?
         content: >-
           Parallel and in-memory processing are two techniques to handle high
-          load and intense computing situations. Parallel processing is
-          important for manipulating large data sets and getting a performant
-          response. The approach is to break data sets into pieces and use
-          syncrhonous logic to achieve some CRUD result faster, or transform
-          some data set into higher level analytics without waiting hours or a
-          day. In-memory processing, on the other hand, is extremely useful for
-          high throughput operations and calculations where either speed is
-          essential or you are trying to do a simulataneous operation of many
-          large, massive, disparate data sets. By putting data into memory, you
-          can do calculations in nanosecond timeframes while  avoiding physical
+          load and intense computing situations.
+
+
+          Parallel processing is important for manipulating large data sets and
+          getting a performant response. The approach is to break data sets into
+          pieces and use syncrhonous logic to achieve some CRUD result faster,
+          or transform some data set into higher level analytics without waiting
+          hours or a day.
+
+
+          In-memory processing, on the other hand, is extremely useful for high
+          throughput operations and calculations where either speed is essential
+          or you are trying to do a simulataneous operation of many large,
+          massive, disparate data sets. By putting data into memory, you can do
+          calculations in nanosecond timeframes while  avoiding physical
           database contention, CPU racing and other nasty computer science
           problems. 
       - title: How does the logic work? Can I code my own?
