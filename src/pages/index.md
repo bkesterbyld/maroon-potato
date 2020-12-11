@@ -114,7 +114,7 @@ sections:
           Aggregating disparate corporate and partner data to power new online
           experiences is slow and painful. Above provides a no code environment
           to get disparate data into one place, manipulate it and then
-          distribute it to digital synced copies of it to stakeholders.
+          distribute synced copies to stakeholders.
         content_align: left
         actions:
           - label: Learn More
