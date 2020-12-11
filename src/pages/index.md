@@ -113,8 +113,8 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new online
           experiences is slow and painful. Above provides a no code environment
-          to create, manipulate and analyze master data sets that can spawn
-          unique real-time views to stakeholders.
+          to get disparate data into one place, manipulate it and then
+          distribute it to digital team members and partners. 
         content_align: left
         actions:
           - label: Learn More
