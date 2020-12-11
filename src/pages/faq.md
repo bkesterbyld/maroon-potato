@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: ''
 excerpt: ''
 sections:
   - type: hero_section
