@@ -10,27 +10,25 @@ sections:
     features:
       - title: Performant Frontends
         subtitle: Create new features fast and put storage and processing next to users
-        content: >+
-          Above helps you get data **and** processing next to your users without
-          deploying databases, writing centralized code or calling cloud
-          functions that have performance limits. You can deploy full backend
-          functionality next to your users, while keeping copies synced globally
-          without massive data transfers. Above does this with Active Data
-          Management technology that detects field-level changes in data sets,
-          replicating only the changes. Because the service is no code, it
-          enables you to create an autonomous global processing network that is
-          extremley easy to maintain and extend.
+        content: >-
+          Above enables computing next to users without deploying databases,
+          writing centralized code or calling cloud functions that have
+          performance limits. A full or partial backend can be positioned
+          wherever needed in the Above network. Active Data Management
+          technology syncs only field-level changes across regions, ensuring
+          snappy solution-wide response. The end result is an autonomous, global
+          data processing network. 
 
 
-          Above couples this global processing with powerful, advanced computing
-          options to assure high levels of performance to local users. You can
-          put any data set into memory to handle high loads or transactional
-          throughput. You can break massive data sets down to execute parallel
-          processing for either load management or to run intense real-time
-          calculations, AI or ML. In many extreme use cases, Above is a more
-          powerful toolset to manage, shape and serve data than any custom
-          backend. Best of all, it doesn't ask you to learn anything.
-
+          Above couples this network with powerful, advanced computing options
+          to assure high levels of performance to local users regardless of data
+          types, speeds and sizes. Any data set can be put into memory to handle
+          high loads or transactional throughput. Massive data sets can be
+          broken down and paralell processed for faster CRUD operations or for
+          rapid analytic or reporting jobs. Combining both approaches enables
+          handling of ML, AI and other data science use cases. Because Above is
+          no code, getting new and powerful features out the door is both fast
+          and easy.
         image: images/PerformantFrontend2.png
         media_position: right
         media_width: sixty
