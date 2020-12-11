@@ -19,7 +19,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: 'Learn About '
     grid_items:
       - title: Are you a database company?
         content: >-
