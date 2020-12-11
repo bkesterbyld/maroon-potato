@@ -4,7 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: FAQs
-    subtitle: Optional hero section subtitle
+    subtitle: ''
     align: center
     padding_top: large
     padding_bottom: small
