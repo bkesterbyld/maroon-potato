@@ -89,7 +89,7 @@ sections:
 
     actions:
       - label: Join the beta
-        url: /
+        url: /general-enquiries
         style: primary
         has_icon: false
         icon: arrow-left
