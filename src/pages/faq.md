@@ -38,7 +38,7 @@ sections:
           you'll know where your data is stored in terms of cloud provider and
           location—so in many cases you do the transfer without incurring
           bandwidth egress charges from your provider.
-      - title: How does parallel processing work?
+      - title: 'What are '
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
