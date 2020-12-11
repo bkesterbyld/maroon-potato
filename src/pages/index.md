@@ -28,7 +28,7 @@ sections:
 
       Above is a computing service that replaces databases, backend frameworks,
       app servers, containers, DevOps and backend QA. We free your brain to
-      focus on client logic, UX and other higher level work.
+      focus on UX, client logic and other higher level work.
     actions: []
     video_embed_html: ''
     media_position: top
