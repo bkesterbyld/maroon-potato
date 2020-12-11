@@ -84,17 +84,9 @@ sections:
     has_border: false
     background_color: secondary
   - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      We'd love to have you try Above for your work or side gig!
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
