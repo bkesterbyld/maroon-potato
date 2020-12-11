@@ -24,12 +24,12 @@ sections:
 
           Above couples this global processing with powerful, advanced computing
           options to assure high levels of performance to local users. You can
-          put any data set into memory to handle high loads or high
-          transactional throughput. You can break massive data sets down to
-          execute parallel processing for either load management or to run
-          intense real-time calculations, AI or ML. In many extreme use cases,
-          Above is a more powerful toolset to manage, shape and serve data than
-          any custom backend. Best of all, it doesn't ask you to learn anything.
+          put any data set into memory to handle high loads or transactional
+          throughput. You can break massive data sets down to execute parallel
+          processing for either load management or to run intense real-time
+          calculations, AI or ML. In many extreme use cases, Above is a more
+          powerful toolset to manage, shape and serve data than any custom
+          backend. Best of all, it doesn't ask you to learn anything.
 
         image: images/PerformantFrontend.png
         media_position: right
