@@ -101,7 +101,7 @@ sections:
           With Above's approach, you can architect standard, edge, parallel and
           in-memory processing in the right ratios for your use case, goals and
           budget.
-      - title: lorem-ipsum
+      - title: How much does this cost?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
