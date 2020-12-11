@@ -34,7 +34,7 @@ sections:
           Facebook, Microsoft, AWS and more. Because we use proven technologies,
           Above is safe, reliable and predictable. Also, since we don't have to
           develop a database, all of our time is focused on bringing you new
-          features.
+          features such as data warehousing (planned). 
       - title: How do I avoid lock-in?
         content: >-
           We run at many of the cloud providers and locations that you may
