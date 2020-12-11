@@ -7,8 +7,8 @@ sections:
     content: >-
       Create a serverless backend for your app or website in minutes without
       having to learn anything. Take advantage of Above's edge, parallel and
-      in-memory computing features to speed up user interactions, handle massive
-      data or comply with privacy laws.
+      in-memory computing features to speed up user interactions and quickly
+      process real-time, disparate data sets.
     actions:
       - label: Join the Beta
         url: /general-enquiries
