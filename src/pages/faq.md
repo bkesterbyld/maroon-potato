@@ -104,17 +104,18 @@ sections:
       - title: How much does this cost?
         subtitle: ''
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          The service will offer a generous free plan that should be able to
+          support small projects forever. We anticipate that graduating from
+          that will be a double-digit spend per month.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Our goal is to provide a stable and predictable base prices as a core
+          with consumption based pricing as an *option*. Like all developers,
+          we're tired of surprise computing bills or forgetting we had something
+          running. We're as confused as anybody by the myriad pricing schemes
+          from the big cloud providers. We'll go out of our way to remind you
+          that you have something running at Above. 
         content_align: left
         actions: []
         actions_align: left
