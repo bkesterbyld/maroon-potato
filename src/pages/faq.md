@@ -40,20 +40,6 @@ sections:
           Because we use proven technologies, Above is safe, reliable and
           predictable. Also, since we don't have to develop a database, all of
           our time is focused on bringing new features to our users. 
-      - title: How do I avoid lock-in?
-        content: >-
-          We run at many of the cloud providers and locations that you may
-          already have infrastructure at. You can extract data from Above into
-          your database of choice via the API.
-
-
-          Within Above, you'll know where your data is stored in terms of cloud
-          provider and location—so in many cases there are no bandwidth egress
-          charges from your provider. 
-
-
-          We anticipate adding robust data migration services via vendor
-          partners as we grow. 
       - title: How does the logic work? Can I code my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
@@ -76,6 +62,20 @@ sections:
           While we obviously are big believers in the convenience and power of
           this approach, we do plan to support sandboxed execution of JS and
           other scripts/languages as we grow. 
+      - title: How do I avoid lock-in?
+        content: >-
+          We run at many of the cloud providers and locations that you may
+          already have infrastructure at. You can extract data from Above into
+          your database of choice via the API.
+
+
+          Within Above, you'll know where your data is stored in terms of cloud
+          provider and location—so in many cases there are no bandwidth egress
+          charges from your provider. 
+
+
+          We anticipate adding robust data migration services via vendor
+          partners as we grow. 
       - title: What are parallel and in-memory processing?
         content: >-
           Parallel and in-memory processing are two techniques to handle high
