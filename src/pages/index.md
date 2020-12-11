@@ -113,7 +113,7 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new online
           experiences is slow and painful. Above provides a no code environment
-          to get structuref, unstructured and object data into one place,
+          to get structured, unstructured and object data into one place,
           manipulate it and then share synced copies to stakeholders.
         content_align: left
         actions:
