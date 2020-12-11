@@ -89,7 +89,7 @@ sections:
 
     actions:
       - label: Join the beta
-        url: lorem-ipsum
+        url: /
         style: primary
         has_icon: false
         icon: arrow-left
