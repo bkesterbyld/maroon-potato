@@ -57,10 +57,20 @@ sections:
           computer science problems. 
       - title: How does the logic work? Can I use my own?
         content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+          Above's no code logic is based in large part on [control-flow
+          ](https://en.wikipedia.org/wiki/Control_flow)principles. The approach
+          is to assemble independent logic agents that operate across a global
+          network of data sets. Agents are comprised of commands and actions
+          similar to statements a backend developer you might normally hardcode.
+          Agents can call each other to perform tasks and work in a group to
+          accomplish objectives. They run in real-time based on events and data
+          changes, or can operate on a timer. They can also be called from the
+          API to execute their mission(s). When agents are combined with Above's
+          data modeling  and processing options, you can move beyond CRUD and
+          workflow to execute performant real-time analytics across massive
+          datasets. While we obviously are big believers in the convenience and
+          power of this approach, we do plan to support sandboxed execution of
+          JS and other scripts/languages as we grow. 
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
