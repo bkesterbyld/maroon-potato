@@ -40,11 +40,18 @@ sections:
           bandwidth egress charges from your provider.
       - title: What are parallel and in-memory processing?
         content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+          Parallel and in-memory processing are two techniques to handle high
+          load and intense computing situations. Parallel processing is
+          important for querying large data sets and getting a performant
+          response. The approach is to break data sets into pieces and use
+          syncrhonous logic to achieve some CRUD result faster, or transform
+          some data set into higher level analytics without waiting hours or a
+          day. In-memory processing, on the other hand, is extremely useful for
+          high throughput operations and calculations where either speed is
+          essential or concurrency becomes a real problem. By putting data sets
+          into memory, you cannot only do calculations in nanosecond times, but
+          also avoid physical database contention, CPU racing and other nasty
+          computer science problems. 
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
