@@ -77,8 +77,7 @@ sections:
 
 
           With Above's approach, you can architect standard, edge, parallel and
-          in-memory processing in the right ratios for your use case and
-          budget—we turn frontend developers into backend wizards.
+          in-memory processing in the right ratios for your use case and budget.
       - title: How does the logic work? Can I code my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
