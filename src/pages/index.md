@@ -94,7 +94,7 @@ sections:
           served from modern CDNs.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: link
             has_icon: false
