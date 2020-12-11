@@ -37,21 +37,24 @@ sections:
           Quickly setup real-time global inventory, customer and corporate data
           views for key stakeholders
         content: >-
-          Need inventory, customer or other corporate data to get your feature
-          or project done? With Above, you can create data models that mirror
-          what's in your big iron, SaaS, ERP, WMS, POS, CRM and other systems.
-          These master data sets can be populated through connectors,
-          integration services or by pushing the data into Above's API. Then you
-          can build data normalization, cleansing and transformation logic as
-          needed, without coding. 
+          Standing up one-off databases for new projects and applications
+          proliferates silos and increases maintenance and downstream analytic
+          costs. With Above, it's possible to rapidly create data models that
+          mirror what's in your big iron, SaaS, ERP, WMS, POS, CRM and other
+          systems. These master data sets can be populated through connectors,
+          integration services or by pushing the data into Above's API. Then the
+          native logic tools can be used for normalization, cleansing and
+          transformation as needed, without coding. 
 
 
-          Once in Above's environment, you can create new aggregations and views
-          of that data, run analytics and syndicate synchronized copies out to
-          other teammates, colleagues and partner. You set the logic and rules
-          for how data gets updated and synced, all without coding.
-          Businesspeople can login to view data in a read-only mode—speedping up
-          requirements lock and the project timeline.
+          Once in Above's environment, data sets can be "reused" by colleagues
+          and partners through either direct access, or by giving them a synced
+          copy. Data owners set the logic and rules for how data gets updated
+          and synced, all without coding. Businesspeople can login to view data
+          in a read-only mode—speedping up requirements lock and the project
+          timeline. And since the data is in a single, flexible environment it
+          can power multiple future applications and create a true data-driven
+          operation. 
         video_embed_html: ''
         media_position: left
         media_width: sixty
