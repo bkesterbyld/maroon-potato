@@ -2,13 +2,13 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'No Code, Distributed Backend API'
+    title: 'No Code, Distributed Data Management API'
     subtitle: ''
     content: >-
-      Create a serverless backend for your app or website in minutes without
+      Create a data and logic API for your app or website in minutes without
       having to learn anything. Take advantage of Above's edge, parallel and
       in-memory computing features to speed up user interactions and quickly
-      process real-time, disparate data sets.
+      process disparate data sets.
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -26,9 +26,9 @@ sections:
     content: >
       #### Create Experiences, Not Infrastructure
 
-      Above is a computing service that replaces databases, backend frameworks,
-      app servers, containers, DevOps and backend QA. We free your brain to
-      focus on UX, client logic and other higher level work.
+      Above is a data and logic service that replaces databases, backend
+      frameworks, app servers, containers, DevOps and backend QA. We free your
+      brain to focus on UX, client logic and other higher level work.
     actions: []
     video_embed_html: ''
     media_position: top
@@ -89,10 +89,9 @@ sections:
       - title: Performant Frontends
         title_align: left
         content: >-
-          Customers abandon ecommerce and B2B product sites that don't respond
-          within 1-3 seconds. Above's in-memory compute and edge processing
-          keeps dynamic data flowing on par with the static files served from
-          modern CDNs.
+          Users abandon apps and sites that don't respond within 1-3 seconds.
+          Above's in-memory compute and edge processing keeps dynamic data
+          flowing on par with the static files served from modern CDNs.
         content_align: left
         actions:
           - label: Learn More
@@ -111,10 +110,10 @@ sections:
       - title: Digital Operations Environment
         title_align: left
         content: >-
-          Aggregating disparate corporate and partner data to power new online
-          experiences is slow and painful. Above provides a no code environment
-          to get structured, unstructured and object data into one place,
-          manipulate it and then share synced copies to stakeholders.
+          Aggregating disparate corporate and partner data to power new projects
+          is slow and painful. Above provides a no code environment to get
+          customer, marketing, inventory and other data into one place,
+          manipulate it and then develop above it. 
         content_align: left
         actions:
           - label: Learn More
