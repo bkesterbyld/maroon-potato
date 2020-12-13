@@ -24,7 +24,7 @@ sections:
   - title: ''
     subtitle: ''
     content: >
-      #### Ship faster without having to learn anything
+      #### Spend your time on higher level work
 
       Above is a data and logic service that replaces databases, backend
       frameworks, app servers, containers, DevOps and backend QA. We free your
