@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Ship faster and delight users in any location on '
+    title: Ship faster and delight users in any location on any connection
     subtitle: ''
     content: >-
       Create a data and logic API for your app or website in minutes without
