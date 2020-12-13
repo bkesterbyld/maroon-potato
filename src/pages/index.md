@@ -111,9 +111,9 @@ sections:
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new projects
-          is slow and painful. Above provides a no code environment to get
-          customer, ERP and other data into one place, make sense of it and then
-          share with developers and business users. 
+          is slow and painful. Above provides an easy environment to get
+          customer, ERP and other data into one place to power new features,
+          apps and solutions.
         content_align: left
         actions:
           - label: Learn More
