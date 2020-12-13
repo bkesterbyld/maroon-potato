@@ -74,7 +74,7 @@ sections:
         content: >-
           Process and position data anywhere in the world to provide the fastest
           response times to users. Active data management technology keeps
-          field-level changes replicated across a global cloud network.
+          field-level changes replicated across Above's global cloud network.
         actions: []
         image: images/edge20.png
         media_position: right
@@ -111,9 +111,9 @@ sections:
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new projects
-          is slow and painful. Above provides a no code environment to get
-          customer, ERP and other data into one place, make sense of it and then
-          share with developers and business users. 
+          is slow and painful. Above provides an easy environment to get
+          customer, ERP and other data into one place to power new features,
+          apps and solutions.
         content_align: left
         actions:
           - label: Learn More
