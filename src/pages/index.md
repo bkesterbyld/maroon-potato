@@ -26,10 +26,10 @@ sections:
     content: >
       #### Save your brain for high level work
 
-      Above is a global data and logic processing network that replaces
-      databases, backend frameworks, app servers, containers, DevOps and backend
-      QA. We free your brain to focus on UX, client logic and other higher level
-      work.
+      Above is a global, integrated data and logic processing network that
+      replaces databases, backend frameworks, app servers, containers, DevOps
+      and more. We free your brain to focus on UX, client logic and other higher
+      level work.
     actions: []
     video_embed_html: ''
     media_position: top
