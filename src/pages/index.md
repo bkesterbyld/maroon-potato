@@ -24,11 +24,12 @@ sections:
   - title: ''
     subtitle: ''
     content: >
-      #### Get things done faster than ever before
+      #### Ship faster without having to learn anything
 
       Above is a data and logic service that replaces databases, backend
       frameworks, app servers, containers, DevOps and backend QA. We free your
-      brain to focus on UX, client logic and other higher level work.
+      brain to focus on UX, client logic and other higher level work and get
+      things done fast. 
     actions: []
     video_embed_html: ''
     media_position: top
