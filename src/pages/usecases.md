@@ -32,9 +32,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Digital Operations Environment
-        subtitle: >-
-          Quickly setup real-time global inventory, customer and corporate data
-          views for key stakeholders
+        subtitle: 'Get you ERP, marketing and other data in one place'
         content: >-
           Standing up one-off databases for new projects and applications
           proliferates silos and increases maintenance and downstream analytic
