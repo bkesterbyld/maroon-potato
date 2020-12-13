@@ -28,8 +28,8 @@ sections:
 
       Above is a global, integrated data and logic processing network that
       replaces databases, backend frameworks, app servers, containers, DevOps
-      and more. We free your brain to focus on UX, client logic and other higher
-      level work.
+      and more. The experience is no code and fast, freeing your brain to focus
+      on UX, client logic and other higher level work.
     actions: []
     video_embed_html: ''
     media_position: top
