@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'No Code, Distributed Data Management API'
+    title: 'No'
     subtitle: ''
     content: >-
       Create a data and logic API for your app or website in minutes without
