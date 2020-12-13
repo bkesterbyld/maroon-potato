@@ -6,8 +6,8 @@ sections:
     subtitle: ''
     content: >-
       Create a data and logic API for your app or website in minutes without
-      having to learn anything. Take advantage of Above's edge, parallel and
-      in-memory computing features to speed up user interactions and quickly
+      having to code or learn anything. Take advantage of Above's edge, parallel
+      and in-memory computing features to speed up user interactions and quickly
       process disparate data sets.
     actions:
       - label: Join the Beta
