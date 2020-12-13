@@ -111,9 +111,9 @@ sections:
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new projects
-          is slow and painful. Above provides an easy environment to get
-          customer, ERP and other data into one place to enable new apps and
-          help your company migrate to the cloud.
+          is slow and painful. Above provides an easy way to get customer, ERP
+          and other data into one collaborative environment to enable new apps
+          and help your company migrate to the cloud.
         content_align: left
         actions:
           - label: Learn More
