@@ -13,22 +13,21 @@ sections:
         content: >-
           Above enables computing next to users without deploying databases,
           writing centralized code or calling cloud functions that have
-          performance limits. A full or partial backend can be positioned
-          wherever needed in the Above network. Active Data Management
-          technology syncs only field-level changes across regions, ensuring
-          snappy solution-wide response. The end result is an autonomous, global
-          data processing network. 
+          performance limits. Our network allows you to put a full or partial
+          backend anywhere in the world. Active Data Management technology syncs
+          only field-level changes across regions, ensuring snappy solution-wide
+          response. 
 
 
           Above couples this network with powerful, advanced computing options
           to assure high levels of performance to local users regardless of data
           types, speeds and sizes. Any data set can be put into memory to handle
-          high loads or transactional throughput. Massive data sets can be
+          transactional or calculations throughput. Massive data sets can be
           broken down and paralell processed for faster CRUD operations or for
-          rapid analytic or reporting jobs. Combining both approaches enables
+          faster analytic or reporting jobs. Combining both approaches enables
           handling of ML, AI and other data science use cases. Because Above is
-          no code, getting new and powerful features out the door is both fast
-          and easy.
+          no code, shipping new, powerful features out the door is both fast and
+          easy.
         image: images/PerformantFrontend2.png
         media_position: right
         media_width: sixty
