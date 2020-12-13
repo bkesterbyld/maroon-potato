@@ -112,8 +112,8 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new projects
           is slow and painful. Above provides a no code environment to get
-          customer, marketing, inventory and other data into one place,
-          manipulate it and then develop above it. 
+          customer, ERP and other data into one place, make sense of it and then
+          share with developers and business users. 
         content_align: left
         actions:
           - label: Learn More
