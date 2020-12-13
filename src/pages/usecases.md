@@ -44,14 +44,14 @@ sections:
           transformation as needed, without coding. 
 
 
-          Once in Above's environment, data sets can be "reused" by colleagues
-          and partners through either direct access, or by giving them a synced
+          Once in Above's environment, data sets can be by colleagues and
+          partners through either direct access, or by giving them a synced
           copy. Data owners set the logic and rules for how data gets updated
           and synced, all without coding. Businesspeople can login to view data
-          in a read-only mode—speedping up requirements lock and the project
-          timeline. And since the data is in a single, flexible environment it
-          can power multiple future applications and create a true data-driven
-          operation. 
+          in a read-only mode—speedping up requirements lock and project
+          timelines. And since the data is in a single, flexible environment it
+          can power multiple future applications and enable data-driven
+          operations
         video_embed_html: ''
         media_position: left
         media_width: sixty
