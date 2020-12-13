@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'No Code, Distributed Data Management API'
+    title: Ship faster and delight users everywhere
     subtitle: ''
     content: >-
       Create a data and logic API for your app or website in minutes without
-      having to learn anything. Take advantage of Above's edge, parallel and
-      in-memory computing features to speed up user interactions and quickly
+      having to code or learn anything. Take advantage of Above's edge, parallel
+      and in-memory computing features to speed up user interactions and quickly
       process disparate data sets.
     actions:
       - label: Join the Beta
@@ -24,11 +24,12 @@ sections:
   - title: ''
     subtitle: ''
     content: >
-      #### Create Experiences, Not Infrastructure
+      #### Save your brain for high level work
 
-      Above is a data and logic service that replaces databases, backend
-      frameworks, app servers, containers, DevOps and backend QA. We free your
-      brain to focus on UX, client logic and other higher level work.
+      Above is a global, integrated data and logic processing network that
+      replaces databases, backend frameworks, app servers, containers, DevOps
+      and more. The experience is no code and fast, freeing your brain to focus
+      on UX, client logic and other higher level work.
     actions: []
     video_embed_html: ''
     media_position: top
@@ -111,9 +112,9 @@ sections:
         title_align: left
         content: >-
           Aggregating disparate corporate and partner data to power new projects
-          is slow and painful. Above provides an easy environment to get
-          customer, ERP and other data into one place to power new features,
-          apps and solutions.
+          is slow and painful. Above provides an easy way to get customer, ERP
+          and other data into one collaborative environment to enable new apps
+          and migrate outdated systems to the cloud.
         content_align: left
         actions:
           - label: Learn More
