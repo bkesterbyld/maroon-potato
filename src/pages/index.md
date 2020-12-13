@@ -24,7 +24,7 @@ sections:
   - title: ''
     subtitle: ''
     content: >
-      #### Create Experiences, Not Infrastructure
+      #### Get things done faster than ever before
 
       Above is a data and logic service that replaces databases, backend
       frameworks, app servers, containers, DevOps and backend QA. We free your
