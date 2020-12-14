@@ -33,8 +33,8 @@ sections:
         media_width: fifty
       - title: Digital Operations Environment
         subtitle: >-
-          Get your ERP, marketing and other data in one place to power new
-          features and solutions
+          Get your ERP, marketing and other data in one place to power your next
+          project
         content: >-
           Standing up one-off databases for new projects and applications
           proliferates silos and increases maintenance and downstream analytic
