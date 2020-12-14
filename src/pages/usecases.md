@@ -19,15 +19,15 @@ sections:
           response. 
 
 
-          Above couples this network with powerful, advanced computing options
-          to assure high levels of performance to local users regardless of data
-          types, speeds and sizes. Any data set can be put into memory to handle
-          high transactional or calculations throughput. Massive data sets can
-          be broken down and paralell processed for faster CRUD operations or
-          for faster analytic or reporting jobs. Combining both approaches
-          enables handling of ML, AI and other data science use cases. Because
-          Above is no code, shipping new, powerful features out the door is both
-          fast and easy.
+          Above couples this network with powerful computing options to assure
+          high levels of performance to local users regardless of data types,
+          speeds and sizes. Any data set can be put into memory to handle high
+          transactional or calculations throughput. Massive data sets can be
+          broken down and paralell processed for faster CRUD operations or for
+          faster analytic or reporting jobs. Combining both approaches enables
+          handling of ML, AI and other data science use cases. Because Above is
+          no code, shipping new, powerful features out the door is both fast and
+          easy.
         image: images/distributed-computing.png
         media_position: right
         media_width: sixty
