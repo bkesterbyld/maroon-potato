@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Performant Frontends
-        subtitle: Create new features fast and data processing near users
+        subtitle: Create new features fast and data and ocessing near users
         content: >-
           Above enables computing next to users without deploying databases,
           writing centralized code or calling cloud functions that have
