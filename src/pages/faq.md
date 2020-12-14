@@ -152,10 +152,10 @@ sections:
     actions_position: right
     actions_width: fourty
     align: left
-    padding_top: medium
-    padding_bottom: medium
+    padding_top: small
+    padding_bottom: none
     has_border: false
-    background_color: primary
+    background_color: none
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center

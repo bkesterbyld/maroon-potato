@@ -55,7 +55,7 @@ sections:
         media_width: fifty
         image: images/good-olive.png
   - type: cta_section
-    title: More questions? Check our our FAQ.
+    title: More questions? Check out our FAQs.
     content: ''
     actions:
       - label: Go to FAQ
@@ -63,9 +63,9 @@ sections:
         style: primary
     actions_position: right
     align: left
-    padding_top: medium
-    padding_bottom: medium
+    padding_top: small
+    padding_bottom: small
     has_border: false
-    background_color: primary
+    background_color: secondary
 template: advanced
 ---
