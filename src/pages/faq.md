@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     align: center
     padding_top: large
-    padding_bottom: small
+    padding_bottom: none
   - type: grid_section
     grid_items: []
     grid_cols: three
