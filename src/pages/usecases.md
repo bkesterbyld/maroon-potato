@@ -8,15 +8,14 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Performant Frontends
+      - title: Fast Distributed Backend
         subtitle: Create new features fast and process data near your users
         content: >-
           Above enables computing next to users without deploying databases,
-          writing centralized code or calling cloud functions that have
-          performance limits. Our network allows you to put a full or partial
-          backend anywhere in the world. Active Data Management technology syncs
-          only field-level changes across regions, ensuring snappy solution-wide
-          response. 
+          writing code or calling cloud functions that have performance limits.
+          Our network allows you to put a full or partial backend anywhere in
+          the world. Active Data Management technology syncs only field-level
+          changes across regions, ensuring snappy solution-wide response. 
 
 
           Above couples this network with powerful computing options to assure
@@ -25,24 +24,23 @@ sections:
           transactional or calculations throughput. Massive data sets can be
           broken down and paralell processed for faster CRUD operations or for
           faster analytic or reporting jobs. Combining both approaches enables
-          handling of ML, AI and other data science use cases. Because Above is
-          no code, shipping new, powerful features out the door is both fast and
-          easy.
+          handling of data science and ML solutions. Because Above is no code,
+          shipping new, powerful features out the door is both fast and easy.
         image: images/distributed-computing.png
         media_position: right
         media_width: fifty
       - title: Digital Operations Environment
         subtitle: >-
-          Get your ERP, marketing and other data in one place to power your next
-          project
+          Get your ERP, marketing and other data in one reusable place to power
+          your next project
         content: >-
           Standing up one-off databases for new projects and applications
           proliferates silos and increases maintenance and downstream analytic
           costs. With Above, it's possible to rapidly mirror what's in your big
           iron, SaaS, ERP, WMS, POS, CRM and other systems. These data models
           can be populated through connectors or through Above's API. Then the
-          native logic tools can be used for normalization, cleansing and
-          transformation as needed, without coding. 
+          native logic tools can be used for cleansing and transformation as
+          needed, without coding. 
 
 
           Once in Above's environment, data sets can be shared with colleagues
