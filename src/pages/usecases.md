@@ -54,7 +54,7 @@ sections:
           multiple future applications.
         video_embed_html: ''
         media_position: left
-        media_width: sixty
+        media_width: fifty
         image: images/good-olive.png
   - type: cta_section
     title: More questions? Check our our FAQ.
