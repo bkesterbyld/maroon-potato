@@ -63,7 +63,7 @@ sections:
         style: primary
     actions_position: right
     align: left
-    padding_top: medium
+    padding_top: small
     padding_bottom: medium
     has_border: false
     background_color: primary
