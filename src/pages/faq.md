@@ -6,7 +6,7 @@ sections:
     title: FAQs
     subtitle: ''
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: none
   - type: grid_section
     grid_items: []
