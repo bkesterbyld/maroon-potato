@@ -39,8 +39,8 @@ sections:
           costs. With Above, it's possible to rapidly mirror what's in your big
           iron, SaaS, ERP, WMS, POS, CRM and other systems. These data models
           can be populated through connectors or through Above's API. Then the
-          native logic tools can be used for normalization, cleansing and
-          transformation as needed, without coding. 
+          native logic tools can be used for cleansing and transformation as
+          needed, without coding. 
 
 
           Once in Above's environment, data sets can be shared with colleagues
