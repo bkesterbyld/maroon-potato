@@ -73,9 +73,10 @@ sections:
       - title: Edge Processing
         subtitle: ''
         content: >-
-          Process and position data anywhere in the world to provide the fastest
-          response times to users. Active data management technology keeps
-          field-level changes replicated across Above's global cloud network.
+          Position and process data anywhere in the world to provide the fastest
+          response time to users. Active data management technology keeps
+          field-level changes replicated across Above's global hybrid cloud
+          network.
         actions: []
         image: images/edge20.png
         media_position: right
