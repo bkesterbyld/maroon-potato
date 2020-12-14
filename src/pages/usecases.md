@@ -12,11 +12,10 @@ sections:
         subtitle: Create new features fast and process data near your users
         content: >-
           Above enables computing next to users without deploying databases,
-          writing centralized code or calling cloud functions that have
-          performance limits. Our network allows you to put a full or partial
-          backend anywhere in the world. Active Data Management technology syncs
-          only field-level changes across regions, ensuring snappy solution-wide
-          response. 
+          writing code or calling cloud functions that have performance limits.
+          Our network allows you to put a full or partial backend anywhere in
+          the world. Active Data Management technology syncs only field-level
+          changes across regions, ensuring snappy solution-wide response. 
 
 
           Above couples this network with powerful computing options to assure
@@ -25,9 +24,8 @@ sections:
           transactional or calculations throughput. Massive data sets can be
           broken down and paralell processed for faster CRUD operations or for
           faster analytic or reporting jobs. Combining both approaches enables
-          handling of ML, AI and other data science use cases. Because Above is
-          no code, shipping new, powerful features out the door is both fast and
-          easy.
+          handling of data science and ML solutions. Because Above is no code,
+          shipping new, powerful features out the door is both fast and easy.
         image: images/distributed-computing.png
         media_position: right
         media_width: fifty
