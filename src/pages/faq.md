@@ -33,14 +33,15 @@ sections:
           processing network.
 
 
-          We've been perfecting the technology for 10 years and it's been proven
-          in a prior company that handled extreme enterprise-grade projects for
+          We've been perfecting the technology for 10 years and it's  proven in
+          a prior company that handled extreme enterprise-grade projects for
           Tesla, BAE Systems, Facebook, Microsoft, AWS and others. 
 
 
           Because we use proven technologies, Above is safe, reliable and
-          predictable. Also, since we don't have to develop a database, all of
-          our time is focused on bringing new features to our users. 
+          predictable. Also, since we don't have to develop a database or other
+          low level technologies, all of our time is focused on bringing new
+          features to our users. 
       - title: How does the logic work? Can I code my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
