@@ -6,8 +6,9 @@ sections:
     title: FAQs
     subtitle: ''
     align: center
-    padding_top: large
-    padding_bottom: small
+    padding_top: small
+    padding_bottom: none
+    background_color: none
   - type: grid_section
     grid_items: []
     grid_cols: three
@@ -32,15 +33,16 @@ sections:
           processing network.
 
 
-          We've been perfecting the technology for 10 years and it's been proven
-          in a prior company that handled extreme enterprise-grade projects for
+          We've been perfecting the technology for 10 years and it's  proven in
+          a prior company that handled extreme enterprise-grade projects for
           Tesla, BAE Systems, Facebook, Microsoft, AWS and others. 
 
 
           Because we use proven technologies, Above is safe, reliable and
-          predictable. Also, since we don't have to develop a database, all of
-          our time is focused on bringing new features to our users. 
-      - title: How does the logic work? Can I code my own?
+          predictable. Also, since we don't have to develop a database or other
+          low level technologies, all of our time is focused on bringing new
+          features to our users. 
+      - title: How does the logic work? Can I use my own code?
         content: >-
           Above's no code logic is based in large part on [control-flow
           ](https://en.wikipedia.org/wiki/Control_flow)principles. However,
@@ -51,12 +53,13 @@ sections:
 
           Agents are comprised of commands and actions that can be clicked
           together. Agents can call each other to perform tasks and work in a
-          group to accomplish objectives. They run in real-time based on events
-          and data changes, or can operate on a timer to do periodic processing
-          or assemble reports. They can also be called from the API to execute
-          their mission(s). When agents are combined with Above's data modeling
-          and processing options, developers can move beyond CRUD and workflow
-          to execute performant real-time analytics across massive datasets. 
+          group to accomplish objectives across the data fabric. They run in
+          real-time based on events and data changes, or can operate on a timer
+          to do periodic processing or assemble reports. They can also be called
+          from the API to execute their mission(s). When agents are combined
+          with Above's data modeling and processing options, developers can move
+          beyond CRUD and workflow to execute performant real-time analytics
+          across massive datasets. 
 
 
           While we obviously are big believers in the convenience and power of
