@@ -38,21 +38,20 @@ sections:
         content: >-
           Standing up one-off databases for new projects and applications
           proliferates silos and increases maintenance and downstream analytic
-          costs. With Above, it's possible to rapidly create data models that
-          mirror what's in your big iron, SaaS, ERP, WMS, POS, CRM and other
-          systems. These master data sets can be populated through connectors,
-          integration services or by pushing the data into Above's API. Then the
-          native logic tools can be used for normalization, cleansing and
+          costs. With Above, it's possible to rapidly mirror what's in your big
+          iron, SaaS, ERP, WMS, POS, CRM and other systems. These master data
+          sets can be populated through connectors or through Above's API. Then
+          the native logic tools can be used for normalization, cleansing and
           transformation as needed, without coding. 
 
 
           Once in Above's environment, data sets can be shared with colleagues
-          and partners through direct access or by giving them a synced copy.
-          Data owners set the logic and rules for how data gets updated and
-          synced, all without coding. Businesspeople can login to view data in a
+          and partners through direct access or by giving them a synced copy in
+          any region. Data owners set the logic and rules for how data gets
+          updated and synced. Businesspeople can login to view data in a
           read-only mode—speeding up requirements lock and project timelines.
           And since the data is in a single, flexible environment it can power
-          multiple future applications and enable data-driven operations
+          multiple future applications.
         video_embed_html: ''
         media_position: left
         media_width: sixty
