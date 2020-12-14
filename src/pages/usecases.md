@@ -55,7 +55,7 @@ sections:
         media_width: fifty
         image: images/good-olive.png
   - type: cta_section
-    title: ''
+    title: More questions? Check out our FAQs.
     content: More questions? Check out our FAQs.
     actions:
       - label: Go to FAQ
