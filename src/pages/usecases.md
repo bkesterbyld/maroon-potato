@@ -56,7 +56,7 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: sixty
-        image: images/digital-operations-platform.png
+        image: images/digital-operations-platform-1.png
   - type: cta_section
     title: More questions? Check our our FAQ.
     content: ''
