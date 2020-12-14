@@ -30,7 +30,7 @@ sections:
           easy.
         image: images/distributed-computing.png
         media_position: right
-        media_width: sixty
+        media_width: fifty
       - title: Digital Operations Environment
         subtitle: >-
           Get your ERP, marketing and other data in one place to power new
