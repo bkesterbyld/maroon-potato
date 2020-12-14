@@ -42,7 +42,7 @@ sections:
           predictable. Also, since we don't have to develop a database or other
           low level technologies, all of our time is focused on bringing new
           features to our users. 
-      - title: How does the logic work? Can I code my own?
+      - title: How does the logic work? Can I use my own?
         content: >-
           Above's no code logic is based in large part on [control-flow
           ](https://en.wikipedia.org/wiki/Control_flow)principles. However,
