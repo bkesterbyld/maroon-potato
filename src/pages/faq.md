@@ -8,7 +8,7 @@ sections:
     align: center
     padding_top: small
     padding_bottom: none
-    background_color: secondary
+    background_color: none
   - type: grid_section
     grid_items: []
     grid_cols: three
