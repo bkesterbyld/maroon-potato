@@ -54,7 +54,7 @@ sections:
           And since the data is in a single, flexible environment it can power
           multiple future applications and enable data-driven operations
         video_embed_html: ''
-        media_position: top
+        media_position: left
         media_width: sixty
         image: images/digital-operations-platform.png
   - type: cta_section
