@@ -28,7 +28,7 @@ sections:
           enables handling of ML, AI and other data science use cases. Because
           Above is no code, shipping new, powerful features out the door is both
           fast and easy.
-        image: images/PerformantFrontend2.png
+        image: images/distributed-computing.png
         media_position: right
         media_width: sixty
       - title: Digital Operations Environment
