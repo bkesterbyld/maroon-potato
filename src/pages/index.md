@@ -162,7 +162,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Frontend or Mobile Developer?
-    content: We'd love to have you try Above for your work or side gig!
+    content: We'd love to have you try Above for work or fun.
     actions:
       - label: Beta Sign Up
         url: /general-enquiries
