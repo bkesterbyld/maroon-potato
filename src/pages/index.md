@@ -92,8 +92,8 @@ sections:
         title_align: left
         content: >-
           Users abandon apps and sites that don't respond within 1-3 seconds.
-          Above's in-memory compute and edge processing keeps dynamic data
-          flowing on par with the static files served from modern CDNs.
+          Above's edge and in-memory processing keeps dynamic data flowing on
+          par with the static files served from modern CDNs.
         content_align: left
         actions:
           - label: Learn More
@@ -115,7 +115,7 @@ sections:
           Aggregating disparate corporate and partner data to power new projects
           is slow and painful. Above provides an easy way to get customer, ERP
           and other data into one collaborative environment to enable new apps
-          and migrate outdated systems to the cloud.
+          and move legacy functionality to the cloud.
         content_align: left
         actions:
           - label: Learn More
