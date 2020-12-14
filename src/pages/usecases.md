@@ -56,7 +56,7 @@ sections:
         image: images/good-olive.png
   - type: cta_section
     title: More questions? Check out our FAQs.
-    content: More questions? Check out our FAQs.
+    content: ''
     actions:
       - label: Go to FAQ
         url: /faq
