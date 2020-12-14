@@ -27,9 +27,9 @@ sections:
       #### Save your brain for high level work
 
       Above is a global computing network that replaces databases, backend
-      frameworks, app servers, containers, DevOps and more. The experience is no
-      code and fast, freeing your brain to focus on UX, client logic and other
-      higher level work.
+      coding, app servers, containers, DevOps and scores of low level tasks. The
+      experience is no code and fast, freeing your brain to focus on UX, client
+      logic and other higher level work.
     actions: []
     video_embed_html: ''
     media_position: top
