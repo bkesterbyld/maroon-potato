@@ -152,7 +152,7 @@ sections:
     actions_position: right
     actions_width: fourty
     align: left
-    padding_top: medium
+    padding_top: small
     padding_bottom: medium
     has_border: false
     background_color: primary
