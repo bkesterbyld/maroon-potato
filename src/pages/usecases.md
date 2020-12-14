@@ -66,6 +66,6 @@ sections:
     padding_top: small
     padding_bottom: small
     has_border: false
-    background_color: primary
+    background_color: secondary
 template: advanced
 ---
