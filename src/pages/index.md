@@ -170,8 +170,8 @@ sections:
     actions_position: right
     actions_width: fourty
     align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
+    padding_top: small
+    padding_bottom: small
+    background_color: none
 template: advanced
 ---
