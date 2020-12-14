@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Performant Frontends
+      - title: Fast Distributed Backend
         subtitle: Create new features fast and process data near your users
         content: >-
           Above enables computing next to users without deploying databases,
