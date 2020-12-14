@@ -88,7 +88,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Performant Frontends
+      - title: 'Distributed '
         title_align: left
         content: >-
           Users abandon apps and sites that don't respond within 1-3 seconds.
