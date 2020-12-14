@@ -4,12 +4,12 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: Use Cases
-    subtitle: Leverage Distributed Computing
+    subtitle: Welcome to Distributed Computing
     background_color: primary
   - type: features_section
     features:
       - title: Performant Frontends
-        subtitle: Create new features fast and put storage and processing near users
+        subtitle: Create new features fast and put data and processing at the last mile
         content: >-
           Above enables computing next to users without deploying databases,
           writing centralized code or calling cloud functions that have
@@ -19,44 +19,43 @@ sections:
           response. 
 
 
-          Above couples this network with powerful, advanced computing options
-          to assure high levels of performance to local users regardless of data
-          types, speeds and sizes. Any data set can be put into memory to handle
-          high transactional or calculations throughput. Massive data sets can
-          be broken down and paralell processed for faster CRUD operations or
-          for faster analytic or reporting jobs. Combining both approaches
-          enables handling of ML, AI and other data science use cases. Because
-          Above is no code, shipping new, powerful features out the door is both
-          fast and easy.
-        image: images/PerformantFrontend2.png
+          Above couples this network with powerful computing options to assure
+          high levels of performance to local users regardless of data types,
+          speeds and sizes. Any data set can be put into memory to handle high
+          transactional or calculations throughput. Massive data sets can be
+          broken down and paralell processed for faster CRUD operations or for
+          faster analytic or reporting jobs. Combining both approaches enables
+          handling of ML, AI and other data science use cases. Because Above is
+          no code, shipping new, powerful features out the door is both fast and
+          easy.
+        image: images/distributed-computing.png
         media_position: right
-        media_width: sixty
+        media_width: fifty
       - title: Digital Operations Environment
         subtitle: >-
-          Get you ERP, marketing and other data in one place to power new
-          features and solutions
+          Get your ERP, marketing and other data in one place to power your next
+          project
         content: >-
           Standing up one-off databases for new projects and applications
           proliferates silos and increases maintenance and downstream analytic
-          costs. With Above, it's possible to rapidly create data models that
-          mirror what's in your big iron, SaaS, ERP, WMS, POS, CRM and other
-          systems. These master data sets can be populated through connectors,
-          integration services or by pushing the data into Above's API. Then the
+          costs. With Above, it's possible to rapidly mirror what's in your big
+          iron, SaaS, ERP, WMS, POS, CRM and other systems. These data models
+          can be populated through connectors or through Above's API. Then the
           native logic tools can be used for normalization, cleansing and
           transformation as needed, without coding. 
 
 
           Once in Above's environment, data sets can be shared with colleagues
-          and partners through direct access or by giving them a synced copy.
-          Data owners set the logic and rules for how data gets updated and
-          synced, all without coding. Businesspeople can login to view data in a
+          and partners through direct access or by giving them a synced copy in
+          any region. Data owners set the logic and rules for how data gets
+          updated and synced. Business people can login to view data in a
           read-only mode—speeding up requirements lock and project timelines.
           And since the data is in a single, flexible environment it can power
-          multiple future applications and enable data-driven operations
+          future projects.
         video_embed_html: ''
         media_position: left
-        media_width: sixty
-        image: images/aggregation.png
+        media_width: fifty
+        image: images/good-olive.png
   - type: cta_section
     title: More questions? Check our our FAQ.
     content: ''
