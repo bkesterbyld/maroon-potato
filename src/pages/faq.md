@@ -135,7 +135,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: primary
+    background_color: secondary
   - title: Signup for the beta!
     content: |+
       We'd love to have you try Above for your work or side gig!
