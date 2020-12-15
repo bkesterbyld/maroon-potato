@@ -41,7 +41,7 @@ sections:
     background_color: primary
     background_image_opacity: 0
     background_image_size: cover
-    background_image_position: center center
+    background_image_position: left center
     background_image_repeat: repeat
     type: hero_section
     background_image: images/vectorstock_3653440.png
