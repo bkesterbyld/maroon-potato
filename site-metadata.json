@@ -6,7 +6,7 @@
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "",
+        "title": "Above omputing",
         "logo": "images/abovecorp.png",
         "has_primary_nav": true,
         "primary_nav_links": [
