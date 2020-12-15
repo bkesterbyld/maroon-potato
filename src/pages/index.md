@@ -12,14 +12,14 @@ sections:
     actions:
       - label: Join the Beta
         url: /general-enquiries
-        style: secondary
+        style: primary
     image: images/Picture6.png
     media_position: right
     media_width: sixty
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: none
     has_border: false
   - title: ''
     subtitle: ''
@@ -39,11 +39,12 @@ sections:
     padding_bottom: none
     has_border: false
     background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
+    background_image_opacity: 30
+    background_image_size: auto
+    background_image_position: left center
+    background_image_repeat: repeat
     type: hero_section
+    background_image: images/line.svg
   - type: features_section
     title: ''
     subtitle: ''
@@ -113,8 +114,8 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new projects
           is slow and painful. Above provides an easy way to get customer, ERP
-          and other data into one collaborative environment to enable new apps
-          and move legacy functionality to the cloud.
+          and other data into one collaborative environment to power new apps
+          and move legacy functionality into the cloud.
         content_align: left
         actions:
           - label: Learn More
@@ -165,7 +166,7 @@ sections:
     actions:
       - label: Beta Sign Up
         url: /general-enquiries
-        style: secondary
+        style: primary
     actions_position: right
     actions_width: fourty
     align: left
