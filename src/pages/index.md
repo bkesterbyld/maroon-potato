@@ -165,7 +165,7 @@ sections:
     actions:
       - label: Beta Sign Up
         url: /general-enquiries
-        style: secondary
+        style: primary
     actions_position: right
     actions_width: fourty
     align: left
