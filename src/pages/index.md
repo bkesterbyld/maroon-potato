@@ -13,7 +13,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/abovefront.png
+    image: images/2020-12-02_20-41-28.png
     media_position: right
     media_width: sixty
     align: left
