@@ -12,7 +12,7 @@ sections:
     actions:
       - label: Join the Beta
         url: /general-enquiries
-        style: secondary
+        style: primary
     image: images/Picture6.png
     media_position: right
     media_width: sixty
