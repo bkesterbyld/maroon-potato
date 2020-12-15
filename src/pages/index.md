@@ -142,6 +142,7 @@ sections:
     enable_cards: true
     align: center
     background_color: primary
+    has_border: true
   - type: grid_section
     title: Feedback
     subtitle: ''
