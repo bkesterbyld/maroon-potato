@@ -1,6 +1,6 @@
 {
     "description": "Distributed Data Management API",
-    "layout": "boxed",
+    "layout": "full-width",
     "style": "bold",
     "palette": "blue",
     "mode": "light",
