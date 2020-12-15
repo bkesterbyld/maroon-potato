@@ -38,7 +38,7 @@ sections:
     padding_top: medium
     padding_bottom: none
     has_border: false
-    background_color: primary
+    background_color: none
     background_image_opacity: 0
     background_image_size: auto
     background_image_position: left center
