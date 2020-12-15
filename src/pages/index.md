@@ -44,7 +44,7 @@ sections:
     background_image_position: left center
     background_image_repeat: repeat
     type: hero_section
-    background_image: images/vectorstock_3653440.png
+    background_image: images/line.svg
   - type: features_section
     title: ''
     subtitle: ''
