@@ -4,7 +4,7 @@
     "style": "minimal",
     "palette": "blue",
     "mode": "light",
-    "base_font": "sans-serif",
+    "base_font": "serif",
     "header": {
         "title": "Above Computing",
         "logo": "images/abovecorp.png",
