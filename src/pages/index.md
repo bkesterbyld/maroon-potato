@@ -21,6 +21,7 @@ sections:
     padding_bottom: large
     background_color: none
     has_border: false
+    background_image: images/mighty-eucalyptus.svg
   - title: ''
     subtitle: ''
     content: >
