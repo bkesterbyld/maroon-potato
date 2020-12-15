@@ -23,6 +23,7 @@ sections:
     has_border: false
     background_image: images/mighty-eucalyptus.svg
     background_image_opacity: 10
+    background_image_position: left center
   - title: ''
     subtitle: ''
     content: >
