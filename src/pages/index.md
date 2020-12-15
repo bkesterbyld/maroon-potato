@@ -13,7 +13,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/Picture6.png
+    image: images/abovefront.png
     media_position: right
     media_width: sixty
     align: left
