@@ -166,6 +166,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
+    has_border: true
   - type: cta_section
     title: Frontend or Mobile Developer?
     content: 'We''d love to have you try Above for fun or work. '
