@@ -6,9 +6,8 @@ sections:
     subtitle: ''
     content: >-
       Create a data and logic API for your app or website in minutes without
-      having to code or learn anything. Take advantage of edge and in-memory
-      computing features to speed up user interactions and instantly process
-      data.
+      having to code or learn anything. Take advantage of edge  computing to
+      instantly process data and speed up user interactions.
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -48,7 +47,7 @@ sections:
     background_image_position: left center
     background_image_repeat: repeat
     type: hero_section
-    background_image: images/pleasant-sycamore.svg
+    background_image: images/line2.svg
   - type: features_section
     title: ''
     subtitle: ''
