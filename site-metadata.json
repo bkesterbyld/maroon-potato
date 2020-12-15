@@ -1,12 +1,12 @@
 {
     "description": "Distributed Data Management API",
     "layout": "full-width",
-    "style": "classic",
+    "style": "minimal",
     "palette": "blue",
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "",
+        "title": "Above Computing",
         "logo": "images/abovecorp.png",
         "has_primary_nav": true,
         "primary_nav_links": [

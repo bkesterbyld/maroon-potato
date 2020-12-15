@@ -20,7 +20,11 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    has_border: false
+    has_border: true
+    background_image: images/mighty-eucalyptus.svg
+    background_image_opacity: 20
+    background_image_position: left center
+    background_image_size: auto
   - title: ''
     subtitle: ''
     content: >
@@ -44,7 +48,7 @@ sections:
     background_image_position: left center
     background_image_repeat: repeat
     type: hero_section
-    background_image: images/line.svg
+    background_image: images/pleasant-sycamore.svg
   - type: features_section
     title: ''
     subtitle: ''
