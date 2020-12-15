@@ -41,8 +41,8 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: none
-    has_border: false
-    background_color: none
+    has_border: true
+    background_color: primary
     background_image_opacity: 30
     background_image_size: auto
     background_image_position: left center
@@ -88,6 +88,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+    has_border: true
   - type: grid_section
     title: Use Cases
     subtitle: ''
@@ -141,6 +142,7 @@ sections:
     enable_cards: true
     align: center
     background_color: primary
+    has_border: true
   - type: grid_section
     title: Feedback
     subtitle: ''
@@ -164,6 +166,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
+    has_border: true
   - type: cta_section
     title: Frontend or Mobile Developer?
     content: 'We''d love to have you try Above for fun or work. '
