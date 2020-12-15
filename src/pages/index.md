@@ -47,7 +47,7 @@ sections:
     background_image_position: left center
     background_image_repeat: repeat
     type: hero_section
-    background_image: images/pleasant-sycamore.svg
+    background_image: images/line2.svg
   - type: features_section
     title: ''
     subtitle: ''
