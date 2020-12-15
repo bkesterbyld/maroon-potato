@@ -7,8 +7,8 @@ sections:
     content: >-
       Create a data and logic API for your app or website in minutes without
       having to code or learn anything. Take advantage of edge and in-memory
-      computing features to speed up user interactions and quickly process
-      disparate data sets.
+      computing features to speed up user interactions and instantly process
+      data.
     actions:
       - label: Join the Beta
         url: /general-enquiries
