@@ -30,7 +30,7 @@ sections:
         subtitle: >-
           Get key ERP, marketing and other data in one reusable place to power
           innovation
-        content: >+
+        content: >-
           Standing up one-off databases for new projects and applications
           proliferates silos and increases maintenance costs. Above provides a
           Digital Operations Environment to mirror key data from  big iron,
@@ -39,12 +39,14 @@ sections:
           be used for automated cleansing and transformation.
 
 
-          Once in this collaborative environment, data can be analyzed in
-          real-time and workflow can be easily built across different data
-          sets—enabling innnovative new capabilities such as:
+          Once in this collaborative environment, real-time analytics and
+          workflow can be quickly assembled across different data sets—driving
+          innovation in decision-making and digital experiences.
 
 
-          * Real-time customer and marketing profiles 
+          * Real-time customer profiling and targeting
+
+          * Dynamic pricing
 
           * Virtual shopping experiences
 
@@ -52,14 +54,13 @@ sections:
 
           * Service appointment scheduling
 
-          * Global inventory views
+          * Real-time global inventory views
 
           * Delivery tracking
 
-          * Configure / Price / Quote for custom products
+          * Configure / price / quote for custom products
 
           * Predicting availability of out-of-stock products
-
         video_embed_html: ''
         media_position: left
         media_width: fifty
