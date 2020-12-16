@@ -32,21 +32,30 @@ sections:
           your next project
         content: >-
           Standing up one-off databases for new projects and applications
-          proliferates silos and increases maintenance and downstream analytic
-          costs. With Above, it's possible to rapidly mirror what's in your big
-          iron, SaaS, ERP, WMS, POS, CRM and other systems. These data models
-          can be populated through connectors or through Above's API. Then the
-          native logic tools can be used for cleansing and transformation as
-          needed, without coding. 
+          proliferates silos and increases maintenance costs. Above provides a
+          Digital Operations Environment to mirror key data from  big iron,
+          SaaS, ERP, WMS, POS, CRM and other systems. Data can be populated
+          through connectors or through Above's API. Above's Native logic tools
+          can be used for cleansing and transformation as needed, without
+          coding. 
 
 
-          Once in Above's environment, data sets can be shared with colleagues
-          and partners through direct access or by giving them a synced copy in
-          any region. Data owners set the logic and rules for how data gets
-          updated and synced. Business people can login to view data in a
-          read-only mode—speeding up requirements lock and project timelines.
-          And since the data is in a single, flexible environment it can power
-          future projects.
+          Once in this collaborative environment, data can be analyzed in
+          real-time and workflow can be easily built across different data
+          sets—enabling innnovative new capabilities such as:
+
+
+          * Real-time customer profiles 
+
+          * Predicting availability of out-of-stock products
+
+          * Powering virtual shopping experiences
+
+          * Service appointment scheduling
+
+          * Global inventory views
+
+          .
         video_embed_html: ''
         media_position: left
         media_width: fifty
