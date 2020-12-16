@@ -30,7 +30,7 @@ sections:
         subtitle: >-
           Get your ERP, marketing and other data in one reusable place to power
           your next project
-        content: >-
+        content: >+
           Standing up one-off databases for new projects and applications
           proliferates silos and increases maintenance costs. Above provides a
           Digital Operations Environment to mirror key data from  big iron,
@@ -45,17 +45,22 @@ sections:
           sets—enabling innnovative new capabilities such as:
 
 
-          * Real-time customer profiles 
+          * Real-time customer and marketing profiles 
 
-          * Predicting availability of out-of-stock products
+          * Virtual shopping experiences
 
-          * Powering virtual shopping experiences
+          * Personal shoppers / buyers
 
           * Service appointment scheduling
 
           * Global inventory views
 
-          .
+          * Delivery tracking
+
+          * Configure / Price / Quote for custom products
+
+          * Predicting availability of out-of-stock products
+
         video_embed_html: ''
         media_position: left
         media_width: fifty
