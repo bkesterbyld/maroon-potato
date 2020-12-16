@@ -67,8 +67,8 @@ sections:
           logic](https://en.wikipedia.org/wiki/Control_flow) enables CRUD,
           workflow and analytics without having to learn anything. It pairs with
           [parallel and in-memory processing
-          options](https://www.abovecomp.com/faq) for heavy computing
-          challenges.
+          options](https://www.abovecomp.com/faq) to assure performant data
+          operations.
         actions: []
         image: images/logic040.png
         media_position: left
