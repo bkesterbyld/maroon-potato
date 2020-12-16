@@ -94,7 +94,6 @@ sections:
       - title: Fast Distributed Backend
         title_align: left
         content: >-
-          Users abandon apps and sites that don't respond within 1-3 seconds.
           Above's edge and in-memory processing keeps dynamic data flowing on
           par with the static files served from modern CDNs.
         content_align: left
