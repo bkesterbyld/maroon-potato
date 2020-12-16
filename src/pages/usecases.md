@@ -55,7 +55,9 @@ sections:
 
           * Service appointment scheduling
 
-          * Real-time global inventory views
+          * Real-time inventory across WMS, stores, distributors & mobile stocks
+
+          * Consigned and vendor managed inventory
 
           * Delivery and supply chain coordination
 
