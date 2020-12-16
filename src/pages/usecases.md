@@ -29,7 +29,7 @@ sections:
       - title: Digital Operations Environment
         subtitle: >-
           Get your ERP, marketing and other data in one reusable place to power
-          your next project
+          innovation
         content: >+
           Standing up one-off databases for new projects and applications
           proliferates silos and increases maintenance costs. Above provides a
