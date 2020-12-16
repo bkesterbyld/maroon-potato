@@ -31,8 +31,8 @@ sections:
 
       Above is a global computing network that replaces databases, backend
       coding, app servers, containers, DevOps and scores of low level tasks. The
-      experience is no code and fast, freeing your brain to focus on UX, client
-      logic and other higher level work.
+      experience is no code and fast, freeing you to focus on interfaces, client
+      logic and other high level work.
     actions: []
     video_embed_html: ''
     media_position: top
@@ -67,8 +67,8 @@ sections:
           logic](https://en.wikipedia.org/wiki/Control_flow) enables CRUD,
           workflow and analytics without having to learn anything. It pairs with
           [parallel and in-memory processing
-          options](https://www.abovecomp.com/faq) for heavy computing
-          challenges.
+          options](https://www.abovecomp.com/faq) to assure performant data
+          operations.
         actions: []
         image: images/logic040.png
         media_position: left
@@ -94,7 +94,6 @@ sections:
       - title: Fast Distributed Backend
         title_align: left
         content: >-
-          Users abandon apps and sites that don't respond within 1-3 seconds.
           Above's edge and in-memory processing keeps dynamic data flowing on
           par with the static files served from modern CDNs.
         content_align: left
@@ -115,10 +114,9 @@ sections:
       - title: Digital Operations Environment
         title_align: left
         content: >-
-          Aggregating disparate corporate and partner data to power new projects
-          is slow and painful. Above provides an easy way to get customer, ERP
-          and other data into one collaborative environment to make sense of it
-          and power new apps.
+          Above provides an easy way to get inventory, customer, ERP and other
+          data into one collaborative environment to make sense of it and power
+          new apps.
         content_align: left
         actions:
           - label: Learn More

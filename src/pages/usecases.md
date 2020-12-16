@@ -31,17 +31,16 @@ sections:
           Get key ERP, marketing and other data in one reusable place to power
           innovation
         content: >-
-          Standing up one-off databases for new projects and applications
-          proliferates silos and increases maintenance costs. Above provides a
-          Digital Operations Environment to mirror key data from big iron, ERP,
-          SaaS, WMS, POS, CRM and other systems. Data can be populated through
-          connectors or through the API. Above's native logic tools can be used
-          for automated cleansing and transformation.
+          Standing up one-off databases for new projects fragements data and
+          increases maintenance costs. Above provides a Digital Operations
+          Environment to mirror key data from big iron, ERP, SaaS, WMS, POS, CRM
+          and other systems—and allow anyone to securely develop and collaborate
+          around it. 
 
 
-          Once in this collaborative environment, real-time analytics and
-          workflow can be quickly assembled across different data sets—enabling
-          automated decisions and novel digital experiences.
+          Once in this environment, real-time analytics and workflow can be
+          quickly assembled across different data sets—enabling automated
+          decisions and novel digital experiences.
 
 
           * Real-time customer profiling and targeting
