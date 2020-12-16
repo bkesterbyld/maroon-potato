@@ -35,9 +35,8 @@ sections:
           proliferates silos and increases maintenance costs. Above provides a
           Digital Operations Environment to mirror key data from  big iron,
           SaaS, ERP, WMS, POS, CRM and other systems. Data can be populated
-          through connectors or through Above's API. Above's Native logic tools
-          can be used for cleansing and transformation as needed, without
-          coding. 
+          through connectors or through the API. Above's native logic tools can
+          be used for automated cleansing and transformation.
 
 
           Once in this collaborative environment, data can be analyzed in
