@@ -28,7 +28,7 @@ sections:
         media_width: fifty
       - title: Digital Operations Environment
         subtitle: >-
-          Get your ERP, marketing and other data in one reusable place to power
+          Get ERP, marketing and other data in one reusable place to power
           innovation
         content: >+
           Standing up one-off databases for new projects and applications
