@@ -23,7 +23,7 @@ sections:
           assure high levels of performance to local users regardless of data
           types, speeds and sizes. And because Above is no code, shipping new
           features out the door is both fast and easy.
-        image: images/distributed-computing.png
+        image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
       - title: Digital Operations Environment
