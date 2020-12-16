@@ -59,6 +59,8 @@ sections:
 
           * Real-time global inventory
 
+          * Warranty renewal, upsell and self-service
+
           * Consigned and vendor managed inventory
 
           * Delivery and supply chain coordination
