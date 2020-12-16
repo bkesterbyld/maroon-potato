@@ -117,8 +117,8 @@ sections:
         content: >-
           Aggregating disparate corporate and partner data to power new projects
           is slow and painful. Above provides an easy way to get customer, ERP
-          and other data into one collaborative environment to power new apps
-          and move legacy functionality into the cloud.
+          and other data into one collaborative environment to make sense of it
+          and power new apps.
         content_align: left
         actions:
           - label: Learn More
