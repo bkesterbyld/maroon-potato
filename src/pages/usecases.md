@@ -21,8 +21,8 @@ sections:
 
           Above couples this network with [powerful computing options](/faq) to
           assure high levels of performance to local users regardless of data
-          types, speeds and sizes. And because Above is no code, shipping new,
-          powerful features out the door is both fast and easy.
+          types, speeds and sizes. And because Above is no code, shipping new
+          features out the door is both fast and easy.
         image: images/distributed-computing.png
         media_position: right
         media_width: fifty
