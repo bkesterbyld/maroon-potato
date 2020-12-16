@@ -55,6 +55,8 @@ sections:
 
           * Service appointment scheduling
 
+          * Spare parts logistics
+
           * Real-time inventory across WMS, stores, distributors & mobile stocks
 
           * Consigned and vendor managed inventory
