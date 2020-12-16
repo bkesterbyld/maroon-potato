@@ -33,15 +33,15 @@ sections:
         content: >-
           Standing up one-off databases for new projects and applications
           proliferates silos and increases maintenance costs. Above provides a
-          Digital Operations Environment to mirror key data from  big iron,
-          SaaS, ERP, WMS, POS, CRM and other systems. Data can be populated
-          through connectors or through the API. Above's native logic tools can
-          be used for automated cleansing and transformation.
+          Digital Operations Environment to mirror key data from big iron, ERP,
+          SaaS, WMS, POS, CRM and other systems. Data can be populated through
+          connectors or through the API. Above's native logic tools can be used
+          for automated cleansing and transformation.
 
 
           Once in this collaborative environment, real-time analytics and
-          workflow can be quickly assembled across different data sets—driving
-          innovation in decision-making and digital experiences.
+          workflow can be quickly assembled across different data sets—enabling
+          automated decisions and novel digital experiences.
 
 
           * Real-time customer profiling and targeting
