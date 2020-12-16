@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Fast Distributed Backend
-        subtitle: Create new features fast and process data near your users
+        subtitle: Create new features fast and process data near users
         content: >-
           Above enables computing next to users without deploying databases,
           writing code or calling cloud functions that have performance limits.
