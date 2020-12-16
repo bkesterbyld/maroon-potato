@@ -55,7 +55,7 @@ sections:
 
           * Service appointment scheduling
 
-          * Spare parts logistics
+          * RMA, warranty and spares logistics
 
           * Real-time inventory across WMS, stores, distributors & mobile stocks
 
