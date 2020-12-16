@@ -40,7 +40,7 @@ sections:
 
           Once in this environment, real-time analytics and workflow can be
           quickly assembled across different data sets—enabling automated
-          decisions and novel digital experiences.
+          decisions and novel digital experiences such as:
 
 
           * Real-time customer profiling and targeting
