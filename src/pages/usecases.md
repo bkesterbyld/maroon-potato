@@ -55,9 +55,9 @@ sections:
 
           * Service appointment scheduling
 
-          * RMA, warranty and spares logistics
+          * Automated replenishment 
 
-          * Real-time inventory across WMS, stores, distributors & mobile stocks
+          * Real-time global inventory
 
           * Consigned and vendor managed inventory
 
