@@ -9,51 +9,62 @@ sections:
   - type: features_section
     features:
       - title: Fast Distributed Backend
-        subtitle: Create new features fast and process data near your users
+        subtitle: Create new features fast and process data near users
         content: >-
-          Above enables computing next to users without deploying databases,
-          writing code or calling cloud functions that have performance limits.
-          Our network allows you to put a full or partial backend anywhere in
-          the world. Active Data Management technology syncs only field-level
-          changes across regions, ensuring snappy solution-wide response. 
+          Above enables computing near users anywhere without deploying
+          databases, writing code or calling cloud functions that have
+          performance limits. Our network allows you to put a full or partial
+          backend anywhere in the world. Active Data Management technology syncs
+          only field-level changes across regions, ensuring snappy solution-wide
+          response. 
 
 
-          Above couples this network with powerful computing options to assure
-          high levels of performance to local users regardless of data types,
-          speeds and sizes. Any data set can be put into memory to handle high
-          transactional or calculations throughput. Massive data sets can be
-          broken down and paralell processed for faster CRUD operations or for
-          faster analytic or reporting jobs. Combining both approaches enables
-          handling of data science and ML solutions. Because Above is no code,
-          shipping new, powerful features out the door is both fast and easy.
-        image: images/distributed-computing.png
+          Above couples this network with [powerful computing options](/faq) to
+          assure high levels of performance to local users regardless of data
+          types, speeds and sizes. And because Above is no code, shipping new
+          features out the door is both fast and easy.
+        image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
       - title: Digital Operations Environment
         subtitle: >-
-          Get your ERP, marketing and other data in one reusable place to power
-          your next project
+          Get key ERP, marketing and other data in one reusable place to power
+          innovation
         content: >-
           Standing up one-off databases for new projects and applications
-          proliferates silos and increases maintenance and downstream analytic
-          costs. With Above, it's possible to rapidly mirror what's in your big
-          iron, SaaS, ERP, WMS, POS, CRM and other systems. These data models
-          can be populated through connectors or through Above's API. Then the
-          native logic tools can be used for cleansing and transformation as
-          needed, without coding. 
+          proliferates silos and increases maintenance costs. Above provides a
+          Digital Operations Environment to mirror key data from  big iron,
+          SaaS, ERP, WMS, POS, CRM and other systems. Data can be populated
+          through connectors or through the API. Above's native logic tools can
+          be used for automated cleansing and transformation.
 
 
-          Once in Above's environment, data sets can be shared with colleagues
-          and partners through direct access or by giving them a synced copy in
-          any region. Data owners set the logic and rules for how data gets
-          updated and synced. Business people can login to view data in a
-          read-only mode—speeding up requirements lock and project timelines.
-          And since the data is in a single, flexible environment it can power
-          future projects.
+          Once in this collaborative environment, real-time analytics and
+          workflow can be quickly assembled across different data sets—driving
+          innovation in decision-making and digital experiences.
+
+
+          * Real-time customer profiling and targeting
+
+          * Dynamic pricing
+
+          * Virtual shopping experiences
+
+          * Personal shoppers / buyers
+
+          * Service appointment scheduling
+
+          * Real-time global inventory views
+
+          * Delivery tracking
+
+          * Configure / price / quote for custom products
+
+          * Predicting availability of out-of-stock products
         video_embed_html: ''
         media_position: left
         media_width: fifty
-        image: images/good-olive.png
+        image: images/digital-operations-platform-2.png
   - type: cta_section
     title: More questions? Check out our FAQs.
     content: ''
