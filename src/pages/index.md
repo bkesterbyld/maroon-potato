@@ -31,8 +31,8 @@ sections:
 
       Above is a global computing network that replaces databases, backend
       coding, app servers, containers, DevOps and scores of low level tasks. The
-      experience is no code and fast, freeing your brain to focus on UX, client
-      logic and other higher level work.
+      experience is no code and fast, freeing you to focus on interfaces, client
+      logic and other high level work.
     actions: []
     video_embed_html: ''
     media_position: top
