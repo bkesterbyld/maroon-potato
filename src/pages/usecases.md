@@ -26,14 +26,14 @@ sections:
         image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
-      - title: Digital Operations Environment
+      - title: Digital Operations API
         subtitle: >-
           Get key ERP, marketing and other data in one reusable place to power
           innovation
         content: >-
           Standing up one-off databases for new projects fragments data and
-          increases maintenance costs. Above provides a Digital Operations
-          Environment to mirror key data from big iron, ERP, SaaS, WMS, POS, CRM
+          increases maintenance costs. Above provides a digital operations
+          environment to mirror key data from big iron, ERP, SaaS, WMS, POS, CRM
           and other systems—and allow anyone to develop and collaborate around
           it.  
 
@@ -48,6 +48,8 @@ sections:
           * Dynamic pricing
 
           * Virtual shopping experiences
+
+          * Subscription servicing
 
           * Personal shoppers / buyers
 
