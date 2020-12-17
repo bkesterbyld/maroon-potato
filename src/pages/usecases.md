@@ -71,7 +71,7 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: fifty
-        image: images/digital-operations-platform-2.png
+        image: images/distributed-operations-platform-api-1.png
   - type: cta_section
     title: More questions? Check out our FAQs.
     content: ''
