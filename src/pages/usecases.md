@@ -49,6 +49,8 @@ sections:
 
           * Virtual shopping experiences
 
+          * Subscription servicing
+
           * Personal shoppers / buyers
 
           * Curbside pickup
