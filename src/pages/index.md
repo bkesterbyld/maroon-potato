@@ -111,7 +111,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Digital Operations Environment
+      - title: Digital Operations API
         title_align: left
         content: >-
           Above provides an easy way to get inventory, customer, ERP and other
