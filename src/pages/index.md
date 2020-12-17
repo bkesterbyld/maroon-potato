@@ -116,7 +116,7 @@ sections:
         content: >-
           An easy way to get key inventory, customer, ERP and other data into
           one collaborative environment to make sense of it and power multiple
-          new apps.
+          projects and solutions. 
         content_align: left
         actions:
           - label: Learn More
