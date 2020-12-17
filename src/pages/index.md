@@ -114,9 +114,9 @@ sections:
       - title: Digital Operations API
         title_align: left
         content: >-
-          Above provides an easy way to get inventory, customer, ERP and other
-          data into one collaborative environment to make sense of it and power
-          new apps.
+          An easy way to get inventory, customer, ERP and other data into one
+          collaborative environment to make sense of it and power multiple new
+          apps.
         content_align: left
         actions:
           - label: Learn More
