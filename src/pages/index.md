@@ -94,8 +94,8 @@ sections:
       - title: Fast Distributed Backend
         title_align: left
         content: >-
-          Above's edge and in-memory processing keeps dynamic data flowing on
-          par with the static files served from modern CDNs.
+          Edge and in-memory processing keep dynamic data flowing on par with
+          the static files served from modern CDNs.
         content_align: left
         actions:
           - label: Learn More
@@ -111,12 +111,12 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Digital Operations Environment
+      - title: Digital Operations API
         title_align: left
         content: >-
-          Above provides an easy way to get inventory, customer, ERP and other
-          data into one collaborative environment to make sense of it and power
-          new apps.
+          An easy way to get inventory, customer, ERP and other data into one
+          collaborative environment to make sense of it and power multiple new
+          apps.
         content_align: left
         actions:
           - label: Learn More
