@@ -32,8 +32,8 @@ sections:
           innovation
         content: >-
           Standing up one-off databases for new projects fragments data and
-          increases maintenance costs. Above provides a Digital Operations
-          Environment to mirror key data from big iron, ERP, SaaS, WMS, POS, CRM
+          increases maintenance costs. Above provides a digital operations
+          environment to mirror key data from big iron, ERP, SaaS, WMS, POS, CRM
           and other systems—and allow anyone to develop and collaborate around
           it.  
 
