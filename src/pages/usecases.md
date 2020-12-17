@@ -26,7 +26,7 @@ sections:
         image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
-      - title: Digital Operations Environment
+      - title: Digital Operations API
         subtitle: >-
           Get key ERP, marketing and other data in one reusable place to power
           innovation
