@@ -122,7 +122,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /distributed-operations-api
+            url: /digital-operations-platform-api
             style: link
             has_icon: true
             icon: arrow-right
