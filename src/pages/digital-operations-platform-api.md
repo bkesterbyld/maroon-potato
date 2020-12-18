@@ -56,7 +56,9 @@ sections:
         image: images/digital-operations-platform-2.png
     background_color: none
   - title: ''
-    subtitle: ''
+    subtitle: >-
+      What can you do with mixed marketing and ops data? Here are some ideas
+      from our reference library!
     actions: []
     grid_items:
       - title: 360 customer view
