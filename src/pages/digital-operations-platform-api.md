@@ -191,7 +191,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Stockout manager
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           Predict and understand stockouts while reserving to-be-produced
