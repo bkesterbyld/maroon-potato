@@ -14,16 +14,16 @@
 
 	&.style-bold {
 		.card {
-			border-color: $color-bold-card-border;
+			border-color:none;
 		}
 
 		.site-header {
-			border-color: $color-bold-header-border;
+			border-color: none;
 		}
 
 		.site-footer__nav,
 		.site-footer__info {
-			border-color: $color-bold-footer-border;
+			border-color: none;
 		}
 
 		.nav-overlay {
@@ -32,14 +32,14 @@
 
 		@include media-breakpoint-down(md) {
 			.navbar__menu {
-				border-color: $color-bold-nav-mobile-border;
+				border-color: none;
 			}
 		}
 
 		&.layout-boxed {
 			@media (min-width: 1401px) {
 				.site {
-					border-color: $color-bold-boxed-border;
+					border-color: none;
 				}
 			}
 		}
@@ -51,7 +51,7 @@
 
 		.section {
 			&.has-border {
-				border-color: $color-bold-sect-border;
+				border-color: none;
 			}
 		}
 	}
@@ -72,17 +72,17 @@
 
 	.bg-secondary {
 		pre {
-			border-color: $color-secondary-sect-code-border;
+			border-color: none;
 		}
 
 		table,
 		th,
 		td {
-			border-color: $color-secondary-sect-table-border;
+			border-color: none;
 		}
 
 		hr {
-			background-color: $color-secondary-sect-hr-border;
+			background-color: none;
 		}
 	}
 
@@ -186,7 +186,7 @@
 			table,
 			th,
 			td {
-				border-color: $color-table-border;
+				border-color: none;
 			}
 
 			input[type="text"],
