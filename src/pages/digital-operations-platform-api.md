@@ -59,7 +59,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: 360 Customer View
+      - title: 360 customer view
         subtitle: ''
         title_align: center
         content: >
