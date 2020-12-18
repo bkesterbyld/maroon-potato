@@ -208,7 +208,7 @@ sections:
       - title: Reverse logistics
         subtitle: ''
         title_align: left
-        content: Manage physical returns with in-house and 3PL carriers
+        content: Manage customer returns with in-house and 3PL carriers
         content_align: left
         actions: []
         actions_align: left
