@@ -1,6 +1,6 @@
 ---
 title: Features
-excerpt: lorem-ipsum
+excerpt: Digital Operations API
 sections:
   - type: hero_section
     title: Use Cases
