@@ -62,7 +62,9 @@ sections:
       - title: ''
         subtitle: ''
         title_align: center
-        content: 360 customer data manager
+        content: >
+          Fuse CRM, marketing, ERP, financial and other data and act on
+          real-time customer profiles
         content_align: left
         actions: []
         actions_align: left
