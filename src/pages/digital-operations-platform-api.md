@@ -55,7 +55,7 @@ sections:
         media_width: fifty
         image: images/digital-operations-platform-2.png
     background_color: none
-  - title: Use our pre-built examples or roll your own
+  - title: Use our pre-built digital commerce examples or roll your own
     subtitle: ''
     actions: []
     grid_items:
