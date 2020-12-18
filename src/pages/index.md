@@ -121,7 +121,7 @@ sections:
           projects. 
         content_align: left
         actions:
-          - label: /distributed-operations-api
+          - label: Learn More
             url: /usecases
             style: link
             has_icon: true
