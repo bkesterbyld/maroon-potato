@@ -92,7 +92,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Fast Distributed Micro-Backend
+      - title: Fast Distributed Micro-Backends
         title_align: left
         content: >-
           Use edge and in-memory processing keep dynamic data flowing on par
