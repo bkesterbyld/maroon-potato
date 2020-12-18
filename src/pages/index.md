@@ -30,9 +30,10 @@ sections:
       #### Save your brain for high level work
 
       Above is a global computing network that replaces databases, backend
-      coding, app servers, containers, DevOps and scores of low level tasks. The
-      experience is no code and fast, freeing you to focus on interfaces, client
-      logic and other high level work.
+      coding and infrastructure. It's API-first, so it's easy to get existing
+      data into Above, process it, and send it back out to your apps and
+      features. The experience is no code and fast, freeing you to focus on
+      interfaces, client logic and other high level work.
     actions: []
     video_embed_html: ''
     media_position: top
