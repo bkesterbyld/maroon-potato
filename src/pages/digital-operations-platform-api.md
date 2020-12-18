@@ -75,7 +75,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Dynamic pricing
-        subtitle: 'Compare inventory, forecast and '
+        subtitle: 'Compare inventory, forecast'
         title_align: left
         content: ''
         content_align: left
