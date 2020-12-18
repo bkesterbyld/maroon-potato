@@ -88,7 +88,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Virtual shopping
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: ''
         content_align: left
