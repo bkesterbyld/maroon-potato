@@ -235,7 +235,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: ''
-        subtitle: Product customization
+        subtitle: ''
         title_align: left
         content: >-
           Manage complex product combinations and bundles that customers can
