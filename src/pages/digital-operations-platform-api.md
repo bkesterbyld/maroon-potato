@@ -146,7 +146,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Auto replenishment
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           Give customers and option to subscribe or auto-replenish their stock
