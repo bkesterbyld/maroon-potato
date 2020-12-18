@@ -253,8 +253,8 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >-
-          Deploy order - pick - pack - ship processes to brick-and-order stores
-          and distributors
+          Deploy order pick and ship processes to brick-and-order stores and
+          distributors
         content_align: left
         actions: []
         actions_align: left
