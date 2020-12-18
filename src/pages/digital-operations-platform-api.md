@@ -279,7 +279,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: cta_section
-    title: More questions? Check out our FAQs.
+    title: Questions? Check out our FAQs.
     content: ''
     actions:
       - label: Go to FAQ
