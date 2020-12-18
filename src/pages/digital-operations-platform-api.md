@@ -272,14 +272,14 @@ sections:
     padding_top: small
     padding_bottom: medium
     has_border: false
-    background_color: primary
+    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
   - type: cta_section
-    title: More questions? Check out our FAQs.
+    title: Questions? Check out our FAQ.
     content: ''
     actions:
       - label: Go to FAQ
