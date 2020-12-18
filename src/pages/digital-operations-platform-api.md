@@ -62,7 +62,7 @@ sections:
       - title: 360 customer data manager
         subtitle: ''
         title_align: center
-        content: ''
+        content: 360 customer data manager
         content_align: left
         actions: []
         actions_align: left
