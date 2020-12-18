@@ -61,7 +61,7 @@ sections:
     grid_items:
       - title: 360 customer data manager
         subtitle: 360 Customer Data
-        title_align: left
+        title_align: center
         content: Item 1
         content_align: left
         actions: []
