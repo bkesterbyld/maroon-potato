@@ -100,7 +100,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Personal Shopping
+      - title: Curbside picking
         subtitle: ''
         title_align: left
         content: Schedule appointments with customers and collaborate on shopping lists
