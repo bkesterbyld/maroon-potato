@@ -1,6 +1,6 @@
 ---
 title: Digital Operations API
-excerpt: Digital Operations API
+excerpt: 'Get key ERP, marketing and other data in one reusable place'
 sections:
   - type: hero_section
     title: Use Cases
