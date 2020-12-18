@@ -175,7 +175,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Global inventory view
+      - title: Global inventory
         subtitle: ''
         title_align: left
         content: >-
