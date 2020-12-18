@@ -238,16 +238,8 @@ sections:
         subtitle: Product customization
         title_align: left
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Manage complex product combinations and bundles that customers can
+          configure and get a price or quote for
         content_align: left
         actions: []
         actions_align: left
