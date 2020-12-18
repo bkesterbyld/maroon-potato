@@ -60,7 +60,7 @@ sections:
     actions: []
     grid_items:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: '360'
         title_align: left
         content: Item 1
         content_align: left
