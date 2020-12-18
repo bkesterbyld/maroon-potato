@@ -122,7 +122,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /usecases
+            url: /distributed-operations-api
             style: link
             has_icon: true
             icon: arrow-right
