@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Digital Operations Environment
+      - title: Digital Operations API
         subtitle: >-
           Get key ERP, marketing and other data in one reusable place to power
           innovation
