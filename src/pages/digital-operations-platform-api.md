@@ -116,7 +116,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Personal shopping
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           Schedule and manage shopping list builds and personalized
