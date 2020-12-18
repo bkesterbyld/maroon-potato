@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >-
       Create a data and logic API for your app or website in minutes without
-      having to code or learn anything. Take advantage of edge  computing to
+      having to code or learn anything. Take advantage of edge computing to
       instantly process data and speed up user interactions.
     actions:
       - label: Join the Beta
@@ -30,9 +30,10 @@ sections:
       #### Save your brain for high level work
 
       Above is a global computing network that replaces databases, backend
-      coding, app servers, containers, DevOps and scores of low level tasks. The
-      experience is no code and fast, freeing you to focus on interfaces, client
-      logic and other high level work.
+      coding and infrastructure. You can build something from scratch or ingest
+      and mix existing data to innovate. The overall experience is no code and
+      fast, freeing you to focus on interfaces, client logic and other high
+      level work.
     actions: []
     video_embed_html: ''
     media_position: top
@@ -91,11 +92,12 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Fast Distributed Backend
+      - title: Fast Distributed Micro-Backend
         title_align: left
         content: >-
-          Edge and in-memory processing keep dynamic data flowing on par with
-          the static files served from modern CDNs.
+          Cook up new site and app components and use edge and in-memory
+          processing keep dynamic data flowing on par with the static files
+          served from modern CDNs.
         content_align: left
         actions:
           - label: Learn More
@@ -120,7 +122,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /usecases
+            url: /distributed-operations-api
             style: link
             has_icon: true
             icon: arrow-right
