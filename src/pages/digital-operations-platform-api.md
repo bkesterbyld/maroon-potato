@@ -60,7 +60,7 @@ sections:
     actions: []
     grid_items:
       - title: ''
-        subtitle: ''
+        subtitle: 360 Customer Profiles
         title_align: center
         content: >
           Fuse CRM, marketing, ERP, financial and other data and act on
