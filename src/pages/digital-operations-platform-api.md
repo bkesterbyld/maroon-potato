@@ -134,16 +134,8 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Enable customers to pick service windows and collaborate on help or
+          fix-it events
         content_align: left
         actions: []
         actions_align: left
