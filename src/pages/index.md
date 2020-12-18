@@ -95,8 +95,8 @@ sections:
       - title: Fast Distributed Backend
         title_align: left
         content: >-
-          Edge and in-memory processing keep dynamic data flowing on par with
-          the static files served from modern CDNs.
+          Use edge and in-memory processing keep dynamic data flowing on par
+          with the static files served from modern CDNs.
         content_align: left
         actions:
           - label: Learn More
