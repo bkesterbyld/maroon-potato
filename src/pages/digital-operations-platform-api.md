@@ -59,7 +59,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: 360 customer data platform
         subtitle: 360 Customer Data
         title_align: left
         content: Item 1
