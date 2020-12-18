@@ -131,7 +131,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Service appointments
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           ## Lorem ipsum
