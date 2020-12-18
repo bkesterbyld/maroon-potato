@@ -54,7 +54,7 @@ sections:
         media_position: left
         media_width: fifty
         image: images/digital-operations-platform-2.png
-    background_color: secondary
+    background_color: none
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
