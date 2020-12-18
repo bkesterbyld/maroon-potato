@@ -41,7 +41,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Digital Operations API",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
