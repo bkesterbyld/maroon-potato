@@ -235,7 +235,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: ''
-        subtitle: Prod
+        subtitle: Custom p
         title_align: left
         content: >-
           ## Lorem ipsum
