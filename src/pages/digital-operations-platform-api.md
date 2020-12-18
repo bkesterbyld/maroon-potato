@@ -223,16 +223,8 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Turn your products into services that can be subscribed to, leased or
+          paid for based on outcomes and output
         content_align: left
         actions: []
         actions_align: left
