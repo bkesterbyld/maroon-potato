@@ -218,7 +218,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: Warranty & returns
         subtitle: lorem-ipsum
         title_align: left
         content: Track entitlements and manage warranty and refund processing
