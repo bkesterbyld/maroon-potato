@@ -55,7 +55,7 @@ sections:
         media_width: fifty
         image: images/digital-operations-platform-2.png
     background_color: none
-  - title: lorem-ipsum
+  - title: Use our pre-built examples or roll your own
     subtitle: lorem-ipsum
     actions: []
     grid_items:
