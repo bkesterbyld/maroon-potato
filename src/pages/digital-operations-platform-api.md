@@ -103,7 +103,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Personal Shopping
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: Schedule appointments with customers and collaborate on shopping lists
         content_align: left
