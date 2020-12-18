@@ -31,7 +31,7 @@ sections:
 
       Above is a global computing network that replaces databases, backend
       coding and infrastructure. You can build something from scratch or ingest
-      and mix existing data to innovate. The overall experience is no code and
+      and mix existing data to innovate. The overall experience is low code and
       fast, freeing you to focus on interfaces, client logic and other high
       level work.
     actions: []
