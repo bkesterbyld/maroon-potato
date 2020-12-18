@@ -250,7 +250,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Store-as-WMS
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           Deploy order pick and ship processes to brick-and-order stores and
