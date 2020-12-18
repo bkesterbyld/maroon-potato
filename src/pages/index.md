@@ -95,8 +95,9 @@ sections:
       - title: Fast Distributed Micro-Backend
         title_align: left
         content: >-
-          Use edge and in-memory processing keep dynamic data flowing on par
-          with the static files served from modern CDNs.
+          Cook up new site and app components and use edge and in-memory
+          processing keep dynamic data flowing on par with the static files
+          served from modern CDNs.
         content_align: left
         actions:
           - label: Learn More
