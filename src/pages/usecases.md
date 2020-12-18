@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: 'Fast, Distributed Micro-Ba'
+      - title: 'Fast, Distributed Micro-Backend'
         subtitle: Create new features fast and process data near users
         content: >-
           Above enables computing near users anywhere without deploying
