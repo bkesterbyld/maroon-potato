@@ -152,8 +152,9 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          MIx WMS, POS, ERP and mobile stocks into a constantly updated view of
-          global products and consumables
+          MIx WMS, POS, ERP, 3PL and mobile stocks into a constantly updated
+          view of global products and consumables across warehouses, stores and
+          distributors
         content_align: left
         actions: []
         actions_align: left
