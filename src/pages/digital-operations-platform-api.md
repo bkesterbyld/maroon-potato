@@ -103,7 +103,7 @@ sections:
       - title: Personal Shopping
         subtitle: lorem-ipsum
         title_align: left
-        content: ''
+        content: Schedule appointments with customers and collaborate on shopping lists
         content_align: left
         actions: []
         actions_align: left
