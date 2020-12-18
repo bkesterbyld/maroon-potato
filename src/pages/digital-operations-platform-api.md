@@ -205,7 +205,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: R
+      - title: Reverse logistics
         subtitle: ''
         title_align: left
         content: Manage physical returns with in-house and 3PL carriers
