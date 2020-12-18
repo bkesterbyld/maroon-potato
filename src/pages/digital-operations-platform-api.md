@@ -57,7 +57,7 @@ sections:
     background_color: none
   - title: >-
       What can you do with mixed marketing and ops data? Try out some of our
-      reference 
+      reference solutions
     subtitle: ''
     actions: []
     grid_items:
