@@ -101,7 +101,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /usecases
+            url: /micro-backend-as-a-service
             style: link
             has_icon: true
             icon: arrow-right
