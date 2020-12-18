@@ -176,7 +176,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Global inventory view
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           MIx WMS, POS, ERP and mobile stocks into a constantly updated view of
