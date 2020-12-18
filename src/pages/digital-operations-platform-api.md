@@ -103,7 +103,9 @@ sections:
       - title: Curbside picking
         subtitle: ''
         title_align: left
-        content: Schedule appointments with customers and collaborate on shopping lists
+        content: >-
+          Manage inventory picks and coordinate in-person parking lot delivery
+          to customers
         content_align: left
         actions: []
         actions_align: left
