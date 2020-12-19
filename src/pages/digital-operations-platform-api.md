@@ -28,8 +28,8 @@ sections:
         media_width: fifty
         image: images/digital-operations-platform-2.png
     background_color: none
-  - title: 'What can you do with mixed marketing and ops data? '
-    subtitle: A library of rich demos and reusable solutions
+  - title: 'What can you do with mixed ops and marketing data? '
+    subtitle: Check out our library of rich examples and reusable solutions
     actions: []
     grid_items:
       - title: 360 customer view
@@ -122,7 +122,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          Give customers and option to subscribe or auto-replenish their stock
+          Give customers the option to subscribe or auto-replenish their stock
           of your products
         content_align: left
         actions: []
@@ -134,7 +134,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Consignment & VMI
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           Setup an onsite store at customer locations and bill them upon
@@ -152,7 +152,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          MIx WMS, POS, ERP, 3PL stocks into a constantly updated view of global
+          Mix WMS, POS, ERP, 3PL stocks into a constantly updated view of global
           inventory across warehouses, stores and distributors
         content_align: left
         actions: []
@@ -224,7 +224,7 @@ sections:
         title_align: left
         content: >-
           Turn your products into services that can be subscribed to, leased or
-          paid for based on outcomes and output
+          paid for based on output
         content_align: left
         actions: []
         actions_align: left
@@ -239,7 +239,7 @@ sections:
         title_align: left
         content: >-
           Manage complex product combinations and bundles that customers can
-          configure and get a price or quote for
+          configure and get a quote for
         content_align: left
         actions: []
         actions_align: left
@@ -253,8 +253,8 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          Deploy order pick and ship processes to brick-and-order stores and
-          distributors
+          Deploy visibility and order pick/ship processes across physical stores
+          and distributors
         content_align: left
         actions: []
         actions_align: left
