@@ -253,8 +253,8 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          Deploy order pick and ship processes to brick-and-order stores and
-          distributors
+          Deploy visibility and order pick/ship processes across physical stores
+          and distributors
         content_align: left
         actions: []
         actions_align: left
