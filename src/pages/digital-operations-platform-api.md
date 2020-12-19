@@ -22,9 +22,9 @@ sections:
 
           Once in this environment, real-time analytics and workflow can be
           quickly assembled across different data sets—driving automated
-          decisions and novel digital experiences. You won't need IT or backend
-          engineering to build the experience, Above replaces the need for app
-          or web servers and gets you working on the frontend instantly.
+          decisions and novel features. You won't need IT or backend engineering
+          to build experiences, Above replaces the need for app or web servers
+          and gets you working on the frontend instantly.
         video_embed_html: ''
         media_position: left
         media_width: fifty
