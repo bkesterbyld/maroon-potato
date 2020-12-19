@@ -134,7 +134,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Consignment & VMI
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           Setup an onsite store at customer locations and bill them upon
