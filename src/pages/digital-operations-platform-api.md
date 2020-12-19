@@ -13,16 +13,18 @@ sections:
           Get key ERP, marketing and other data in one reusable place to power
           innovation
         content: >-
-          Standing up one-off databases for new projects fragments data and
-          increases maintenance costs. Above provides a Digital Operations
-          Environment to mirror key data from big iron, ERP, SaaS, WMS, POS, CRM
-          and other systems—and allow anyone to develop and collaborate around
-          it.  
+          Standing up one-off databases for new projects and features fragments
+          data and increases maintenance costs. Above provides a no code Digital
+          Operations environment to mirror key data from big iron, ERP, SaaS,
+          WMS, POS, CRM and other systems—and allow anyone to develop and
+          collaborate around it.  
 
 
           Once in this environment, real-time analytics and workflow can be
-          quickly assembled across different data sets—enabling automated
-          decisions and novel digital experiences.
+          quickly assembled across different data sets—driving automated
+          decisions and novel digital experiences. You won't need IT or backend
+          engineering to build the experience, Above replaces the need for app
+          or web servers and gets you working on the frontend instantly.
         video_embed_html: ''
         media_position: left
         media_width: fifty
@@ -290,6 +292,6 @@ sections:
     padding_top: small
     padding_bottom: small
     has_border: false
-    background_color: secondary
+    background_color: none
 template: advanced
 ---
