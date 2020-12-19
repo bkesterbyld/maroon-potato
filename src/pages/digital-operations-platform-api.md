@@ -10,8 +10,8 @@ sections:
     features:
       - title: Digital Operations API
         subtitle: >-
-          Get key ops and marketing data and other data in one collaborative
-          place to power innovation
+          Get key ops and marketing data in one collaborative place to power
+          innovation
         content: >-
           Standing up one-off databases for new projects and features fragments
           data and increases maintenance costs. Above provides a no code Digital
