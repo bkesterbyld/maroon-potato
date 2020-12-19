@@ -224,7 +224,7 @@ sections:
         title_align: left
         content: >-
           Turn your products into services that can be subscribed to, leased or
-          paid for based on outcomes and output
+          paid for based on output
         content_align: left
         actions: []
         actions_align: left
