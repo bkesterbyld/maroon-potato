@@ -29,7 +29,7 @@ sections:
         image: images/digital-operations-platform-2.png
     background_color: none
   - title: 'What can you do with mixed ops and marketing data? '
-    subtitle: Check our of rich demos and reusable solutions
+    subtitle: Check out our library of rich demos and reusable solutions
     actions: []
     grid_items:
       - title: 360 customer view
