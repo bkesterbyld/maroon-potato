@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Micro-Backends",
-                "url": "/micro-backend-as-a-a-service",
+                "url": "/micro-backend-as-a-service",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
