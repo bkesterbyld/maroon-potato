@@ -122,7 +122,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          Give customers and option to subscribe or auto-replenish their stock
+          Give customers the option to subscribe or auto-replenish their stock
           of your products
         content_align: left
         actions: []
