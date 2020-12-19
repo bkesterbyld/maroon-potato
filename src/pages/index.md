@@ -92,7 +92,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Fast Distributed Micro-Backend
+      - title: On Demand Micro-Backend
         title_align: left
         content: >-
           Cook up new site and app components and use edge and in-memory
