@@ -31,7 +31,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: ACID Compliant
+      - title: ACID compliant
         subtitle: ''
         title_align: left
         content: Above uses PostgreSQL to enable ACID-compliant transactions
