@@ -57,8 +57,8 @@ sections:
         subtitle: ''
         content: >-
           Model data tables and complex relationships right from a web page. The
-          service supports typical database fields, can handle files/blobs and
-          offers advanced modeling approaches such as nested data structures.
+          service supports typical database fields and handles file, blob,
+          structured and unstructured data.
         actions: []
         image: images/relate1.png
         media_position: right
