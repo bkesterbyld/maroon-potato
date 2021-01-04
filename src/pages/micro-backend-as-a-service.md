@@ -32,7 +32,7 @@ sections:
     actions: []
     grid_items:
       - title: ACID Compliant
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: Above uses PostgreSQL to enable ACID-compliant transactions
         content_align: left
