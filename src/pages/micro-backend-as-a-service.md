@@ -26,15 +26,6 @@ sections:
         image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
-      - title: Digital Operations API
-        subtitle: >-
-          Get key ERP, marketing and other data in one reusable place to power
-          innovation
-        content: ''
-        video_embed_html: ''
-        media_position: left
-        media_width: fifty
-        image: images/distributed-operations-platform-api-1a.png
   - type: cta_section
     title: More questions? Check out our FAQs.
     content: ''
