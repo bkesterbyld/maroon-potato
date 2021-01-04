@@ -26,7 +26,7 @@ sections:
         image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
-    background_color: primary
+    background_color: none
   - title: Key
     subtitle: lorem-ipsum
     actions: []
