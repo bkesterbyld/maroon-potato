@@ -63,7 +63,7 @@ sections:
         image: images/relate1.png
         media_position: right
         media_width: fourty
-      - title: Powerful Native Logic
+      - title: Powerful Native Compute
         content: >-
           Above's [control flow
           logic](https://en.wikipedia.org/wiki/Control_flow) enables CRUD,
