@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: On Demand Micro-Backends
+      - title: On Demand Mini-Backends
         subtitle: Create new features fast and process data near users
         content: >-
           Above enables computing near users anywhere without deploying
