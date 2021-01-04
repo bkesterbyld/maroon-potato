@@ -59,7 +59,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Zero limits compute
+      - title: Zero limit compute
         subtitle: ''
         title_align: left
         content: >-
