@@ -34,7 +34,9 @@ sections:
       - title: ACID compliant
         subtitle: ''
         title_align: left
-        content: Above uses PostgreSQL to enable ACID-compliant transactions
+        content: >-
+          Above uses PostgreSQL to enable ACID-compliant transactions that
+          support a wide array of financial and enterprise-grade use cases
         content_align: left
         actions: []
         actions_align: left
