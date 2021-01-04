@@ -24,6 +24,14 @@ sections:
     background_image_opacity: 20
     background_image_position: left center
     background_image_size: auto
+    video_embed_html: >-
+      Save your brain for high level work
+
+      Above is a global computing network that replaces databases, backend
+      coding and infrastructure. You can build something from scratch or ingest
+      and mix existing data to innovate. The overall experience is no code and
+      fast, freeing you to focus on interfaces, client logic and other high
+      level work.
   - title: ''
     subtitle: ''
     content: >
