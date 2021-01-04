@@ -96,9 +96,9 @@ sections:
       - title: On Demand Micro-Backend
         title_align: left
         content: >-
-          Cook up new site and app components while using edge processing to
-          keep dynamic data flowing on par with the static files served from
-          modern CDNs.
+          Cook up new apps and features while using edge processing to keep
+          dynamic data flowing on par with the static files served from modern
+          CDNs.
         content_align: left
         actions:
           - label: Learn More
