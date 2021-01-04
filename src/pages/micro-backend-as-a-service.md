@@ -26,19 +26,6 @@ sections:
         image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
-  - type: cta_section
-    title: More questions? Check out our FAQs.
-    content: ''
-    actions:
-      - label: Go to FAQ
-        url: /faq
-        style: primary
-    actions_position: right
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: secondary
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
@@ -57,5 +44,18 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: cta_section
+    title: More questions? Check out our FAQs.
+    content: ''
+    actions:
+      - label: Go to FAQ
+        url: /faq
+        style: primary
+    actions_position: right
+    align: left
+    padding_top: small
+    padding_bottom: small
+    has_border: false
+    background_color: secondary
 template: advanced
 ---
