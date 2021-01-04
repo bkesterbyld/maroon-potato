@@ -48,8 +48,8 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          Handle procesing and storage of log, document and other unstructured
-          data
+          Handle processing and storage of log, document and other unstructured
+          data without needing a separate NoSQL data store
         content_align: left
         actions: []
         actions_align: left
