@@ -48,8 +48,8 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          Above supports processing and storage of log, document and other
-          unstructured data
+          Handle procesing and storage of log, document and other unstructured
+          data
         content_align: left
         actions: []
         actions_align: left
