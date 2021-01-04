@@ -28,7 +28,7 @@ sections:
         media_width: fifty
     background_color: none
   - title: Key
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     grid_items: []
     grid_cols: three
