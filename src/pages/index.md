@@ -118,7 +118,7 @@ sections:
         title_align: left
         content: >-
           An easy way for online commerce companies to get ops and marketing
-          data into one environmentto make sense of it and power multiple
+          data into one environment---to make sense of it and power multiple
           projects. 
         content_align: left
         actions:
