@@ -93,7 +93,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Integrates with the services you love
+      - title: 'Fuse with '
         subtitle: ''
         title_align: left
         content: >-
