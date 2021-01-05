@@ -67,7 +67,7 @@ sections:
         title_align: left
         content: >-
           PostgreSQL is one of many mature technologies used in the service,
-          delivering ACID-compliant transaction processing for enterprise-grade
+          delivering ACID-compliant transaction processing for enterprise-class
           use cases
         content_align: left
         actions: []
