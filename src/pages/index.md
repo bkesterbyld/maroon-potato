@@ -5,9 +5,9 @@ sections:
     title: Ship faster and delight users everywhere
     subtitle: ''
     content: >-
-      Create a data and logic API for your app or website in minutes without
-      having to code or learn anything. Take advantage of edge computing to
-      instantly process data and speed up user interactions.
+      Create a data and logic API for your commerce app or website in minutes
+      without having to code or learn anything. Take advantage of edge computing
+      to instantly process data and speed up user interactions.
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -93,7 +93,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: 'Serverless, Distributed Backend'
+      - title: Serverless Backend API
         title_align: left
         content: >-
           Cook up new apps and features while using edge processing to keep
