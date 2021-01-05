@@ -93,7 +93,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Jamstack Backend
+      - title: Distrubuted Jamstack Backend
         title_align: left
         content: >-
           Cook up new features fast while using edge processing to keep dynamic
