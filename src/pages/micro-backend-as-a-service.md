@@ -31,7 +31,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: It's a service
+      - title: An easy to use service
         subtitle: ''
         title_align: left
         content: >
