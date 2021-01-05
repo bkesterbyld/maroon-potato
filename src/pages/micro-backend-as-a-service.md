@@ -3,20 +3,21 @@ title: Features
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: A Serverless Backend
+    title: Serverless Backend
     subtitle: for your data-driven Jamstack and commerce projects
     background_color: secondary
   - type: features_section
     features:
       - title: Ship faster than ever
-        subtitle: Without the hassle of database and application servers
+        subtitle: >-
+          And process data right next to your users to deliver snappy
+          performance
         content: >-
           Above enables computing near users anywhere without deploying
-          databases, app servers, writing code or calling cloud functions that
-          have performance limits. Our network allows you to put a full or
-          mini-backend anywhere in the world while Active Data Management
-          technology syncs only field-level changes across regions, ensuring
-          snappy solution-wide response. 
+          databases, app servers or writing code. Our network allows you to put
+          a full or mini-backend anywhere in the world while Active Data
+          Management technology syncs only field-level changes across regions,
+          ensuring snappy solution-wide response. 
 
 
           Above couples this network with [powerful computing options](/faq) to
