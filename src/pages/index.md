@@ -24,6 +24,7 @@ sections:
     background_image_opacity: 20
     background_image_position: left center
     background_image_size: auto
+    video_embed_html: ''
   - title: ''
     subtitle: ''
     content: >
@@ -56,18 +57,18 @@ sections:
         subtitle: ''
         content: >-
           Model data tables and complex relationships right from a web page. The
-          service supports typical database fields, can handle files/blobs and
-          offers advanced modeling approaches such as nested data structures.
+          service supports typical database fields and handles file, blob,
+          structured and unstructured data.
         actions: []
         image: images/relate1.png
         media_position: right
         media_width: fourty
-      - title: Powerful Native Logic
+      - title: Powerful Native Compute
         content: >-
           Above's [control flow
           logic](https://en.wikipedia.org/wiki/Control_flow) enables CRUD,
-          workflow and analytics without having to learn anything. It pairs with
-          [parallel and in-memory processing
+          business logic and analytics without having to learn anything. It
+          pairs with [parallel and in-memory processing
           options](https://www.abovecomp.com/faq) to assure performant data
           operations.
         actions: []
@@ -95,9 +96,9 @@ sections:
       - title: On Demand Micro-Backend
         title_align: left
         content: >-
-          Cook up new site and app components while using edge processing to
-          keep dynamic data flowing on par with the static files served from
-          modern CDNs.
+          Cook up new apps and features while using edge processing to keep
+          dynamic data flowing on par with the static files served from modern
+          CDNs.
         content_align: left
         actions:
           - label: Learn More
@@ -116,8 +117,8 @@ sections:
       - title: Digital Operations API
         title_align: left
         content: >-
-          An easy way to get ops and marketing data into one collaborative
-          environment to make sense of it and power multiple projects. 
+          An easy way to get ops and marketing data into one environment to make
+          sense of it and power multiple projects. 
         content_align: left
         actions:
           - label: Learn More
