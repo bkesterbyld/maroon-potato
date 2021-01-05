@@ -4,7 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: A Serverless Backend
-    subtitle: Serverless Backend for your Jamstack or Commerce Project
+    subtitle: for your data-driven Jamstack and commerce projects
     background_color: secondary
   - type: features_section
     features:
