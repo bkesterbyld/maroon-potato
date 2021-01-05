@@ -4,7 +4,7 @@ excerpt: 'Get key ERP, marketing and other data in one reusable place'
 sections:
   - type: hero_section
     title: Digital Operations API
-    subtitle: Welcome to Distributed Computing
+    subtitle: 'Ingest, mix analyze and serve data across all your data sources'
     background_color: primary
   - type: features_section
     features:
