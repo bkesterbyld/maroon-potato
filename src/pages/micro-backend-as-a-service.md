@@ -112,9 +112,8 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          Edge, in-memory, distribgted and parallel processing options give you
-          the power to tackle virtually any vertical or horizontal scaling
-          challenge
+          Edge, in-memory, and distributed processing options give you the power
+          to tackle virtually any vertical or horizontal scaling challenge
         content_align: left
         actions: []
         actions_align: left
