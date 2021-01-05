@@ -66,8 +66,9 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          Process in real-time or via jobs, with no cold starts or limitations
-          on the size or running time of your logic
+          PostgreSQL is one of many mature technologies used in the service,
+          delivering ACID-compliant transaction processing for enterprise-grade
+          use cases
         content_align: left
         actions: []
         actions_align: left
