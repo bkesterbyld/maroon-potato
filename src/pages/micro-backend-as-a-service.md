@@ -81,16 +81,8 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Process in real-time or via jobs, with no cold starts or limitations
+          on the size or running time of your logic
         content_align: left
         actions: []
         actions_align: left
