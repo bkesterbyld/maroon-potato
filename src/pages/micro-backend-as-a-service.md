@@ -36,7 +36,7 @@ sections:
         title_align: left
         content: >
           Above is neither a database nor serverless functions, it's both
-          capabilites in a fully integrated service with an easy, highly
+          capabilites in a fully integrated service that offers an easy, highly
           productive experience
         content_align: left
         actions: []
