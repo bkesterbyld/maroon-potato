@@ -93,7 +93,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Fuse with any other API
+      - title: Works with other API services
         subtitle: ''
         title_align: left
         content: >-
