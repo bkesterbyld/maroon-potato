@@ -5,21 +5,21 @@ $theme-styles: (
 	classic: (
 		fonts: (
 			serif: ('Lora', 'Lucida Bright', 'Lucidabright', 'Lucida Serif', Lucida, Georgia, serif),
-			sans-serif: ('Open Sans', Lato, sans-serif)
+			sans-serif: ('Nunito Sans', 'Open Sans' sans-serif)
 		),
 		colors: (
-			blue:  #7076f0,
+			blue:  #3d97c8,
 			green: #29cf7f,
 			red:   #f36763
 		)
 	),
 	bold: (
 		fonts: (
-			serif: ('Arvo', 'Rockwell', Georgia, Times, 'Times New Roman', serif),
+			serif: ('Maven Pro', 'Rockwell', Georgia, Times, 'Times New Roman', serif),
 			sans-serif: ('Poppins', 'Helvetica Neue', Helvetica, 'Roboto', sans-serif)
 		),
 		colors: (
-			blue:  #2859da,
+			blue:  #3d97c8,
 			green: #01be54,
 			red:   #ec5033
 		)
@@ -27,10 +27,10 @@ $theme-styles: (
 	minimal: (
 		fonts: (
 			serif: ('IBM Plex Serif', Georgia, Times, 'Times New Roman', serif),
-			sans-serif: ('IBM Plex Sans','Helvetica Neue', Helvetica, 'Roboto', sans-serif)
+			sans-serif: ('Rubik','Helvetica Neue', Helvetica, 'Roboto', sans-serif)
 		),
 		colors: (
-			blue:   #0084ff,
+			blue:   #3d97c8,
 			green:  #00cc88,
 			red:    #ff3366
 		)
@@ -44,10 +44,10 @@ $font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","
 // Colors
 
 // Primary color for the gray palette
-$color-primary:                        #45515e !default;
+$color-primary:                        #4C216D !default;
 
 // Base
-$color-body-text:                      #2c343c !default;
+$color-body-text:                      #324354 !default;
 $color-meta:                           #8696a6 !default;
 $color-body-bg:                        #fff !default;
 
@@ -74,7 +74,7 @@ $color-btn-bg:                         $color-primary !default;
 $color-btn-alt-text:                   #fff !default;
 $color-btn-alt-bg:                     #2c343c !default;
 $color-bold-btn-shadow:                #bfc7d0 !default;
-$color-gray-btn-alt-bg:                #8696a6 !default;
+$color-gray-btn-alt-bg:                #4C216D !default;
 
 // Forms
 $color-input-text:                     #2c343c !default;
@@ -100,7 +100,7 @@ $color-bold-nav-mobile-border:         #2c343c !default;
 $color-bold-nav-mobile-overlay:        rgba(44,52,60,.8) !default;
 
 // Header
-$color-header-border:                  #eceef1 !default;
+$color-header-border:                  #fff !default;
 $color-bold-header-border:             #2c343c !default;
 
 // Footer
