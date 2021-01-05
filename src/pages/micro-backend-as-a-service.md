@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     title: Use Cases
     subtitle: Welcome to Distributed Computing
-    background_color: primary
+    background_color: secondary
   - type: features_section
     features:
       - title: On Demand Mini-Backends
