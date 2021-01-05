@@ -31,7 +31,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: ACID compliant
+      - title: It's a service
         subtitle: ''
         title_align: left
         content: >-
