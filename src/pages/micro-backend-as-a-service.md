@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: On Demand Micro-Backends
+      - title: Serverless Backend
         subtitle: Create new features fast and process data near users
         content: >-
           Above enables computing near users anywhere without deploying
