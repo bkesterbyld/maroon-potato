@@ -93,7 +93,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: 'On Demand, Serverless Backend'
+      - title: 'Serverless, Distributed Backend'
         title_align: left
         content: >-
           Cook up new apps and features while using edge processing to keep
