@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Digital Operations API
+      - title: Power Digital Innovation
         subtitle: >-
           Get key ops and marketing data in one collaborative place to power
           innovation
