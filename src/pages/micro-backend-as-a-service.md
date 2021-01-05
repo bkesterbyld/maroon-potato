@@ -34,9 +34,10 @@ sections:
       - title: It's a service
         subtitle: ''
         title_align: left
-        content: >-
-          Above uses PostgreSQL to enable ACID-compliant transactions that
-          support a wide array of financial and enterprise-grade use cases
+        content: >
+          Above is neither a database nor serverless functions, it's both
+          capabilites in a fully integrated service with an easy, highly
+          productive experience
         content_align: left
         actions: []
         actions_align: left
