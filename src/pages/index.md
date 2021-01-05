@@ -93,7 +93,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Serverless Backend
+      - title: Serverless Backend API
         title_align: left
         content: >-
           Cook up new apps and features while using edge processing to keep
