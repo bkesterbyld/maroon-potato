@@ -108,7 +108,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: World class scalability
         subtitle: ''
         title_align: left
         content: >-
