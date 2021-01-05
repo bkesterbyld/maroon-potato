@@ -4,7 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: Use Cases
-    subtitle: Welcome to Distributed Computing
+    subtitle: Serverless Backend for your Jamstack or Commerce Project
     background_color: secondary
   - type: features_section
     features:
