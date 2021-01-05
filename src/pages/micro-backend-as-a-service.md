@@ -98,7 +98,7 @@ sections:
         title_align: left
         content: >-
           Easily integrate auth, payments, SMS, email, integrations, ERP and
-          other services into your real-time data processing
+          other API-based services into your solutions
         content_align: left
         actions: []
         actions_align: left
