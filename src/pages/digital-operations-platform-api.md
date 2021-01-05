@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Power Digital Innovation
+      - title: Enable Digital Innovation
         subtitle: Get key ops and marketing data in one collaborative place
         content: >-
           Standing up one-off databases for new projects and features fragments
