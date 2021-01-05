@@ -9,7 +9,9 @@ sections:
   - type: features_section
     features:
       - title: Ship faster than ever
-        subtitle: Without the hassle of database and application servers
+        subtitle: >-
+          And process data right next to your users to deliver snappy
+          performance
         content: >-
           Above enables computing near users anywhere without deploying
           databases, app servers or writing code. Our network allows you to put
