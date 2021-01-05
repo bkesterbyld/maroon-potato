@@ -97,16 +97,8 @@ sections:
         subtitle: ''
         title_align: left
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Easily integrate auth, payments, SMS, email, integrations, ERP and
+          other services into your real-time data processing
         content_align: left
         actions: []
         actions_align: left
