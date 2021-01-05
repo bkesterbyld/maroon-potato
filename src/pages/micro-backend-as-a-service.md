@@ -92,7 +92,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: ''
         subtitle: ''
         title_align: left
         content: >-
