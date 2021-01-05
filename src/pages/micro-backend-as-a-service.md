@@ -62,7 +62,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Zero limit compute
+      - title: ACID compliant
         subtitle: ''
         title_align: left
         content: >-
