@@ -9,9 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Power Digital Innovation
-        subtitle: >-
-          Get key ops and marketing data in one collaborative place to power
-          innovation
+        subtitle: Get key ops and marketing data in one collaborative place
         content: >-
           Standing up one-off databases for new projects and features fragments
           data and increases maintenance costs. Above provides a no code Digital
