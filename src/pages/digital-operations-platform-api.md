@@ -3,15 +3,13 @@ title: Digital Operations API
 excerpt: 'Get key ERP, marketing and other data in one reusable place'
 sections:
   - type: hero_section
-    title: Use Cases
-    subtitle: Welcome to Distributed Computing
+    title: Digital Operations API
+    subtitle: 'Ingest, mix and serve data from disparate data sources'
     background_color: primary
   - type: features_section
     features:
-      - title: Digital Operations API
-        subtitle: >-
-          Get key ops and marketing data in one collaborative place to power
-          innovation
+      - title: Enable Serverless ERP and Marketing Innovation
+        subtitle: Get key ops and marketing data in one collaborative place
         content: >-
           Standing up one-off databases for new projects and features fragments
           data and increases maintenance costs. Above provides a no code Digital
