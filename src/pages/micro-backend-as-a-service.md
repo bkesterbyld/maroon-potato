@@ -13,10 +13,10 @@ sections:
         content: >-
           Above enables computing near users anywhere without deploying
           databases, writing code or calling cloud functions that have
-          performance limits. Our network allows you to put a full or mini-
-          backend anywhere in the world while Active Data Management technology
-          syncs only field-level changes across regions, ensuring snappy
-          solution-wide response. 
+          performance limits. Our network allows you to put a full or
+          mini-backend anywhere in the world while Active Data Management
+          technology syncs only field-level changes across regions, ensuring
+          snappy solution-wide response. 
 
 
           Above couples this network with [powerful computing options](/faq) to
