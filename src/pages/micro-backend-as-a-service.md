@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Ship faster than ever
-        subtitle: Create new features fast and process data near users
+        subtitle: Without the hassle of database and application servers
         content: >-
           Above enables computing near users anywhere without deploying
           databases, writing code or calling cloud functions that have
