@@ -11,7 +11,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Serverless Backend API",
+                "label": "Jacm",
                 "url": "/micro-backend-as-a-service",
                 "style": "link",
                 "has_icon": false,
