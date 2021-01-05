@@ -3,13 +3,13 @@ title: Features
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Use Cases
-    subtitle: Serverless Backend for your Jamstack or Commerce Project
+    title: A Serverless Backend
+    subtitle: for your data-driven Jamstack and commerce projects
     background_color: secondary
   - type: features_section
     features:
-      - title: On Demand Micro-Backends
-        subtitle: Create new features fast and process data near users
+      - title: Ship faster than ever
+        subtitle: Without the hassle of database and application servers
         content: >-
           Above enables computing near users anywhere without deploying
           databases, writing code or calling cloud functions that have
