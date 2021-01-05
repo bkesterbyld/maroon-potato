@@ -96,7 +96,7 @@ sections:
       - title: Jamstack Backend
         title_align: left
         content: >-
-          Cook up new apps and features while using edge processing to keep
+          Cook up data-driven features while using edge processing to keep
           dynamic data flowing on par with the static files served from modern
           CDNs.
         content_align: left
