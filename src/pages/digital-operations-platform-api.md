@@ -3,7 +3,7 @@ title: Digital Operations API
 excerpt: 'Get key ERP, marketing and other data in one reusable place'
 sections:
   - type: hero_section
-    title: Use Cases
+    title: Digital Operations API
     subtitle: Welcome to Distributed Computing
     background_color: primary
   - type: features_section
