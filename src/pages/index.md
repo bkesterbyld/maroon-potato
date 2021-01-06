@@ -93,11 +93,12 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Distrubuted Jamstack Backend
+      - title: Distributed Jamstack Backend
         title_align: left
         content: >-
           Cook up new features fast while using edge processing to keep dynamic
-          data flowing on par with the static files served from modern CDNs.
+          data flowing on par with the static files served from modern content
+          networks
         content_align: left
         actions:
           - label: Learn More
@@ -113,6 +114,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        subtitle: For frontend developers
       - title: Digital Operations API
         title_align: left
         content: >-
@@ -134,6 +136,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        subtitle: For enterprise commerce leaders
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
