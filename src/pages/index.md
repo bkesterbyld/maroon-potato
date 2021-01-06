@@ -136,7 +136,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        subtitle: For enterprise commerce
+        subtitle: For enterprise commerce leaders
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
