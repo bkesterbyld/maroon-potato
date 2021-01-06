@@ -97,7 +97,8 @@ sections:
         title_align: left
         content: >-
           Cook up new features fast while using edge processing to keep dynamic
-          data flowing on par with the static files served from modern CDNs.
+          data flowing on par with the static files served from modern content
+          networks
         content_align: left
         actions:
           - label: Learn More
