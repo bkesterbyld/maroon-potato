@@ -15,7 +15,7 @@ sections:
           data and increases maintenance costs. Above provides a no code Digital
           Operations environment to mirror key data from big iron, ERP, SaaS,
           WMS, POS, CRM and other systems—and allow anyone to develop above it
-          and share it with business stakeholders.
+          and collaborate with stakeholders.
 
 
           Once in this environment, real-time analytics and workflow can be
