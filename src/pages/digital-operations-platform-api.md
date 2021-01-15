@@ -10,7 +10,7 @@ sections:
     features:
       - title: Enable Serverless ERP and Marketing Innovation
         subtitle: Get key ops and marketing data in one collaborative place
-        content: >-
+        content: >
           Standing up one-off databases for new projects and features fragments
           data and increases maintenance costs. Above provides a no code Digital
           Operations environment to mirror key data from big iron, ERP, SaaS,
@@ -21,8 +21,8 @@ sections:
           Once in this environment, real-time analytics and workflow can be
           quickly assembled across different data sets—driving automated
           decisions and novel features. And since Above replaces the need for
-          app and web servers, you won't need backend engineering to build
-          experiences.
+          app and web servers, you won't need backend engineering to power your
+          new experiences.
         video_embed_html: ''
         media_position: left
         media_width: fifty
