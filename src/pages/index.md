@@ -171,7 +171,8 @@ sections:
     has_border: true
   - type: cta_section
     title: Frontend or Mobile Developer?
-    content: 'We''d love to have you try Above for fun or work. '
+    content: |
+      Try Above for fun or work.
     actions:
       - label: Beta Sign Up
         url: /general-enquiries
