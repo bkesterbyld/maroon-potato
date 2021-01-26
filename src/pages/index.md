@@ -71,7 +71,7 @@ sections:
           business logic and analytics without having to learn anything. They
           pair with [parallel and in-memory processing
           options](https://www.abovecomp.com/faq) to assure performant data
-          operations across the most massive data sets. 
+          operations across the massive data sets.
         actions: []
         image: images/edgecompute.png
         media_position: left
