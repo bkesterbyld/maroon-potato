@@ -79,10 +79,10 @@ sections:
       - title: Edge Compute & Prebuilt Data Views
         subtitle: ''
         content: >
-          Position and process data anywhere in the world next to your users to
-          deliver fast interactions. Go even further with pre-built data views,
-          which act like reports but are constantly updated by logic agents
-          across the Above network.
+          Position and process data anywhere in the world next to your users, 
+          delivering incredibly fast interactions. Active data management
+          technology rreplicates your data and keeps it in-sync at the field
+          level as events occur in your applications. 
         actions: []
         image: images/edgecomputingjamstack.png
         media_position: right
