@@ -73,7 +73,7 @@ sections:
           options](https://www.abovecomp.com/faq) to assure performant data
           operations.
         actions: []
-        image: images/logic040.png
+        image: images/edgecompute.png
         media_position: left
         media_width: fourty
       - title: Edge Processing
