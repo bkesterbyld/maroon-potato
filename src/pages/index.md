@@ -76,7 +76,7 @@ sections:
         image: images/edgecompute.png
         media_position: left
         media_width: fourty
-      - title: Edge Compute & Prebuilt Data Views
+      - title: 'Edge Compute '
         subtitle: ''
         content: >
           Position and process data anywhere in the world next to your users, 
