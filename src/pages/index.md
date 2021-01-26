@@ -65,23 +65,24 @@ sections:
         media_position: right
         media_width: fourty
       - title: Powerful Native Compute
-        content: >-
+        content: >
           Above's [control flow
-          logic](https://en.wikipedia.org/wiki/Control_flow) enables CRUD,
-          business logic and analytics without having to learn anything. It
-          pairs with [parallel and in-memory processing
+          logic](https://en.wikipedia.org/wiki/Control_flow) agents enable CRUD,
+          business logic and analytics without having to learn anything. They
+          pair with [parallel and in-memory processing
           options](https://www.abovecomp.com/faq) to assure performant data
-          operations.
+          operations across the massive data sets.
         actions: []
         image: images/edgecompute.png
         media_position: left
         media_width: fourty
       - title: Edge Processing
         subtitle: ''
-        content: >-
-          Position and process data anywhere in the world to provide the fastest
-          response time to users. Active data management technology keeps
-          field-level changes replicated across Above's hybrid cloud network.
+        content: >
+          Process data anywhere in the world next to your users, delivering
+          incredibly fast interactions. Active data management technology
+          replicates field-level changes around the world so data is always in
+          sync and fresh. 
         actions: []
         image: images/edgecomputingjamstack.png
         media_position: right
