@@ -79,10 +79,10 @@ sections:
       - title: Edge Processing
         subtitle: ''
         content: >
-          Position and process data anywhere in the world next to your users, 
-          delivering incredibly fast interactions. Active data management
-          technology rreplicates your data and keeps it in-sync at the field
-          level as events occur in your applications. 
+          Process data anywhere in the world next to your users, delivering
+          incredibly fast interactions. Active data management technology
+          replicates field-level changes around the world based so your data is
+          always in sync.
         actions: []
         image: images/edgecomputingjamstack.png
         media_position: right
