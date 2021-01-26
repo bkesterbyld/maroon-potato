@@ -76,7 +76,7 @@ sections:
         image: images/edgecompute.png
         media_position: left
         media_width: fourty
-      - title: Edge Processing & Prebuilt Data Views
+      - title: Edge Compute & Prebuilt Data Views
         subtitle: ''
         content: >
           Position and process data anywhere in the world to provide the fastest
