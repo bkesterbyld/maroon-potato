@@ -61,7 +61,7 @@ sections:
           service supports typical database fields and handles file, blob,
           structured and unstructured data.
         actions: []
-        image: images/relate1.png
+        image: images/relational.png
         media_position: right
         media_width: fourty
       - title: Powerful Native Compute
