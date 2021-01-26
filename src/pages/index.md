@@ -81,8 +81,8 @@ sections:
         content: >
           Process data anywhere in the world next to your users, delivering
           incredibly fast interactions. Active data management technology
-          replicates field-level changes around the world based so your data is
-          always in sync.
+          replicates field-level changes around the world so data is always in
+          sync and fresh. 
         actions: []
         image: images/edgecomputingjamstack.png
         media_position: right
