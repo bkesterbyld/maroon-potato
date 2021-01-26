@@ -65,13 +65,13 @@ sections:
         media_position: right
         media_width: fourty
       - title: Powerful Native Compute
-        content: >-
+        content: >
           Above's [control flow
-          logic](https://en.wikipedia.org/wiki/Control_flow) enables CRUD,
-          business logic and analytics without having to learn anything. It
-          pairs with [parallel and in-memory processing
+          logic](https://en.wikipedia.org/wiki/Control_flow) agents enable CRUD,
+          business logic and analytics without having to learn anything. They
+          pair with [parallel and in-memory processing
           options](https://www.abovecomp.com/faq) to assure performant data
-          operations.
+          operations across the most massive data sets. 
         actions: []
         image: images/edgecompute.png
         media_position: left
