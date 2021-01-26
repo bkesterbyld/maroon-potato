@@ -78,10 +78,11 @@ sections:
         media_width: fourty
       - title: Edge Processing & Prebuilt Data Views
         subtitle: ''
-        content: >-
+        content: >
           Position and process data anywhere in the world to provide the fastest
           response time to users. Active data management technology keeps
-          field-level changes replicated across Above's hybrid cloud network.
+          field-level changes as well as pre-built data views replicated across
+          Above's hybrid cloud network.
         actions: []
         image: images/edgecomputingjamstack.png
         media_position: right
