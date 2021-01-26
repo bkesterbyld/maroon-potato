@@ -61,7 +61,7 @@ sections:
           service supports typical database fields and handles file, blob,
           structured and unstructured data.
         actions: []
-        image: images/relate1.png
+        image: images/relational.png
         media_position: right
         media_width: fourty
       - title: Powerful Native Compute
@@ -73,7 +73,7 @@ sections:
           options](https://www.abovecomp.com/faq) to assure performant data
           operations.
         actions: []
-        image: images/logic040.png
+        image: images/edgecompute.png
         media_position: left
         media_width: fourty
       - title: Edge Processing
@@ -83,7 +83,7 @@ sections:
           response time to users. Active data management technology keeps
           field-level changes replicated across Above's hybrid cloud network.
         actions: []
-        image: images/edge20.png
+        image: images/edgecomputingjamstack.png
         media_position: right
         media_width: fourty
     feature_padding_vert: large
