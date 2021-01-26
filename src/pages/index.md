@@ -83,7 +83,7 @@ sections:
           response time to users. Active data management technology keeps
           field-level changes replicated across Above's hybrid cloud network.
         actions: []
-        image: images/edge20.png
+        image: images/edgecomputingjamstack.png
         media_position: right
         media_width: fourty
     feature_padding_vert: large
