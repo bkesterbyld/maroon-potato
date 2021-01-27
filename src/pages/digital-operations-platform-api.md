@@ -9,7 +9,9 @@ sections:
   - type: features_section
     features:
       - title: Enable Serverless ERP and Marketing Innovation
-        subtitle: Get key ops and marketing data in one collaborative place
+        subtitle: >-
+          Scale beyond your point solutions with integrated, high speed business
+          processes
         content: >
           Standing up one-off databases for new projects and features fragments
           data and increases maintenance costs. Above provides a no code Digital
