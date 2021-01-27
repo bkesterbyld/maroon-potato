@@ -91,7 +91,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: grid_section
-    title: Use Cases
+    title: Solutions
     subtitle: ''
     grid_items:
       - title: Distributed Jamstack Backend
