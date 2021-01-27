@@ -118,10 +118,10 @@ sections:
         subtitle: For frontend developers
       - title: Digital Operations API
         title_align: left
-        content: >-
+        content: >
           An easy way for online commerce companies to get ops and marketing
-          data into one environment---to make sense of it and power multiple
-          projects. 
+          data into one environment---to make sense of it and power high speed
+          commerce processes
         content_align: left
         actions:
           - label: Learn More
