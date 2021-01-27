@@ -66,12 +66,11 @@ sections:
         media_width: fourty
       - title: Powerful Native Compute
         content: >
-          Above's [control flow
-          logic](https://en.wikipedia.org/wiki/Control_flow) agents enable CRUD,
-          business logic and analytics without having to learn anything. They
-          pair with [parallel and in-memory processing
-          options](https://www.abovecomp.com/faq) to assure performant data
-          operations across big data sets.
+          Above's control flow logic agents enable CRUD, business logic and
+          analytics without having to learn anything. They pair with [parallel
+          and in-memory processing options](https://www.abovecomp.com/faq) to
+          assure performant search, update and calculate operations across big
+          data sets.
         actions: []
         image: images/edgecompute.png
         media_position: left
@@ -92,7 +91,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: grid_section
-    title: Use Cases
+    title: Solutions
     subtitle: ''
     grid_items:
       - title: Distributed Jamstack Backend
@@ -119,10 +118,10 @@ sections:
         subtitle: For frontend developers
       - title: Digital Operations API
         title_align: left
-        content: >-
+        content: >
           An easy way for online commerce companies to get ops and marketing
-          data into one environment---to make sense of it and power multiple
-          projects. 
+          data into one environment---to make sense of it and power high speed
+          commerce processes
         content_align: left
         actions:
           - label: Learn More
