@@ -72,7 +72,7 @@ sections:
           assure performant search, update and calculate operations across big
           data sets.
         actions: []
-        image: images/edgecompute.png
+        image: images/logic-engine-cloud-functions-jamstack.png
         media_position: left
         media_width: fourty
       - title: Edge Processing
