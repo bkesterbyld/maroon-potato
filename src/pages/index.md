@@ -12,7 +12,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/graceful-stegosaurus.png
+    image: images/global-jamstack-backend-2.png
     media_position: right
     media_width: sixty
     align: left
