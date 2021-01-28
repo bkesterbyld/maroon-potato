@@ -12,7 +12,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/jamstack-edge-network-drynamic-data-2.jpg
+    image: images/graceful-stegosaurus.png
     media_position: right
     media_width: sixty
     align: left
