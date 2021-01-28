@@ -12,7 +12,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/edgecomputingjamstack-backedn-globe-7.png
+    image: images/edgecomputingjamstack-backedn-globe-6.png
     media_position: right
     media_width: fourty
     align: left
