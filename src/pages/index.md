@@ -12,9 +12,9 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/jamstack-edge-network-drynamic-data-2.jpg
+    image: images/global-jamstack-backend-2.png
     media_position: right
-    media_width: sixty
+    media_width: fourty
     align: left
     padding_top: large
     padding_bottom: none
@@ -61,7 +61,7 @@ sections:
           service supports typical database fields and handles file, blob,
           structured and unstructured data.
         actions: []
-        image: images/relational-datat-modeling-jamstack.png
+        image: images/relational-datat-modeling-jamstack-3.png
         media_position: right
         media_width: fourty
       - title: Powerful Native Compute
@@ -72,7 +72,7 @@ sections:
           assure performant search, update and calculate operations across big
           data sets.
         actions: []
-        image: images/logic-engine-cloud-functions-jamstack.png
+        image: images/logic-engine-cloud-functions-jamstack-3.png
         media_position: left
         media_width: fourty
       - title: Edge Processing
@@ -83,7 +83,7 @@ sections:
           replicates field-level changes around the world so data is always in
           sync and fresh. 
         actions: []
-        image: images/edge-compute-jamstack-engine-backend.png
+        image: images/edge-compute-jamstack-engine-backend-3.png
         media_position: right
         media_width: fourty
     feature_padding_vert: large
