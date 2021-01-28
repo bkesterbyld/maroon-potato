@@ -4,10 +4,10 @@ sections:
   - type: hero_section
     title: Ship faster and delight users everywhere
     subtitle: ''
-    content: >-
+    content: >
       Create a data and logic API for your commerce app or website in minutes
-      without having to code or learn anything. Take advantage of edge computing
-      to instantly process data and speed up user interactions.
+      without having to code or learn anything. Take advantage of a global edge
+      computing network to instantly crunch data and speed up user interactions.
     actions:
       - label: Join the Beta
         url: /general-enquiries
