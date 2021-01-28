@@ -50,7 +50,6 @@ sections:
     background_image_position: left center
     background_image_repeat: repeat
     type: hero_section
-    image: images/global-jamstack-backend.png
   - type: features_section
     title: ''
     subtitle: ''
