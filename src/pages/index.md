@@ -14,7 +14,7 @@ sections:
         style: primary
     image: images/global-jamstack-backend-2.png
     media_position: right
-    media_width: sixty
+    media_width: fourty
     align: left
     padding_top: large
     padding_bottom: none
