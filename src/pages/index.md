@@ -4,20 +4,20 @@ sections:
   - type: hero_section
     title: Ship faster and delight users everywhere
     subtitle: ''
-    content: >-
+    content: >
       Create a data and logic API for your commerce app or website in minutes
-      without having to code or learn anything. Take advantage of edge computing
-      to instantly process data and speed up user interactions.
+      without having to code or learn anything. Take advantage of a global edge
+      computing network to instantly crunch data and speed up user interactions.
     actions:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/Picture6.png
+    image: images/jamstack-edge-network-drynamic-data-2.jpg
     media_position: right
     media_width: sixty
     align: left
     padding_top: large
-    padding_bottom: large
+    padding_bottom: none
     background_color: none
     has_border: true
     background_image: images/mighty-eucalyptus.svg
@@ -43,7 +43,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: none
-    has_border: true
+    has_border: false
     background_color: primary
     background_image_opacity: 30
     background_image_size: auto
@@ -61,7 +61,7 @@ sections:
           service supports typical database fields and handles file, blob,
           structured and unstructured data.
         actions: []
-        image: images/relational.png
+        image: images/relational-datat-modeling-jamstack.png
         media_position: right
         media_width: fourty
       - title: Powerful Native Compute
@@ -72,7 +72,7 @@ sections:
           assure performant search, update and calculate operations across big
           data sets.
         actions: []
-        image: images/edgecompute.png
+        image: images/logic-engine-cloud-functions-jamstack.png
         media_position: left
         media_width: fourty
       - title: Edge Processing
@@ -83,13 +83,14 @@ sections:
           replicates field-level changes around the world so data is always in
           sync and fresh. 
         actions: []
-        image: images/edgecomputingjamstack.png
+        image: images/edge-compute-jamstack-engine-backend.png
         media_position: right
         media_width: fourty
     feature_padding_vert: large
     align: center
     background_color: secondary
     has_border: true
+    padding_top: none
   - type: grid_section
     title: Solutions
     subtitle: ''
