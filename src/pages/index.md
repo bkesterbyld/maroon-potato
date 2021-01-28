@@ -17,7 +17,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: large
-    padding_bottom: small
+    padding_bottom: medium
     background_color: none
     has_border: true
     background_image: images/mighty-eucalyptus.svg
