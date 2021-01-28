@@ -13,7 +13,7 @@ sections:
         url: /general-enquiries
         style: primary
     image: images/jamstack-edge-network-drynamic-data-2.jpg
-    media_position: right
+    media_position: bottom
     media_width: sixty
     align: left
     padding_top: large
