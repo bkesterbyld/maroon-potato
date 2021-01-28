@@ -5,9 +5,9 @@ sections:
     title: Ship faster and delight users everywhere
     subtitle: ''
     content: >
-      Create a data and logic API for your commerce app or website in minutes
-      without having to code or learn anything. Take advantage of global edge
-      computing to instantly crunch data and speed up user interactions.
+      Create a data and logic API for your app or website in minutes without
+      having to code or learn anything. Take advantage of global edge computing
+      to instantly crunch data and speed up user interactions.
     actions:
       - label: Join the Beta
         url: /general-enquiries
