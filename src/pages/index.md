@@ -83,7 +83,7 @@ sections:
           replicates field-level changes around the world so data is always in
           sync and fresh. 
         actions: []
-        image: images/edge-compute-jamstack-engine-backend-4.png
+        image: images/edge-compute-jamstack-engine-backend-5.png
         media_position: right
         media_width: fourty
     feature_padding_vert: large
