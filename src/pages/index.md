@@ -12,7 +12,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/edgecomputingjamstack-backend-globe.png
+    image: images/global-jamstack-backend-2.png
     media_position: right
     media_width: fourty
     align: left
