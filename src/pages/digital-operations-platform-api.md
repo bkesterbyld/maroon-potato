@@ -8,26 +8,26 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Enable Serverless ERP and Marketing Innovation
+      - title: Enable Headless ERP and Marketing Innovation
         subtitle: >-
           Scale beyond your point solutions with integrated, high speed business
           processes
         content: >
           Keeping your back office in sync with your frontend experiences and
           supporting commerce platforms is a costly proposition as you grow. It
-          often involves new infrastructure, consultants and adding seats to
-          your vendor contracts. Above provides a no code Digital Operations
-          environment to mirror key data from big iron, ERP, SaaS, WMS, POS, CRM
-          and other systems—and allow anyone to develop above it and collaborate
-          with business and partner stakeholders.
+          often involves new infrastructure, consultants and adding user seats
+          to your ERP, CRM, WMS and vendor contracts. Above provides a no code
+          Digital Operations environment to mirror key data from your back
+          office systems—and allow anyone to develop above it and collaborate
+          with business teams and partner.
 
 
           Once in this environment, real-time analytics and workflow can be
           quickly assembled across different data sets—driving new business
-          processes,  automated decisions and novel features. And since Above
+          processes,  automations and novel customer features. And since Above
           replaces the need for app and web servers, you won't need backend
           engineering to power your new internal, partner and customer
-          experiences. 
+          experiences.
         video_embed_html: ''
         media_position: left
         media_width: fifty
