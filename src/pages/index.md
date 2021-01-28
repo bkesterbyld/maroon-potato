@@ -14,7 +14,7 @@ sections:
         style: primary
     image: images/jamstack-edge-network-drynamic-data-2.jpg
     media_position: right
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: large
     padding_bottom: large
