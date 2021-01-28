@@ -39,7 +39,7 @@ sections:
     actions: []
     video_embed_html: ''
     media_position: top
-    media_width: sixty
+    media_width: fourty
     align: center
     padding_top: medium
     padding_bottom: none
