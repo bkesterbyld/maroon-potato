@@ -61,7 +61,7 @@ sections:
           service supports typical database fields and handles file, blob,
           structured and unstructured data.
         actions: []
-        image: images/relational-datat-modeling-jamstack.png
+        image: images/relational-datat-modeling-jamstack-2.png
         media_position: right
         media_width: fourty
       - title: Powerful Native Compute
