@@ -90,7 +90,7 @@ sections:
     align: center
     background_color: secondary
     has_border: true
-    padding_top: small
+    padding_top: none
   - type: grid_section
     title: Solutions
     subtitle: ''
