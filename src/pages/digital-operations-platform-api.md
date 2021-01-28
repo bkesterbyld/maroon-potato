@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Enable Serverless ERP and Marketing Innovation
+      - title: Enable Headless ERP and Marketing Innovation
         subtitle: >-
           Scale beyond your point solutions with integrated, high speed business
           processes
