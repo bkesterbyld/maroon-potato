@@ -18,8 +18,8 @@ sections:
           often involves new infrastructure, consultants and adding user seats
           to your ERP, CRM, WMS and vendor contracts. Above provides a no code
           Digital Operations environment to mirror key data from your back
-          office systems—and allow anyone to develop above it and collaborate
-          with business teams and partner.
+          office systems—and allow anyone to develop above it and share data
+          with business and partners.
 
 
           Once in this environment, real-time analytics and workflow can be
