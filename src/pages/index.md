@@ -12,7 +12,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/Picture6.png
+    image: images/jamstack-edge-network-drynamic-data.jpg
     media_position: right
     media_width: sixty
     align: left
