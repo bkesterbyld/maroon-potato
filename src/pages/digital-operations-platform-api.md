@@ -19,15 +19,15 @@ sections:
           new infrastructure, consultants and adding user seats to your ERP,
           CRM, WMS and vendor contracts. Above provides a no code Digital
           Operations environment to aggregate key data from your back office
-          systems and trading partners—and allow anyone to develop above it and
-          securely access live data.
+          systems and trading partners, and then make it available via
+          searchable web pages and a high performance API. 
 
 
           Once in this environment, real-time analytics and workflow can be
-          quickly assembled across different data sets—driving intelligent
-          business processes and novel customer features. And since Above
-          replaces the need for app and web servers, you won't need backend
-          engineering to power your new internal, partner and customer
+          quickly assembled across disparate data sets—driving intelligent
+          cross-functional business processes and novel customer features. And
+          since Above replaces the need for app and web servers, you won't need
+          backend engineering to power your new internal, partner and customer
           experiences.
         video_embed_html: ''
         media_position: left
