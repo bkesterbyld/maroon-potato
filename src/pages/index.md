@@ -33,9 +33,9 @@ sections:
 
       Above is a no code global computing network that replaces databases,
       backend coding and infrastructure. Build something from scratch or ingest
-      and mix existing data to innovate. The overall experience is productive
-      and iterative, freeing you to focus on interfaces, client logic and other
-      high level work.
+      and mix existing data to innovate. The experience is productive and
+      iterative, freeing you to focus on interfaces, client logic and other high
+      level work.
     actions: []
     video_embed_html: ''
     media_position: top
