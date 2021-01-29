@@ -10,8 +10,8 @@ sections:
     features:
       - title: Enable Headless ERP and Marketing Innovation
         subtitle: >-
-          Scale beyond your point solutions with integrated, high speed business
-          processes
+          Aggregate data from anywhere into a single browser view and high
+          performance API
         content: >
           Keeping your back office in real-time sync with your frontend
           experiences and commerce platforms is a costly proposition as you add
