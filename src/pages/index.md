@@ -64,7 +64,7 @@ sections:
         image: images/relational-datat-modeling-jamstack-5.png
         media_position: right
         media_width: fourty
-      - title: Native compute that's AI ready
+      - title: native compute that's AI ready
         content: >
           Above's control flow logic agents enable CRUD, business logic and
           analytics without having to learn anything. They pair with [parallel
