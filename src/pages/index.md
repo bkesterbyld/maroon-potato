@@ -64,13 +64,13 @@ sections:
         image: images/relational-datat-modeling-jamstack-5.png
         media_position: right
         media_width: fourty
-      - title: native compute that's AI ready
+      - title: native compute that's AI capable
         content: >
           Above's [control flow](https://www.abovecomp.com/faq) logic agents enable CRUD, business logic and
           analytics without having to learn anything. They pair with [parallel
           and in-memory processing options](https://www.abovecomp.com/faq) to
-          assure performant data operations including intense AI- and ML-driven
-          use cases.
+          enable the most extreme logic and calculations across massive data
+          sets.
         actions: []
         image: images/logic-engine-cloud-functions-jamstack-5.png
         media_position: left
