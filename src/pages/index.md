@@ -69,8 +69,8 @@ sections:
           Above's control flow logic agents enable CRUD, business logic and
           analytics without having to learn anything. They pair with [parallel
           and in-memory processing options](https://www.abovecomp.com/faq) to
-          assure performant search, update and calculate operations across big
-          data sets.
+          assure performant data operations including intense AI- and ML-driven
+          use cases.
         actions: []
         image: images/logic-engine-cloud-functions-jamstack-5.png
         media_position: left
