@@ -75,7 +75,7 @@ sections:
         image: images/logic-engine-cloud-functions-jamstack-5.png
         media_position: left
         media_width: fourty
-      - title: 'edge processing '
+      - title: edge processing for lighting fast data interactions
         subtitle: ''
         content: >
           Process data anywhere in the world next to your users, delivering
