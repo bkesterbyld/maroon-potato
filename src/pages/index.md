@@ -64,7 +64,7 @@ sections:
         image: images/relational-datat-modeling-jamstack-5.png
         media_position: right
         media_width: fourty
-      - title: native compute that's AI capable
+      - title: no code native compute that's AI capable
         content: >
           Above's [control flow](https://www.abovecomp.com/faq) logic agents enable CRUD, business logic and
           analytics without having to learn anything. They pair with [parallel
