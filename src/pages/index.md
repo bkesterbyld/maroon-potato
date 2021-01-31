@@ -54,7 +54,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Relational Data Modeling
+      - title: relational data modeling as simple as a spreadsheet
         subtitle: ''
         content: >
           Model complex relationships and mappings to existing data, but in an
