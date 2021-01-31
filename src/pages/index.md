@@ -57,9 +57,9 @@ sections:
       - title: Relational Data Modeling
         subtitle: ''
         content: >
-          Model data tables and complex relationships right from a web page. The
-          service supports typical database fields and handles structured and
-          unstructured data as well as objects.
+          Model complex relationships and mappings to existing data, but in an
+          experience as simple as a spreadsheet. The service supports all kinds
+          of data including structured, unstructured and blobs. 
         actions: []
         image: images/relational-datat-modeling-jamstack-5.png
         media_position: right
