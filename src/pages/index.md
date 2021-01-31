@@ -54,28 +54,28 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Relational Data Modeling
+      - title: relational data modeling as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model data tables and complex relationships right from a web page. The
-          service supports typical database fields and handles structured and
-          unstructured data as well as objects.
+          Model complex relationships and mappings to existing data, but in an
+          experience as simple as a spreadsheet. The service supports all kinds
+          of data including structured, unstructured and blobs. 
         actions: []
         image: images/relational-datat-modeling-jamstack-5.png
         media_position: right
         media_width: fourty
-      - title: Powerful Native Compute
+      - title: native compute that's AI ready
         content: >
           Above's [control flow](https://www.abovecomp.com/faq) logic agents enable CRUD, business logic and
           analytics without having to learn anything. They pair with [parallel
           and in-memory processing options](https://www.abovecomp.com/faq) to
-          assure performant search, update and calculate operations across big
-          data sets.
+          assure performant data operations including intense AI- and ML-driven
+          use cases.
         actions: []
         image: images/logic-engine-cloud-functions-jamstack-5.png
         media_position: left
         media_width: fourty
-      - title: Edge Processing
+      - title: edge processing for lighting fast data interactions
         subtitle: ''
         content: >
           Process data anywhere in the world next to your users, delivering
