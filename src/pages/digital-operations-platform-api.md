@@ -10,7 +10,7 @@ sections:
     features:
       - title: Enable Headless ERP and Marketing Innovation
         subtitle: >-
-          Aggregate data from anywhere into a single browser view and high
+          Get critical real-time marketing and ops data into a single high
           performance API
         content: >
           Keeping your back office in real-time sync with your frontend

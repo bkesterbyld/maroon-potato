@@ -28,14 +28,14 @@ sections:
   - title: ''
     subtitle: ''
     content: >
-      #### Save your brain for high level work
+      #### Do full stack work without the full stack hassle
 
 
       Above is a no code global computing network that replaces databases,
       backend coding and infrastructure. Build something from scratch or ingest
       and mix existing data to innovate. The experience is productive and
-      iterative, freeing you to focus on interfaces, client logic and other high
-      level work.
+      iterative, freeing you to focus on delivering amazing data experiences for
+      your users.
     actions: []
     video_embed_html: ''
     media_position: top
