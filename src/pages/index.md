@@ -12,7 +12,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/globe-sitck-jamstack1.png
+    image: images/globe-sitck-jamstack2.png
     media_position: right
     media_width: fourty
     align: left
@@ -120,9 +120,9 @@ sections:
       - title: Digital Operations API
         title_align: left
         content: >
-          An easy way for online commerce companies to get ops and marketing
-          data into one environment---to make sense of it and power high speed
-          commerce processes
+          An easy way for online operators to get ops and marketing data into
+          one environment---to make sense of it and power intelligent new
+          business processes
         content_align: left
         actions:
           - label: Learn More
