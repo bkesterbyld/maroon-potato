@@ -14,7 +14,7 @@ sections:
         style: primary
     image: images/globe-sitck-jamstack5.png
     media_position: right
-    media_width: sixty
+    media_width: fifty
     align: left
     padding_top: large
     padding_bottom: medium
