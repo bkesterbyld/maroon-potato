@@ -57,9 +57,11 @@ sections:
       - title: relational data modeling as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model complex relationships and mappings to existing data, but in an
-          experience as simple as a spreadsheet. The service supports all kinds
-          of data including structured, unstructured and blobs. 
+          Model complex relationships and mappings to existing back office data,
+          but in an experience as easy as a spreadsheet. The service supports
+          all kinds of data including structured, unstructured and blobs and
+          puts it in safe and reliable SQL, NoSQL and object stores behind the
+          scenes.
         actions: []
         image: images/undraw_software_engineer_lvl5.svg
         media_position: right
