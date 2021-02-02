@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Innovate your ERP and marketing processes
+      - title: Innovate your ERP and customer processes
         subtitle: A headless approach to extending your
         content: >
           Keeping your back office in real-time sync with your frontend
