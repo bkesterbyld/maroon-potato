@@ -66,7 +66,8 @@ sections:
       - title: Virtual shopping
         subtitle: ''
         title_align: left
-        content: Power AR components on your site with backbone operations data
+        content: |
+          Power AR components on your site with backbone operations data
         content_align: left
         actions: []
         actions_align: left
