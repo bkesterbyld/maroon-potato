@@ -23,10 +23,10 @@ sections:
           Above couples this network with [powerful computing options](/faq) to
           assure high levels of performance to local users regardless of data
           types, speeds and sizes. And because Above is no code, shipping new
-          features out the door is both fast and easy. 
+          features out the door is both fast and easy.
 
 
-          *   Build powerful, multidata backends quickly without coding
+          *   Build powerful backends quickly without coding
 
 
           *   Manage data anywhere to comply with GDPR and other privacy
