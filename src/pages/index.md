@@ -12,9 +12,9 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/globe-sitck-jamstack2.png
+    image: images/globe-sitck-jamstack5.png
     media_position: right
-    media_width: fourty
+    media_width: fifty
     align: left
     padding_top: large
     padding_bottom: medium
@@ -61,7 +61,7 @@ sections:
           experience as simple as a spreadsheet. The service supports all kinds
           of data including structured, unstructured and blobs. 
         actions: []
-        image: images/relational-datat-modeling-jamstack-5.png
+        image: images/undraw_software_engineer_lvl5.svg
         media_position: right
         media_width: fourty
       - title: no code native compute that's AI capable
@@ -72,7 +72,7 @@ sections:
           enable the most extreme logic and calculations across massive data
           sets.
         actions: []
-        image: images/logic-engine-cloud-functions-jamstack-5.png
+        image: images/undraw_hacker_mind_6y85.svg
         media_position: left
         media_width: fourty
       - title: edge processing for lighting fast data interactions
@@ -83,7 +83,7 @@ sections:
           replicates field-level changes around the world so data is always in
           sync and fresh. 
         actions: []
-        image: images/edge-compute-jamstack-engine-backend-5.png
+        image: images/undraw_Around_the_world_re_n353.svg
         media_position: right
         media_width: fourty
     feature_padding_vert: large
