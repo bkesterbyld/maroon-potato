@@ -12,7 +12,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/fabulous-sparrow.svg
+    image: images/undraw_world_9iqb (1).svg
     media_position: right
     media_width: fifty
     align: left
