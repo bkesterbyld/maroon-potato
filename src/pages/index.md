@@ -12,7 +12,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/globe-sitck-jamstack5.png
+    image: images/fabulous-sparrow.svg
     media_position: right
     media_width: fifty
     align: left
