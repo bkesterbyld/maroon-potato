@@ -15,24 +15,21 @@ sections:
           experiences and commerce platforms is a costly proposition as you add
           new digital channels, suppliers and distributors. It often involves
           new infrastructure, consultants and adding user seats to your ERP,
-          CRM, WMS and vendor contracts. Above provides a no code Digital
-          Operations environment to aggregate and make senses of key data from
-          your back office systems. Once there, you can build intelligent
-          business processes with your own user interfaces, share data across
-          your organization and enforce a data-centric strategy as your business
-          grows.
+          CRM, WMS and vendor contracts. Above provides a no code, serverless to
+          aggregate and make senses of key data from your back office systems.
+          With it, you can:
 
 
-          *   Grow your back office without adding user seats to your ERP, CRM,
-          WMS and marketing systems
+          *   Build intelligent business processes and your own user
+          interfaces—for unlimited internal and external users
+
+
+          *   Share data across your organization and enforce a data-centric
+          strategy as your business grows
 
 
           *   Derive new insights from mixed real-time data and create
           intelligent, predictive automations
-
-
-          *   Grant live data access via browser or API to any business or
-          partner user
         video_embed_html: ''
         media_position: left
         media_width: fifty
