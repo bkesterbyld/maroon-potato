@@ -20,16 +20,15 @@ sections:
           systems. With it, you can:
 
 
-          *   Build intelligent business processes with your own user
-          interfaces—for unlimited internal and external users
+          *   Build intelligent business processes with your own user interfaces
 
 
-          *   Share live data across your operations via browser or API with any
-          business team or partner
+          *   Share live data via browser or API with any business team or third
+          party
 
 
           *   Derive new insights from mixed real-time data and execute your
-          unique, differentiating data science
+          unique, differentiating algorithms
         video_embed_html: ''
         media_position: left
         media_width: fifty
