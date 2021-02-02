@@ -12,7 +12,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/globe-sitck-jamstack5.png
+    image: images/fabulous-sparrow.svg
     media_position: right
     media_width: fifty
     align: left
@@ -61,10 +61,10 @@ sections:
           experience as simple as a spreadsheet. The service supports all kinds
           of data including structured, unstructured and blobs. 
         actions: []
-        image: images/undraw_software_engineer_lvl5.svg
+        image: images/undraw_spreadsheets_xdjy.svg
         media_position: right
         media_width: fourty
-      - title: no code native compute that's AI capable
+      - title: no code native compute
         content: >
           Above's [control flow](https://www.abovecomp.com/faq) logic agents enable CRUD, business logic and
           analytics without having to learn anything. They pair with [parallel
@@ -72,7 +72,7 @@ sections:
           enable the most extreme logic and calculations across massive data
           sets.
         actions: []
-        image: images/undraw_hacker_mind_6y85.svg
+        image: images/dataprocessing.png
         media_position: left
         media_width: fourty
       - title: edge processing for lighting fast data interactions
@@ -83,7 +83,7 @@ sections:
           replicates field-level changes around the world so data is always in
           sync and fresh. 
         actions: []
-        image: images/undraw_Around_the_world_re_n353.svg
+        image: images/undraw_connected_world_wuay (1).svg
         media_position: right
         media_width: fourty
     feature_padding_vert: large
