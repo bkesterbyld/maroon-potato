@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Enable Headless ERP and Marketing Innovation
+      - title: Innovate your ERP and marketing processes
         subtitle: >-
           Get critical real-time marketing and ops data into a single high
           performance API
