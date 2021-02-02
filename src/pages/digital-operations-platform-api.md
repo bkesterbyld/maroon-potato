@@ -17,9 +17,12 @@ sections:
           new infrastructure, consultants and adding user seats to your ERP,
           CRM, WMS and vendor contracts. Above provides a no code, serverless
           workspace to ingest, mix and serve key data from your back office
-          systems. It handles disparate data from anywhere in the world
-          effortlessly, and avoids the concurrency and resource contention
-          problems with custom DBs, coding and infrastructure. 
+          systems.
+
+
+          It handles disparate data from anywhere in the world effortlessly, and
+          avoids the concurrency and resource contention problems with custom
+          DBs, coding and infrastructure.
 
 
           *   Build intelligent business processes with your own user interfaces
