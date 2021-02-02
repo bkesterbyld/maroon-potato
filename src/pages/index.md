@@ -64,7 +64,7 @@ sections:
         image: images/undraw_software_engineer_lvl5.svg
         media_position: right
         media_width: fourty
-      - title: no code native compute that's AI capable
+      - title: no code native compute
         content: >
           Above's control flow logic agents enable CRUD, business logic and
           analytics without having to learn anything. They pair with [parallel
