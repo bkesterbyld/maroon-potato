@@ -122,8 +122,8 @@ sections:
         title_align: left
         content: >
           An easy way for online operators to get ops and marketing data into
-          one environment---to make sense of it and power intelligent new
-          business processes
+          one environment—to make sense of it and power intelligent new business
+          processes
         content_align: left
         actions:
           - label: Learn More

@@ -8,27 +8,31 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Enable Headless ERP and Marketing Innovation
-        subtitle: >-
-          Get critical real-time marketing and ops data into a single high
-          performance API
+      - title: Innovate your ERP and customer processes
+        subtitle: 'A headless, cost-efficient approach to modernizing your back office'
         content: >
           Keeping your back office in real-time sync with your frontend
           experiences and commerce platforms is a costly proposition as you add
           new digital channels, suppliers and distributors. It often involves
           new infrastructure, consultants and adding user seats to your ERP,
           CRM, WMS and vendor contracts. Above provides a no code Digital
-          Operations environment to aggregate key data from your back office
-          systems and trading partners, and then make it available via
-          searchable web pages and a high performance API. 
+          Operations environment to aggregate and make senses of key data from
+          your back office systems. Once there, you can build intelligent
+          business processes with your own user interfaces, share data across
+          your organization and enforce a data-centric strategy as your business
+          grows.
 
 
-          Once in this environment, real-time analytics and workflow can be
-          quickly assembled across disparate data sets—driving intelligent
-          cross-functional business processes and novel customer features. And
-          since Above replaces the need for app and web servers, you won't need
-          backend engineering to power your new internal, partner and customer
-          experiences.
+          *   Grow your back office without adding user seats to your ERP, CRM,
+          WMS and marketing systems
+
+
+          *   Derive new insights from mixed real-time data and create
+          intelligent, predictive automations
+
+
+          *   Grant live data access via browser or API to any business or
+          partner user
         video_embed_html: ''
         media_position: left
         media_width: fifty
@@ -69,7 +73,8 @@ sections:
       - title: Virtual shopping
         subtitle: ''
         title_align: left
-        content: Power AR components on your site with backbone operations data
+        content: |
+          Power AR components on your site with backbone operations data
         content_align: left
         actions: []
         actions_align: left
@@ -240,7 +245,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Product customization
+      - title: Mass customization
         subtitle: ''
         title_align: left
         content: >-
