@@ -17,23 +17,27 @@ sections:
           new infrastructure, consultants and adding user seats to your ERP,
           CRM, WMS and vendor contracts. Above provides a no code, serverless
           workspace to ingest, mix and serve key data from your back office
-          systems. With it, you can:
+          systems.
 
 
-          *   Build intelligent business processes with your own user
-          interfaces—for unlimited internal and external users
+          It handles disparate data from anywhere in the world effortlessly, and
+          avoids the concurrency and resource contention problems with custom
+          DBs, coding and infrastructure.
 
 
-          *   Share live data across your operations via browser or API with any
-          business team or partner
+          *   Build intelligent business processes with your own user interfaces
+
+
+          *   Share live data via browser or API with any business team or third
+          party
 
 
           *   Derive new insights from mixed real-time data and execute your
-          unique, differentiating data science
+          unique, differentiating algorithms
         video_embed_html: ''
         media_position: left
         media_width: fifty
-        image: images/digital-operations-platform-2.png
+        image: images/digital-operations-API-jamstasck-backend-3.png
     background_color: none
   - title: What can you do with mixed ops and marketing data?
     subtitle: Check out our library of rich examples and reusable solutions
