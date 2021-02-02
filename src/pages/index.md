@@ -61,7 +61,7 @@ sections:
           experience as simple as a spreadsheet. The service supports all kinds
           of data including structured, unstructured and blobs. 
         actions: []
-        image: images/undraw_spreadsheets_xdjy.svg
+        image: images/undraw_Spreadsheet_re_cn18 (1).svg
         media_position: right
         media_width: fourty
       - title: no code native compute
