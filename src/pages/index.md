@@ -72,7 +72,7 @@ sections:
           enable the most extreme logic and calculations across massive data
           sets.
         actions: []
-        image: images/undraw_data_processing_yrrv.svg
+        image: images/dataprocessing.png
         media_position: left
         media_width: fourty
       - title: edge processing for lighting fast data interactions
