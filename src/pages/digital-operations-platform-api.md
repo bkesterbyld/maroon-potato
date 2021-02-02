@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Innovate your ERP and customer processes
-        subtitle: 'A headless approach to extending your key back office systems,'
+        subtitle: 'A headless, cost-efficient approach to modernizing your back office'
         content: >
           Keeping your back office in real-time sync with your frontend
           experiences and commerce platforms is a costly proposition as you add
