@@ -15,8 +15,8 @@ sections:
           experiences and commerce platforms is a costly proposition as you add
           new digital channels, suppliers and distributors. It often involves
           new infrastructure, consultants and adding user seats to your ERP,
-          CRM, WMS and vendor contracts. Above provides a no code, serverless to
-          aggregate and make senses of key data from your back office systems.
+          CRM, WMS and vendor contracts. Above provides a no code, serverless
+          workspace ingest mix and serve key data from your back office systems.
           With it, you can:
 
 
@@ -28,8 +28,8 @@ sections:
           strategy as your business grows
 
 
-          *   Derive new insights from mixed real-time data and create
-          intelligent, predictive automations
+          *   Derive new insights from mixed real-time data and execute your
+          unique, differentiating data science
         video_embed_html: ''
         media_position: left
         media_width: fifty
