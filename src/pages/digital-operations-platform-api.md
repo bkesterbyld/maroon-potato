@@ -9,9 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Innovate your ERP and marketing processes
-        subtitle: >-
-          Get critical real-time marketing and ops data into a single high
-          performance API
+        subtitle: A headless approach to extending your
         content: >
           Keeping your back office in real-time sync with your frontend
           experiences and commerce platforms is a costly proposition as you add
