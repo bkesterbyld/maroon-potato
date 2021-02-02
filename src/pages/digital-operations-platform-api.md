@@ -20,7 +20,7 @@ sections:
           your back office systems. Once there, you can build intelligent
           business processes with your own user interfaces, share data across
           your organization and enforce a data-centric strategy as your business
-          grows. 
+          grows.
 
 
           *   Grow your back office without adding user seats to your ERP, CRM,
@@ -31,7 +31,8 @@ sections:
           intelligent, predictive automations
 
 
-          *   Share data across the company with any business team
+          *   Grant live data access via browser or API to any business or
+          partner user
         video_embed_html: ''
         media_position: left
         media_width: fifty
