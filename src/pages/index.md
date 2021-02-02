@@ -83,7 +83,7 @@ sections:
           replicates field-level changes around the world so data is always in
           sync and fresh. 
         actions: []
-        image: images/undraw_Around_the_world_re_n353.svg
+        image: images/undraw_connected_world_wuay (1).svg
         media_position: right
         media_width: fourty
     feature_padding_vert: large
