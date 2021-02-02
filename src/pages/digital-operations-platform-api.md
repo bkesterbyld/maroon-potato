@@ -16,16 +16,16 @@ sections:
           new digital channels, suppliers and distributors. It often involves
           new infrastructure, consultants and adding user seats to your ERP,
           CRM, WMS and vendor contracts. Above provides a no code, serverless
-          workspace ingest mix and serve key data from your back office systems.
-          With it, you can:
+          workspace to ingest, mix and serve key data from your back office
+          systems. With it, you can:
 
 
-          *   Build intelligent business processes and your own user
+          *   Build intelligent business processes with your own user
           interfaces—for unlimited internal and external users
 
 
-          *   Share data across your organization and enforce a data-centric
-          strategy as your business grows
+          *   Share live data across your operations via browser or API with any
+          business team or partner
 
 
           *   Derive new insights from mixed real-time data and execute your
