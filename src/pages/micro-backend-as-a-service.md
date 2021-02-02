@@ -12,18 +12,28 @@ sections:
         subtitle: >-
           And process data right next to your users to deliver snappy
           performance
-        content: >-
+        content: >
           Above enables computing near users anywhere without deploying
           databases, app servers or writing code. Our network allows you to put
           a full or mini-backend anywhere in the world while Active Data
           Management technology syncs only field-level changes across regions,
-          ensuring snappy solution-wide response. 
+          ensuring snappy solution-wide response.
 
 
           Above couples this network with [powerful computing options](/faq) to
           assure high levels of performance to local users regardless of data
           types, speeds and sizes. And because Above is no code, shipping new
-          features out the door is both fast and easy.
+          features out the door is both fast and easy. 
+
+
+          *   Build powerful, multidata backends quickly without coding
+
+
+          *   Manage data anywhere to comply with GDPR and other privacy
+          regulations
+
+
+          *   Ensure your users get fast data interactions with edge compute
         image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
