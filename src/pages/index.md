@@ -72,7 +72,7 @@ sections:
           enable the most extreme logic and calculations across massive data
           sets.
         actions: []
-        image: images/logic-engine-cloud-functions-jamstack-5.png
+        image: images/undraw_hacker_mind_6y85.svg
         media_position: left
         media_width: fourty
       - title: edge processing for lighting fast data interactions
