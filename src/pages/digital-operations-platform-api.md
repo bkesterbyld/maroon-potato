@@ -25,19 +25,21 @@ sections:
           DBs, coding and infrastructure.
 
 
-          *   Build intelligent business processes with your own user interfaces
+          *   Inject AI and data science into new business processes
 
 
-          *   Share live data via browser or API with any business team or third
-          party
+          *   Scale beyond your systems without infrastructure or new seats
 
 
-          *   Derive new insights from mixed real-time data and execute your
-          unique, differentiating algorithms
+          *   Frontend teams and developers iterate together
+
+
+          *   Directly power new interfaces and your existing commerce and DX
+          platforms
         video_embed_html: ''
         media_position: left
         media_width: fifty
-        image: images/digital-operations-API-jamstasck-backend-3.png
+        image: images/digital-operations-API-jamstasck-backend-9.png
     background_color: none
   - title: What can you do with mixed ops and marketing data?
     subtitle: Check out our library of rich examples and reusable solutions
