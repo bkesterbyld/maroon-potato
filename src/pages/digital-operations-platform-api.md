@@ -31,7 +31,8 @@ sections:
           *   Scale beyond your systems without infrastructure or new seats
 
 
-          *   Frontend teams and developers iterate together
+          *   Frontend developers and business work together to ship and iterate
+          fast
 
 
           *   Directly power new interfaces and your existing commerce and DX
