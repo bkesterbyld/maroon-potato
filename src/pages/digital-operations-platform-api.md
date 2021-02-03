@@ -37,7 +37,7 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: fourty
-        image: images/digital-operations-API-jamstasck-backend-4.png
+        image: images/digital-operations-API-jamstasck-backend-6.png
     background_color: none
   - title: What can you do with mixed ops and marketing data?
     subtitle: Check out our library of rich examples and reusable solutions
