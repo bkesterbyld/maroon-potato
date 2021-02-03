@@ -36,7 +36,7 @@ sections:
           unique, differentiating algorithms
         video_embed_html: ''
         media_position: left
-        media_width: fifty
+        media_width: fourty
         image: images/digital-operations-API-jamstasck-backend-4.png
     background_color: none
   - title: What can you do with mixed ops and marketing data?
