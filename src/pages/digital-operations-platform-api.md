@@ -21,8 +21,8 @@ sections:
 
 
           It handles disparate data from anywhere in the world effortlessly, and
-          avoids the concurrency and resource contention problems with custom
-          DBs, coding and infrastructure.
+          avoids the concurrency and resource contention problems processing
+          large data sets across custom DBs, coding and infrastructure.
 
 
           *   Inject AI and data science into new business processes
