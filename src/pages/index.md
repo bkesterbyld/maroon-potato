@@ -67,11 +67,10 @@ sections:
         media_width: fourty
       - title: no code native compute
         content: >
-          Above's control flow logic agents enable CRUD, business logic and
-          analytics without having to learn anything. They pair with [parallel
-          and in-memory processing options](https://www.abovecomp.com/faq) to
-          enable the most extreme logic and calculations across massive data
-          sets.
+          Above's logic agents enable CRUD, business logic and analytics without
+          having to learn anything. They pair with [parallel and in-memory
+          processing options](https://www.abovecomp.com/faq) to assure user
+          performance under extreme load.
         actions: []
         image: images/dataprocessing.png
         media_position: left
