@@ -13,17 +13,17 @@ sections:
           And process data right next to your users to deliver snappy
           performance
         content: >
-          Above enables computing near users anywhere without deploying
-          databases, app servers or writing code. Our network allows you to put
-          a full or mini-backend anywhere in the world while Active Data
-          Management technology syncs only field-level changes across regions,
-          ensuring snappy solution-wide response.
+          Above's global computing network allows you to quickly spin up a
+          backend and distribute it all over the world to crunch and deliver
+          data instantly to your users.  Active Data Management technology syncs
+          only field-level changes across regions, ensuring snappy solution-wide
+          response.
 
 
           Above couples this network with [powerful computing options](/faq) to
-          assure high levels of performance to local users regardless of data
-          types, speeds and sizes. And because Above is no code, shipping new
-          features out the door is both fast and easy.
+          assure the highest performance to your users regardless of the data
+          types, speeds and sizes in your application. And because Above is no
+          code, shipping new features out the door is both fast and easy.
 
 
           *   Build powerful backends quickly without coding
