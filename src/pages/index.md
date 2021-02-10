@@ -67,11 +67,10 @@ sections:
         media_width: fourty
       - title: no code native compute
         content: >
-          Above's [control flow](https://www.abovecomp.com/faq) logic agents enable CRUD, business logic and
-          analytics without having to learn anything. They pair with [parallel
-          and in-memory processing options](https://www.abovecomp.com/faq) to
-          enable the most extreme logic and calculations across massive data
-          sets.
+          Above's logic agents enable CRUD, business logic and analytics without
+          having to learn anything. They pair with [parallel and in-memory
+          processing options](https://www.abovecomp.com/faq) to assure
+          end-client performance under extreme load.
         actions: []
         image: images/dataprocessing.png
         media_position: left
@@ -121,9 +120,9 @@ sections:
       - title: Digital Operations API
         title_align: left
         content: >
-          An easy way for online operators to get ops and marketing data into
-          one environment—to make sense of it and power intelligent new business
-          processes
+          An easy way for online operations to get back office and marketing
+          data into one environment—to make sense of it and power intelligent
+          new business processes
         content_align: left
         actions:
           - label: Learn More
