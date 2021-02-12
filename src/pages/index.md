@@ -19,7 +19,7 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: primary
-    has_border: true
+    has_border: false
     background_image: images/mighty-eucalyptus.svg
     background_image_opacity: 20
     background_image_position: left center
