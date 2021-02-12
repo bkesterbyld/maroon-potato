@@ -12,44 +12,19 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/fabulous-sparrow.svg
+    image: images/undraw_Around_the_world_re_n353 (2).svg
     media_position: right
     media_width: fifty
     align: left
     padding_top: large
     padding_bottom: medium
-    background_color: none
-    has_border: true
+    background_color: primary
+    has_border: false
     background_image: images/mighty-eucalyptus.svg
     background_image_opacity: 20
     background_image_position: left center
     background_image_size: auto
     video_embed_html: ''
-  - title: ''
-    subtitle: ''
-    content: >
-      #### Do full stack work without the full stack hassle
-
-
-      Above is a no code global computing network that replaces databases,
-      backend coding and infrastructure. Build something from scratch or ingest
-      and mix existing data to innovate. The experience is productive and
-      iterative, freeing you to focus on delivering amazing data experiences for
-      your users.
-    actions: []
-    video_embed_html: ''
-    media_position: top
-    media_width: fourty
-    align: center
-    padding_top: medium
-    padding_bottom: none
-    has_border: false
-    background_color: primary
-    background_image_opacity: 30
-    background_image_size: auto
-    background_image_position: left center
-    background_image_repeat: repeat
-    type: hero_section
   - type: features_section
     title: ''
     subtitle: ''
@@ -183,6 +158,6 @@ sections:
     align: left
     padding_top: small
     padding_bottom: small
-    background_color: none
+    background_color: primary
 template: advanced
 ---
