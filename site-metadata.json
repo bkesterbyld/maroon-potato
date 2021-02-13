@@ -7,7 +7,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Above Computing",
-        "logo": "images/abovecorp.png",
+        "logo": "images/above-logo_RGB-solid-black-sm-outline.png",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
