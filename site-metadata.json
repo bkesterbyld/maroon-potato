@@ -7,7 +7,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Above Computing",
-        "logo": "images/above-logo_RGB-solid-black-lg copy.png",
+        "logo": "images/jamstack-backend.png",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
