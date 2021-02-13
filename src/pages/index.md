@@ -12,7 +12,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/undraw_Around_the_world_re_n353 (2).svg
+    image: images/jamstack-users.png
     media_position: right
     media_width: fifty
     align: left
