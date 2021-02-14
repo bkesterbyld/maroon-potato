@@ -5,8 +5,8 @@ sections:
     title: Ship the fastest data experiences
     subtitle: ''
     content: >
-      Create a persistent compute API for your app or website in minutes that
-      crunches and serves data anywhere.
+      Create a global, persistent compute API for your app in minutes without
+      coding.
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -39,7 +39,7 @@ sections:
         image: images/spreadsheet.png
         media_position: right
         media_width: fourty
-      - title: no code high performance compute
+      - title: 'no code, high performance logic'
         content: >
           Above's logic agents enable CRUD, business logic and analytics without
           having to learn anything. They pair with [parallel and in-memory
