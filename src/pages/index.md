@@ -5,8 +5,8 @@ sections:
     title: Ship the fastest data experiences
     subtitle: ''
     content: >
-      Create a global, persistent compute API for your app in minutes without
-      coding.
+      Create a persistent compute API for your app without coding that handles
+      data right where your users are. 
     actions:
       - label: Join the Beta
         url: /general-enquiries
