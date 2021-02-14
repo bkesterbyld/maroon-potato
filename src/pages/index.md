@@ -37,7 +37,7 @@ sections:
           all kinds of data and puts it in safe and reliable SQL, NoSQL and
           object stores behind the scenes.
         actions: []
-        image: images/undraw_software_engineer_lvl5.svg
+        image: images/spreadsheet.png
         media_position: right
         media_width: fourty
       - title: no code native compute
