@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Innovate your ERP and customer processes
+      - title: Keep your back office and frontend commerce in sync
         subtitle: 'A headless, cost-efficient approach to modernizing your back office'
         content: >
           Keeping your back office in real-time sync with your frontend

@@ -5,8 +5,8 @@ sections:
     title: Ship the fastest data experiences
     subtitle: ''
     content: >
-      Create a global, persistent compute API for your app in minutes without
-      coding.
+      Above is no code, persistent compute API you can setup in minutes that
+      handles data right where your users are.
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -72,10 +72,10 @@ sections:
     grid_items:
       - title: Jamstack Backend API
         title_align: left
-        content: >-
+        content: >
           Cook up new features fast while using edge processing to keep dynamic
-          data flowing on par with the static files served from modern content
-          networks
+          data flowing on par with the pre-built pages served from modern
+          content networks
         content_align: left
         actions:
           - label: Learn More
