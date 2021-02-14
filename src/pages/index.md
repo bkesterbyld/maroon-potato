@@ -5,9 +5,8 @@ sections:
     title: Ship the fastest digital experiences
     subtitle: ''
     content: >
-      Create a persistent compute API for your app or website in minutes without
-      having to code or learn anything. Take advantage of global edge computing
-      to instantly crunch data and speed up user interactions.
+      Create a persistent compute API for your app or website in minutes that
+      crunches data right next to your users anywhere in the world.
     actions:
       - label: Join the Beta
         url: /general-enquiries
