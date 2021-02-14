@@ -13,7 +13,7 @@ sections:
         url: /general-enquiries
         style: primary
     image: images/jamstack-users-3.png
-    media_position: right
+    media_position: top
     media_width: fifty
     align: left
     padding_top: large
