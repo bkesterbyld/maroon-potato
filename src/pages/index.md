@@ -5,7 +5,7 @@ sections:
     title: Ship faster and delight users everywhere
     subtitle: ''
     content: >
-      Create a data and logic API for your app or website in minutes without
+      Create a persistent compute API for your app or website in minutes without
       having to code or learn anything. Take advantage of global edge computing
       to instantly crunch data and speed up user interactions.
     actions:
@@ -32,10 +32,10 @@ sections:
       - title: relational data modeling as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model complex relationships and mappings to existing back office data,
-          but in an experience as easy as a spreadsheet. The service supports
-          all kinds of data and puts it in safe and reliable SQL, NoSQL and
-          object stores behind the scenes.
+          Model complex relationships and mappings to your existing data, but in
+          an experience as easy as a spreadsheet. The service supports all kinds
+          of data and puts it in safe and reliable SQL, NoSQL and object stores
+          behind the scenes.
         actions: []
         image: images/spreadsheet.png
         media_position: right
