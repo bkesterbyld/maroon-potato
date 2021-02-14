@@ -12,7 +12,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/jamstack-users-3.png
+    image: images/jamstack-users-6-backend-api.png
     media_position: top
     media_width: fourty
     align: center
