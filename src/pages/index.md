@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Create a persistent compute API for your app or website in minutes that
-      crunches data right next to your users anywhere in the world.
+      crunches and delivers data at the edge.
     actions:
       - label: Join the Beta
         url: /general-enquiries
