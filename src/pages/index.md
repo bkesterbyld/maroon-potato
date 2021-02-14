@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ship faster and delight users everywhere
+    title: Ship faster. Serve Faster
     subtitle: ''
     content: >
       Create a persistent compute API for your app or website in minutes without
