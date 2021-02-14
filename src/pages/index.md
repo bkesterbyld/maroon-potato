@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ship the fastest digital experiences
+    title: Ship the fastest data experiences
     subtitle: ''
     content: >
       Create a persistent compute API for your app or website in minutes that
@@ -39,12 +39,13 @@ sections:
         image: images/spreadsheet.png
         media_position: right
         media_width: fourty
-      - title: no code native compute
+      - title: no code high performance compute
         content: >
           Above's logic agents enable CRUD, business logic and analytics without
           having to learn anything. They pair with [parallel and in-memory
           processing options](https://www.abovecomp.com/faq) to assure
-          end-client performance under extreme load.
+          performance under high load and in executing AI and other data science
+          models.
         actions: []
         image: images/dataprocessing.png
         media_position: left
