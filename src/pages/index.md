@@ -12,12 +12,12 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/jamstack-users-2.png
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: medium
+    image: images/jamstack-users-3.png
+    media_position: top
+    media_width: fourty
+    align: center
+    padding_top: small
+    padding_bottom: small
     background_color: primary
     has_border: false
     background_image: images/mighty-eucalyptus.svg
@@ -37,7 +37,7 @@ sections:
           all kinds of data and puts it in safe and reliable SQL, NoSQL and
           object stores behind the scenes.
         actions: []
-        image: images/undraw_software_engineer_lvl5.svg
+        image: images/spreadsheet.png
         media_position: right
         media_width: fourty
       - title: no code native compute
