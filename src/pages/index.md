@@ -16,7 +16,7 @@ sections:
     media_position: top
     media_width: fifty
     align: center
-    padding_top: large
+    padding_top: small
     padding_bottom: medium
     background_color: primary
     has_border: false
