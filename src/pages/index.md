@@ -15,7 +15,7 @@ sections:
     image: images/jamstack-users-3.png
     media_position: top
     media_width: fifty
-    align: left
+    align: center
     padding_top: large
     padding_bottom: medium
     background_color: primary
