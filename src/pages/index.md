@@ -5,7 +5,7 @@ sections:
     title: Ship faster and delight users everywhere
     subtitle: ''
     content: >
-      Create a data and logic API for your app or website in minutes without
+      Create a persistent compute API for your app or website in minutes without
       having to code or learn anything. Take advantage of global edge computing
       to instantly crunch data and speed up user interactions.
     actions:
