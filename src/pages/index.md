@@ -5,8 +5,8 @@ sections:
     title: Ship the fastest data experiences
     subtitle: ''
     content: >
-      Create a persistent compute API for your app in minutes without coding.
-      Instantly crunch data next to your users with edge processing.
+      Create a global, persistent compute API for your app in minutes without
+      coding.
     actions:
       - label: Join the Beta
         url: /general-enquiries
