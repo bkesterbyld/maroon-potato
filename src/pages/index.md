@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Serve the fastest experiences
+    title: Ship the fastest digital experiences
     subtitle: ''
     content: >
       Create a persistent compute API for your app or website in minutes without
