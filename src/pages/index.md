@@ -69,7 +69,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Distributed Jamstack Backend
+      - title: Jamstack Data & Logic API
         title_align: left
         content: >-
           Cook up new features fast while using edge processing to keep dynamic
