@@ -39,7 +39,7 @@ sections:
         image: images/spreadsheet.png
         media_position: right
         media_width: fourty
-      - title: no code native compute that performs better than infrastructure
+      - title: no code high performance compute
         content: >
           Above's logic agents enable CRUD, business logic and analytics without
           having to learn anything. They pair with [parallel and in-memory
