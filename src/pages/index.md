@@ -5,8 +5,8 @@ sections:
     title: Ship the fastest data experiences
     subtitle: ''
     content: >
-      Create a persistent compute API for your app or website in minutes that
-      crunches and serves data anywhere.
+      Create a persistent compute API for your app in minutes without coding.
+      Instantly crunch data next to your users with edge processing.
     actions:
       - label: Join the Beta
         url: /general-enquiries
