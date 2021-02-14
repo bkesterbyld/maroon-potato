@@ -2,12 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ship faster and delight users everywhere
+    title: Ship the fastest digital experiences
     subtitle: ''
     content: >
-      Create a persistent compute API for your app or website in minutes without
-      having to code or learn anything. Take advantage of global edge computing
-      to instantly crunch data and speed up user interactions.
+      Create a persistent compute API for your app or website in minutes that
+      crunches and serves data anywhere.
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -70,7 +69,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Distributed Jamstack Backend
+      - title: Jamstack Backend API
         title_align: left
         content: >-
           Cook up new features fast while using edge processing to keep dynamic
