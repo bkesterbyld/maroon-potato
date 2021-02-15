@@ -43,9 +43,9 @@ sections:
         content: >
           Above's logic agents enable CRUD, business logic and analytics without
           having to learn anything. They pair with [parallel and in-memory
-          processing options](https://www.abovecomp.com/faq) to assure
-          performance under high load and in executing AI and other data science
-          models.
+          processing options](https://www.abovecomp.com/faq) to assure the
+          highest data crunching performance, including handling AI and other
+          models. 
         actions: []
         image: images/dataprocessing.png
         media_position: left
