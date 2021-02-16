@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above is no code, persistent compute API that crunches data right where
-      your users are.
+      your users are
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -31,10 +31,10 @@ sections:
       - title: relational data modeling as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model complex relationships and mappings to your existing data, but in
-          an experience as easy as a spreadsheet. The service supports all kinds
+          Model data, complex relationships and mapping to any source data in an
+          experience as easy as a spreadsheet.  The service supports all kinds
           of data and puts it in safe and reliable SQL, NoSQL and object stores
-          behind the scenes.
+          behind the scenes.  
         actions: []
         image: images/spreadsheet.png
         media_position: right
@@ -44,7 +44,7 @@ sections:
           Above's logic agents enable CRUD, business logic and analytics without
           having to learn anything. They pair with [parallel and in-memory
           processing options](https://www.abovecomp.com/faq) to process massive
-          data, including running your AI and other data science models.
+          data, including execution of models from your data science team.
         actions: []
         image: images/dataprocessing.png
         media_position: left
