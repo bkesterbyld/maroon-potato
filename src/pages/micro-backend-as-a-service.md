@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Ship faster than ever
+      - title: Deliver snappy performance
         subtitle: >-
           And process data right next to your users to deliver snappy
           performance
