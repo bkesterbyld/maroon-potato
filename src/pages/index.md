@@ -31,10 +31,10 @@ sections:
       - title: relational data modeling as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model complex relationships and mappings to your existing data, but in
-          an experience as easy as a spreadsheet. The service supports all kinds
+          Model data, complex relationships and mapping to any source data in an
+          experience as easy as a spreadsheet.  The service supports all kinds
           of data and puts it in safe and reliable SQL, NoSQL and object stores
-          behind the scenes.
+          behind the scenes.  
         actions: []
         image: images/spreadsheet.png
         media_position: right
