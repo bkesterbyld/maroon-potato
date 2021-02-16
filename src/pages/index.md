@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above is no code, persistent compute API that crunches data right where
-      your users are.
+      your users are
     actions:
       - label: Join the Beta
         url: /general-enquiries
