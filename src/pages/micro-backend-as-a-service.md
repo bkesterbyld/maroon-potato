@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Deliver snappy performance
-        subtitle: And ship faster with no code data and logic modeling
+        subtitle: Plus ship and iteratve faster with no code data and logic modeling
         content: >
           Above's global computing network allows you to quickly spin up a
           backend and distribute it all over the world to crunch and deliver
