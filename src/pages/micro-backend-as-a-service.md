@@ -3,15 +3,15 @@ title: Features
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Serverless Backend
+    title: Distributed Serverless Backend
     subtitle: for your data-driven Jamstack and commerce projects
     background_color: secondary
   - type: features_section
     features:
-      - title: Ship faster than ever
+      - title: Deliver snappy performance
         subtitle: >-
-          And process data right next to your users to deliver snappy
-          performance
+          Plus ship and iterate faster than ever with no code data and logic
+          modeling
         content: >
           Above's global computing network allows you to quickly spin up a
           backend and distribute it all over the world to crunch and deliver
