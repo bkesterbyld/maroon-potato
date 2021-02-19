@@ -31,7 +31,7 @@ sections:
       - title: data modeling as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model data, complex relationships and mappings to any source data in
+          Model data, complex relationships and mappings to any existing data in
           an experience as easy as a spreadsheet.  The service supports all
           kinds of data and puts it in safe and reliable SQL, NoSQL and object
           stores behind the scenes.
