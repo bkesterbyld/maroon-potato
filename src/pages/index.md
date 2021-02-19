@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ship the fastest data experiences
+    title: Ship the fastest dynamic data experiences
     subtitle: ''
     content: >
       Above is no code, persistent compute API that crunches data right where
