@@ -46,7 +46,7 @@ sections:
           spreadsheet, so computations are instantaneous. And  you can use
           [parallel and in-memory processing
           options](https://www.abovecomp.com/faq) to crunch massive data and
-          execute AI and data science. 
+          execute AI and data science.
         actions: []
         image: images/dataprocessing.png
         media_position: left
