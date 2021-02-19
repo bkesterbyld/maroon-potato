@@ -42,9 +42,11 @@ sections:
       - title: 'no code, high performance logic'
         content: >
           Above's logic agents enable CRUD, business logic and analytics without
-          having to learn anything. They pair with [parallel and in-memory
-          processing options](https://www.abovecomp.com/faq) to crunch massive
-          data, including execution of models from your data science team.
+          having to learn anything. The logic lives right with the data, like a
+          spreadsheet, so computations are instantaneous. And  you can use
+          [parallel and in-memory processing
+          options](https://www.abovecomp.com/faq) to crunch massive data and
+          execute AI and data science. 
         actions: []
         image: images/dataprocessing.png
         media_position: left
