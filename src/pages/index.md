@@ -5,8 +5,8 @@ sections:
     title: Ship the fastest dynamic data experiences
     subtitle: ''
     content: >
-      Above is no code, persistent compute API that crunches data right where
-      your users are
+      Above is no code, persistent compute API that distributes and crunches
+      data right where your users are
     actions:
       - label: Join the Beta
         url: /general-enquiries
