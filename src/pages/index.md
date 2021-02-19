@@ -28,10 +28,10 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: relational data modeling as simple as a spreadsheet
+      - title: data modeling as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model data, complex relationships and mappings to any source data in
+          Model data, complex relationships and mappings to any existing data in
           an experience as easy as a spreadsheet.  The service supports all
           kinds of data and puts it in safe and reliable SQL, NoSQL and object
           stores behind the scenes.
@@ -39,12 +39,14 @@ sections:
         image: images/spreadsheet.png
         media_position: right
         media_width: fourty
-      - title: 'no code, high performance logic'
+      - title: 'no code, no limits logic'
         content: >
-          Above's logic agents enable CRUD, business logic and analytics without
-          having to learn anything. They pair with [parallel and in-memory
-          processing options](https://www.abovecomp.com/faq) to crunch massive
-          data, including execution of models from your data science team.
+          Above's no code logic agents enable CRUD, business logic and analytics
+          without having to learn anything. The logic lives right with the data,
+          like a spreadsheet, so computations are instantaneous. And  you can
+          use [parallel and in-memory processing
+          options](https://www.abovecomp.com/faq) to crunch massive data and
+          execute AI and data science.
         actions: []
         image: images/dataprocessing.png
         media_position: left
