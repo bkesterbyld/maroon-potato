@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ship the fastest data experiences
+    title: Ship the fastest dynamic data experiences
     subtitle: ''
     content: >
-      Above is no code, persistent compute API that crunches data right where
-      your users are
+      Above is no code, persistent compute API that distributes and crunches
+      data right where your users are
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -31,10 +31,10 @@ sections:
       - title: relational data modeling as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model data, complex relationships and mapping to any source data in an
-          experience as easy as a spreadsheet.  The service supports all kinds
-          of data and puts it in safe and reliable SQL, NoSQL and object stores
-          behind the scenes.  
+          Model data, complex relationships and mappings to any source data in
+          an experience as easy as a spreadsheet.  The service supports all
+          kinds of data and puts it in safe and reliable SQL, NoSQL and object
+          stores behind the scenes.
         actions: []
         image: images/spreadsheet.png
         media_position: right
@@ -43,7 +43,7 @@ sections:
         content: >
           Above's logic agents enable CRUD, business logic and analytics without
           having to learn anything. They pair with [parallel and in-memory
-          processing options](https://www.abovecomp.com/faq) to process massive
+          processing options](https://www.abovecomp.com/faq) to crunch massive
           data, including execution of models from your data science team.
         actions: []
         image: images/dataprocessing.png
@@ -53,9 +53,9 @@ sections:
         subtitle: ''
         content: >
           Process data anywhere in the world next to your users, delivering
-          incredibly fast interactions. Active data management technology
-          replicates field-level changes around the world so data is always in
-          sync and fresh. 
+          incredibly fast interactions. Above' multi-cloud global network
+          intelligently and cost-effectively handles data replication and
+          synchronization so you can be everywhere at once. 
         actions: []
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
