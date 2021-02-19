@@ -54,8 +54,8 @@ sections:
         content: >
           Process data anywhere in the world next to your users, delivering
           incredibly fast interactions. Active data management technology
-          replicates field-level changes around the world so data is always in
-          sync and fresh. 
+          replicates pre-built data views around the world and keeps them in
+          sync. 
         actions: []
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
