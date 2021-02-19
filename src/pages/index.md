@@ -53,9 +53,9 @@ sections:
         subtitle: ''
         content: >
           Process data anywhere in the world next to your users, delivering
-          incredibly fast interactions. Active data management technology
-          replicates pre-built data views around the world and keeps them in
-          sync. 
+          incredibly fast interactions. Above' multi-cloud global network
+          intelligently and cost-effectively handles data replication and
+          synchronization so you can be everywhere at once. 
         actions: []
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
