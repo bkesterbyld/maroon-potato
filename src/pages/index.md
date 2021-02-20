@@ -43,8 +43,8 @@ sections:
         content: >
           Above's no code logic agents enable CRUD, business logic and real-time
           analytics without having to learn anything. Our tech puts logic right
-          with the data, like a spreadsheet, so computations are instantaneous.
-          And you can use [parallel and in-memory processing
+          with the data, like a spreadsheet, so manipulations and computations
+          are instant. And you can use [parallel and in-memory processing
           options](https://www.abovecomp.com/faq) to crunch massive real time,
           disparate data and execute sophisticated calculations and AI.
         actions: []
