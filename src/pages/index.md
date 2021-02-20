@@ -45,8 +45,8 @@ sections:
           analytics without having to learn anything. Our tech puts logic right
           with the data, like a spreadsheet, so computations are instantaneous.
           And you can use [parallel and in-memory processing
-          options](https://www.abovecomp.com/faq) to crunch massive real time
-          data and execute sophisticated calculations and AI.
+          options](https://www.abovecomp.com/faq) to crunch massive real time,
+          disparate data and execute sophisticated calculations and AI.
         actions: []
         image: images/dataprocessing.png
         media_position: left
