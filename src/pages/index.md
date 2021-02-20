@@ -41,12 +41,12 @@ sections:
         media_width: fourty
       - title: 'no code, no limits logic'
         content: >
-          Above's no code logic agents enable CRUD, business logic and analytics
-          without having to learn anything. The logic lives right with the data,
-          like a spreadsheet, so computations are instantaneous. And  you can
-          use [parallel and in-memory processing
-          options](https://www.abovecomp.com/faq) to crunch massive data and
-          execute AI and data science.
+          Above's no code logic agents enable CRUD, business logic and real-time
+          analytics without having to learn anything. Our tech puts logic right
+          with the data, like a spreadsheet, so computations are instantaneous.
+          And you can use [parallel and in-memory processing
+          options](https://www.abovecomp.com/faq) to crunch massive real time
+          data and execute sophisticated calculations and AI.
         actions: []
         image: images/dataprocessing.png
         media_position: left
