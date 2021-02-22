@@ -5,7 +5,7 @@ sections:
     title: Ship the fastest data experiences
     subtitle: ''
     content: >
-      Above is no code, persistent compute API that distributes and crunches
+      Above is a no code, persistent compute API that distributes and crunches
       data right where your users are
     actions:
       - label: Join the Beta
