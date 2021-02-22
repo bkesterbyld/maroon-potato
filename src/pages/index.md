@@ -2,10 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ship the fastest dynamic data experiences
+    title: Ship the fastest data experiences
     subtitle: ''
     content: >
-      Above is no code, persistent compute API that distributes and crunches
+      Above is a no code, persistent compute API that distributes and crunches
       data right where your users are
     actions:
       - label: Join the Beta
@@ -41,12 +41,12 @@ sections:
         media_width: fourty
       - title: 'no code, no limits logic'
         content: >
-          Above's no code logic agents enable CRUD, business logic and analytics
-          without having to learn anything. The logic lives right with the data,
-          like a spreadsheet, so computations are instantaneous. And  you can
-          use [parallel and in-memory processing
-          options](https://www.abovecomp.com/faq) to crunch massive data and
-          execute AI and data science.
+          Above's no code logic agents enable CRUD, business logic and real-time
+          analytics without having to learn anything. Our tech puts logic right
+          with the data, like a spreadsheet, so manipulations and computations
+          are instant. And you can use [parallel and in-memory processing
+          options](https://www.abovecomp.com/faq) to crunch massive real time,
+          disparate data and execute sophisticated calculations and AI.
         actions: []
         image: images/dataprocessing.png
         media_position: left
