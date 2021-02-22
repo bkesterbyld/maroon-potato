@@ -88,7 +88,7 @@ sections:
             new_window: false
             type: action
         actions_align: left
-        image: images/DigitalOpsIcon2.png
+        image: images/jamstack-backend-api.png
         image_position: top
         image_align: center
         image_has_padding: true
