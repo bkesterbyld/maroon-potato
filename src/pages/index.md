@@ -55,9 +55,9 @@ sections:
         subtitle: ''
         content: >
           Process data anywhere in the world next to your users, delivering
-          incredibly fast interactions. Above' multi-cloud global network
-          intelligently and cost-effectively handles data replication and
-          synchronization so you can be everywhere at once. 
+          incredibly fast interactions. Above's multi-cloud global network
+          intelligently and cost-effectively handles data replication and sync
+          so you can be everywhere at once.
         actions: []
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
