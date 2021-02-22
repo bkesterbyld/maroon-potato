@@ -29,7 +29,8 @@ sections:
           *   Inject AI and data science into new business processes
 
 
-          *   Scale beyond your systems without infrastructure or new seats
+          *   Scale beyond your systems without infrastructure or new seat
+          licenses
 
 
           *   Frontend developers and business work together to ship and iterate
