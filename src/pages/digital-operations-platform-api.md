@@ -22,8 +22,8 @@ sections:
 
           It handles disparate data from anywhere in the world effortlessly, and
           avoids the concurrency and resource contention problems that often
-          come when companies build bespoke code that runs atop different SQL,
-          NoSQL and object stores.
+          comes from building code that runs across different SQL, NoSQL and
+          object stores.
 
 
           *   Inject AI and data science into new business processes
