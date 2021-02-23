@@ -254,9 +254,9 @@ sections:
       - title: Mass customization
         subtitle: ''
         title_align: left
-        content: >-
-          Manage complex product combinations and bundles that customers can
-          configure and get a quote for
+        content: >
+          Manage complex product combinations that customers can configure and
+          get a quote for
         content_align: left
         actions: []
         actions_align: left
