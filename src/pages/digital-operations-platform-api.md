@@ -52,8 +52,8 @@ sections:
         subtitle: ''
         title_align: center
         content: >
-          Fuse CRM, marketing, ERP, financial and other data and act on
-          real-time customer profiles
+          Fuse CRM, marketing, ERP, financial and other data to create a
+          real-time customer profile and act on it
         content_align: left
         actions: []
         actions_align: left
