@@ -14,24 +14,23 @@ sections:
           Keeping your back office in real-time sync with your frontend
           experiences and commerce platforms is a costly proposition as you add
           new digital channels, suppliers and distributors. It often involves
-          new infrastructure, consultants and adding user seats to your ERP,
-          CRM, WMS and vendor contracts. Above provides a no code, serverless
-          workspace to ingest, mix and serve key data from your back office
-          systems.
+          new infrastructure, systems integration and adding user seats to your
+          ERP, CRM, WMS and vendor contracts. Above provides a no code,
+          serverless workspace to ingest, mix and serve key data from your back
+          office systems.
 
 
-          It handles disparate data from anywhere in the world effortlessly
-          regardless of type, speed and size. And it avoids the concurrency and
-          resource contention problems that occur when running thousands or
-          millions of real time data operations across different SQL, NoSQL and
-          object stores.
-
-
-          *   Inject AI and data science into new business processes
+          It handles disparate data from anywhere in the world regardless of
+          type, speed and size. And it avoids the concurrency and resource
+          contention problems that occur when running real time data operations
+          at scale across different SQL, NoSQL and object stores.
 
 
           *   Scale beyond your systems without infrastructure or new seat
           licenses
+
+
+          *   Inject AI and data science into new business processes
 
 
           *   Frontend developers and business work together to ship and iterate
