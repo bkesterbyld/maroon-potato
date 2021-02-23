@@ -20,9 +20,10 @@ sections:
           systems.
 
 
-          It handles disparate data from anywhere in the world effortlessly, and
-          avoids the concurrency and resource contention problems that often
-          comes from building code that runs across different SQL, NoSQL and
+          It handles disparate data from anywhere in the world effortlessly
+          regardless of type, speed and size. And it avoids the concurrency and
+          resource contention problems that occur when running thousands or
+          millions of real time data operations across different SQL, NoSQL and
           object stores.
 
 
