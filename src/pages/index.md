@@ -88,7 +88,7 @@ sections:
             new_window: false
             type: action
         actions_align: left
-        image: images/jamstack-backend-api.png
+        image: images/jamstack-backend-api-3.png
         image_position: top
         image_align: center
         image_has_padding: true
@@ -110,7 +110,7 @@ sections:
             new_window: false
             type: action
         actions_align: left
-        image: images/digital-operations-API.png
+        image: images/digital-operations-API-3.png
         image_position: top
         image_align: center
         image_has_padding: true
