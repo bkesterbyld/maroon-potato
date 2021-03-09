@@ -25,7 +25,7 @@ sections:
           code, shipping new features out the door is both fast and easy.
 
 
-          *   Build powerful backends quickly without coding
+          *   Build powerful enterprise-class backends quickly without coding
 
 
           *   Iterate and release constantly without downtime or delay
