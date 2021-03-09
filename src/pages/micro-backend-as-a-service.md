@@ -9,7 +9,9 @@ sections:
   - type: features_section
     features:
       - title: Deliver fast user interactions at the edge
-        subtitle: And ship faster with no code data and logic modeling
+        subtitle: >-
+          And ship faster with no code data modeling and easy assembly of
+          enterprise-grade business logic
         content: >
           Above's global computing network allows you to quickly spin up a
           backend and distribute it all over the world to crunch and deliver
