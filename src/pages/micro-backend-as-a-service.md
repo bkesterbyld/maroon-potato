@@ -10,8 +10,8 @@ sections:
     features:
       - title: Deliver fast user interactions at the edge
         subtitle: >-
-          And ship faster with no code data modeling and easy assembly of
-          enterprise-grade business logic
+          And ship faster with no code assembly of data models and business
+          logic
         content: >
           Above's global computing network give you an on demand backend service
           that crunches and delivers data instantly to your users.  Active Data

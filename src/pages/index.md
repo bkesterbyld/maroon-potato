@@ -5,8 +5,8 @@ sections:
     title: Ship the fastest data experiences
     subtitle: ''
     content: >
-      Above is a no cod setup, data processing and storage API that distributes
-      and crunches data right where your users are
+      Above is a data processing and storage API that distributes data globally
+      and crunches it right where your users are
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -42,22 +42,19 @@ sections:
       - title: 'no code, no limits logic'
         content: >
           Above's no code logic agents enable CRUD, business logic and real-time
-          analytics without having to learn anything. Our tech puts logic right
-          with the data, like a spreadsheet, so manipulations and computations
-          are instant. And you can use [parallel and in-memory processing
-          options](https://www.abovecomp.com/faq) to crunch massive real time,
-          disparate data and execute sophisticated calculations and AI.
+          analytics without having to learn anything. Data processing is
+          infinitely scalable both vertically and horizontally, enabling you to
+          execute complex algorithms, AI and ML. 
         actions: []
         image: images/dataprocessing.png
         media_position: left
         media_width: fourty
-      - title: edge processing for lighting fast data interactions
+      - title: 2X - 20X faster data interactions
         subtitle: ''
         content: >
-          Process data anywhere in the world next to your users, delivering
-          incredibly fast interactions. Above's multi-cloud global network
-          intelligently and cost-effectively handles data replication and sync
-          so you can be everywhere at once.
+          Above parallel processes data across the world and serves it up from
+          data centers next to your users, killing latency issues and handling
+          big volume and user spikes. 
         actions: []
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
