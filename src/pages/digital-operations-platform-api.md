@@ -8,7 +8,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: 'Get your back office, marketing and frontend in sync'
+      - title: Sync your frontend and back office operations
         subtitle: 'A headless, cost-efficient approach to modernizing your back office'
         content: >
           Keeping your back office in real-time sync with your frontend
