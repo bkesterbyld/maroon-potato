@@ -13,10 +13,10 @@ sections:
           And ship faster with no code data modeling and easy assembly of
           enterprise-grade business logic
         content: >
-          Above's global computing network give you an on demand backend that
-          crunches and delivers data instantly to your users.  Active Data
-          Management technology syncs only field-level changes across regions,
-          ensuring snappy solution-wide response.
+          Above's global computing network give you an on demand backend service
+          that crunches and delivers data instantly to your users.  Active Data
+          Management technology takes care of global data replications at the
+          field level, ensuring users everywhere see the same data instantly. 
 
 
           Above couples this network with [powerful computing options](/faq) to
