@@ -8,8 +8,10 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Keep your back office and frontend commerce in sync
-        subtitle: 'A headless, cost-efficient approach to modernizing your back office'
+      - title: Sync your frontend and back office operations
+        subtitle: >-
+          A headless, cost-efficient approach to modernizing and extending your
+          back office systems
         content: >
           Keeping your back office in real-time sync with your frontend
           experiences and commerce platforms is a costly proposition as you add
