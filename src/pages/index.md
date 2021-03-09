@@ -5,8 +5,8 @@ sections:
     title: Ship the fastest data experiences
     subtitle: ''
     content: >
-      Above is a no cod setup, data processing and storage API that distributes
-      and crunches data right where your users are
+      Above is a data processing and storage API that distributes and crunches
+      data right where your users are
     actions:
       - label: Join the Beta
         url: /general-enquiries
