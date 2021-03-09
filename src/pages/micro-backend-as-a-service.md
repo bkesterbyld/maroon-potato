@@ -13,11 +13,10 @@ sections:
           And ship faster with no code data modeling and easy assembly of
           enterprise-grade business logic
         content: >
-          Above's global computing network allows you to quickly spin up a
-          backend and distribute it all over the world to crunch and deliver
-          data instantly to your users.  Active Data Management technology syncs
-          only field-level changes across regions, ensuring snappy solution-wide
-          response.
+          Above's global computing network give you an on demand backend that
+          crunches and delivers data instantly to your users.  Active Data
+          Management technology syncs only field-level changes across regions,
+          ensuring snappy solution-wide response.
 
 
           Above couples this network with [powerful computing options](/faq) to
@@ -29,8 +28,14 @@ sections:
           *   Build powerful backends quickly without coding
 
 
+          *   Iterate and release constantly without downtime or delay
+
+
           *   Manage data anywhere to comply with GDPR and other privacy
           regulations
+
+
+          *   Inherent storage and logic resiliency assures uptime
 
 
           *   Ensure your users get fast data interactions with edge compute
