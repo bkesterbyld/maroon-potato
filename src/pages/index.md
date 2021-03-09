@@ -54,10 +54,9 @@ sections:
       - title: 2X - 20X faster data interactions
         subtitle: ''
         content: >
-          Process data anywhere in the world next to your users, delivering
-          incredibly fast interactions. Above's multi-cloud global network
-          intelligently and cost-effectively handles data replication and sync
-          so you can be everywhere at once.
+          Above parallel processes data across the world and serves it up from
+          data centers next to your users, killing latency issues and handling
+          big volume and user spikes. 
         actions: []
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
