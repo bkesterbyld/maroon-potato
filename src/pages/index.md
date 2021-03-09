@@ -51,7 +51,7 @@ sections:
         image: images/dataprocessing.png
         media_position: left
         media_width: fourty
-      - title: edge processing for lighting fast data interactions
+      - title: 2X - 20X faster data interactions
         subtitle: ''
         content: >
           Process data anywhere in the world next to your users, delivering
