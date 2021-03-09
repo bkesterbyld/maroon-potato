@@ -16,7 +16,7 @@ sections:
           Above's global computing network give you an on demand backend service
           that crunches and delivers data instantly to your users.  Active Data
           Management technology takes care of global data replications at the
-          field level, ensuring users everywhere see the same data instantly. 
+          field level, ensuring users everywhere see the same data instantly.
 
 
           Above couples this network with [powerful computing options](/faq) to
@@ -25,7 +25,8 @@ sections:
           code, shipping new features out the door is both fast and easy.
 
 
-          *   Build powerful enterprise-class backends quickly without coding
+          *   Assemble powerful enterprise-class backends quickly without having
+          to learn anything
 
 
           *   Iterate and release constantly without downtime or delay
@@ -38,7 +39,7 @@ sections:
           *   Inherent storage and logic resiliency assures uptime
 
 
-          *   Ensure your users get fast data interactions with edge compute
+          *   Deliver the fastest data interactions with edge compute
         image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
