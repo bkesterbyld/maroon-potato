@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Deliver snappy performance
+      - title: Deliver fast user interactions at the edge
         subtitle: And ship faster with no code data and logic modeling
         content: >
           Above's global computing network allows you to quickly spin up a
