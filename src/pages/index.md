@@ -5,8 +5,8 @@ sections:
     title: Digital Operations API
     subtitle: ''
     content: >
-      Above is a data processing and storage API that distributes data globally
-      and crunches it right where your users are
+      Above is a data processing and storage API for commerce operators that
+      distributes data globally and crunches it right where your users are
     actions:
       - label: Join the Beta
         url: /general-enquiries
