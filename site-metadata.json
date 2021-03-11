@@ -31,6 +31,16 @@
                 "type": "action"
             },
             {
+                "label": "For Application Owners",
+                "url": "secure-cloud-data-storage",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link",
@@ -44,16 +54,6 @@
                 "label": "Beta Signup",
                 "url": "/general-enquiries",
                 "style": "primary",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "type": "action"
-            },
-            {
-                "label": "For Application Owners",
-                "url": "secure-cloud-data-storage",
-                "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
