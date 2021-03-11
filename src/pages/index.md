@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above is a data processing and storage API for commerce operators that
-      distributes data globally and crunches it right where users are
+      distributes data globally and serves it right where users are
     actions:
       - label: Join the Beta
         url: /general-enquiries
