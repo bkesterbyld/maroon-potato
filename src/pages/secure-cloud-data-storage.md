@@ -46,7 +46,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: Easy to use
+      - title: Full control over who gets access to what
         subtitle: ''
         title_align: left
         content: >
