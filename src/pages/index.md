@@ -120,7 +120,15 @@ sections:
           for other parties, providing them a unique API key with fine-grained
           security control
         content_align: left
-        actions: []
+        actions:
+          - label: Learn More
+            url: /secure-cloud-data-storage
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            type: action
         actions_align: left
         actions_width: auto
         image_position: top
