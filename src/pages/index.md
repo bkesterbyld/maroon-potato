@@ -28,7 +28,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: data modeling and management as simple as a spreadsheet
+      - title: data management as simple as a spreadsheet
         subtitle: ''
         content: >
           Model data, complex relationships and mappings to any existing systems
