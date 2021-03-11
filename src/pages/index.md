@@ -117,8 +117,8 @@ sections:
         title_align: left
         content: >
           Above enables application owners to transfer, replicate and reshape
-          data sets for consumers such as agencies, data scientists and business
-          partners
+          data sets for specific consumers such as agencies, data scientists and
+          business partners
         content_align: left
         actions: []
         actions_align: left
