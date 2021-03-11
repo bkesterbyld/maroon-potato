@@ -62,7 +62,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Unstructured data support
+      - title: Handles all data types
         subtitle: ''
         title_align: left
         content: >-
