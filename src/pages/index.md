@@ -128,7 +128,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: images/beige-hedgehog.png
+        image: images/jamstack-security-3.png
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
