@@ -13,33 +13,31 @@ sections:
       - title: Share data without worries
         subtitle: Create a DMZ between your data and consumers that need access to it
         content: >
-          Above's global computing network give you an on demand backend service
-          that crunches and delivers data instantly to your users.  Active Data
-          Management technology takes care of global data replications at the
-          field level, ensuring users everywhere see the same data instantly.
+          Use Above as a secure intermediary storage layer and DMZ to syndicate
+          data across business units, agencies, systems integrators,
+          distributors, vendors and other trading partners—without exposing
+          backend data stores to unknown developers and database credentials to
+          integration tools. 
 
 
-          Above couples this network with [powerful computing options](/faq) to
-          assure the highest performance to your users regardless of the data
-          types, speeds and sizes in your application. And because Above is no
-          code, shipping new features out the door is both fast and easy.
+          Above provides a variety of tools to replicate data sets, reshape them
+          for specific data consumers 
 
 
-          *   Assemble powerful enterprise-class backends quickly without having
-          to learn anything
+          *   Push data into Above via our inbound API and data mapping tools
 
 
-          *   Iterate and release constantly without downtime or delay
+          *   Join and reshape data into purpose-built views for any party
 
 
-          *   Manage data anywhere to comply with GDPR and other privacy
-          regulations
+          *   Choose where data should reside from across our multi-cloud
+          network of locations
 
 
-          *   Inherent storage and logic resiliency assures uptime
+          *   Set field level API access if needed
 
 
-          *   Deliver the fastest data interactions with edge compute
+          *   Issue time-based or temporary API keys
         image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
