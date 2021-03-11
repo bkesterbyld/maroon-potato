@@ -65,8 +65,10 @@ sections:
       - title: Handles all data types
         subtitle: ''
         title_align: left
-        content: |
-          The service handles structured, unstructured data and files
+        content: >
+          The service handles structured data, unstructured data and files and
+          can perform real-time aggregations, calculations and manipulations
+          across massive data sets.
         content_align: left
         actions: []
         actions_align: left
