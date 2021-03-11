@@ -10,7 +10,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Deliver fast user interactions at the edge
+      - title: Share data without anxiousness
         subtitle: >-
           And ship faster with no code assembly of data models and business
           logic
