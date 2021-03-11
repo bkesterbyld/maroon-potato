@@ -108,21 +108,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Works with other API services
-        subtitle: ''
-        title_align: left
-        content: >-
-          Easily integrate auth, payments, SMS, email, integrations, ERP and
-          other API-based services into your solutions
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
