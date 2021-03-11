@@ -116,9 +116,9 @@ sections:
         subtitle: For application owners
         title_align: left
         content: >
-          Above gives you and intermediate layer to publish and reshape data
-          sets for other parties, providing them a unique API key with
-          fine-grained security control
+          Above gives you an intermediate layer to publish and reshape data sets
+          for other parties, providing them a unique API key with fine-grained
+          security control
         content_align: left
         actions: []
         actions_align: left
