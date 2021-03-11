@@ -77,7 +77,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: ACID compliant
+      - title: Global high performance
         subtitle: ''
         title_align: left
         content: >-
