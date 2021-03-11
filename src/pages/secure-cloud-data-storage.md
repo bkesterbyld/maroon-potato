@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     title: Secure Data Syndication
     subtitle: >-
-      For application owners that need to share with developers, data scientists
-      and third parties
+      For application owners that need to share with other developers,
+      departments and third parties
     background_color: secondary
   - type: features_section
     features:
