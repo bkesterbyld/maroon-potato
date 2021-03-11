@@ -50,9 +50,9 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          Above is neither a database nor serverless functions, it's both
-          capabilites in a fully integrated service that offers an easy, highly
-          productive experience
+          You can create a specific data set, with it's own API key, for each
+          party. Security can be controlled down to the field level and you can
+          set dates and time windows for when the key is active.
         content_align: left
         actions: []
         actions_align: left
