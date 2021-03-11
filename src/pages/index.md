@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above is a data processing and storage API for commerce operators that
-      distributes data globally and crunches it right where users are
+      distributes data globally and serves it right where users are
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -28,7 +28,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: data modeling as simple as a spreadsheet
+      - title: data management as simple as a spreadsheet
         subtitle: ''
         content: >
           Model data, complex relationships and mappings to any existing systems
@@ -41,10 +41,10 @@ sections:
         media_width: fourty
       - title: 'no code, no limits logic'
         content: >
-          Above's no code logic agents enable CRUD, business logic and real-time
-          analytics without having to learn anything. Data processing is
-          infinitely scalable both vertically and horizontally, enabling you to
-          execute complex algorithms, AI and ML. 
+          Above's no code logic agents enable data aggregation, CRUD, business
+          logic and real-time analytics without having to learn anything. Data
+          processing is infinitely scalable both vertically and horizontally,
+          enabling you to execute complex algorithms, AI and ML.
         actions: []
         image: images/dataprocessing.png
         media_position: left
