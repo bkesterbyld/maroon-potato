@@ -15,15 +15,15 @@ sections:
           Create a DMZ between your data and the consumers that need access to
           it
         content: >
-          Use Above as a secure intermediary storage layer and DMZ to syndicate
+          Above acts as a secure intermediary storage layer and DMZ to syndicate
           data across business units, agencies, systems integrators,
-          distributors, vendors and other trading partners—without exposing
-          backend data stores to unknown developers and database credentials to
-          integration tools. 
+          distributors, vendors and other trading partners—without exposing your
+          existing backend data stores to unknown developers and database
+          credentials to integration tools.
 
 
-          Above provides a variety of tools to replicate data sets, reshape them
-          for specific data consumers 
+          You get a variety of tools to replicate data sets and reshape them for
+          specific data consumers
 
 
           *   Push data into Above via our inbound API and data mapping tools
