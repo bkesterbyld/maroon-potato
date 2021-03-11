@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ship the fastest data experiences
+    title: Digital Operations API
     subtitle: ''
     content: >
       Above is a data processing and storage API that distributes data globally
