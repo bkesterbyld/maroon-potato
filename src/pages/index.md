@@ -124,7 +124,7 @@ sections:
           - label: Learn More
             url: /secure-cloud-data-storage
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
