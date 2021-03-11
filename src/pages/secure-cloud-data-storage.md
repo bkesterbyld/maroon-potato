@@ -10,7 +10,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Share data without anxiousness
+      - title: Share data without worries
         subtitle: >-
           And ship faster with no code assembly of data models and business
           logic
