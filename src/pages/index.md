@@ -138,7 +138,7 @@ sections:
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
-    enable_cards: true
+    enable_cards: false
     align: center
     background_color: primary
     has_border: true
