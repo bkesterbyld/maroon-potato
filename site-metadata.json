@@ -51,7 +51,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "For Application Owners",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
