@@ -115,17 +115,7 @@ sections:
       - title: Secure Data Syndication
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Above provides a variety of tools to replicate data sets, reshape them for specific data consumers and\ncontrol API access at the field level and for specific time windows. \_\_\n"
         content_align: left
         actions: []
         actions_align: left
