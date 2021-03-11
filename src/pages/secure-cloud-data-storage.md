@@ -65,9 +65,8 @@ sections:
       - title: Handles all data types
         subtitle: ''
         title_align: left
-        content: >-
-          Handle processing and storage of log, document and other unstructured
-          data without needing a separate NoSQL data store
+        content: |
+          The service handles structured, unstructured data and files
         content_align: left
         actions: []
         actions_align: left
