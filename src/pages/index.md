@@ -113,7 +113,7 @@ sections:
         image_has_padding: true
         subtitle: For enterprise digital leaders
       - title: Secure Data Syndication
-        subtitle: lorem-ipsum
+        subtitle: For application owners
         title_align: left
         content: >
           Above provides a variety of tools to replicate data sets, reshape them
