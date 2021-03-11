@@ -125,7 +125,7 @@ sections:
         actions_width: auto
         image_position: top
         image_width: twenty-five
-        image_align: left
+        image_align: center
         image_has_padding: true
         type: grid_item
         image: images/jamstack-security-3.png
