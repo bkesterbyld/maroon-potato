@@ -11,9 +11,7 @@ sections:
   - type: features_section
     features:
       - title: Share data without worries
-        subtitle: >-
-          And ship faster with no code assembly of data models and business
-          logic
+        subtitle: Create a DMZ between your data and consumers that need access to it
         content: >
           Above's global computing network give you an on demand backend service
           that crunches and delivers data instantly to your users.  Active Data
