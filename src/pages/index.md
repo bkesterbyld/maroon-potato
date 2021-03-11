@@ -116,9 +116,9 @@ sections:
         subtitle: For application owners
         title_align: left
         content: >
-          Above provides a variety of tools to replicate data sets, reshape them
-          for specific data consumers like agencies and other business units,
-          and control access at a granular level
+          Above enables application owners to transfer, replicate and reshape
+          data sets for consumers such as agencies, data scientists and business
+          partners
         content_align: left
         actions: []
         actions_align: left
