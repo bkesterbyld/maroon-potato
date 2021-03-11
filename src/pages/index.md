@@ -5,9 +5,9 @@ sections:
     title: Digital Operations API
     subtitle: ''
     content: >
-      Above is a no code global data management service for commerce. Build
-      backends for new features, modernize the back office and securely share
-      data with partners. 
+      Above is a no code global data management service for commerce. Rapidly
+      assemble backends for new features, modernize the back office and securely
+      share data with partners.
     actions:
       - label: Join the Beta
         url: /general-enquiries
