@@ -38,7 +38,7 @@ sections:
 
 
           *   Issue time-based or temporary API keys
-        image: images/distributed-backend-cloud.png
+        image: images/secure-data-storage-API.png
         media_position: right
         media_width: fifty
     background_color: none
