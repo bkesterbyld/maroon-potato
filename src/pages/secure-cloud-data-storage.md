@@ -93,21 +93,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Zero limit compute
-        subtitle: ''
-        title_align: left
-        content: >-
-          Process in real-time or via jobs, with no cold starts or limitations
-          on the size or running time of your logic
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
