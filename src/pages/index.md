@@ -122,7 +122,7 @@ sections:
         content_align: left
         actions:
           - label: lorem-ipsum
-            url: secure-cloud-data-storage
+            url: /secure-cloud-data-storage
             style: link
             has_icon: false
             icon: arrow-left
