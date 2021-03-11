@@ -11,7 +11,9 @@ sections:
   - type: features_section
     features:
       - title: Share data without worries
-        subtitle: Create a DMZ between your data and consumers that need access to it
+        subtitle: >-
+          Create a DMZ between your data and the consumers that need access to
+          it
         content: >
           Use Above as a secure intermediary storage layer and DMZ to syndicate
           data across business units, agencies, systems integrators,
