@@ -38,7 +38,7 @@ sections:
 
 
           *   Issue time-based or temporary API keys
-        image: images/secure-data-storage-API.png
+        image: images/secure-data-storage-API-2.png
         media_position: right
         media_width: fifty
     background_color: none
