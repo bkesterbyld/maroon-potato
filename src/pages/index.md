@@ -112,7 +112,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For enterprise digital leaders
-      - title: lorem-ipsum
+      - title: Secure Data Syndication
         subtitle: lorem-ipsum
         title_align: left
         content: >-
