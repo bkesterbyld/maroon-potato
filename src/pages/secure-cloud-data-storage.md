@@ -4,7 +4,9 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: Secure Data Syndication
-    subtitle: for your data-driven Jamstack and commerce projects
+    subtitle: >-
+      For application owners that need to share with developers, data scientists
+      and third parties
     background_color: secondary
   - type: features_section
     features:
