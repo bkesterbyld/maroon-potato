@@ -5,7 +5,7 @@ sections:
     title: Digital Operations API
     subtitle: ''
     content: |
-      Above is a no code global data management service for commerce businesses
+      Above is a no code global data management service for commerce
     actions:
       - label: Join the Beta
         url: /general-enquiries
