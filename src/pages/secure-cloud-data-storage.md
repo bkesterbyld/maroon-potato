@@ -42,7 +42,7 @@ sections:
         media_position: right
         media_width: fifty
     background_color: none
-  - title: Key Features
+  - title: Key Benefits
     subtitle: ''
     actions: []
     grid_items:
