@@ -121,7 +121,7 @@ sections:
           security control
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: /secure-cloud-data-storage
             style: link
             has_icon: false
