@@ -90,7 +90,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For frontend developers
-      - title: Digital Operations API
+      - title: Back Office Modernization
         title_align: left
         content: >
           An easy way for online operations to get back office and marketing
