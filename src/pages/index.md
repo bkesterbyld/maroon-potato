@@ -115,7 +115,10 @@ sections:
       - title: Secure Data Syndication
         subtitle: lorem-ipsum
         title_align: left
-        content: "Above provides a variety of tools to replicate data sets, reshape them for specific data consumers and\ncontrol API access at the field level and for specific time windows. \_\_\n"
+        content: >
+          Above provides a variety of tools to replicate data sets, reshape them
+          for specific data consumers like agencies and other business units,
+          and control access at a granular level
         content_align: left
         actions: []
         actions_align: left
