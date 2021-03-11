@@ -81,10 +81,9 @@ sections:
       - title: Global edge network
         subtitle: ''
         title_align: left
-        content: >-
-          PostgreSQL is one of many mature technologies used in the service,
-          delivering ACID-compliant transaction processing for enterprise-class
-          use cases
+        content: >
+          Data can be ingested and then served back out from any of 150 possible
+          edge locations in Above's global, multi-cloud network. 
         content_align: left
         actions: []
         actions_align: left
