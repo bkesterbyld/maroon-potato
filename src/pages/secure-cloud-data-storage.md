@@ -46,7 +46,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: An easy to use service
+      - title: Easy to use
         subtitle: ''
         title_align: left
         content: >
