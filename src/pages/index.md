@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ship the fastest data experiences
+    title: Digital Operations API
     subtitle: ''
     content: >
-      Above is a data processing and storage API that distributes data globally
-      and crunches it right where your users are
+      Above is a data processing and storage API for commerce operators that
+      distributes data globally and crunches it right where users are
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -68,7 +68,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Jamstack Backend API
+      - title: Jamstack Backend
         title_align: left
         content: >
           Cook up new features fast while using edge processing to keep dynamic
@@ -90,7 +90,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For frontend developers
-      - title: Digital Operations API
+      - title: Back Office Modernization
         title_align: left
         content: >
           An easy way for online operations to get back office and marketing
@@ -112,7 +112,24 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For enterprise digital leaders
-    grid_cols: two
+      - title: Secure Data Syndication
+        subtitle: For application owners
+        title_align: left
+        content: >
+          Above gives you an intermediate layer to publish and reshape data sets
+          for other parties, providing them a unique API key with fine-grained
+          security control
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: twenty-five
+        image_align: center
+        image_has_padding: true
+        type: grid_item
+        image: images/jamstack-security-3.png
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
     enable_cards: true
