@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     title: Secure Data Distribution
     subtitle: >-
-      For application owners that need to share with agencies, third parties and
-      other departments with full control
+      For application owners that want full control and security over data
+      exchanged agencies, third parties and other departments
     background_color: secondary
   - type: features_section
     features:
