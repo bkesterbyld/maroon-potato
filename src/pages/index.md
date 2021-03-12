@@ -34,10 +34,10 @@ sections:
       - title: data management as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model data, complex relationships and mappings to any existing systems
-          in an experience as easy as a spreadsheet.  The service supports all
-          kinds of data and puts it in safe and reliable SQL, NoSQL and object
-          stores behind the scenes.
+          Model data, relationships and mappings to existing systems in an
+          experience as easy as a spreadsheet.  The service supports all kinds
+          of data through a single interface and puts it in safe and reliable
+          SQL, NoSQL and object stores behind the scenes.
         actions: []
         image: images/spreadsheet.png
         media_position: right
