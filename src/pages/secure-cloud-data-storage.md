@@ -6,7 +6,7 @@ sections:
     title: Secure Data Distribution
     subtitle: >-
       For application owners that need to share with agencies, third parties and
-      other departments with full monitoring & control
+      other departments with full control
     background_color: secondary
   - type: features_section
     features:
