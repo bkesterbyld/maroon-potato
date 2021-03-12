@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Real-Time Data Management API for Commerce
+    title: Real-Time Data Management API
     subtitle: ''
     content: >
       Rapidly assemble backends for new features, modernize the back office and
