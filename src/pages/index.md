@@ -115,7 +115,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For enterprise digital leaders
-      - title: Secure Data Syndication
+      - title: Secure Data Distribution
         subtitle: For application owners
         title_align: left
         content: >
