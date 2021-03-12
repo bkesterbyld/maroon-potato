@@ -53,8 +53,8 @@ sections:
         subtitle: ''
         content: >
           Above parallel processes data across the world and serves it up from
-          data centers next to your users, killing latency issues and handling
-          big volume and user spikes. 
+          data centers next to end users, killing latency issues and handling
+          big volume and user spikes.
         actions: []
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
