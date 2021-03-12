@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: No Code Data Management API for Commerce
+    title: Real-Time Data Management API for Commerce
     subtitle: ''
     content: >
       Rapidly assemble backends for new features, modernize the back office and
