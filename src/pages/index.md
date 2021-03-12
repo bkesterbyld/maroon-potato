@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Digital Operations API
+    title: No Code GlobalData Management API for Commerce
     subtitle: ''
     content: >
       Rapidly assemble backends for new features, modernize the back office and
