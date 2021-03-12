@@ -36,10 +36,8 @@ sections:
           network of locations
 
 
-          *   Set field level API access if needed
-
-
-          *   Issue time-based or temporary API keys
+          *   Get granular control with optional field-level and time-based API
+          keys
         image: images/secure-data-storage-API-2.png
         media_position: right
         media_width: fifty
