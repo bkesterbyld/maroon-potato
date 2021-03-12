@@ -3,7 +3,7 @@ title: Features
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Secure Data Syndication
+    title: Secure Data Distribution
     subtitle: >-
       For application owners that need to share with other developers,
       departments and third parties
