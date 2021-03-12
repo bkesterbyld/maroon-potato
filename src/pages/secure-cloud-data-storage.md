@@ -3,7 +3,7 @@ title: Features
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Secure Data Syndication
+    title: Secure Data Distribution
     subtitle: >-
       For application owners that need to share with other developers,
       departments and third parties
@@ -36,10 +36,8 @@ sections:
           network of locations
 
 
-          *   Set field level API access if needed
-
-
-          *   Issue time-based or temporary API keys
+          *   Get granular control with optional field-level and time-based API
+          keys
         image: images/secure-data-storage-API-2.png
         media_position: right
         media_width: fifty
