@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: No Code Global Data Management API for Commerce
+    title: No Code Data Management API for Commerce
     subtitle: ''
     content: >
       Rapidly assemble backends for new features, modernize the back office and
-      securely share data with partners
+      securely share data with agencies and partners
     actions:
       - label: Join the Beta
         url: /general-enquiries
