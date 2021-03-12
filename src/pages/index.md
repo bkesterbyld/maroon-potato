@@ -2,14 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Digital Operations API
+    title: No Code Global Data Management API for Commerce
     subtitle: ''
     content: >
-      Above is a no code global data management service for commerce.
-
-
       Rapidly assemble backends for new features, modernize the back office and
-      securely share data with partners.
+      securely share data with partners
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -34,10 +31,10 @@ sections:
       - title: data management as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model data, complex relationships and mappings to any existing systems
-          in an experience as easy as a spreadsheet.  The service supports all
-          kinds of data and puts it in safe and reliable SQL, NoSQL and object
-          stores behind the scenes.
+          Model data, relationships and mappings to existing systems in an
+          experience as easy as a spreadsheet.  The service supports all kinds
+          of data through a single interface and puts it in safe and reliable
+          SQL, NoSQL and object stores behind the scenes.
         actions: []
         image: images/spreadsheet.png
         media_position: right
