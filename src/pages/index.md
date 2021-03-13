@@ -68,7 +68,7 @@ sections:
           provide granular access control and API keys for any party. 
         actions: []
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/secure2.png
