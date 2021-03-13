@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: No Code Data Management API for Commerce
+    title: 'Secure, Real Time Data Management API'
     subtitle: ''
     content: >
       Rapidly assemble backends for new features, modernize the back office and
-      securely share data with agencies and partners
+      exchange data with partners
     actions:
       - label: Join the Beta
         url: /general-enquiries
@@ -53,14 +53,27 @@ sections:
         subtitle: ''
         content: >
           Above parallel processes data across the world and serves it up from
-          data centers next to your users, killing latency issues and handling
-          big volume and user spikes. 
+          data centers next to end users, killing latency issues and handling
+          big volume and user spikes.
         actions: []
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
         media_width: fourty
+      - title: data-centric and secure
+        content: >
+          Above enforces a data-centric approach that is the opposite of
+          procuring databases—which traps data behind applications and
+          proliferates silos. A single data set can power multiple views that
+          feed multiple applications, with each view getting it's own granular
+          API keys down to the field level if needed.
+        actions: []
+        media_position: left
+        media_width: thirty-three
+        align: left
+        type: feature
+        image: images/secure2.png
     feature_padding_vert: large
-    align: center
+    align: right
     background_color: secondary
     has_border: true
     padding_top: small
@@ -112,7 +125,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For enterprise digital leaders
-      - title: Secure Data Distribution
+      - title: Secure Data Exchange
         subtitle: For application owners
         title_align: left
         content: >
