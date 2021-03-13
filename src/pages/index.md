@@ -67,7 +67,7 @@ sections:
           applications, be replicated and synced for different parties and
           provide granular access control and API keys for any party. 
         actions: []
-        media_position: right
+        media_position: left
         media_width: fifty
         align: left
         type: feature
