@@ -13,8 +13,8 @@ sections:
       - title: Exchange data without worries
         subtitle: Create a DMZ between your applications and partners
         content: >
-          Above acts as a secure intermediary storage and processing layer zone
-          to syndicate data across business units, agencies, systems
+          Above acts as a secure intermediary storage and processing zone to
+          syndicate and exchange data across business units, agencies, systems
           integrators, distributors, vendors and other trading partners—without
           exposing your existing backend or DB credentials to any person or
           system.
@@ -39,6 +39,10 @@ sections:
 
 
           *   Business users can login and view data sets and reports
+
+
+          *   Partners can manipulate intermediate data via logic agents in the
+          API
         image: images/secure-data-storage-API-2.png
         media_position: right
         media_width: fifty
