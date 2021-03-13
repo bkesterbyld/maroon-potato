@@ -3,7 +3,7 @@ title: Features
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Secure Data Distribution
+    title: Secure Data Exchange
     subtitle: >-
       For application owners that want full security and control over data
       exchanged with agencies and other departments
