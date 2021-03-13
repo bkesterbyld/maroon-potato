@@ -60,17 +60,12 @@ sections:
         media_position: right
         media_width: fourty
       - title: secure data centricity
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Above's approach to data management is data centric and the opposite
+          of procuring databases—which traps data behind applications and
+          proliferates silos. Once your data is in Above, it can power multiple
+          applications, be replicated and synced for different parties and
+          provide granular access control and API keys for any party. 
         actions: []
         media_position: top
         media_width: fifty
