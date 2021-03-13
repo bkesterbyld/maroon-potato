@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Rapidly assemble backends for new features, modernize the back office and
-      share data with agencies and partners
+      exchange data with partners
     actions:
       - label: Join the Beta
         url: /general-enquiries
