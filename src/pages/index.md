@@ -60,7 +60,6 @@ sections:
         media_position: right
         media_width: fourty
       - title: data centricity with full security
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
