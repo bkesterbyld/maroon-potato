@@ -63,9 +63,9 @@ sections:
         content: >
           Above's approach to data management is data centric and the opposite
           of procuring databases—which traps data behind applications and
-          proliferates silos. Once your data is in Above, it can power multiple
-          applications, be replicated and synced for different parties and
-          provide granular access control and API keys for any party. 
+          proliferates silos. A single data set can power multiple views that
+          feed multiple applications, with each view getting it's own granular
+          API keys down to the field level if needed. 
         actions: []
         media_position: left
         media_width: thirty-three
