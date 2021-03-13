@@ -61,11 +61,11 @@ sections:
         media_width: fourty
       - title: data-centric and secure
         content: >
-          Above's approach to data management is data centric and the opposite
-          of procuring databases—which traps data behind applications and
+          Above enforces a data-centric approach that is the opposite of
+          procuring databases—which traps data behind applications and
           proliferates silos. A single data set can power multiple views that
           feed multiple applications, with each view getting it's own granular
-          API keys down to the field level if needed. 
+          API keys down to the field level if needed.
         actions: []
         media_position: left
         media_width: thirty-three
