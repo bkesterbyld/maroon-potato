@@ -59,7 +59,7 @@ sections:
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
         media_width: fourty
-      - title: data centricity with full security
+      - title: 'secure data '
         content: >-
           ## Lorem ipsum
 
