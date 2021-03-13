@@ -59,7 +59,7 @@ sections:
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
         media_width: fourty
-      - title: secure data centricity
+      - title: data-centric and secure
         content: >
           Above's approach to data management is data centric and the opposite
           of procuring databases—which traps data behind applications and
