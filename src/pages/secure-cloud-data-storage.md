@@ -10,7 +10,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Share data without worries
+      - title: Exchange data without worries
         subtitle: >-
           Create a DMZ between your data and the consumers that need access to
           it
