@@ -11,9 +11,7 @@ sections:
   - type: features_section
     features:
       - title: Exchange data without worries
-        subtitle: >-
-          Create a DMZ between your data and the consumers that need access to
-          it
+        subtitle: Create a DMZ between your applications and partners
         content: >
           Above acts as a secure intermediary storage and processing layer zone
           to syndicate data across business units, agencies, systems
