@@ -81,7 +81,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Edge Ready Backend
+      - title: Edge Computing
         title_align: left
         content: >
           Cook up new features fast while using edge processing to keep dynamic
