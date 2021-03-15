@@ -3,8 +3,10 @@ title: Digital Operations API
 excerpt: 'Get key ERP, marketing and other data in one reusable place'
 sections:
   - type: hero_section
-    title: Digital Operations API
-    subtitle: 'Ingest, mix and serve data from disparate data sources'
+    title: Back Office Modernization
+    subtitle: >-
+      Build intelligent new business processes above existing ERP, SaaS and
+      point solutions
     background_color: primary
   - type: features_section
     features:
@@ -14,12 +16,12 @@ sections:
           back office systems
         content: >
           Keeping your back office in real-time sync with your frontend
-          experiences and commerce platforms is a costly proposition as you add
-          new digital channels, suppliers and distributors. It often involves
-          new infrastructure, systems integration and adding user seats to your
-          ERP, CRM, WMS and vendor contracts. Above provides a no code,
-          serverless workspace to ingest, mix and serve key data from your back
-          office systems.
+          experiences and  platforms is a costly proposition as you add new
+          digital channels, suppliers and distributors. It often involves new
+          infrastructure, systems integration and adding user seats to your ERP,
+          CRM, WMS and vendor contracts. Above provides a no code, serverless
+          workspace to ingest, mix and serve key data from your back office
+          systems.
 
 
           It handles disparate data from anywhere in the world regardless of
@@ -46,7 +48,7 @@ sections:
         media_width: fifty
         image: images/digital-operations-API-jamstasck-backend-10.png
     background_color: none
-  - title: What can you do with mixed ops and marketing data?
+  - title: What can you do with disparate back office data?
     subtitle: Check out our library of rich examples and reusable solutions
     actions: []
     grid_items:

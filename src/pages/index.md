@@ -2,28 +2,28 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Secure, Real Time Data Management API'
+    title: Global Data Management API
     subtitle: ''
     content: >
-      Rapidly assemble backends for new features, modernize the back office and
-      exchange data with partners
+      Process data at the edge, modernize the back office and exchange data with
+      partners
     actions:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    image: images/jamstack-users-6-backend-api.png
-    media_position: top
-    media_width: fourty
+    media_position: right
+    media_width: fifty
     align: center
     padding_top: small
     padding_bottom: small
     background_color: primary
     has_border: false
-    background_image: images/mighty-eucalyptus.svg
     background_image_opacity: 20
-    background_image_position: left center
+    background_image_position: center center
     background_image_size: auto
     video_embed_html: ''
+    background_image_repeat: no-repeat
+    background_image: images/graceful-potato.png
   - type: features_section
     title: ''
     subtitle: ''
@@ -31,7 +31,7 @@ sections:
       - title: data management as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model data, relationships and mappings to existing systems in an
+          Model data, relationships and mappings to data sources  in an
           experience as easy as a spreadsheet.  The service supports all kinds
           of data through a single interface and puts it in safe and reliable
           SQL, NoSQL and object stores behind the scenes.
@@ -39,7 +39,7 @@ sections:
         image: images/spreadsheet.png
         media_position: right
         media_width: fourty
-      - title: 'no code, no limits logic'
+      - title: 'no code, no limits processing'
         content: >
           Above's no code logic agents enable data aggregation, CRUD, business
           logic and real-time analytics without having to learn anything. Data
@@ -49,12 +49,12 @@ sections:
         image: images/dataprocessing.png
         media_position: left
         media_width: fourty
-      - title: 2X - 20X faster data interactions
+      - title: 2X - 20X faster real time data interactions
         subtitle: ''
         content: >
           Above parallel processes data across the world and serves it up from
-          data centers next to end users, killing latency issues and handling
-          big volume and user spikes.
+          data centers next to end users and devices, killing latency issues
+          while handling big volume and user spikes.
         actions: []
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
@@ -64,8 +64,8 @@ sections:
           Above enforces a data-centric approach that is the opposite of
           procuring databases—which traps data behind applications and
           proliferates silos. A single data set can power multiple views that
-          feed multiple applications, with each view getting it's own granular
-          API keys down to the field level if needed.
+          feed multiple applications. Each view gets it's own granular API key
+          down to the field level if needed.
         actions: []
         media_position: left
         media_width: thirty-three
@@ -81,12 +81,11 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Jamstack Backend
+      - title: Edge Computing Backend
         title_align: left
         content: >
-          Cook up new features fast while using edge processing to keep dynamic
-          data flowing on par with the pre-built pages served from modern
-          content networks
+          Put data and logic at the edge to keep data flowing at the speed your
+          end users and devices demand
         content_align: left
         actions:
           - label: Learn More
@@ -102,13 +101,12 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        subtitle: For frontend developers
+        subtitle: For developers
       - title: Back Office Modernization
         title_align: left
         content: >
-          An easy way for online operations to get back office and marketing
-          data into one environment—to make sense of it and power intelligent
-          new business processes
+          An easy way to get disparate back office data into one environment—to
+          make sense of it and power intelligent new business processes
         content_align: left
         actions:
           - label: Learn More
@@ -182,11 +180,11 @@ sections:
     background_color: secondary
     has_border: true
   - type: cta_section
-    title: Frontend or Mobile Developer?
+    title: Developers wanted
     content: |
       Try Above for fun or work.
     actions:
-      - label: Beta Sign Up
+      - label: Private Beta Signup
         url: /general-enquiries
         style: primary
     actions_position: right

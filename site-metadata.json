@@ -51,7 +51,7 @@
                 "type": "action"
             },
             {
-                "label": "Beta Signup",
+                "label": "Private Beta",
                 "url": "/general-enquiries",
                 "style": "primary",
                 "has_icon": false,
