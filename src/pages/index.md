@@ -185,7 +185,7 @@ sections:
     content: |
       Try Above for fun or work.
     actions:
-      - label: Beta Sign Up
+      - label: Private Beta Signup
         url: /general-enquiries
         style: primary
     actions_position: right
