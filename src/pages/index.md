@@ -23,6 +23,7 @@ sections:
     background_image_size: auto
     video_embed_html: ''
     background_image_repeat: no-repeat
+    background_image: images/modern-celery.png
   - type: features_section
     title: ''
     subtitle: ''
