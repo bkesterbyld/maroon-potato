@@ -14,7 +14,7 @@ sections:
     media_position: right
     media_width: fifty
     align: center
-    padding_top: small
+    padding_top: large
     padding_bottom: large
     background_color: primary
     has_border: false
