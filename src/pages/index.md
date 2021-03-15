@@ -23,6 +23,7 @@ sections:
     background_image_size: auto
     video_embed_html: ''
     image: images/world-of-edge-computing.png
+    background_image_repeat: no-repeat
   - type: features_section
     title: ''
     subtitle: ''
