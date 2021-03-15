@@ -39,7 +39,7 @@ sections:
         image: images/spreadsheet.png
         media_position: right
         media_width: fourty
-      - title: 'no code, no limits logic'
+      - title: 'no code, no limits processing'
         content: >
           Above's no code logic agents enable data aggregation, CRUD, business
           logic and real-time analytics without having to learn anything. Data
