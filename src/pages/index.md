@@ -15,7 +15,7 @@ sections:
     media_width: fifty
     align: center
     padding_top: small
-    padding_bottom: small
+    padding_bottom: large
     background_color: primary
     has_border: false
     background_image_opacity: 30
