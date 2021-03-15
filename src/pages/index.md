@@ -73,7 +73,7 @@ sections:
         image: images/secure2.png
     feature_padding_vert: large
     align: right
-    background_color: none
+    background_color: secondary
     has_border: true
     padding_top: small
   - type: grid_section
