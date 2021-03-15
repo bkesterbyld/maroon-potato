@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Secure, Real Time Data Management API'
+    title: Global Data Management API
     subtitle: ''
     content: >
       Rapidly assemble backends for new features, modernize the back office and
