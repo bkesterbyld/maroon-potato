@@ -49,7 +49,7 @@ sections:
         image: images/dataprocessing.png
         media_position: left
         media_width: fourty
-      - title: 2X - 20X faster data interactions
+      - title: 2X - 20X faster real time data interactions
         subtitle: ''
         content: >
           Above parallel processes data across the world and serves it up from
