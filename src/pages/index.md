@@ -16,7 +16,7 @@ sections:
     align: center
     padding_top: small
     padding_bottom: small
-    background_color: secondary
+    background_color: primary
     has_border: false
     background_image_opacity: 30
     background_image_position: center center
