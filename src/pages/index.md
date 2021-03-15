@@ -18,7 +18,6 @@ sections:
     padding_bottom: small
     background_color: primary
     has_border: false
-    background_image: images/undraw_connected_world_wuay (2).svg
     background_image_opacity: 20
     background_image_position: center center
     background_image_size: auto
