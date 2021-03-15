@@ -11,7 +11,7 @@ sections:
       - label: Join the Beta
         url: /general-enquiries
         style: primary
-    media_position: top
+    media_position: right
     media_width: fourty
     align: center
     padding_top: small
