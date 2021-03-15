@@ -5,8 +5,8 @@ sections:
     title: Global Data Management API
     subtitle: ''
     content: >
-      Deliver data to users at the edge, modernize the back office and exchange
-      data with partners
+      Process data at the edge, modernize the back office and exchange data with
+      partners
     actions:
       - label: Join the Beta
         url: /general-enquiries
