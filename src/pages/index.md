@@ -31,7 +31,7 @@ sections:
       - title: data management as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model data, relationships and mappings to existing systems in an
+          Model data, relationships and mappings to data sources  in an
           experience as easy as a spreadsheet.  The service supports all kinds
           of data through a single interface and puts it in safe and reliable
           SQL, NoSQL and object stores behind the scenes.
