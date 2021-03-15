@@ -81,7 +81,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Jamstack Backend
+      - title: Edge Ready Backend
         title_align: left
         content: >
           Cook up new features fast while using edge processing to keep dynamic
