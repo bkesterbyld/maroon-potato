@@ -23,7 +23,7 @@ sections:
     background_image_size: auto
     video_embed_html: ''
     background_image_repeat: no-repeat
-    image: images/undraw_connected_world_wuay (1).svg
+    image: images/worldfaster.png
   - type: features_section
     title: ''
     subtitle: ''
