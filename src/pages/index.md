@@ -84,8 +84,8 @@ sections:
       - title: Edge Computing
         title_align: left
         content: >
-          Cook up new features fast while using edge processing to keep dynamic
-          data flowing at the speed that your end users and devices demand
+          Put data and logic at the edge to keep data flowing at the speed your
+          end users and devices demand
         content_align: left
         actions:
           - label: Learn More
