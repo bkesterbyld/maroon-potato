@@ -12,7 +12,7 @@ sections:
         url: /general-enquiries
         style: primary
     media_position: top
-    media_width: fifty
+    media_width: sixty
     align: center
     padding_top: small
     padding_bottom: small
