@@ -81,7 +81,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Edge Computing
+      - title: Edge Computing Backend
         title_align: left
         content: >
           Put data and logic at the edge to keep data flowing at the speed your
