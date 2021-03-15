@@ -64,7 +64,7 @@ sections:
           Above enforces a data-centric approach that is the opposite of
           procuring databases—which traps data behind applications and
           proliferates silos. A single data set can power multiple views that
-          feed multiple application. Each view gets it's own granular API key
+          feed multiple applications. Each view gets it's own granular API key
           down to the field level if needed.
         actions: []
         media_position: left
