@@ -16,12 +16,12 @@ sections:
           back office systems
         content: >
           Keeping your back office in real-time sync with your frontend
-          experiences and commerce platforms is a costly proposition as you add
-          new digital channels, suppliers and distributors. It often involves
-          new infrastructure, systems integration and adding user seats to your
-          ERP, CRM, WMS and vendor contracts. Above provides a no code,
-          serverless workspace to ingest, mix and serve key data from your back
-          office systems.
+          experiences and  platforms is a costly proposition as you add new
+          digital channels, suppliers and distributors. It often involves new
+          infrastructure, systems integration and adding user seats to your ERP,
+          CRM, WMS and vendor contracts. Above provides a no code, serverless
+          workspace to ingest, mix and serve key data from your back office
+          systems.
 
 
           It handles disparate data from anywhere in the world regardless of
