@@ -48,7 +48,7 @@ sections:
         media_width: fifty
         image: images/digital-operations-API-jamstasck-backend-10.png
     background_color: none
-  - title: What can you do with mixed ops and marketing data?
+  - title: What can you do with disparate back office data?
     subtitle: Check out our library of rich examples and reusable solutions
     actions: []
     grid_items:
