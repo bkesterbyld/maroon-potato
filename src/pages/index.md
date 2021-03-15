@@ -85,7 +85,7 @@ sections:
         title_align: left
         content: >
           Cook up new features fast while using edge processing to keep dynamic
-          data flowing at the speed that your end users and device require
+          data flowing at the speed that your end users and devices demand
         content_align: left
         actions:
           - label: Learn More
