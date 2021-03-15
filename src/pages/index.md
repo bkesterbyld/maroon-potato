@@ -14,8 +14,8 @@ sections:
     media_position: right
     media_width: fifty
     align: center
-    padding_top: small
-    padding_bottom: small
+    padding_top: large
+    padding_bottom: large
     background_color: primary
     has_border: false
     background_image_opacity: 30
@@ -23,7 +23,7 @@ sections:
     background_image_size: auto
     video_embed_html: ''
     background_image_repeat: no-repeat
-    background_image: images/modern-celery.png
+    background_image: images/whitelighter.png
   - type: features_section
     title: ''
     subtitle: ''
