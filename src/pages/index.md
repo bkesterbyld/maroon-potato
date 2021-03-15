@@ -18,7 +18,7 @@ sections:
     padding_bottom: large
     background_color: primary
     has_border: false
-    background_image_opacity: 30
+    background_image_opacity: 20
     background_image_position: center center
     background_image_size: auto
     video_embed_html: ''
