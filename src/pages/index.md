@@ -31,11 +31,10 @@ sections:
       - title: Data management as simple as a spreadsheet
         subtitle: ''
         content: >
-          Above unifies data modeling, storage and manipulation into an easy
-          experience accessible to anyone. Data & logic coexist like in a
+          Above unifies data modeling, storage and manipulation into an easy no
+          code experience accessible to anyone. Data & logic coexist like in a
           spreadsheet, eliminating the need for databases, infrastructure and
-          hardcoding logic. We distribute and take care of your data in safe and
-          reliable SQL, NoSQL and Object stores behind the scenes.
+          hardcoding logic.
         actions: []
         image: images/spreadsheet.png
         media_position: right
