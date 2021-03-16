@@ -8,7 +8,7 @@ sections:
       Process data at the edge, modernize the back office and exchange data with
       partners
     actions:
-      - label: Join the Beta
+      - label: Request Private Beta Access
         url: /general-enquiries
         style: primary
     media_position: right
