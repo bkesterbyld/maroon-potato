@@ -30,10 +30,10 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data modeling, storage and manipulation into an easy no
-          code experience accessible to anyone. Data & logic coexist like in a
-          spreadsheet, eliminating the need for databases, infrastructure and
-          hardcoding logic.
+          Above unifies enterprise-grade data modeling, storage and manipulation
+          into an easy no code experience accessible to anyone. Data & logic
+          coexist like in a spreadsheet, eliminating the need for databases,
+          infrastructure and hardcoding logic.
         actions: []
         image: images/spreadsheet.png
         media_position: right
