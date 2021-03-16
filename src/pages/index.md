@@ -5,10 +5,10 @@ sections:
     title: Global Data Management API
     subtitle: ''
     content: >
-      Process data at the edge, modernize the back office and exchange data with
-      partners
+      Process data at the edge, modernize the back office and securely exchange
+      data with partners
     actions:
-      - label: Join the Beta
+      - label: Request Private Beta Access
         url: /general-enquiries
         style: primary
     media_position: right
@@ -16,7 +16,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: none
     has_border: false
     background_image_opacity: 20
     background_image_position: center center
@@ -28,44 +28,37 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: data management as simple as a spreadsheet
+      - title: enterprise data management as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model data, relationships and mappings to data sources  in an
-          experience as easy as a spreadsheet.  The service supports all kinds
-          of data through a single interface and puts it in safe and reliable
-          SQL, NoSQL and object stores behind the scenes.
+          Above unifies data modeling, storage and manipulation into an easy
+          experience accessible to anyone. You can store all kinds of data
+          through a single interface without knowing anything about databases—
+          it gets distributed across SQL, NoSQL and object stores behind the
+          scenes. No code logic agents enable you to implement transformations,
+          CRUD, real-time analytics and more.
         actions: []
         image: images/spreadsheet.png
         media_position: right
         media_width: fourty
-      - title: 'no code, no limits processing'
-        content: >
-          Above's no code logic agents enable data aggregation, CRUD, business
-          logic and real-time analytics without having to learn anything. Data
-          processing is infinitely scalable both vertically and horizontally,
-          enabling you to execute complex algorithms, AI and ML.
-        actions: []
-        image: images/dataprocessing.png
-        media_position: left
-        media_width: fourty
-      - title: 2X - 20X faster real time data interactions
+      - title: 2X - 20X faster real time data crunching and interactions
         subtitle: ''
         content: >
           Above parallel processes data across the world and serves it up from
-          data centers next to end users and devices, killing latency issues
-          while handling big volume and user spikes.
+          data centers next to endpoint devices, killing latency issues for your
+          solutions while handling massive data sets and unforeseen volume and
+          usage spikes.
         actions: []
         image: images/undraw_connected_world_wuay (1).svg
         media_position: right
         media_width: fourty
       - title: data-centric and secure
         content: >
-          Above enforces a data-centric approach that is the opposite of
-          procuring databases—which traps data behind applications and
-          proliferates silos. A single data set can power multiple views that
-          feed multiple applications. Each view gets it's own granular API key
-          down to the field level if needed.
+          Above enforces a data-centric approach in your solutions and
+          operations that prevents database and silo proliferation. Each data
+          set managed in Above can power multiple views that feed multiple
+          applications. Each view gets it's own granular API key down to the
+          field level if needed.
         actions: []
         media_position: left
         media_width: thirty-three
@@ -127,7 +120,7 @@ sections:
         subtitle: For application owners
         title_align: left
         content: >
-          Above gives you an intermediate layer to publish and reshape data sets
+          Use Above as an intermediate layer to publish and reshape data sets
           for other parties, providing them a unique API key with fine-grained
           security control
         content_align: left

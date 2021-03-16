@@ -6,7 +6,7 @@ sections:
     title: Secure Data Exchange
     subtitle: >-
       For application owners that want full security and control over data
-      exchanged with partners and other departments
+      exchanged with partners
     background_color: secondary
   - type: features_section
     features:
