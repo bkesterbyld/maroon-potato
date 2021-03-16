@@ -32,11 +32,10 @@ sections:
         subtitle: ''
         content: >
           Above unifies data modeling, storage and manipulation into an easy
-          experience accessible to anyone. You can store all kinds of data
-          through a single interface without knowing anything about databases—
-          it gets distributed across SQL, NoSQL and object stores behind the
-          scenes. No code logic agents enable you to implement transformations,
-          CRUD, real-time analytics and more.
+          experience accessible to anyone. Data & logic coexist like in a
+          spreadsheet, eliminating the need for databases, infrastructure and
+          hardcoding logic. We take care of your data in SQL, NoSQL and Object
+          data stores behind the scenes.
         actions: []
         image: images/spreadsheet.png
         media_position: right
