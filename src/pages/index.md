@@ -39,16 +39,6 @@ sections:
         image: images/spreadsheet.png
         media_position: right
         media_width: fourty
-      - title: 'no code, no limits processing'
-        content: >
-          Above's no code logic agents enable data aggregation, CRUD, business
-          logic and real-time analytics without having to learn anything. Data
-          processing is infinitely scalable both vertically and horizontally,
-          enabling you to execute complex algorithms, AI and ML.
-        actions: []
-        image: images/dataprocessing.png
-        media_position: left
-        media_width: fourty
       - title: 2X - 20X faster real time data interactions
         subtitle: ''
         content: >
