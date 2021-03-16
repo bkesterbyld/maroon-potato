@@ -38,7 +38,7 @@ sections:
         image: images/spreadsheet.png
         media_position: right
         media_width: fourty
-        title: Freedom from DB and app servers
+        title: 'Freedom from DB, app and web servers'
       - title: 2X - 20X faster data interactions
         subtitle: ''
         content: >
