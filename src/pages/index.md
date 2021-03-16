@@ -42,16 +42,16 @@ sections:
       - title: 2X - 20X faster data interactions
         subtitle: ''
         content: >
-          Above parallel processes data across the world and serves it up from
-          locations next to data consumers, killing latency issues for your
-          solutions while handling massive data sets.
+          Parallel process data across the world and serves it up from locations
+          next to data consumers, killing latency issues for your solutions
+          while handling massive data sets.
         actions: []
         image: images/speed5.png
         media_position: left
         media_width: thirty-three
       - title: Collaborative and secure
         content: >
-          Above enforces a data-centric approach in your operations that fosters
+          Enforce a data-centric approach in your operations that fosters
           collaboration, reuse and operational responsiveness. Each data set
           managed in Above can power multiple projects and applications, with
           granular browser and API access controls.
