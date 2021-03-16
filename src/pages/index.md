@@ -59,7 +59,7 @@ sections:
           applications. Each view gets it's own granular API key down to the
           field level if needed.
         actions: []
-        media_position: left
+        media_position: right
         media_width: thirty-three
         align: left
         type: feature
