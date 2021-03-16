@@ -34,8 +34,8 @@ sections:
           Above unifies data modeling, storage and manipulation into an easy
           experience accessible to anyone. Data & logic coexist like in a
           spreadsheet, eliminating the need for databases, infrastructure and
-          hardcoding logic. We distribute and take care of your data in SQL,
-          NoSQL and Object stores behind the scenes.
+          hardcoding logic. We distribute and take care of your data in safe and
+          reliable SQL, NoSQL and Object stores behind the scenes.
         actions: []
         image: images/spreadsheet.png
         media_position: right
