@@ -45,7 +45,7 @@ sections:
         subtitle: ''
         content: >
           Above parallel processes data across the world and serves it up from
-          data centers next to endpoint devices, killing latency issues for you
+          data centers next to endpoint devices, killing latency issues for your
           solutions while handling massive data sets and unforeseen volume and
           usage spikes.
         actions: []
