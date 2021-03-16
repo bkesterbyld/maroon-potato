@@ -50,7 +50,7 @@ sections:
         actions: []
         image: images/speed2.png
         media_position: left
-        media_width: fourty
+        media_width: thirty-three
       - title: data-centric and secure
         content: >
           Above enforces a data-centric approach in your solutions and
