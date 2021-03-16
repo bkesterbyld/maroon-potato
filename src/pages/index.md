@@ -45,8 +45,7 @@ sections:
         content: >
           Above parallel processes data across the world and serves it up from
           locations next to data consumers, killing latency issues for your
-          solutions while handling massive data sets and unforeseen volume and
-          usage spikes.
+          solutions while handling massive data sets.
         actions: []
         image: images/speed5.png
         media_position: left
