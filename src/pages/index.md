@@ -28,7 +28,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Go beyond databases to data management
+      - title: Evolve from DB and app servers to data management
         subtitle: ''
         content: >
           Above unifies data modeling, storage and manipulation into an easy no
