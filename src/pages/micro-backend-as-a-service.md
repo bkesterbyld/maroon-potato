@@ -3,7 +3,7 @@ title: Features
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Edge Computing Backend
+    title: Distributed Backend
     subtitle: for your data-driven Jamstack and commerce projects
     background_color: secondary
   - type: features_section
