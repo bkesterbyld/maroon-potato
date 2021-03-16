@@ -32,8 +32,8 @@ sections:
         content: >
           Above unifies enterprise-grade data modeling, storage and manipulation
           into an easy no code experience accessible to anyone. Data & logic
-          coexist like in a spreadsheet, eliminating the need for databases,
-          infrastructure and hardcoding logic.
+          coexist like in a spreadsheet, eliminating the need for any
+          infrastructure whatsoever.
         actions: []
         image: images/spreadsheet.png
         media_position: right
@@ -42,9 +42,9 @@ sections:
       - title: 2X - 20X faster data interactions
         subtitle: ''
         content: >
-          Parallel process data across the world and serves it up from locations
+          Parallel process data across the world and serve it up from locations
           next to data consumers, killing latency issues for your solutions
-          while handling massive data sets.
+          while handling massive data sets and heavy workloads.
         actions: []
         image: images/speed5.png
         media_position: left
@@ -94,8 +94,8 @@ sections:
       - title: Back Office Modernization
         title_align: left
         content: >
-          Get disparate back office data into one environment—to make sense of
-          it and power intelligent new business processes
+          Merge key back office data into one environment—to make sense of it
+          and power intelligent new business processes
         content_align: left
         actions:
           - label: Learn More
