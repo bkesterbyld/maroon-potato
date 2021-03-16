@@ -116,8 +116,8 @@ sections:
         subtitle: For application owners
         title_align: left
         content: >
-          Use Above as an intermediate zone to publish and reshape data sets for
-          other parties, providing them a unique API key with fine-grained
+          Above serves as an intermediate zone to publish and reshape data sets
+          for other parties, providing them a unique API key with fine-grained
           security control
         content_align: left
         actions:
