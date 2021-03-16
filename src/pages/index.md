@@ -49,7 +49,7 @@ sections:
           usage spikes.
         actions: []
         image: images/undraw_connected_world_wuay (1).svg
-        media_position: right
+        media_position: left
         media_width: fourty
       - title: data-centric and secure
         content: >
