@@ -28,7 +28,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Data management as simple as a spreadsheet
+      - title: Go beyond databases to data management
         subtitle: ''
         content: >
           Above unifies data modeling, storage and manipulation into an easy no
