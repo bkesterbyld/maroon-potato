@@ -55,9 +55,10 @@ sections:
       - title: data-centric and secure
         content: >
           Above enforces a data-centric approach in your solutions and
-          operations. Each data set managed in Above can power multiple views
-          that feed multiple applications. Each view gets it's own granular API
-          key down to the field level if needed.
+          operations that prevents database and silo proliferation. Each data
+          set managed in Above can power multiple views that feed multiple
+          applications. Each view gets it's own granular API key down to the
+          field level if needed.
         actions: []
         media_position: left
         media_width: thirty-three
