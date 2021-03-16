@@ -48,7 +48,7 @@ sections:
           solutions while handling massive data sets and unforeseen volume and
           usage spikes.
         actions: []
-        image: images/speed2.png
+        image: images/speed3.png
         media_position: left
         media_width: thirty-three
       - title: data-centric and secure
