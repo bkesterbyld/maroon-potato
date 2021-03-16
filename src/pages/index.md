@@ -31,10 +31,12 @@ sections:
       - title: data management as simple as a spreadsheet
         subtitle: ''
         content: >
-          Model data, relationships and mappings to data sources  in an
-          experience as easy as a spreadsheet.  The service supports all kinds
-          of data through a single interface and puts it in safe and reliable
-          SQL, NoSQL and object stores behind the scenes.
+          Above unifies data modeling, storage and manipulation into an easy, no
+          code experience. You can store all kinds of data through a single
+          interface without knowing anything about databases— we put it in safe
+          and reliable SQL, NoSQL and object stores behind the scenes. Then you
+          use  logic agents to do whatever is needed from CRUD to
+          transformations to real-time analytics. 
         actions: []
         image: images/spreadsheet.png
         media_position: right
