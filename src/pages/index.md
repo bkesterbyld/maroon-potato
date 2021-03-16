@@ -33,10 +33,10 @@ sections:
         content: >
           Above unifies data modeling, storage and manipulation into an easy, no
           code experience. You can store all kinds of data through a single
-          interface without knowing anything about databases— we put it in safe
-          and reliable SQL, NoSQL and object stores behind the scenes. Then you
-          use  logic agents to do whatever is needed from CRUD to
-          transformations to real-time analytics. 
+          interface without knowing anything about databases— we distribute it
+          across SQL, NoSQL and object stores behind the scenes. Logic agents
+          enable you to implement transformations, CRUD, real-time analytics and
+          more. 
         actions: []
         image: images/spreadsheet.png
         media_position: right
