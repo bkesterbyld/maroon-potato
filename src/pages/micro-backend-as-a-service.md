@@ -14,9 +14,10 @@ sections:
           logic
         content: >
           Above's global computing network give you an on demand backend service
-          that crunches and delivers data instantly to your users.  Active Data
-          Management technology takes care of global data replications at the
-          field level, ensuring users everywhere see the same data instantly.
+          that crunches and delivers data next to your users.  Above's
+          distributed computing technology takes care of data replications at
+          the field level, ensuring users everywhere see the same data
+          instantly.
 
 
           Above couples this network with [powerful computing options](/faq) to
@@ -25,14 +26,14 @@ sections:
           code, shipping new features out the door is both fast and easy.
 
 
-          *   Assemble powerful enterprise-class backends quickly without having
-          to learn anything
+          *   Quickly assemble powerful enterprise-class backends quickly
+          without having to learn anything
 
 
           *   Iterate and release constantly without downtime or delay
 
 
-          *   Manage data anywhere to comply with GDPR and other privacy
+          *   Manage data anywhere to comply with GDPR and emerging privacy
           regulations
 
 
