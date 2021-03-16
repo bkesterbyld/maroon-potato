@@ -41,7 +41,7 @@ sections:
         image: images/spreadsheet.png
         media_position: right
         media_width: fourty
-      - title: 2X - 20X faster real time data interactions
+      - title: 2X - 20X faster real time data crunching and interactions
         subtitle: ''
         content: >
           Above parallel processes data across the world and serves it up from
