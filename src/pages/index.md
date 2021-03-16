@@ -28,39 +28,35 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: enterprise data management as simple as a spreadsheet
-        subtitle: ''
+      - subtitle: ''
         content: >
-          Above unifies data modeling, storage and manipulation into an easy
-          experience accessible to anyone. You can store all kinds of data
-          through a single interface without knowing anything about databases—
-          it gets distributed across SQL, NoSQL and object stores behind the
-          scenes. No code logic agents enable you to implement transformations,
-          CRUD, real-time analytics and more.
+          Above unifies enterprise-grade data modeling, storage and manipulation
+          into an easy no code experience accessible to anyone. Data & logic
+          coexist like in a spreadsheet, eliminating the need for databases,
+          infrastructure and hardcoding logic.
         actions: []
         image: images/spreadsheet.png
         media_position: right
         media_width: fourty
-      - title: 2X - 20X faster real time data crunching and interactions
+        title: 'Freedom from DB, app and web servers'
+      - title: 2X - 20X faster data interactions
         subtitle: ''
         content: >
           Above parallel processes data across the world and serves it up from
-          data centers next to endpoint devices, killing latency issues for your
-          solutions while handling massive data sets and unforeseen volume and
-          usage spikes.
+          locations next to data consumers, killing latency issues for your
+          solutions while handling massive data sets.
         actions: []
-        image: images/undraw_connected_world_wuay (1).svg
-        media_position: right
-        media_width: fourty
-      - title: data-centric and secure
-        content: >
-          Above enforces a data-centric approach in your solutions and
-          operations that prevents database and silo proliferation. Each data
-          set managed in Above can power multiple views that feed multiple
-          applications. Each view gets it's own granular API key down to the
-          field level if needed.
-        actions: []
+        image: images/speed5.png
         media_position: left
+        media_width: thirty-three
+      - title: Collaborative and secure
+        content: >
+          Above enforces a data-centric approach in your operations that fosters
+          collaboration, reuse and operational responsiveness. Each data set
+          managed in Above can power multiple projects and applications, with
+          granular browser and API access controls.
+        actions: []
+        media_position: right
         media_width: thirty-three
         align: left
         type: feature
@@ -77,8 +73,8 @@ sections:
       - title: Distributed Backend
         title_align: left
         content: >
-          Put data and logic at the edge to keep data flowing at the speed your
-          end users and devices demand
+          Put data and logic at the edge to service end users and devices at the
+          speed they demand
         content_align: left
         actions:
           - label: Learn More
@@ -98,8 +94,8 @@ sections:
       - title: Back Office Modernization
         title_align: left
         content: >
-          An easy way to get disparate back office data into one environment—to
-          make sense of it and power intelligent new business processes
+          Get disparate back office data into one environment—to make sense of
+          it and power intelligent new business processes
         content_align: left
         actions:
           - label: Learn More
@@ -120,8 +116,8 @@ sections:
         subtitle: For application owners
         title_align: left
         content: >
-          Use Above as an intermediate layer to publish and reshape data sets
-          for other parties, providing them a unique API key with fine-grained
+          Use Above as an intermediate zone to publish and reshape data sets for
+          other parties, providing them a unique API key with fine-grained
           security control
         content_align: left
         actions:
