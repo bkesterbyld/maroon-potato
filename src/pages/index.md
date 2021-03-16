@@ -28,8 +28,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Evolve from DB and app servers to data management
-        subtitle: ''
+      - subtitle: ''
         content: >
           Above unifies data modeling, storage and manipulation into an easy no
           code experience accessible to anyone. Data & logic coexist like in a
