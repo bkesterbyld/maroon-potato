@@ -5,7 +5,7 @@ sections:
     title: Global Data Management API
     subtitle: ''
     content: >
-      Process data at the edge, modernize the back office and securely exchange
+      Power edge applications, modernize the back office and securely exchange
       data with partners
     actions:
       - label: Request Private Beta Access
