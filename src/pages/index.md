@@ -42,9 +42,9 @@ sections:
       - title: 2X - 20X faster data interactions
         subtitle: ''
         content: >
-          Above parallel processes data across the world and serves it up from
-          locations next to data consumers, killing latency issues for your
-          solutions while handling massive data sets.
+          Parallel process data across the world and serves it up from locations
+          next to data consumers, killing latency issues for your solutions
+          while handling massive data sets.
         actions: []
         image: images/speed5.png
         media_position: left
