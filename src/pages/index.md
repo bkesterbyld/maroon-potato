@@ -94,8 +94,8 @@ sections:
       - title: Back Office Modernization
         title_align: left
         content: >
-          Get disparate back office data into one environment—to make sense of
-          it and power intelligent new business processes
+          Merge key back office data into one environment—to make sense of it
+          and power intelligent new business processes
         content_align: left
         actions:
           - label: Learn More
