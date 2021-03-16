@@ -54,11 +54,10 @@ sections:
         media_width: fourty
       - title: data-centric and secure
         content: >
-          Above enforces a data-centric approach that is the opposite of
-          procuring databases—which traps data behind applications and
-          proliferates silos. A single data set can power multiple views that
-          feed multiple applications. Each view gets it's own granular API key
-          down to the field level if needed.
+          Above enforces a data-centric approach in your solutions and
+          operations. Each data set managed in Above can power multiple views
+          that feed multiple applications. Each view gets it's own granular API
+          key down to the field level if needed.
         actions: []
         media_position: left
         media_width: thirty-three
