@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Global Real TimeData Management API
+    title: Global Real Time Data Management API
     subtitle: ''
     content: >
       Process data at the edge, modernize the back office and securely exchange
