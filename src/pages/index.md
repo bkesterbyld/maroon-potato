@@ -51,7 +51,7 @@ sections:
         image: images/speed5.png
         media_position: left
         media_width: thirty-three
-      - title: data-centric and secure
+      - title: collaborative and secure
         content: >
           Above enforces a data-centric approach in your solutions and
           operations that prevents database and silo proliferation. Each data
