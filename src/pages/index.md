@@ -44,7 +44,7 @@ sections:
         content: >
           Parallel process data across the world and serve it up from locations
           next to data consumers, killing latency issues for your solutions
-          while handling massive data sets.
+          while handling massive data sets and even AI / ML workloads.
         actions: []
         image: images/speed5.png
         media_position: left
