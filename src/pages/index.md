@@ -53,11 +53,10 @@ sections:
         media_width: thirty-three
       - title: collaborative and secure
         content: >
-          Above enforces a data-centric approach in your solutions and
-          operations that prevents database and silo proliferation. Each data
-          set managed in Above can power multiple views that feed multiple
-          applications. Each view gets it's own granular API key down to the
-          field level if needed.
+          Above enforces a collaborative data-centric approach in your solutions
+          and operations that prevents database and silo proliferation. Each
+          data set managed in Above can power multiple projects and
+          applications, with granular browser and API access controls.
         actions: []
         media_position: right
         media_width: thirty-three
