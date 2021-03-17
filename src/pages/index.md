@@ -23,7 +23,7 @@ sections:
     background_image_size: auto
     video_embed_html: ''
     background_image_repeat: no-repeat
-    background_image: images/whitelighter.png
+    background_image: images/jamstack-backend-for-you.png
   - type: features_section
     title: ''
     subtitle: ''
