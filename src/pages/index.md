@@ -169,7 +169,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: cta_section
-    title: Developers wanted
+    title: Digital innovators wanted
     content: |
       Try Above for fun or work.
     actions:
