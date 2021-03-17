@@ -73,8 +73,8 @@ sections:
       - title: Distributed Backend
         title_align: left
         content: >
-          Put data and logic at the edge to service end users at the speed they
-          deserve and demand
+          Put data and logic at the edge to service end users at blistering
+          speed
         content_align: left
         actions:
           - label: Learn More
