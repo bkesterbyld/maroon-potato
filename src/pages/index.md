@@ -91,7 +91,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For developers
-      - title: Back Office Modernization
+      - title: Headless Back Office
         title_align: left
         content: >
           Merge key back office data into one environment—to make sense of it
