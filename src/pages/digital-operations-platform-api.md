@@ -3,7 +3,7 @@ title: Digital Operations API
 excerpt: 'Get key ERP, marketing and other data in one reusable place'
 sections:
   - type: hero_section
-    title: Back Office Modernization
+    title: Headless Back Office
     subtitle: >-
       Build intelligent new business processes above existing ERP, SaaS and
       point solutions
@@ -48,7 +48,7 @@ sections:
         media_width: fifty
         image: images/digital-operations-API-jamstasck-backend-10.png
     background_color: none
-  - title: What can you do with disparate back office data?
+  - title: What can you do with merged back office data?
     subtitle: Check out our library of rich examples and reusable solutions
     actions: []
     grid_items:

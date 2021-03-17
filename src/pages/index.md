@@ -73,8 +73,8 @@ sections:
       - title: Distributed Backend
         title_align: left
         content: >
-          Put data and logic at the edge to service end users and devices at the
-          speed they demand
+          Put data and logic at the edge to service end users at blistering
+          speed
         content_align: left
         actions:
           - label: Learn More
@@ -91,11 +91,11 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For developers
-      - title: Back Office Modernization
+      - title: Headless Back Office
         title_align: left
         content: >
           Merge key back office data into one environment—to make sense of it
-          and power intelligent new business processes
+          and power fast, intelligent frontends
         content_align: left
         actions:
           - label: Learn More
@@ -116,9 +116,8 @@ sections:
         subtitle: For application owners
         title_align: left
         content: >
-          Above serves as an intermediate zone to publish and reshape data sets
-          for other parties, providing them with granular online and API data
-          access.
+          An intermediate zone to publish data sets for other parties with
+          granular API and browser access
         content_align: left
         actions:
           - label: Learn More
@@ -169,7 +168,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: cta_section
-    title: Developers wanted
+    title: Digital innovators wanted
     content: |
       Try Above for fun or work.
     actions:
