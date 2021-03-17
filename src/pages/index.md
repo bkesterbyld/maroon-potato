@@ -30,10 +30,10 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies enterprise-grade data modeling, storage and manipulation
-          into an easy no code experience accessible to anyone. Data & logic
-          coexist like in a spreadsheet, eliminating the need for any
-          infrastructure whatsoever.
+          Above unifies enterprise-grade data modeling, storage and real-time
+          processing into a no code experience accessible to anyone. Data &
+          logic coexist like in a spreadsheet, eliminating the need for any
+          servers to power your app, website or edge device.
         actions: []
         image: images/spreadsheet.png
         media_position: right
