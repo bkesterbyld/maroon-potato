@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Global Data Management API for Commerce
+    title: The Data & Logic API for Commerce
     subtitle: ''
     content: >
       Power edge applications, modernize the back office and securely exchange
