@@ -5,8 +5,8 @@ sections:
     title: The Data & Logic API for Jamstack
     subtitle: ''
     content: >
-      Above is an all-in-one easy backend service to power dynamic website data
-      and new applications
+      An all-in-one easy backend service to power dynamic website data and new
+      applications
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
@@ -33,7 +33,7 @@ sections:
           Above unifies enterprise-grade data modeling, storage and real-time
           processing into a no code experience accessible to anyone. Data &
           logic coexist like in a spreadsheet, eliminating the need for any
-          servers to power your app, website or edge device.
+          servers to power your website or app.
         actions: []
         image: images/spreadsheet.png
         media_position: right
@@ -44,7 +44,7 @@ sections:
         content: >
           Parallel process data across the world and serve it up from locations
           next to data consumers, killing latency issues for your solutions
-          while handling massive data sets and heavy workloads.
+          while handling huge data sets and heavy loads effortlessly.
         actions: []
         image: images/speed5.png
         media_position: left
