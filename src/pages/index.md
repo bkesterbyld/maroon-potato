@@ -5,8 +5,8 @@ sections:
     title: The Data & Logic API for Commerce
     subtitle: ''
     content: >
-      Above is an all-in-one no code experience to power your websites and
-      applications. 
+      Above is an all-in-one easy backend service to power your sites and
+      applications
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
