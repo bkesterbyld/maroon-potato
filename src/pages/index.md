@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Data & Logic API for Commerce
+    title: The Data & Logic API for Jamstack
     subtitle: ''
     content: >
-      Power edge applications, modernize the back office and securely exchange
-      data with partners
+      Above is an all-in-one easy backend service to power dynamic website data
+      and new applications
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
