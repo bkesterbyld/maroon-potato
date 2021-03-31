@@ -44,7 +44,7 @@ sections:
         content: >
           Parallel process data across the world and serve it up from locations
           next to data consumers, killing latency issues for your solutions
-          while handling massive data sets and heavy workloads.
+          while handling huge data sets and heavy loads effortlessly.
         actions: []
         image: images/speed5.png
         media_position: left
