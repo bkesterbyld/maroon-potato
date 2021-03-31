@@ -5,8 +5,8 @@ sections:
     title: The Data & Logic API for Commerce
     subtitle: ''
     content: >
-      Power edge applications, modernize the back office and securely exchange
-      data with partners
+      Above is an all-in-one no code experience to power your websites and
+      applications. 
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
