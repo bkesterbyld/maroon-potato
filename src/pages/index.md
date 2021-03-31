@@ -5,8 +5,8 @@ sections:
     title: The Data & Logic API for Jamstack
     subtitle: ''
     content: >
-      Above is an all-in-one easy backend service to power your sites and
-      applications
+      Above is an all-in-one easy backend service to power dynamic website data
+      and new applications
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
