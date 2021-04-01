@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Data & Logic API for Jamstack
+    title: The Data & Logic API for Serverless Apps
     subtitle: ''
     content: >
       An all-in-one easy backend service to power dynamic website data and new
