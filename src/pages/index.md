@@ -5,8 +5,8 @@ sections:
     title: The Data & Logic API for Serverless Apps
     subtitle: ''
     content: >
-      An all-in-one easy backend service to power dynamic website data and new
-      applications
+      An all-in-one easy backend service to power dynamic website data and
+      modern applications
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
