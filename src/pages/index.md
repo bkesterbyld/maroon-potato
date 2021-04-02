@@ -35,7 +35,7 @@ sections:
           logic coexist like in a spreadsheet, eliminating the need for any
           servers to power your website or app.
         actions: []
-        image: images/spreadsheet.png
+        image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
         title: 'Freedom from DB, app and web servers'
