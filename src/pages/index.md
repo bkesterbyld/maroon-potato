@@ -30,10 +30,10 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies enterprise-grade data modeling, storage and real-time
-          processing into a no code experience accessible to anyone. Data &
-          logic coexist like in a spreadsheet, eliminating the need for any
-          servers to power your website or app.
+          Above unifies data models, storage and business logic into a single
+          service and API—all setup in minutes with no code tools. Data & logic
+          coexist like in a spreadsheet, eliminating the need for any servers to
+          power your website or app.
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
@@ -51,10 +51,9 @@ sections:
         media_width: thirty-three
       - title: Collaborative and secure
         content: >
-          Enforce a data-centric approach in your operations that fosters
-          collaboration, reuse and operational responsiveness. Each data set
-          managed in Above can power multiple projects and applications, with
-          granular browser and API access controls.
+          Enforce a data-centric development approach that fosters team
+          collaboration reuse. Data managed in Above can power multiple projects
+          and applications, with granular browser and API access controls.
         actions: []
         media_position: right
         media_width: thirty-three
