@@ -30,9 +30,9 @@ sections:
     features:
       - subtitle: ''
         content: >
-          **Above unifies data modeling, storage and business logic into a no
-          code experience**. Data & logic coexist like in a spreadsheet,
-          eliminating the need for any servers to power your website or app.
+          Above unifies data modeling, storage and business logic into a no code
+          experience. Data & logic coexist like in a spreadsheet, eliminating
+          the need for any servers to power your website or app.
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
