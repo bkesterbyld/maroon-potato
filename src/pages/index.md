@@ -57,7 +57,7 @@ sections:
         actions: []
         media_position: right
         media_width: thirty-three
-        align: left
+        align: right
         type: feature
         image: images/secure2.png
     feature_padding_vert: large
