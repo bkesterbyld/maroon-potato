@@ -5,8 +5,8 @@ sections:
     title: The Data & Logic API for Edge Applications
     subtitle: ''
     content: >
-      An all-in-one easy backend service to power dynamic website data and
-      modern applications
+      An all-in-one, distributed backend and processing service for applications
+      that require immediate server response.
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
