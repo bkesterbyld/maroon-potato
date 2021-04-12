@@ -55,7 +55,7 @@ sections:
           collaboration reuse. Data managed in Above can power multiple projects
           and applications, with granular browser and API access controls.
         actions: []
-        media_position: right
+        media_position: left
         media_width: thirty-three
         align: right
         type: feature
