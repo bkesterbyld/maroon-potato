@@ -31,9 +31,9 @@ sections:
       - title: 2X - 20X faster data interactions
         subtitle: ''
         content: >
-          Parallel process data across the world and serve it up from locations
-          next to data consumers, killing latency issues for your solutions
-          while handling huge data sets and heavy loads effortlessly.
+          Parallel process data across the world next to data consumers, killing
+          latency issues for your solutions while handling huge data sets and
+          heavy loads effortlessly.
         actions: []
         image: images/speed5.png
         media_position: left
