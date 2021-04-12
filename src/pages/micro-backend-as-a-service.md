@@ -4,7 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: Distributed Backend
-    subtitle: for your data-driven Jamstack and commerce projects
+    subtitle: for frontend and hardware developers
     background_color: secondary
   - type: features_section
     features:
