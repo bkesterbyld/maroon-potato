@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above crunches data right next to user endpoints and keeps it synchronized
-      around the world, delivering the fastest possible data experiences
+      around the world, delivering the fastest data response to your users
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
