@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above crunches data right next to user endpoints and keeps it synchronized
-      around the world, essentially giving you access to a multi-cloud global
+      around the world, essentially giving you a multi-cloud global
       supercomputer via an API call
     actions:
       - label: Request Private Beta Access
