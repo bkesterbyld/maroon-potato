@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Data & Logic API for Edge Applications
+    title: The Data & Logic API for Edge Computing
     subtitle: ''
     content: >
       An all-in-one, distributed backend and processing service for applications
