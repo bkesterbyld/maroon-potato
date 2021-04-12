@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       An all-in-one, distributed backend and processing service for applications
-      that require instant processing
+      that require instant data crunching and response
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
