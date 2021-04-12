@@ -5,8 +5,9 @@ sections:
     title: The Data & Logic API for Edge Computing
     subtitle: ''
     content: >
-      Above crunches data right next to your user endpoints and keeps it
-      synchronized around the world, delivering the fastest data experiences.
+      Above crunches data right next to user endpoints and keeps it synchronized
+      around the world, essentially giving you access to a multi-cloud global
+      supercomputer via an API call
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
