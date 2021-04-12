@@ -5,8 +5,8 @@ sections:
     title: The Data & Logic API for Edge Computing
     subtitle: ''
     content: >
-      An all-in-one, distributed backend and processing service for applications
-      that require instant data crunching and response
+      Above crunches data right next to your user endpoints and keeps it
+      synchronized around the world, delivering the fastest data experiences.
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
