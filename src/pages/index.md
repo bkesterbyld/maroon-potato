@@ -28,6 +28,16 @@ sections:
     title: ''
     subtitle: ''
     features:
+      - title: 2X - 20X faster data interactions
+        subtitle: ''
+        content: >
+          Parallel process data across the world and serve it up from locations
+          next to data consumers, killing latency issues for your solutions
+          while handling huge data sets and heavy loads effortlessly.
+        actions: []
+        image: images/speed5.png
+        media_position: left
+        media_width: thirty-three
       - subtitle: ''
         content: >
           Above unifies data models, storage and business logic into a single
@@ -39,16 +49,6 @@ sections:
         media_position: right
         media_width: fourty
         title: 'Freedom from DB, app and web servers'
-      - title: 2X - 20X faster data interactions
-        subtitle: ''
-        content: >
-          Parallel process data across the world and serve it up from locations
-          next to data consumers, killing latency issues for your solutions
-          while handling huge data sets and heavy loads effortlessly.
-        actions: []
-        image: images/speed5.png
-        media_position: left
-        media_width: thirty-three
       - title: Collaborative and secure
         content: >
           Enforce a data-centric development approach that fosters team
