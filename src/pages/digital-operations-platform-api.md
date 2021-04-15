@@ -25,7 +25,7 @@ sections:
 
 
           It handles disparate data from anywhere in the world regardless of
-          type, speed and size. And it avoids the concurrency and resource
+          location or size. And it avoids the concurrency and resource
           contention problems that occur when running real time data operations
           at scale across different SQL, NoSQL and object stores.
 

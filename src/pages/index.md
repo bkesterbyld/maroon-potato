@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Data & Logic API for Serverless Apps
+    title: The Data & Logic API for Edge Computing
     subtitle: ''
     content: >
-      An all-in-one easy backend service to power dynamic website data and
-      modern applications
+      Above crunches data right next to user endpoints and keeps it synchronized
+      around the world, delivering the fastest data response to your users
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
@@ -28,6 +28,16 @@ sections:
     title: ''
     subtitle: ''
     features:
+      - title: 2X - 20X faster data interactions
+        subtitle: ''
+        content: >
+          Parallel process data across the world next to data consumers, killing
+          latency issues for your solutions while handling huge data sets and
+          heavy loads effortlessly.
+        actions: []
+        image: images/speed5.png
+        media_position: left
+        media_width: thirty-three
       - subtitle: ''
         content: >
           Above unifies data models, storage and business logic into a single
@@ -39,25 +49,15 @@ sections:
         media_position: right
         media_width: fourty
         title: 'Freedom from DB, app and web servers'
-      - title: 2X - 20X faster data interactions
-        subtitle: ''
-        content: >
-          Parallel process data across the world and serve it up from locations
-          next to data consumers, killing latency issues for your solutions
-          while handling huge data sets and heavy loads effortlessly.
-        actions: []
-        image: images/speed5.png
-        media_position: left
-        media_width: thirty-three
       - title: Collaborative and secure
         content: >
           Enforce a data-centric development approach that fosters team
           collaboration reuse. Data managed in Above can power multiple projects
           and applications, with granular browser and API access controls.
         actions: []
-        media_position: right
+        media_position: left
         media_width: thirty-three
-        align: left
+        align: right
         type: feature
         image: images/secure2.png
     feature_padding_vert: large
@@ -89,7 +89,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        subtitle: For developers
+        subtitle: For frontend and hardware developers
       - title: Headless Back Office
         title_align: left
         content: >
