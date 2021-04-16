@@ -72,7 +72,7 @@ sections:
       - title: Distributed Backend
         title_align: left
         content: >
-          Put data and logic at the edge to service end users at blistering
+          Put data and logic at the edge to service endpoints at blistering
           speed
         content_align: left
         actions:
