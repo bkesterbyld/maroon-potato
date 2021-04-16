@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Real-Time Global Data Platform
+    title: Real-TimeGlobal Data Platform
     subtitle: ''
     content: >
       Above crunches real-time data right next to endpoints and keeps it
