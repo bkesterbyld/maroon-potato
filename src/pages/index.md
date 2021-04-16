@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Data & Logic API for Edge Computing
+    title: Real-Time Global Data Platform
     subtitle: ''
     content: >
-      Above crunches data right next to endpoints and keeps it synchronized
-      around the world
+      Above stores and crunches real-time data right next to endpoints and keeps
+      it synchronized around the world
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
@@ -28,10 +28,10 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: 2X - 20X faster data interactions
+      - title: 2X - 20X faster real time data processing
         subtitle: ''
         content: >
-          Parallel process data across the world next to data consumers, killing
+          Parallel process data across the world next to endpoints, killing
           latency issues for your solutions while handling huge data sets and
           heavy loads effortlessly.
         actions: []
@@ -48,12 +48,12 @@ sections:
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: Aggregate and analyze data without coding
+        title: Aggregate and analyze real time data without coding
       - title: Collaborative and secure
         content: >
-          Enforce a data-centric solution development approach that fosters team
-          collaboration reuse. Data managed in Above can power multiple projects
-          and applications, with granular browser and API access controls.
+          Data sets managed in Above can be replicated and kept in sync to power
+          multiple projects, dashboards and applications, with granular browser
+          and API access controls.
         actions: []
         media_position: left
         media_width: thirty-three
