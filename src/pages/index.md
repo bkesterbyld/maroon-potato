@@ -93,8 +93,8 @@ sections:
       - title: Headless Back Office
         title_align: left
         content: >
-          Merge key back office data into one environment—to make sense of it
-          and power fast, intelligent frontends
+          Aggregate disparate data into one environment—to make sense of it and
+          power fast, intelligent frontends
         content_align: left
         actions:
           - label: Learn More
