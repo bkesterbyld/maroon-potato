@@ -31,7 +31,7 @@ sections:
       - title: 2X - 20X faster data interactions
         subtitle: ''
         content: >
-          Parallel process data across the world next to data consumers, killing
+          Parallel process data across the world next to endpoints, killing
           latency issues for your solutions while handling huge data sets and
           heavy loads effortlessly.
         actions: []
