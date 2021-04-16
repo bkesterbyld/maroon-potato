@@ -28,7 +28,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: 2X - 20X faster data interactions
+      - title: 2X - 20X faster real time data processing
         subtitle: ''
         content: >
           Parallel process data across the world next to endpoints, killing
