@@ -5,8 +5,8 @@ sections:
     title: Real-Time Data Platform
     subtitle: ''
     content: >
-      Above crunches data right next to endpoints and keeps it synchronized
-      around the world
+      Above crunches real-time data right next to endpoints and keeps it
+      synchronized around the world
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
