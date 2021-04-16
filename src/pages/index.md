@@ -48,7 +48,7 @@ sections:
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: Aggregate and analyze existing data without coding
+        title: Aggregate and analyze data without coding
       - title: Collaborative and secure
         content: >
           Enforce a data-centric solution development approach that fosters team
