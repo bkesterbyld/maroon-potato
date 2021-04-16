@@ -41,9 +41,9 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, storage and business logic into a single
-          service and API—all setup in minutes with no code tools. You can get
-          data from existing sources into Above via our API and pre-built
-          integrations
+          service and API—all setup in minutes with no code tools. Build
+          something new or tap your existing data sources via our flexible API
+          and pre-built integrations
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
