@@ -52,8 +52,9 @@ sections:
       - title: Collaborative and secure
         content: >
           Enforce a data-centric solution development approach that fosters team
-          collaboration reuse. Data managed in Above can power multiple projects
-          and applications, with granular browser and API access controls.
+          collaboration reuse. Data managed in Above can be replicated and kept
+          in sync to power multiple projects and applications, with granular
+          browser and API access controls.
         actions: []
         media_position: left
         media_width: thirty-three
