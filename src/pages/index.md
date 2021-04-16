@@ -48,7 +48,7 @@ sections:
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: 'Freedom from DB, app and web servers'
+        title: Effortlessly handle disparate data without coding
       - title: Collaborative and secure
         content: >
           Enforce a data-centric development approach that fosters team
