@@ -5,8 +5,8 @@ sections:
     title: The Data & Logic API for Edge Computing
     subtitle: ''
     content: >
-      Above crunches data right next to user endpoints and keeps it synchronized
-      around the world, delivering the fastest data response to your users
+      Above crunches data right next to endpoints and keeps it synchronized
+      around the world
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
@@ -72,7 +72,7 @@ sections:
       - title: Distributed Backend
         title_align: left
         content: >
-          Put data and logic at the edge to service end users at blistering
+          Put data and logic at the edge to service endpoints at blistering
           speed
         content_align: left
         actions:
@@ -93,8 +93,8 @@ sections:
       - title: Headless Back Office
         title_align: left
         content: >
-          Merge key back office data into one environment—to make sense of it
-          and power fast, intelligent frontends
+          Aggregate disparate data into one environment—to make sense of it and
+          power fast, intelligent frontends
         content_align: left
         actions:
           - label: Learn More
