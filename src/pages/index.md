@@ -51,7 +51,7 @@ sections:
         title: Aggregate and analyze existing data without coding
       - title: Collaborative and secure
         content: >
-          Enforce a data-centric development approach that fosters team
+          Enforce a data-centric solution development approach that fosters team
           collaboration reuse. Data managed in Above can power multiple projects
           and applications, with granular browser and API access controls.
         actions: []
