@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Data & Logic API for Edge Computing
+    title: Real-Time Data Platform
     subtitle: ''
     content: >
       Above crunches data right next to endpoints and keeps it synchronized
