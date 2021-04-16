@@ -41,17 +41,17 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, storage and business logic into a single
-          service and API—all setup in minutes with no code tools. Data & logic
-          coexist like in a spreadsheet, eliminating the need for any servers to
-          power your website or app.
+          service and API—all setup in minutes with no code tools. Build
+          something new or tap your existing data sources via our flexible API
+          and pre-built integrations
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: 'Freedom from DB, app and web servers'
+        title: Aggregate and analyze data without coding
       - title: Collaborative and secure
         content: >
-          Enforce a data-centric development approach that fosters team
+          Enforce a data-centric solution development approach that fosters team
           collaboration reuse. Data managed in Above can power multiple projects
           and applications, with granular browser and API access controls.
         actions: []
