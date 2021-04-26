@@ -48,7 +48,7 @@ sections:
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: Aggregate and analyze real time data
+        title: Aggregate and analyze real time data without coding
       - title: 'No code, collaborative and secure'
         content: >
           Data sets managed in Above can be replicated and kept in sync to power
