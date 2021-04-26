@@ -5,8 +5,8 @@ sections:
     title: Real-Time Global Data Platform
     subtitle: ''
     content: >
-      Above stores and crunches real-time data right next to endpoints and keeps
-      it synchronized around the world
+      Above stores and crunches real-time data right next to endpoints, enabling
+      the fastest applications and real-time analytics
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
