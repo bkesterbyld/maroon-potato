@@ -5,7 +5,7 @@ sections:
     title: Global Real Time Data Platform
     subtitle: ''
     content: >
-      Above stores and crunches real-time data right next to endpoints, enabling
+      Above stores and crunches real time data right next to endpoints, enabling
       the fastest applications and real-time analytics
     actions:
       - label: Request Private Beta Access
