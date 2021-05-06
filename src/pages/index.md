@@ -169,8 +169,6 @@ sections:
     has_border: true
   - type: cta_section
     title: Digital innovators wanted
-    content: |
-      Try Above for fun or work.
     actions:
       - label: Get a demo
         url: /general-enquiries
