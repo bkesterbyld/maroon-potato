@@ -150,7 +150,7 @@ sections:
       - content: |
           This is epic, saves an enormous amount of time.
 
-          **Dick Lucas** *Fullsend.io*
+          **Dick Lucas** *Fullsend Solutions*
         image: images/2020-12-10_21-53-01.png
         image_position: left
         image_width: twenty-five
