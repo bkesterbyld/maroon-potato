@@ -9,7 +9,7 @@ sections:
       world, enabling the next generation of multi-vendor and multi-party
       analytics and applications.
     actions:
-      - label: Request Private Beta Access
+      - label: Learn More
         url: /general-enquiries
         style: primary
     media_position: right
