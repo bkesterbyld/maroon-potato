@@ -5,8 +5,9 @@ sections:
     title: Global Real Time Data Platform
     subtitle: ''
     content: >
-      Above stores and crunches real time data right next to endpoints, enabling
-      the fastest applications and real-time analytics
+      Above receives, stores and processes disparate data from anywhere in the
+      world, enabling the next generation of multi-vendor and multi-party
+      analytics and applications.
     actions:
       - label: Request Private Beta Access
         url: /general-enquiries
