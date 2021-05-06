@@ -56,7 +56,7 @@ sections:
           multiple projects, dashboards and applications, with granular browser
           and API access controls.
         actions: []
-        media_position: left
+        media_position: right
         media_width: thirty-three
         align: right
         type: feature
