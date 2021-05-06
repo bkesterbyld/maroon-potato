@@ -172,7 +172,7 @@ sections:
     content: |
       Try Above for fun or work.
     actions:
-      - label: Private Beta Signup
+      - label: Get a demo
         url: /general-enquiries
         style: primary
     actions_position: right
