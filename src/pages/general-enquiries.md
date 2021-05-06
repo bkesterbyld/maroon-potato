@@ -3,7 +3,7 @@ title: Above - Beta Signup
 sections:
   - type: hero_section
     title: Learn more
-    subtitle: Coming in 2021
+    subtitle: Or get a demo
     align: center
     padding_top: medium
     padding_bottom: medium
