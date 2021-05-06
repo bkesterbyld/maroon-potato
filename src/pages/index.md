@@ -40,6 +40,16 @@ sections:
         media_position: right
         media_width: fourty
         title: Aggregate and analyze real time data without coding
+      - title: 2X - 20X faster real time data processing
+        subtitle: ''
+        content: >
+          Parallel process data across the world next to endpoints, killing
+          latency issues for your solutions while handling huge data sets and
+          heavy loads effortlessly.
+        actions: []
+        image: images/speed5.png
+        media_position: left
+        media_width: thirty-three
       - title: Collaborative and secure
         content: >
           Data sets managed in Above can be replicated and kept in sync to power
@@ -51,16 +61,6 @@ sections:
         align: right
         type: feature
         image: images/secure2.png
-      - title: 2X - 20X faster real time data processing
-        subtitle: ''
-        content: >
-          Parallel process data across the world next to endpoints, killing
-          latency issues for your solutions while handling huge data sets and
-          heavy loads effortlessly.
-        actions: []
-        image: images/speed5.png
-        media_position: left
-        media_width: thirty-three
     feature_padding_vert: large
     align: right
     background_color: secondary
