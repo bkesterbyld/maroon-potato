@@ -31,8 +31,8 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data models, storage and business logic into a single
-          service and API—all setup in minutes with no code tools. Build
+          Above unifies data models, storage and data processing logic into a
+          single service and API—all setup in minutes with no code tools. Build
           something new or tap your existing data sources via our flexible API
           and pre-built integrations
         actions: []
