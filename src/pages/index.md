@@ -43,9 +43,9 @@ sections:
       - title: 2X - 20X faster real time data processing
         subtitle: ''
         content: >
-          Parallel process data across the world next to endpoints, killing
-          latency issues for your solutions while handling huge data sets and
-          heavy loads effortlessly.
+          Parallel process data across the world next to both data sources and
+          user end points, killing latency issues for your solutions while
+          handling huge data sets and heavy loads effortlessly.
         actions: []
         image: images/speed5.png
         media_position: left
