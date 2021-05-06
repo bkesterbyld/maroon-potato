@@ -5,10 +5,11 @@ sections:
     title: Global Real Time Data Platform
     subtitle: ''
     content: >
-      Above stores and crunches real time data right next to endpoints, enabling
-      the fastest applications and real-time analytics
+      Above receives, stores and processes disparate data from anywhere in the
+      world, enabling the next generation of multi-vendor and multi-party
+      analytics and applications.
     actions:
-      - label: Request Private Beta Access
+      - label: Learn More
         url: /general-enquiries
         style: primary
     media_position: right
@@ -28,20 +29,10 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: 2X - 20X faster real time data processing
-        subtitle: ''
-        content: >
-          Parallel process data across the world next to endpoints, killing
-          latency issues for your solutions while handling huge data sets and
-          heavy loads effortlessly.
-        actions: []
-        image: images/speed5.png
-        media_position: left
-        media_width: thirty-three
       - subtitle: ''
         content: >
-          Above unifies data models, storage and business logic into a single
-          service and API—all setup in minutes with no code tools. Build
+          Above unifies data models, storage and data processing logic into a
+          single service and API—all setup in minutes with no code tools. Build
           something new or tap your existing data sources via our flexible API
           and pre-built integrations
         actions: []
@@ -49,13 +40,23 @@ sections:
         media_position: right
         media_width: fourty
         title: Aggregate and analyze real time data without coding
+      - title: 2X - 20X faster real time data processing
+        subtitle: ''
+        content: >
+          Parallel process data across the world next to both data sources and
+          user end points, killing latency issues for your solutions while
+          handling huge data sets and heavy loads effortlessly.
+        actions: []
+        image: images/speed5.png
+        media_position: left
+        media_width: thirty-three
       - title: Collaborative and secure
         content: >
           Data sets managed in Above can be replicated and kept in sync to power
           multiple projects, dashboards and applications, with granular browser
           and API access controls.
         actions: []
-        media_position: left
+        media_position: right
         media_width: thirty-three
         align: right
         type: feature
@@ -146,17 +147,17 @@ sections:
     title: Feedback
     subtitle: ''
     grid_items:
-      - content: |-
-          This is going to be epic, saves an enormous amount of time.
+      - content: |
+          This is epic, saves an enormous amount of time.
 
-          **Dick Lucas** *Fullsend.io*
+          **Dick Lucas** *Fullsend Solutions*
         image: images/2020-12-10_21-53-01.png
         image_position: left
         image_width: twenty-five
-      - content: |-
+      - content: |
           I can work on higher level problems and tasks, things get done fast.
 
-          **Nick Bonakis,** *Velocityraptor.co*
+          **Nick Bonakis,** *VelocityRaptor Solutions*
         image: images/dickylucas.png
         image_position: left
         image_width: twenty-five
@@ -168,10 +169,8 @@ sections:
     has_border: true
   - type: cta_section
     title: Digital innovators wanted
-    content: |
-      Try Above for fun or work.
     actions:
-      - label: Private Beta Signup
+      - label: Get a demo
         url: /general-enquiries
         style: primary
     actions_position: right

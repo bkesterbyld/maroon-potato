@@ -51,7 +51,7 @@
                 "type": "action"
             },
             {
-                "label": "Private Beta",
+                "label": "Learn More",
                 "url": "/general-enquiries",
                 "style": "primary",
                 "has_icon": false,
@@ -177,7 +177,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy;2020  Above Computing Inc.",
+        "content": "©2021 Above Computing Inc.",
         "links": [
             {
                 "label": "Made via Jamstack!",

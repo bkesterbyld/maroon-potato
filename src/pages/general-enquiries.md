@@ -2,24 +2,17 @@
 title: Above - Beta Signup
 sections:
   - type: hero_section
-    title: Be a part of our beta
-    subtitle: Coming in 2021
+    title: Learn more
+    subtitle: Or get a demo
     align: center
     padding_top: medium
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ### Free Cyber and Real Stuff
+    content: |
+      ### Privacy Guaranteed
 
-      We'd love to help you with some pet project or anything you can think of.
-      In exchange for your use and feedback we'll put you on our swag list (when
-      we have enough of it) and anything you build up to 250,000 rows of data
-      you can keep running forever, no charge. 
-
-      ### Privacy
-
-      We never sell information to third parties. Period. 
+      We never sell information to third parties. Period.
     content_align: left
     form_position: right
     form_width: fifty
@@ -43,7 +36,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - I want to join the beta
+          - Get a demo
           - I have questions
           - Other (use message box)
       - input_type: textarea
@@ -56,7 +49,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-    submit_label: Send Message
+    submit_label: Submit
     align_vert: top
     padding_top: medium
     padding_bottom: medium
