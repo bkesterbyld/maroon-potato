@@ -2,7 +2,7 @@
 title: Above - Beta Signup
 sections:
   - type: hero_section
-    title: Be a part of our beta
+    title: Learn more
     subtitle: Coming in 2021
     align: center
     padding_top: medium
