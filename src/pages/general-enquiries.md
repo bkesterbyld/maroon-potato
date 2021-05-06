@@ -36,7 +36,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - I want to join the beta
+          - Get a demo
           - I have questions
           - Other (use message box)
       - input_type: textarea
