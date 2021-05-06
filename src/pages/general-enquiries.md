@@ -10,7 +10,7 @@ sections:
     background_color: none
   - type: form_section
     content: |
-      ### Privacy
+      ### Privacy Guaranteed
 
       We never sell information to third parties. Period.
     content_align: left
