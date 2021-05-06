@@ -147,8 +147,8 @@ sections:
     title: Feedback
     subtitle: ''
     grid_items:
-      - content: |-
-          This is going to be epic, saves an enormous amount of time.
+      - content: |
+          This is epic, saves an enormous amount of time.
 
           **Dick Lucas** *Fullsend.io*
         image: images/2020-12-10_21-53-01.png
