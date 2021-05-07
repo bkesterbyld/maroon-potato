@@ -153,7 +153,7 @@ sections:
         content_align: center
         image_align: center
       - image: images/teslaenergy.png
-        image_position: left
+        image_position: top
         image_width: twenty-five
         title_align: center
         content_align: center
