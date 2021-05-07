@@ -154,7 +154,7 @@ sections:
         image_align: center
       - image: images/teslaenergy.png
         image_position: top
-        image_width: twenty-five
+        image_width: sixty
         title_align: center
         content_align: center
       - title_align: left
