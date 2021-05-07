@@ -144,7 +144,7 @@ sections:
     background_color: primary
     has_border: true
   - type: grid_section
-    title: Proven in Mission Critical Analytics and Applications
+    title: Proven Technology
     subtitle: ''
     grid_items:
       - content: |
