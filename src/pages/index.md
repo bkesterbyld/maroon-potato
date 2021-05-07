@@ -156,7 +156,7 @@ sections:
           I can work on higher level problems and tasks, things get done fast.
 
           **Nick Bonakis,** *VelocityRaptor Solutions*
-        image: images/dickylucas.png
+        image: images/teslaenergy.png
         image_position: left
         image_width: twenty-five
     grid_cols: two
