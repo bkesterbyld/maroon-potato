@@ -152,9 +152,7 @@ sections:
         image_width: fifty
         content_align: center
         image_align: center
-      - content: |
-          **
-        image: images/teslaenergy.png
+      - image: images/teslaenergy.png
         image_position: left
         image_width: twenty-five
     grid_cols: two
