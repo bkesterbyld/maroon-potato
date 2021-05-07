@@ -167,7 +167,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: secondary
+    background_color: none
     has_border: true
   - type: cta_section
     title: Digital innovators wanted
