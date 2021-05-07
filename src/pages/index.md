@@ -156,6 +156,7 @@ sections:
         image_position: left
         image_width: twenty-five
         title_align: center
+        content_align: center
       - title_align: left
         content_align: left
         actions: []
