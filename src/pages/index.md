@@ -148,9 +148,7 @@ sections:
     subtitle: ''
     grid_items:
       - content: |
-          This is epic, saves an enormous amount of time.
-
-          **Dick Lucas** *Fullsend Solutions*
+          **
         image: images/HP-logo.png
         image_position: top
         image_width: fifty
