@@ -156,7 +156,6 @@ sections:
         image_position: left
         image_width: twenty-five
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
