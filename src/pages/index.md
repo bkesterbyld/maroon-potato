@@ -147,9 +147,7 @@ sections:
     title: Proven Technology
     subtitle: ''
     grid_items:
-      - content: |
-          **
-        image: images/HP-logo.png
+      - image: images/HP-logo.png
         image_position: top
         image_width: fifty
         content_align: center
