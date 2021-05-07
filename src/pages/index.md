@@ -144,29 +144,38 @@ sections:
     background_color: primary
     has_border: true
   - type: grid_section
-    title: Feedback
+    title: Proven In Mission Critical Projects
     subtitle: ''
     grid_items:
-      - content: |
-          This is epic, saves an enormous amount of time.
-
-          **Dick Lucas** *Fullsend Solutions*
-        image: images/2020-12-10_21-53-01.png
-        image_position: left
-        image_width: twenty-five
-      - content: |
-          I can work on higher level problems and tasks, things get done fast.
-
-          **Nick Bonakis,** *VelocityRaptor Solutions*
-        image: images/dickylucas.png
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
+      - image: images/HP-logo.png
+        image_position: top
+        image_width: sixty
+        content_align: center
+        image_align: center
+      - image: images/teslaenergy.png
+        image_position: top
+        image_width: sixty
+        title_align: center
+        content_align: center
+        image_align: center
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/bae.png
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: secondary
+    background_color: none
     has_border: true
+    enable_cards: false
   - type: cta_section
     title: Digital innovators wanted
     actions:
