@@ -172,6 +172,7 @@ sections:
     align: center
     background_color: none
     has_border: true
+    enable_cards: true
   - type: cta_section
     title: Digital innovators wanted
     actions:
