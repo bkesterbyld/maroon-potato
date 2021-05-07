@@ -152,7 +152,7 @@ sections:
 
           **Dick Lucas** *Fullsend Solutions*
         image: images/HP-logo.png
-        image_position: left
+        image_position: top
         image_width: fifty
         content_align: center
         image_align: center
