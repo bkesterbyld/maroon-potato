@@ -166,7 +166,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/bae.png
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
