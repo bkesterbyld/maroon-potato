@@ -155,8 +155,7 @@ sections:
       - image: images/teslaenergy.png
         image_position: left
         image_width: twenty-five
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
