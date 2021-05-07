@@ -149,7 +149,7 @@ sections:
     grid_items:
       - image: images/HP-logo.png
         image_position: top
-        image_width: fifty
+        image_width: sixty
         content_align: center
         image_align: center
       - image: images/teslaenergy.png
