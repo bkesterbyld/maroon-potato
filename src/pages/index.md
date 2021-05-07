@@ -154,6 +154,7 @@ sections:
         image: images/2020-12-10_21-53-01.png
         image_position: left
         image_width: twenty-five
+        content_align: center
       - content: |
           I can work on higher level problems and tasks, things get done fast.
 
