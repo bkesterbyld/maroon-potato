@@ -144,7 +144,7 @@ sections:
     background_color: primary
     has_border: true
   - type: grid_section
-    title: Proven Technology
+    title: Proven In Mission Critical Enterprise Applications
     subtitle: ''
     grid_items:
       - image: images/HP-logo.png
