@@ -71,7 +71,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Distributed Backend
+      - title: No Code Data Prototyping
         title_align: left
         content: >
           Process data from different sources and serve it back out through edge
