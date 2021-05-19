@@ -16,20 +16,19 @@ sections:
           The project phase when your engineers spin up, program and connect
           databases is essentially a black box—you don't know what's happening
           and whether your requirements are being implemented correctly. Then
-          once your initial user feedback comes in, changes are slow and require
-          high communications overhead.
+          once initial user feedback comes in, changes are slow and require high
+          communications overhead.
 
 
           Above offers a no code cloud environment—as easy as a spreadsheet— for
           you to prototype data models and sophisticated logic for your ideas
-          without coding. As you create your data prototypes, developers
+          without coding. As you create data prototypes, developers
           automatically get an API, so they can get to work on the frontend
-          immediately. Above scales infinitely, so you can even test solutions
-          that involve heavy data processing like AI- and ML-based applications.
+          immediately.
 
 
           *   Quickly assemble powerful enterprise-class backend prototypes
-          without 
+          without any technical skills
 
 
           *   Test and iterate constantly without DevOps and backend engineering
@@ -40,8 +39,8 @@ sections:
           traditional integrations
 
 
-          *   Collaborate across the whole team around central yet secure
-          browser data views and traceable logic
+          *   Collaborate across the whole team around central browser data
+          views and traceable logic
         image: images/spm-data-prototyping.png
         media_position: right
         media_width: fifty
