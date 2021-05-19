@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     title: Multiparty
     subtitle: >-
-      Build intelligent new business processes above existing ERP, SaaS and
-      point solutions
+      Build real time, intelligent new business processes and anlaytics above
+      multi-party ERP, SaaS and point solutions
     background_color: primary
   - type: features_section
     features:
