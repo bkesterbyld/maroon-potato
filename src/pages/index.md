@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Data Aggregation & Management Cloud
+    title: Data Aggregation Cloud
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
