@@ -52,9 +52,10 @@ sections:
       - title: Collaborative and secure
         content: >
           Data sets managed in Above are visible and searchable without any
-          technical skills. And data sets can be replicated and kept in sync to
-          power multiple projects, dashboards and applications, with granular
-          browser and API access controls.
+          technical skills or need for specialized database access. And data
+          sets can be replicated and kept in sync to power multiple projects,
+          dashboards and applications, with granular browser and API access
+          controls.
         actions: []
         media_position: right
         media_width: thirty-three
