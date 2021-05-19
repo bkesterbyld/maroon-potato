@@ -94,7 +94,7 @@ sections:
         title_align: left
         content: >
           Aggregate disparate data into one environment—to make sense of it and
-          power fast, intelligent frontends
+          dirtectly power novel multiparty applications
         content_align: left
         actions:
           - label: Learn More
