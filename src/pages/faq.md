@@ -104,30 +104,6 @@ sections:
           With Above's approach, you can architect standard, edge, parallel and
           in-memory processing in the right ratios for your use case, goals and
           budget.
-      - title: How much does this cost?
-        subtitle: ''
-        title_align: left
-        content: >
-          The service will offer a generous free plan that should be able to
-          support small projects forever. We anticipate that graduating from
-          that will be a double-digit spend per month.
-
-
-          Our goal is to provide a stable and predictable base prices as a core
-          with consumption based pricing as an *option*. Like all developers,
-          we're tired of surprise computing bills or forgetting we had something
-          running. We're as confused as anybody by the myriad pricing schemes
-          from the big cloud providers. We'll go out of our way to remind you
-          that you have something running at Above. 
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
