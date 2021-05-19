@@ -41,7 +41,7 @@ sections:
           *   Inject AI and data science into new business processes
 
 
-          *   Prototype, hhip and iterate new solutions at light speed
+          *   Prototype, ship and iterate new solutions at light speed
         video_embed_html: ''
         media_position: left
         media_width: fifty
