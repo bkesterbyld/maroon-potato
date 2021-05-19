@@ -3,7 +3,7 @@ title: Digital Operations API
 excerpt: 'Get key ERP, marketing and other data in one reusable place'
 sections:
   - type: hero_section
-    title: Multiparty
+    title: Multiparty Applications
     subtitle: >-
       Build real time, intelligent new business processes and anlaytics above
       multi-party ERP, SaaS and point solutions
