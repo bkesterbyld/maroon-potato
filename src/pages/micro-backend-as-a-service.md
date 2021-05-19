@@ -14,35 +14,39 @@ sections:
         subtitle: >-
           Above provides a non-technical space for you to build sophisticated,
           scalable data models without coding
-        content: >
-          Above's global computing network give you an on demand backend service
-          that crunches and delivers data next to your users.  Above's
-          distributed computing technology takes care of data replications at
-          the field level, ensuring users everywhere see the same data
-          instantly.
+        content: >+
+          Getting a backend put together for new software products is time
+          consuming and expensive. Moreover, the project phase when your
+          engineers spin up, program and connect databases is essentially a
+          black box—you don't know what's happening and whether your
+          requirements are being implemented correctly. Then once your initial
+          user feedback comes in, changes are slow and require high
+          communications overhead. 
 
 
-          Above couples this network with [powerful computing options](/faq) to
-          assure the highest performance to your users regardless of the data
-          types, speeds and sizes in your application. And because Above is no
-          code, shipping new features out the door is both fast and easy.
+          Above offers a no code environment, as easy as a spreadsheet, for you
+          to prototype the data models and sophisticated logic for your ideas
+          without coding. As you work with Above, your developers automatically
+          get an API, so they can get to work on the frontend immediately. Above
+          scales infinitely, so you can even prototype solutions that involved
+          heavy data processing like AI- and ML-based applications. 
 
 
-          *   Quickly assemble powerful enterprise-class backends quickly
-          without having to learn anything
+          *   Quickly assemble powerful enterprise-class backend prototypes
+          quickly without having to learn anything
 
 
-          *   Iterate and release constantly without downtime or delay
+          *   Test and iterate constantly without DevOps and backend engineering
+          delay
 
 
           *   Manage data anywhere to comply with GDPR and emerging privacy
           regulations
 
 
-          *   Inherent storage and logic resiliency assures uptime
+          *   Everyone can view data and trace logic in a web browser, so it's
+          easy to collaborate across the whole team
 
-
-          *   Deliver the fastest data interactions with edge compute
         image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
