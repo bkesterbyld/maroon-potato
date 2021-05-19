@@ -111,21 +111,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Personal shopping
-        subtitle: ''
-        title_align: left
-        content: >-
-          Schedule and manage shopping list builds and personalized
-          collaboration with customers
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: Service appointments
         subtitle: ''
         title_align: left
