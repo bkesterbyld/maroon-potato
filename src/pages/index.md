@@ -42,9 +42,10 @@ sections:
       - title: Directly power apps with high performance logic processing
         subtitle: ''
         content: >
-          Parallel process data across the world next to both data sources and
-          user end points, killing latency issues for your solutions while
-          handling huge data sets and heavy loads effortlessly.
+          Above is a distributed, multi-cloud platform that parallel processes
+          data across the world next to both data sources and user end points,
+          killing latency issues for your solutions while handling huge data
+          sets and heavy loads effortlessly.
         actions: []
         image: images/speed5.png
         media_position: left
