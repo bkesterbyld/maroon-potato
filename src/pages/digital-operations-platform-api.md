@@ -121,21 +121,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Curbside pickup
-        subtitle: ''
-        title_align: left
-        content: >-
-          Manage inventory picks and coordinate in-person parking lot delivery
-          to customers
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: Personal shopping
         subtitle: ''
         title_align: left
