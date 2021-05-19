@@ -99,7 +99,9 @@ sections:
       - title: Dynamic pricing
         subtitle: ''
         title_align: left
-        content: 'Compare inventory, forecast, POS and other data to move more product'
+        content: >
+          Compare inventory, forecast, POS and other data from multiple sources
+          to move more product
         content_align: left
         actions: []
         actions_align: left
