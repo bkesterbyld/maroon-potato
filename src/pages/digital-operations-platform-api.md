@@ -51,6 +51,21 @@ sections:
     subtitle: Check out our library of rich examples and reusable solutions
     actions: []
     grid_items:
+      - title: Global inventory
+        subtitle: ''
+        title_align: left
+        content: >-
+          Mix WMS, POS, ERP, 3PL stocks into a constantly updated view of global
+          inventory across warehouses, stores and distributors
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: 360 customer view
         subtitle: ''
         title_align: center
@@ -159,21 +174,6 @@ sections:
         content: >-
           Setup an onsite store at customer locations and bill them upon
           consumption and use
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Global inventory
-        subtitle: ''
-        title_align: left
-        content: >-
-          Mix WMS, POS, ERP, 3PL stocks into a constantly updated view of global
-          inventory across warehouses, stores and distributors
         content_align: left
         actions: []
         actions_align: left
