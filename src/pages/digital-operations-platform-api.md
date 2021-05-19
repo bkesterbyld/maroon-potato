@@ -84,7 +84,9 @@ sections:
       - title: Reverse logistics
         subtitle: ''
         title_align: left
-        content: Manage customer returns with in-house and 3PL carriers
+        content: >
+          Manage customer returns with multiple parties across disparate part,
+          serial, RMA and other product identication schemes
         content_align: left
         actions: []
         actions_align: left
