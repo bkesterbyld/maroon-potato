@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Conceive and refine your requirements with less engineers
+      - title: Conceive and refine your products faster
         subtitle: >-
           Above provides a non-technical space for you to build sophisticated,
           scalable data models and APIs without coding
