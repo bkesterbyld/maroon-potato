@@ -10,7 +10,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Sync your frontend and back office operations
+      - title: Get everyone on the same page
         subtitle: >-
           A headless, cost-efficient approach to modernizing and extending your
           back office systems
