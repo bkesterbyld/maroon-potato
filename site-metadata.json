@@ -11,8 +11,8 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "For Developers",
-                "url": "/micro-backend-as-a-service",
+                "label": "For Digital Leaders",
+                "url": "/digital-operations-platform-api",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -21,8 +21,8 @@
                 "type": "action"
             },
             {
-                "label": "For Digital Leaders",
-                "url": "/digital-operations-platform-api",
+                "label": "For Software Product Managers",
+                "url": "/micro-backend-as-a-service",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",

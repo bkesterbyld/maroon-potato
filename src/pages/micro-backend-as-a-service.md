@@ -3,45 +3,46 @@ title: Features
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Distributed Backend
-    subtitle: for frontend and hardware developers
+    title: Data Prototyping
+    subtitle: for software product managers
     background_color: secondary
   - type: features_section
     features:
-      - title: Deliver fast user interactions at the edge
+      - title: Conceive and refine your products faster
         subtitle: >-
-          And ship faster with no code assembly of data models and business
-          logic
+          Above provides a non-technical space for to build sophisticated,
+          scalable data models and APIs without coding
         content: >
-          Above's global computing network give you an on demand backend service
-          that crunches and delivers data next to your users.  Above's
-          distributed computing technology takes care of data replications at
-          the field level, ensuring users everywhere see the same data
-          instantly.
+          The project phase when your engineers spin up, program and connect
+          databases is essentially a black box—you don't know what's happening
+          and whether your requirements are being implemented correctly. Then
+          once your initial user feedback comes in, changes are slow and require
+          high communications overhead.
 
 
-          Above couples this network with [powerful computing options](/faq) to
-          assure the highest performance to your users regardless of the data
-          types, speeds and sizes in your application. And because Above is no
-          code, shipping new features out the door is both fast and easy.
+          Above offers a no code cloud environment—as easy as a spreadsheet— for
+          you to prototype data models and sophisticated logic for your ideas
+          without coding. As you create your data prototypes, developers
+          automatically get an API, so they can get to work on the frontend
+          immediately. Above scales infinitely, so you can even test solutions
+          that involve heavy data processing like AI- and ML-based applications.
 
 
-          *   Quickly assemble powerful enterprise-class backends quickly
-          without having to learn anything
+          *   Quickly assemble powerful enterprise-class backend prototypes
+          without 
 
 
-          *   Iterate and release constantly without downtime or delay
+          *   Test and iterate constantly without DevOps and backend engineering
+          delay
 
 
-          *   Manage data anywhere to comply with GDPR and emerging privacy
-          regulations
+          *   Ingest data from existing sources with less complexity than
+          traditional integrations
 
 
-          *   Inherent storage and logic resiliency assures uptime
-
-
-          *   Deliver the fastest data interactions with edge compute
-        image: images/distributed-backend-cloud.png
+          *   Collaborate across the whole team around central yet secure
+          browser data views and traceable logic
+        image: images/spm-data-prototyping.png
         media_position: right
         media_width: fifty
     background_color: none

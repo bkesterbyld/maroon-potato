@@ -3,55 +3,69 @@ title: Digital Operations API
 excerpt: 'Get key ERP, marketing and other data in one reusable place'
 sections:
   - type: hero_section
-    title: Headless Back Office
+    title: Multiparty Applications
     subtitle: >-
-      Build intelligent new business processes above existing ERP, SaaS and
-      point solutions
+      Build real time, intelligent new business processes and anlaytics above
+      multi-party ERP, SaaS and point solutions
     background_color: primary
   - type: features_section
     features:
-      - title: Sync your frontend and back office operations
+      - title: Get everyone on the same page
         subtitle: >-
-          A headless, cost-efficient approach to modernizing and extending your
-          back office systems
+          Create a common, secure multiparty data environment that directly
+          powers novel applications
         content: >
-          Keeping your back office in real-time sync with your frontend
-          experiences and  platforms is a costly proposition as you add new
-          digital channels, suppliers and distributors. It often involves new
+          Keeping your back office in real-time sync with your partners and
+          stakeholdres is a costly proposition as you grow, add new digital
+          channels, and streamline your businesss. It often involves new
           infrastructure, systems integration and adding user seats to your ERP,
           CRM, WMS and vendor contracts. Above provides a no code, serverless
-          workspace to ingest, mix and serve key data from your back office
-          systems.
+          workspace to ingest, mix and serve key data from you and your
+          partner's key systems.
 
 
           It handles disparate data from anywhere in the world regardless of
           location or size. And it avoids the concurrency and resource
           contention problems that occur when running real time data operations
-          at scale across different SQL, NoSQL and object stores.
+          at scale across different systems and SQL, NoSQL and object stores.
 
 
-          *   Scale beyond your systems without infrastructure or new seat
-          licenses
+          *   Build new workflows and applications with partners that give you a
+          competitive edge
+
+
+          *   Scale beyond your existing systems without infrastructure or new
+          seat licenses
 
 
           *   Inject AI and data science into new business processes
 
 
-          *   Frontend developers and business work together to ship and iterate
-          fast
-
-
-          *   Directly power new interfaces and your existing commerce and DX
-          platforms
+          *   Prototype, ship and iterate new solutions at light speed
         video_embed_html: ''
         media_position: left
         media_width: fifty
-        image: images/digital-operations-API-jamstasck-backend-10.png
+        image: images/multiparty.png
     background_color: none
-  - title: What can you do with merged back office data?
+  - title: What can you do with centralized multiparty data?
     subtitle: Check out our library of rich examples and reusable solutions
     actions: []
     grid_items:
+      - title: Global inventory
+        subtitle: ''
+        title_align: left
+        content: >-
+          Mix WMS, POS, ERP, 3PL stocks into a constantly updated view of global
+          inventory across warehouses, stores and distributors
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: 360 customer view
         subtitle: ''
         title_align: center
@@ -67,54 +81,27 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title: Reverse logistics
+        subtitle: ''
+        title_align: left
+        content: >
+          Manage customer returns with multiple parties across disparate part,
+          serial, RMA and other product identication schemes
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: Dynamic pricing
         subtitle: ''
         title_align: left
-        content: 'Compare inventory, forecast, POS and other data to move more product'
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Virtual shopping
-        subtitle: ''
-        title_align: left
-        content: |
-          Power AR components on your site with backbone operations data
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Curbside pickup
-        subtitle: ''
-        title_align: left
-        content: >-
-          Manage inventory picks and coordinate in-person parking lot delivery
-          to customers
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Personal shopping
-        subtitle: ''
-        title_align: left
-        content: >-
-          Schedule and manage shopping list builds and personalized
-          collaboration with customers
+        content: >
+          Compare inventory, forecast, POS and other data from multiple sources
+          to move more product
         content_align: left
         actions: []
         actions_align: left
@@ -127,9 +114,9 @@ sections:
       - title: Service appointments
         subtitle: ''
         title_align: left
-        content: >-
+        content: >
           Enable customers to pick service windows and collaborate on help or
-          fix-it events
+          fix-it events with service execution vendors and contractors
         content_align: left
         actions: []
         actions_align: left
@@ -142,9 +129,9 @@ sections:
       - title: Auto replenishment
         subtitle: ''
         title_align: left
-        content: >-
-          Give customers the option to subscribe or auto-replenish their stock
-          of your products
+        content: >
+          Auto-replenish partner and customer stock of your products through
+          analysis of current inventory levels and demand signals
         content_align: left
         actions: []
         actions_align: left
@@ -169,40 +156,13 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Global inventory
-        subtitle: ''
-        title_align: left
-        content: >-
-          Mix WMS, POS, ERP, 3PL stocks into a constantly updated view of global
-          inventory across warehouses, stores and distributors
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: Stockout manager
         subtitle: ''
         title_align: left
-        content: >-
+        content: >
           Predict and understand stockouts while reserving to-be-produced
-          product for customers
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Reverse logistics
-        subtitle: ''
-        title_align: left
-        content: Manage customer returns with in-house and 3PL carriers
+          product for customers at outsourced manufacturers, assemblers and
+          supply chain partners
         content_align: left
         actions: []
         actions_align: left
@@ -216,21 +176,6 @@ sections:
         subtitle: ''
         title_align: left
         content: Track entitlements and manage warranty and refund processing
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Data science
-        subtitle: ''
-        title_align: left
-        content: >-
-          Give data engineers and scientists a synced copy of operational data,
-          or create a whole new mashup view for them
         content_align: left
         actions: []
         actions_align: left
