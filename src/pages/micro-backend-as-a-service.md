@@ -44,7 +44,7 @@ sections:
 
           *   Everyone can view data and trace logic in a web browser, so it's
           easy to collaborate across the whole team
-        image: images/distributed-backend-cloud.png
+        image: images/spm-data-prototyping.png
         media_position: right
         media_width: fifty
     background_color: none
