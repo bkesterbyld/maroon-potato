@@ -3,7 +3,7 @@ title: Features
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Distributed Backend
+    title: Data Prototyping
     subtitle: for frontend and hardware developers
     background_color: secondary
   - type: features_section
