@@ -116,7 +116,7 @@ sections:
     content: |
       Start prototyping something new today. No tech skills required!
     actions:
-      - label: Join the beta
+      - label: Learn More
         url: /general-enquiries
         style: primary
         has_icon: false
