@@ -96,7 +96,7 @@ sections:
         title_align: left
         content: >
           Prototype data models and logic requirements for your engineering team
-          and give them an API to power MVPs and market test solutions
+          and give them an API to power MVP and beta interfaces
         content_align: left
         actions:
           - label: Learn More
