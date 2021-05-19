@@ -113,9 +113,8 @@ sections:
     has_border: false
     background_color: secondary
   - title: See it in action
-    content: |+
-      We'd love to have you try Above for your work or side gig!
-
+    content: |
+      Start prototyping something new today. No tech skills required!
     actions:
       - label: Join the beta
         url: /general-enquiries
