@@ -159,9 +159,10 @@ sections:
       - title: Stockout manager
         subtitle: ''
         title_align: left
-        content: >-
+        content: >
           Predict and understand stockouts while reserving to-be-produced
-          product for customers
+          product for customers at outsourced manufacturers, assemblers and
+          supply chain partners
         content_align: left
         actions: []
         actions_align: left
