@@ -92,7 +92,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For enterprise digital leaders
-      - title: No Code Data Prototyping
+      - title: "No Code Data\_ Prototyping"
         title_align: left
         content: >
           Prototype data models and sets for your engineering team, and directly
