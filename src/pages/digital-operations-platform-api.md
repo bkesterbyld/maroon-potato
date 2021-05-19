@@ -47,7 +47,7 @@ sections:
         media_width: fifty
         image: images/multiparty.png
     background_color: none
-  - title: What can you do with merged back office data?
+  - title: What can you do with centralized multiparty data?
     subtitle: Check out our library of rich examples and reusable solutions
     actions: []
     grid_items:
