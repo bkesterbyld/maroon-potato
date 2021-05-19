@@ -13,7 +13,7 @@ sections:
           investment
         subtitle: >-
           Above provides a non-technical space for you to build sophisticated,
-          scalable data models without coding
+          scalable data models and APIs without coding
         content: >+
           Getting a backend put together for new software products is time
           consuming and expensive. Moreover, the project phase when your
