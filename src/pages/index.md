@@ -89,7 +89,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        subtitle: For frontend and hardware developers
+        subtitle: For developers
       - title: Headless Back Office
         title_align: left
         content: >
