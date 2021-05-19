@@ -5,9 +5,8 @@ sections:
     title: Data Aggregation & Management Cloud
     subtitle: ''
     content: >
-      Above receives, stores and processes disparate data from anywhere in the
-      world, enabling the next generation of multi-vendor and multi-party
-      analytics and applications.
+      Above ingests, stores and processes disparate data from anywhere in the
+      world, enabling the next generation of real time multi-party apps
     actions:
       - label: Learn More
         url: /general-enquiries
