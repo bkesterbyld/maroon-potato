@@ -8,7 +8,9 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Deliver fast user interactions at the edge
+      - title: >-
+          Conceive, test and refine your requirements with less engineering
+          investment
         subtitle: >-
           And ship faster with no code assembly of data models and business
           logic
