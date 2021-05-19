@@ -46,7 +46,7 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: fifty
-        image: images/digital-operations-API-jamstasck-backend-10.png
+        image: images/multiparty.png
     background_color: none
   - title: What can you do with merged back office data?
     subtitle: Check out our library of rich examples and reusable solutions
