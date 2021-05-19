@@ -90,7 +90,7 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For developers
-      - title: Headless Back Office
+      - title: Multiparty Applications
         title_align: left
         content: >
           Aggregate disparate data into one environment—to make sense of it and
