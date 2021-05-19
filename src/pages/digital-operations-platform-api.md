@@ -114,9 +114,9 @@ sections:
       - title: Service appointments
         subtitle: ''
         title_align: left
-        content: >-
+        content: >
           Enable customers to pick service windows and collaborate on help or
-          fix-it events
+          fix-it events with service execution vendors and contractors
         content_align: left
         actions: []
         actions_align: left
