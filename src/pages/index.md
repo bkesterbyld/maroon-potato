@@ -95,8 +95,8 @@ sections:
       - title: "No Code Data\_ Prototyping"
         title_align: left
         content: >
-          Prototype data models and sets for your engineering team, and directly
-          power MVPs and market test solutions
+          Prototype data models and logic requirements for your engineering team
+          and give them an API to power MVPs and market test solutions
         content_align: left
         actions:
           - label: Learn More
