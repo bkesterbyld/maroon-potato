@@ -32,8 +32,8 @@ sections:
         content: >
           Above unifies data models, storage and data processing logic into a
           single service and API—all setup in minutes with no code tools. Build
-          something new or tap your existing data sources via our flexible API
-          and pre-built integrations
+          something on tap your existing data sources via our flexible API and
+          pre-built integrations
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
@@ -42,10 +42,10 @@ sections:
       - title: Directly power apps with high performance logic processing
         subtitle: ''
         content: >
-          Above is a distributed, multi-cloud platform that parallel processes
-          data across the world next to both data sources and user end points.
-          This eliminates latency issues for your solutions while handling huge
-          data sets and heavy loads effortlessly.
+          Above runs a multi-cloud data center network that parallel processes
+          data  across the world next to both data sources and user end points.
+          This eliminates latency and concurrency issues for your solutions
+          while handling huge data sets effortlessly.
         actions: []
         image: images/speed5.png
         media_position: left
