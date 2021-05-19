@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: No Code Data Aggregation Cloud
+    title: Multiparty App Building Cloud
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
