@@ -15,34 +15,33 @@ sections:
           Create a common, secure multiparty data environment that directly
           powers novel applications
         content: >
-          Keeping your back office in real-time sync with your frontend
-          experiences and  platforms is a costly proposition as you add new
-          digital channels, suppliers and distributors. It often involves new
+          Keeping your back office in real-time sync with your partners and
+          stakeholdres is a costly proposition as you grow, add new digital
+          channels, and streamline your businesss. It often involves new
           infrastructure, systems integration and adding user seats to your ERP,
           CRM, WMS and vendor contracts. Above provides a no code, serverless
-          workspace to ingest, mix and serve key data from your back office
-          systems.
+          workspace to ingest, mix and serve key data from you and your
+          partner's key systems.
 
 
           It handles disparate data from anywhere in the world regardless of
           location or size. And it avoids the concurrency and resource
           contention problems that occur when running real time data operations
-          at scale across different SQL, NoSQL and object stores.
+          at scale across different systems and SQL, NoSQL and object stores.
 
 
-          *   Scale beyond your systems without infrastructure or new seat
-          licenses
+          *   Build new workflows and applications with partners that give you a
+          competitive edge
+
+
+          *   Scale beyond your existing systems without infrastructure or new
+          seat licenses
 
 
           *   Inject AI and data science into new business processes
 
 
-          *   Frontend developers and business work together to ship and iterate
-          fast
-
-
-          *   Directly power new interfaces and your existing commerce and DX
-          platforms
+          *   Prototype, hhip and iterate new solutions at light speed
         video_embed_html: ''
         media_position: left
         media_width: fifty
