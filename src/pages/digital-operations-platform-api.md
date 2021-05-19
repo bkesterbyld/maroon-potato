@@ -12,8 +12,8 @@ sections:
     features:
       - title: Get everyone on the same page
         subtitle: >-
-          A headless, cost-efficient approach to modernizing and extending your
-          back office systems
+          Create a common, secure multiparty data environment that directly
+          powers novel applications
         content: >
           Keeping your back office in real-time sync with your frontend
           experiences and  platforms is a costly proposition as you add new
