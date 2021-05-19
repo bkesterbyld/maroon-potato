@@ -10,7 +10,7 @@ sections:
     features:
       - title: Conceive and refine your products faster
         subtitle: >-
-          Above provides a non-technical space for you to build sophisticated,
+          Above provides a non-technical space for to build sophisticated,
           scalable data models and APIs without coding
         content: >
           Getting a backend put together for new software products is time
