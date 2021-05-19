@@ -11,7 +11,7 @@ sections:
       - title: Conceive and refine your products faster
         subtitle: >-
           Above provides a non-technical space for to build sophisticated,
-          scalable data models and APIs without coding
+          scalable data prototypes and APIs without coding
         content: >
           The project phase when your engineers spin up, program and connect
           databases is essentially a black box—you don't know what's happening
