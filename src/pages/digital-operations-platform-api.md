@@ -129,9 +129,9 @@ sections:
       - title: Auto replenishment
         subtitle: ''
         title_align: left
-        content: >-
-          Give customers the option to subscribe or auto-replenish their stock
-          of your products
+        content: >
+          Auto-replenish partner and customer stock of your products through
+          analysis of current inventory levels and demand signals
         content_align: left
         actions: []
         actions_align: left
