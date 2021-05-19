@@ -71,27 +71,6 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: No Code Data Prototyping
-        title_align: left
-        content: >
-          Prototype data models and sets for your engineering team, and directly
-          power MVPs and market test solutions
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /micro-backend-as-a-service
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            type: action
-        actions_align: left
-        image: images/jamstack-backend-api-3.png
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        subtitle: For software product managers
       - title: Multiparty Applications
         title_align: left
         content: >
@@ -113,6 +92,27 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For enterprise digital leaders
+      - title: No Code Data Prototyping
+        title_align: left
+        content: >
+          Prototype data models and sets for your engineering team, and directly
+          power MVPs and market test solutions
+        content_align: left
+        actions:
+          - label: Learn More
+            url: /micro-backend-as-a-service
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            type: action
+        actions_align: left
+        image: images/jamstack-backend-api-3.png
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        subtitle: For software product managers
       - title: Secure Data Exchange
         subtitle: For application owners
         title_align: left
