@@ -38,7 +38,7 @@ sections:
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: Aggregate and analyze real time data without coding
+        title: 'Aggregate, analyze and view real time data without coding'
       - title: 2X - 20X faster real time data processing
         subtitle: ''
         content: >
