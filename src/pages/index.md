@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Global Real Time Data Platform
+    title: Data Aggregation & Management Cloud
     subtitle: ''
     content: >
       Above receives, stores and processes disparate data from anywhere in the
