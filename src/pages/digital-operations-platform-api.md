@@ -185,22 +185,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Data science
-        subtitle: ''
-        title_align: left
-        content: >+
-          Fuse partner data into your data science operations and create new,
-          intelligent business processes
-
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: Product as a service
         subtitle: ''
         title_align: left
