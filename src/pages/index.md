@@ -39,7 +39,7 @@ sections:
         media_position: right
         media_width: fourty
         title: 'Aggregate, analyze and view real time data without coding'
-      - title: 2X - 20X faster real time data processing
+      - title: Directly power apps with high performance logic processing
         subtitle: ''
         content: >
           Parallel process data across the world next to both data sources and
