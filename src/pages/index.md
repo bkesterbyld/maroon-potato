@@ -74,8 +74,8 @@ sections:
       - title: No Code Data Prototyping
         title_align: left
         content: >
-          Process data from different sources and serve it back out through edge
-          endpoints next to your users
+          Prototype data models and sets for your engineering team, and directly
+          power MVPs and market test solutions
         content_align: left
         actions:
           - label: Learn More
