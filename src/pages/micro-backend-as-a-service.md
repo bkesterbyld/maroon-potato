@@ -12,8 +12,8 @@ sections:
           Conceive, test and refine your requirements with less engineering
           investment
         subtitle: >-
-          And ship faster with no code assembly of data models and business
-          logic
+          Above provides a non-technical space for you to build sophisticated,
+          scalable data models without coding
         content: >
           Above's global computing network give you an on demand backend service
           that crunches and delivers data next to your users.  Above's
