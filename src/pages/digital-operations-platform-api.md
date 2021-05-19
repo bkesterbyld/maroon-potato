@@ -198,9 +198,10 @@ sections:
       - title: Data science
         subtitle: ''
         title_align: left
-        content: >-
-          Give data engineers and scientists a synced copy of operational data,
-          or create a whole new mashup view for them
+        content: >+
+          Fuse partner data into your data science operations and create new,
+          intelligent business processes
+
         content_align: left
         actions: []
         actions_align: left
