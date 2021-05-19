@@ -4,7 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: Data Prototyping
-    subtitle: for frontend and hardware developers
+    subtitle: for software product managers
     background_color: secondary
   - type: features_section
     features:
