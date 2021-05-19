@@ -12,22 +12,22 @@ sections:
         subtitle: >-
           Above provides a non-technical space for you to build sophisticated,
           scalable data models and APIs without coding
-        content: >+
+        content: >
           Getting a backend put together for new software products is time
           consuming and expensive. Moreover, the project phase when your
           engineers spin up, program and connect databases is essentially a
           black box—you don't know what's happening and whether your
           requirements are being implemented correctly. Then once your initial
           user feedback comes in, changes are slow and require high
-          communications overhead. 
+          communications overhead.
 
 
-          Above offers a no code environment, as easy as a spreadsheet, for you
-          to prototype the data models and sophisticated logic for your ideas
-          without coding. As you work with Above, your developers automatically
-          get an API, so they can get to work on the frontend immediately. Above
+          Above offers a no code cloud environment—as easy as a spreadsheet— for
+          you to prototype data models and sophisticated logic for your ideas
+          without coding. As you work with Above, developers automatically get
+          an API, so they can get to work on the frontend immediately. Above
           scales infinitely, so you can even prototype solutions that involved
-          heavy data processing like AI- and ML-based applications. 
+          heavy data processing like AI- and ML-based applications.
 
 
           *   Quickly assemble powerful enterprise-class backend prototypes
@@ -38,13 +38,12 @@ sections:
           delay
 
 
-          *   Manage data anywhere to comply with GDPR and emerging privacy
-          regulations
+          *   Ingest data from existing sources with less complexity that
+          traditional integrations
 
 
           *   Everyone can view data and trace logic in a web browser, so it's
           easy to collaborate across the whole team
-
         image: images/distributed-backend-cloud.png
         media_position: right
         media_width: fifty
