@@ -169,7 +169,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/bae.png
+        image: images/bae2.png
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
