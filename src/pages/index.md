@@ -39,12 +39,13 @@ sections:
         media_position: right
         media_width: fourty
         title: 'Aggregate, analyze and view real time data without coding'
-      - title: 2X - 20X faster real time data processing
+      - title: Directly power apps with high performance logic processing
         subtitle: ''
         content: >
-          Parallel process data across the world next to both data sources and
-          user end points, killing latency issues for your solutions while
-          handling huge data sets and heavy loads effortlessly.
+          Above is a distributed, multi-cloud platform that parallel processes
+          data across the world next to both data sources and user end points,
+          killing latency issues for your solutions while handling huge data
+          sets and heavy loads effortlessly.
         actions: []
         image: images/speed5.png
         media_position: left
@@ -52,10 +53,9 @@ sections:
       - title: Collaborative and secure
         content: >
           Data sets managed in Above are visible and searchable without any
-          technical skills or need for specialized database access. And data
-          sets can be replicated and kept in sync to power multiple projects,
-          dashboards and applications, with granular browser and API access
-          controls.
+          technical skills or need for specialized database access. They can be
+          replicated and kept in sync to power multiple projects, dashboards and
+          applications, with granular browser and API access controls.
         actions: []
         media_position: right
         media_width: thirty-three
@@ -169,7 +169,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/bae.png
+        image: images/bae2.png
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
