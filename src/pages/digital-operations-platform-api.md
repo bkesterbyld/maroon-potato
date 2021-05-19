@@ -81,6 +81,19 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title: Reverse logistics
+        subtitle: ''
+        title_align: left
+        content: Manage customer returns with in-house and 3PL carriers
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: Dynamic pricing
         subtitle: ''
         title_align: left
@@ -189,19 +202,6 @@ sections:
         content: >-
           Predict and understand stockouts while reserving to-be-produced
           product for customers
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Reverse logistics
-        subtitle: ''
-        title_align: left
-        content: Manage customer returns with in-house and 3PL carriers
         content_align: left
         actions: []
         actions_align: left
