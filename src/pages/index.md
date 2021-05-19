@@ -72,8 +72,8 @@ sections:
       - title: Distributed Backend
         title_align: left
         content: >
-          Put data and logic at the edge to service endpoints at blistering
-          speed
+          Process data from different sources and serve it back out through edge
+          endpoints next to your users
         content_align: left
         actions:
           - label: Learn More
