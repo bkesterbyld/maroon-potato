@@ -13,37 +13,35 @@ sections:
           Above provides a non-technical space for to build sophisticated,
           scalable data models and APIs without coding
         content: >
-          Getting a backend put together for new software products is time
-          consuming and expensive. Moreover, the project phase when your
-          engineers spin up, program and connect databases is essentially a
-          black box—you don't know what's happening and whether your
-          requirements are being implemented correctly. Then once your initial
-          user feedback comes in, changes are slow and require high
-          communications overhead.
+          The project phase when your engineers spin up, program and connect
+          databases is essentially a black box—you don't know what's happening
+          and whether your requirements are being implemented correctly. Then
+          once your initial user feedback comes in, changes are slow and require
+          high communications overhead.
 
 
           Above offers a no code cloud environment—as easy as a spreadsheet— for
           you to prototype data models and sophisticated logic for your ideas
-          without coding. As you work with Above, developers automatically get
-          an API, so they can get to work on the frontend immediately. Above
-          scales infinitely, so you can even prototype solutions that involved
-          heavy data processing like AI- and ML-based applications.
+          without coding. As you create your data prototypes, developers
+          automatically get an API, so they can get to work on the frontend
+          immediately. Above scales infinitely, so you can even test solutions
+          that involve heavy data processing like AI- and ML-based applications.
 
 
           *   Quickly assemble powerful enterprise-class backend prototypes
-          quickly without having to learn anything
+          without 
 
 
           *   Test and iterate constantly without DevOps and backend engineering
           delay
 
 
-          *   Ingest data from existing sources with less complexity that
+          *   Ingest data from existing sources with less complexity than
           traditional integrations
 
 
-          *   Everyone can view data and trace logic in a web browser, so it's
-          easy to collaborate across the whole team
+          *   Collaborate across the whole team around central yet secure
+          browser data views and traceable logic
         image: images/spm-data-prototyping.png
         media_position: right
         media_width: fifty
