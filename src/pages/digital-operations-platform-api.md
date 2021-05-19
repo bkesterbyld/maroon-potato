@@ -3,7 +3,7 @@ title: Digital Operations API
 excerpt: 'Get key ERP, marketing and other data in one reusable place'
 sections:
   - type: hero_section
-    title: Headless Back Office
+    title: Multiparty
     subtitle: >-
       Build intelligent new business processes above existing ERP, SaaS and
       point solutions
