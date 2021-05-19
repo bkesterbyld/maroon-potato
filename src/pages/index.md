@@ -45,7 +45,7 @@ sections:
           Above runs a multi-cloud data center network that parallel processes
           data  across the world next to both data sources and user end points.
           This eliminates latency and concurrency issues for your solutions
-          while handling huge data sets and heavy loads effortlessly.
+          while handling huge data sets effortlessly.
         actions: []
         image: images/speed5.png
         media_position: left
