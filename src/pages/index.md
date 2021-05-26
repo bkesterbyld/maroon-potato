@@ -39,7 +39,9 @@ sections:
         media_position: right
         media_width: fourty
         title: 'Aggregate, analyze and view real time data without coding'
-      - title: Directly power apps with high performance logic processing
+      - title: >-
+          Directly power web, mobile and hardware interfaces with high
+          performance logic processing
         subtitle: ''
         content: >
           Above runs a multi-cloud data center network that parallel processes
