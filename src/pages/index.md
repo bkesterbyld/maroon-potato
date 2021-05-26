@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Multiparty App Building Cloud
+    title: Multiparty app building cloud
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
-      world, enabling a new generation of real time multi-party apps
+      world, enabling a new generation of real-time multiparty apps
     actions:
       - label: Learn More
         url: /general-enquiries
@@ -39,7 +39,9 @@ sections:
         media_position: right
         media_width: fourty
         title: 'Aggregate, analyze and view real time data without coding'
-      - title: Directly power apps with high performance logic processing
+      - title: >-
+          Directly power web, mobile and hardware interfaces with high
+          performance logic processing
         subtitle: ''
         content: >
           Above runs a multi-cloud data center network that parallel processes
@@ -50,7 +52,7 @@ sections:
         image: images/speed5.png
         media_position: left
         media_width: thirty-three
-      - title: Collaborative and secure
+      - title: Share data easily with granular views and API access
         content: >
           Data sets managed in Above are visible and searchable without any
           technical skills or need for specialized database access. They can be
