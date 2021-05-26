@@ -52,7 +52,7 @@ sections:
         image: images/speed5.png
         media_position: left
         media_width: thirty-three
-      - title: Collaborative and secure
+      - title: Share data easily with granular views and API access
         content: >
           Data sets managed in Above are visible and searchable without any
           technical skills or need for specialized database access. They can be
