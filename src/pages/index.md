@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Multiparty App Building Cloud
+    title: "Build\_ apps across disparate parties and data sources"
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
