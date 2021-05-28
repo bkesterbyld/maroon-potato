@@ -31,9 +31,9 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, storage and data processing logic into a
-          single service and API—all setup in minutes with no code tools. Build
-          something on tap of disparate data sources and securely collaborate
-          with vendors, partners and customers anywhere. 
+          single service—all setup in minutes with no code tools. Create new
+          real time analytics, workflows, dashboards and apps with little to no
+          technical resources.
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
