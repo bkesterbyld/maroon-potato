@@ -77,7 +77,7 @@ sections:
         title_align: left
         content: >
           Aggregate disparate data into one environment—to make sense of it and
-          dirtectly power novel multiparty applications
+          dirtectly power novel apps across business units and partners
         content_align: left
         actions:
           - label: Learn More
