@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
-      world, enabling a new generation of real-time composite applications
+      world, and automatically generates one or several API keys for your data.
     actions:
       - label: Learn More
         url: /general-enquiries
