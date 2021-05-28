@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
-      world and generates aggregations, table views and APIs.
+      world and generates aggregations, views and APIs.
     actions:
       - label: Learn More
         url: /general-enquiries
