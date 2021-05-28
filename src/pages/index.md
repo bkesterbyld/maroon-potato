@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Easily build real time apps above disparate data sources
+    title: Build real time apps above disparate data
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
