@@ -32,8 +32,8 @@ sections:
         content: >
           Above unifies data models, storage and data processing logic into a
           single service—all setup in minutes with no code tools. Create new
-          real time analytics and workflows quickly without complicated projects
-          or investments in infrastructure.
+          real time analytics and workflows quickly without large teams or
+          investments in infrastructure.
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
