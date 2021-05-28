@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Easily build real time apps above disparate data sources
+    title: Build real time apps above disparate data
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
@@ -77,7 +77,7 @@ sections:
         title_align: left
         content: >
           Aggregate disparate data into one environment—to make sense of it and
-          dirtectly power novel multiparty applications
+          dirtectly power novel apps across business units and partners
         content_align: left
         actions:
           - label: Learn More
