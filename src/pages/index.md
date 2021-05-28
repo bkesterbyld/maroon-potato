@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
-      world, enabling a new generation of real-time multiparty apps
+      world, enabling a new generation of real-time composite applications
     actions:
       - label: Learn More
         url: /general-enquiries
