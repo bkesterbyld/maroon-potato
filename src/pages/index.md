@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
-      world and generates API keys for your data.
+      world and generates APIs for your data
     actions:
       - label: Learn More
         url: /general-enquiries
