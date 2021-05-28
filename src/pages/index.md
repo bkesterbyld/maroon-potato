@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Build real time apps above disparate data
+    title: Build real time apps above any data source
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
-      world and generates APIs for your data
+      world and generates aggregations, views and APIs.
     actions:
       - label: Learn More
         url: /general-enquiries
