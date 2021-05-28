@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Multiparty app building cloud
+    title: Easily build real time apps above disparate data sources
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
-      world, enabling a new generation of real-time multiparty apps
+      world and generates APIs for your data
     actions:
       - label: Learn More
         url: /general-enquiries
@@ -31,9 +31,9 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, storage and data processing logic into a
-          single service and API—all setup in minutes with no code tools. Build
-          something on tap of disparate data sources and securely collaborate
-          with vendors, partners and customers anywhere. 
+          single service—all setup in minutes with no code tools. Create new
+          real time analytics and workflows quickly without large teams or
+          investments in infrastructure.
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
