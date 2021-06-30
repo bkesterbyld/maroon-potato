@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Build real time apps above far flung data sources
+    title: The low code cloud service for data in motion
     subtitle: ''
     content: >
-      Above ingests, stores and processes disparate data from anywhere in the
-      world and generates aggregations, views and APIs.
+      Above makes it easy to process, store and serve up real-time data to apps,
+      teams and partners—no coding skills required. 
     actions:
       - label: Learn More
         url: /general-enquiries
@@ -31,17 +31,17 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, storage and data processing logic into a
-          single service—all setup in minutes with no code tools. Create new
+          single service—all setup in minutes with low code tools. Create new
           real time analytics and workflows quickly without large teams or
           investments in infrastructure.
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: 'Aggregate, analyze and view real time data without coding'
+        title: 'Ingest, organize and analyze real time data without coding'
       - title: >-
           Directly power web, mobile and hardware interfaces with high
-          performance logic processing
+          performance business logic
         subtitle: ''
         content: >
           Above runs a multi-cloud data center network that parallel processes
