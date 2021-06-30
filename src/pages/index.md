@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The no code platform for data in motion
+    title: The no code cloud service for data in motion
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
