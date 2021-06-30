@@ -48,7 +48,7 @@ sections:
         image: images/speed5.png
         media_position: left
         media_width: thirty-three
-      - title: Syndicate data easily with granular views and bespoke APIs
+      - title: Data-centric
         content: >
           Data sets managed in Above can be replicated and shared with any party
           via role-based browser and API access you define. 
