@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The easiest way to create a data lake
+    title: The easiest way to create an intelligent data lake
     subtitle: ''
     content: >
       Above combines the capabilities of a both SQL and NoSQL databases with low
