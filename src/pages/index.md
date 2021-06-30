@@ -48,7 +48,7 @@ sections:
         image: images/speed5.png
         media_position: left
         media_width: thirty-three
-      - title: "Collaborative, data centric and\_ highly secure"
+      - title: Separates data from applications
         content: >
           Data sets managed in Above can be replicated and shared with any party
           or additional application via role-based browser and API access you
