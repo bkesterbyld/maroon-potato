@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: The low code cloud service for data in motion
+    title: The low code cloud data service
     subtitle: ''
     content: >
-      Above makes it easy to process, store and serve up real-time data to apps,
-      teams and partners—no coding skills required. 
+      Above makes it easy to process, store and serve up data to apps, teams and
+      partners—no coding skills required.
     actions:
       - label: Learn More
         url: /general-enquiries
@@ -36,13 +36,14 @@ sections:
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: 'Ingest, organize and serve real time data without coding'
+        title: Organize and serve real time data without coding
       - title: Run instant analytics and business logic
         subtitle: ''
         content: >
           Data can be analyzed as it streams into the service or on timers that
-          review aggregated data sets. You can also create low code business
-          logic to directly power mobile, web, hardware and other interfaces.
+          review data as it aggregates in Above's storage. You can also create
+          low code business logic to directly power any web, mobile, hardware or
+          systems interface.
         actions: []
         image: images/speed5.png
         media_position: left
