@@ -49,10 +49,8 @@ sections:
         media_width: thirty-three
       - title: Syndicate data easily with granular views and bespoke APIs
         content: >
-          Data sets managed in Above are visible and searchable without any
-          technical skills or need for specialized database access. They can be
-          replicated and kept in sync to power multiple projects, dashboards and
-          applications, with granular browser and API access controls.
+          Data sets managed in Above can be replicated and shared with any party
+          via role-based browser and API access you define. 
         actions: []
         media_position: right
         media_width: thirty-three
