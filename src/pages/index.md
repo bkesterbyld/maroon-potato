@@ -39,7 +39,7 @@ sections:
         media_position: right
         media_width: fourty
         title: Nothing to learn
-      - title: Highly reliable and performant at scale
+      - title: High performance
         subtitle: ''
         content: >
           Data can be analyzed as it streams into the service or on timers that
