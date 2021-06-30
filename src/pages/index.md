@@ -5,9 +5,9 @@ sections:
     title: The easiest way to create a data lake
     subtitle: ''
     content: >
-      Above combines the capabilities of a relational database with low code
-      processing logic to enable anyone to create a smart, enterprise-grade
-      cloud data lake for apps, people and 3rd parties
+      Above combines the capabilities of a both SQL and NoSQL databases with low
+      code processing logic to enable anyone to create a intelligent,
+      enterprise-grade cloud data lake
     actions:
       - label: Learn More
         url: /general-enquiries
