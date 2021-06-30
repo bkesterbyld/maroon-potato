@@ -30,34 +30,27 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data models, storage and data processing logic into a
-          single service—all setup in minutes with low code tools. Create new
-          real time analytics and workflows quickly without large teams or
-          investments in infrastructure.
+          Above unifies event-based data processing, storage, and dynamic APIs
+          into a single service—all setup in minutes with low code tools.
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: 'Ingest, organize and analyze real time data without coding'
-      - title: >-
-          Directly power web, mobile and hardware interfaces with high
-          performance business logic
+        title: 'Ingest, organize and serve real time data without coding'
+      - title: Run instant analytics and business logic
         subtitle: ''
         content: >
-          Above runs a multi-cloud data center network that parallel processes
-          data  across the world next to both data sources and user end points.
-          This eliminates latency and concurrency issues for your solutions
-          while handling huge data sets effortlessly.
+          Data can be analyzed as it streams into the service or on timers that
+          review aggregated data sets. You can also create low code business
+          logic to directly power mobile, web, hardware and other interfaces.
         actions: []
         image: images/speed5.png
         media_position: left
         media_width: thirty-three
-      - title: Syndicate data easily with granular views and API access
+      - title: Syndicate data easily with granular views and bespoke APIs
         content: >
-          Data sets managed in Above are visible and searchable without any
-          technical skills or need for specialized database access. They can be
-          replicated and kept in sync to power multiple projects, dashboards and
-          applications, with granular browser and API access controls.
+          Data sets managed in Above can be replicated and shared with any party
+          via role-based browser and API access you define. 
         actions: []
         media_position: right
         media_width: thirty-three
