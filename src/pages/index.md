@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'The easiest way to model, process and serve data'
+    title: The easiest way to create a data lake
     subtitle: ''
     content: >
       Above combines the capabilities of a relational database with low code
