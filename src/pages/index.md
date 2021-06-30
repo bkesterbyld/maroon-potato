@@ -37,7 +37,7 @@ sections:
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: Organize and serve real time data without coding
+        title: Organize and serve data without coding
       - title: Run instant analytics and business logic
         subtitle: ''
         content: >
