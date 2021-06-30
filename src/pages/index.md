@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Build real time apps above far flung data sources
+    title: The no code platform for your kinetic data
     subtitle: ''
     content: >
       Above ingests, stores and processes disparate data from anywhere in the
