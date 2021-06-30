@@ -2,9 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: >-
-      The easiest way to create a cloud data lake for apps, people and 3rd
-      parties
+    title: The easiest way to create a cloud data lake
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
