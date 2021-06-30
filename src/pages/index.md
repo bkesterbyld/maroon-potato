@@ -6,8 +6,8 @@ sections:
     subtitle: ''
     content: >
       Above combines the capabilities of a relational database with low code
-      processing logic to enable anyone to create an enterprise-grade cloud
-      backend for their project.
+      processing logic to enable anyone to create an enterprise-grade cloud data
+      lake for apps, people and 3rd parties
     actions:
       - label: Learn More
         url: /general-enquiries
