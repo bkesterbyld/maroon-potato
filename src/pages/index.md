@@ -31,7 +31,7 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, storage and data processing logic into a
-          single service—all setup in minutes with no code tools. Create new
+          single service—all setup in minutes with low code tools. Create new
           real time analytics and workflows quickly without large teams or
           investments in infrastructure.
         actions: []
