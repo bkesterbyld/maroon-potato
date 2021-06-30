@@ -42,8 +42,8 @@ sections:
       - title: High performance
         subtitle: ''
         content: >
-          Above is globally distributed and can handle real time processing of
-          massive data sets. 
+          Above is globally distributed and can handle ingest, analysis, and
+          processing of large data sets.
         actions: []
         image: images/speed5.png
         media_position: left
