@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'The easiest way to model, process and serve data'
+    title: The easiest way to create a cloud data lake
     subtitle: ''
     content: >
-      Above combines the capabilities of a relational database with low code
-      processing logic to enable anyone to create an enterprise-grade cloud
-      backend for their project.
+      Above combines the capabilities of SQL and NoSQL databases with low code
+      processing logic to enable anyone to create a smart, enterprise-grade data
+      lake for apps, people and 3rd parties
     actions:
       - label: Learn More
         url: /general-enquiries
@@ -48,7 +48,7 @@ sections:
         image: images/speed5.png
         media_position: left
         media_width: thirty-three
-      - title: "Collaborative, data centric and\_ highly secure"
+      - title: Separates data from applications
         content: >
           Data sets managed in Above can be replicated and shared with any party
           or additional application via role-based browser and API access you
