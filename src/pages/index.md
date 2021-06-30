@@ -6,8 +6,8 @@ sections:
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
-      processing logic to enable anyone to create a smart, enterprise-grade
-      cloud data lake—delivered as a unified, simple cloud service
+      processing logic to enable anyone to create a smart, enterprise-grade data
+      lake for apps, people and 3rd parties
     actions:
       - label: Learn More
         url: /general-enquiries
