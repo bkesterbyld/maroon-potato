@@ -5,8 +5,9 @@ sections:
     title: 'The easiest way to model, process and serve data'
     subtitle: ''
     content: >
-      Above makes it easy to process, store and serve up data to apps, teams and
-      partners—no coding skills required.
+      Above combines the features of a relational database with low code
+      processing logic to enable virtually anyone to create an enterprise-grade
+      backend for their project. 
     actions:
       - label: Learn More
         url: /general-enquiries
