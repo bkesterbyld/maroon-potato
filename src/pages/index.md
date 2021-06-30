@@ -5,8 +5,8 @@ sections:
     title: The no code cloud service for data in motion
     subtitle: ''
     content: >
-      Above makes it easy to build apps that organize, make sense and respond to
-      your real time data. 
+      Above makes it easy to process, store and serve up real-time data to apps,
+      teams and partners—no coding skills required. 
     actions:
       - label: Learn More
         url: /general-enquiries
