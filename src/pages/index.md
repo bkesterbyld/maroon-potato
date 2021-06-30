@@ -38,7 +38,7 @@ sections:
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: 'Aggregate, analyze and view real time data without coding'
+        title: 'Ingest, organize and analyze real time data without coding'
       - title: >-
           Directly power web, mobile and hardware interfaces with high
           performance logic processing
