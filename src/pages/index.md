@@ -5,7 +5,7 @@ sections:
     title: 'The easiest way to model, process and serve data'
     subtitle: ''
     content: >
-      Above combines the features of a relational database with low code
+      Above combines the capabilities of a relational database with low code
       processing logic to enable virtually anyone to create an enterprise-grade
       cloud backend for their project.
     actions:
