@@ -47,7 +47,7 @@ sections:
         image: images/speed5.png
         media_position: left
         media_width: thirty-three
-      - title: Syndicate data easily with granular views and API access
+      - title: Syndicate data easily with granular views and bespoke APIs
         content: >
           Data sets managed in Above are visible and searchable without any
           technical skills or need for specialized database access. They can be
