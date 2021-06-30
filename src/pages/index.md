@@ -5,8 +5,8 @@ sections:
     title: The low code cloud data service
     subtitle: ''
     content: >
-      Above makes it easy to process, store and serve up real-time data to apps,
-      teams and partners—no coding skills required. 
+      Above makes it easy to process, store and serve up data to apps, teams and
+      partners—no coding skills required.
     actions:
       - label: Learn More
         url: /general-enquiries
