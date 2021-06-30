@@ -39,7 +39,7 @@ sections:
         media_position: right
         media_width: fourty
         title: Organize and serve data without coding
-      - title: Run instant analytics and business logic
+      - title: Grow from concept to global-scale system without worries
         subtitle: ''
         content: >
           Data can be analyzed as it streams into the service or on timers that
