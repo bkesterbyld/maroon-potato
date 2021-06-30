@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The low code cloud data service
+    title: 'The easiest way to model, process and serve data'
     subtitle: ''
     content: >
       Above makes it easy to process, store and serve up data to apps, teams and
