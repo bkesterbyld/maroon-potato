@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The easiest way to create a cloud data lake
+    title: Operational cloud data lake
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
