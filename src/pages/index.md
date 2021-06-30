@@ -33,7 +33,7 @@ sections:
         content: >
           Above unifies data models, event-based data processing, storage, and
           dynamic bespoke APIs into a single service—all setup in minutes with
-          low code tools.
+          low code tools
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
