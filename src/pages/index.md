@@ -38,7 +38,7 @@ sections:
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: Organize and serve data without coding
+        title: Nothing to learn
       - title: Highly reliable and performant at scale
         subtitle: ''
         content: >
