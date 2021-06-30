@@ -42,10 +42,8 @@ sections:
       - title: High performance
         subtitle: ''
         content: >
-          Data can be analyzed as it streams into the service or on timers that
-          review data as it aggregates in Above's storage. You can also create
-          low code business logic to directly power any web, mobile, hardware or
-          systems interface.
+          Above is globally distributed and can handle real time processing of
+          massive data sets. 
         actions: []
         image: images/speed5.png
         media_position: left
