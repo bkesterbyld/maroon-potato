@@ -5,8 +5,8 @@ sections:
     title: The no code cloud service for data in motion
     subtitle: ''
     content: >
-      Above ingests, stores and processes disparate data from anywhere in the
-      world and generates aggregations, views and APIs.
+      Above makes it easy to build apps that organize, make sense and respond to
+      your real time data. 
     actions:
       - label: Learn More
         url: /general-enquiries
