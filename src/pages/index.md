@@ -51,7 +51,8 @@ sections:
       - title: Data-centric
         content: >
           Data sets managed in Above can be replicated and shared with any party
-          via role-based browser and API access you define. 
+          or additional application via role-based browser and API access you
+          define.
         actions: []
         media_position: right
         media_width: thirty-three
