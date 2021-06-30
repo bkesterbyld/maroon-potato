@@ -7,7 +7,7 @@ sections:
     content: >
       Above combines the features of a relational database with low code
       processing logic to enable virtually anyone to create an enterprise-grade
-      backend for their project. 
+      cloud backend for their project.
     actions:
       - label: Learn More
         url: /general-enquiries
