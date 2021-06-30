@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The no code cloud service for data in motion
+    title: The low code cloud service for data in motion
     subtitle: ''
     content: >
       Above makes it easy to process, store and serve up real-time data to apps,
