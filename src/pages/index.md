@@ -30,10 +30,8 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data models, storage and data processing logic into a
-          single service—all setup in minutes with low code tools. Create new
-          real time analytics and workflows quickly without large teams or
-          investments in infrastructure.
+          Above unifies event-based data processing, storage, and dynamic APIs
+          into a single service—all setup in minutes with low code tools.
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
