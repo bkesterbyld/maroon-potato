@@ -41,7 +41,7 @@ sections:
         title: 'Ingest, organize and analyze real time data without coding'
       - title: >-
           Directly power web, mobile and hardware interfaces with high
-          performance logic processing
+          performance business logic
         subtitle: ''
         content: >
           Above runs a multi-cloud data center network that parallel processes
