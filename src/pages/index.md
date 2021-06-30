@@ -37,7 +37,7 @@ sections:
         media_position: right
         media_width: fourty
         title: 'Ingest, organize and serve real time data without coding'
-      - title: Run real time analytics and business logic with almost zero latency
+      - title: Run instant analytics and business logic
         subtitle: ''
         content: >
           Above runs a multi-cloud data center network that parallel processes
