@@ -40,10 +40,9 @@ sections:
       - title: Run instant analytics and business logic
         subtitle: ''
         content: >
-          Above runs a multi-cloud data center network that parallel processes
-          data  across the world next to both data sources and user end points.
-          This eliminates latency and concurrency issues for your solutions
-          while handling huge data sets effortlessly.
+          Data can be analyzed as it streams into the service or on timers that
+          review aggregated data sets. You can also create low code business
+          logic to directly power mobile, web, hardware and other interfaces.
         actions: []
         image: images/speed5.png
         media_position: left
