@@ -2,11 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: The low code cloud data service
+    title: 'The easiest way to model, process and serve data'
     subtitle: ''
     content: >
-      Above makes it easy to process, store and serve up data to apps, teams and
-      partners—no coding skills required.
+      Above combines the capabilities of a relational database with low code
+      processing logic to enable anyone to create an enterprise-grade cloud
+      backend for their project.
     actions:
       - label: Learn More
         url: /general-enquiries
@@ -30,28 +31,28 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies event-based data processing, storage, and dynamic APIs
-          into a single service—all setup in minutes with low code tools.
+          Above unifies data models, event-based data processing, storage, and
+          dynamic bespoke APIs into a single service—all setup in minutes with
+          low code tools.
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: Organize and serve real time data without coding
-      - title: Run instant analytics and business logic
+        title: Nothing to learn
+      - title: High performance
         subtitle: ''
         content: >
-          Data can be analyzed as it streams into the service or on timers that
-          review data as it aggregates in Above's storage. You can also create
-          low code business logic to directly power any web, mobile, hardware or
-          systems interface.
+          Above is globally distributed and can handle real time processing of
+          massive data sets. 
         actions: []
         image: images/speed5.png
         media_position: left
         media_width: thirty-three
-      - title: Syndicate data easily with granular views and bespoke APIs
+      - title: "Collaborative, data centric and\_ highly secure"
         content: >
           Data sets managed in Above can be replicated and shared with any party
-          via role-based browser and API access you define. 
+          or additional application via role-based browser and API access you
+          define.
         actions: []
         media_position: right
         media_width: thirty-three
