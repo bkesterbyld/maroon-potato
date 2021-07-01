@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: The easiest way to create a cloud data lake
+    title: Low code cloud data lakehouse
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
-      processing logic to enable anyone to create a smart, enterprise-grade data
-      lake for apps, people and 3rd parties
+      processing logic to enable anyone to create a smart operational data lake
+      for apps, people and 3rd parties
     actions:
       - label: Learn More
         url: /general-enquiries
@@ -33,7 +33,7 @@ sections:
         content: >
           Above unifies data models, event-based data processing, storage, and
           dynamic bespoke APIs into a single service—all setup in minutes with
-          low code tools.
+          low code tools
         actions: []
         image: images/jamstack-backend-2.png
         media_position: right
@@ -42,17 +42,16 @@ sections:
       - title: High performance
         subtitle: ''
         content: >
-          Above is globally distributed and can handle real time processing of
-          massive data sets. 
+          Above is globally distributed and can handle ingest, analysis, and
+          processing of large data sets
         actions: []
         image: images/speed5.png
         media_position: left
         media_width: thirty-three
       - title: Separates data from applications
         content: >
-          Data sets managed in Above can be replicated and shared with any party
-          or additional application via role-based browser and API access you
-          define.
+          Data sets can serve multiple applications and also be replicated with
+          role-based browser and API access for external parties
         actions: []
         media_position: right
         media_width: thirty-three
