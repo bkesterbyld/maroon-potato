@@ -7,8 +7,8 @@ sections:
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
       processing logic. It enables anyone to create an intelligent operational
-      data lake to drive app development and secure data sharing with any
-      party. 
+      data lake for analytics, app development and secure data sharing with 3rd
+      parties.
     actions:
       - label: Learn More
         url: /general-enquiries
@@ -40,7 +40,7 @@ sections:
         media_position: right
         media_width: fourty
         title: 'Nothing to learn, usable by anyone'
-      - title: High performance to power both analytics and real time apps
+      - title: Scalable native analytics and business logic
         subtitle: ''
         content: >
           Above is globally distributed and can handle ingest, analysis, and
