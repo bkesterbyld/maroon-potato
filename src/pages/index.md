@@ -62,7 +62,7 @@ sections:
         image: images/separate.png
     feature_padding_vert: large
     align: right
-    background_color: primary
+    background_color: none
     has_border: true
     padding_top: small
   - type: grid_section
