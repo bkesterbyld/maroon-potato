@@ -7,7 +7,7 @@ sections:
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
       processing logic to enable anyone to create a smart operational data lake
-      for apps, people and 3rd parties
+      to power apps and share data with people and 3rd parties
     actions:
       - label: Learn More
         url: /general-enquiries
