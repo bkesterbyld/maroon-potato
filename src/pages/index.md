@@ -38,7 +38,7 @@ sections:
         actions: []
         image: images/anyone.png
         media_position: right
-        media_width: fourty
+        media_width: fifty
         title: 'Nothing to learn, usable by anyone'
       - title: Scalable native analytics and business logic
         subtitle: ''
