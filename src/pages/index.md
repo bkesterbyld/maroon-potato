@@ -6,8 +6,9 @@ sections:
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
-      processing logic to enable anyone to create a smart operational data lake
-      to power apps and share data with people and 3rd parties
+      processing logic. It enables anyone to create an intelligent operational
+      data lake to drive app development and secure data sharing with any
+      party. 
     actions:
       - label: Learn More
         url: /general-enquiries
