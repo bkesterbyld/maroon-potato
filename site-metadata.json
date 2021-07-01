@@ -3,7 +3,7 @@
     "layout": "full-width",
     "style": "bold",
     "palette": "blue",
-    "mode": "light",
+    "mode": "dark",
     "base_font": "sans-serif",
     "header": {
         "title": "Above Computing",
