@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: Operational cloud data lake
+    title: Smart Cloud Datastore
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
-      processing logic to enable anyone to create a smart operational data store
-      for apps, people and 3rd parties
+      processing logic to enable anyone to create a smart operational data lake
+      to power apps and share data with people and 3rd parties
     actions:
       - label: Learn More
         url: /general-enquiries
@@ -32,7 +32,7 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, data processing, storage, and automatic
-          bespoke APIs into a single service—all setup in minutes with low code
+          unique APIs into a single service—all setup in minutes with low code
           tools
         actions: []
         image: images/jamstack-backend-2.png
@@ -43,7 +43,7 @@ sections:
         subtitle: ''
         content: >
           Above is globally distributed and can handle ingest, analysis, and
-          processing of large data sets while simultaneously handling busines
+          processing of large data sets while simultaneously handling business
           logic for applications
         actions: []
         image: images/speed5.png
@@ -72,7 +72,7 @@ sections:
         title_align: left
         content: >
           Aggregate disparate data into one environment—to make sense of it and
-          dirtectly power novel apps across business units and partners
+          directly power novel apps across business units and partners
         content_align: left
         actions:
           - label: Learn More
