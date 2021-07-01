@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Operational cloud data lake
+    title: Smart cloud data store
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
