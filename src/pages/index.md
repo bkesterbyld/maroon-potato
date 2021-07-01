@@ -43,7 +43,8 @@ sections:
         subtitle: ''
         content: >
           Above is globally distributed and can handle ingest, analysis, and
-          processing of large data sets
+          processing of large data sets while simultaneously handling busines
+          logic for applications
         actions: []
         image: images/speed5.png
         media_position: left
