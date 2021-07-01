@@ -56,7 +56,7 @@ sections:
           role-based browser and API access for external parties
         actions: []
         media_position: right
-        media_width: thirty-three
+        media_width: fifty
         align: right
         type: feature
         image: images/separate.png
