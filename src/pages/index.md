@@ -31,7 +31,7 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data models, data processing, storage, and dynamic
+          Above unifies data models, data processing, storage, and automatic
           bespoke APIs into a single service—all setup in minutes with low code
           tools
         actions: []
