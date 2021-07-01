@@ -66,30 +66,9 @@ sections:
     has_border: true
     padding_top: small
   - type: grid_section
-    title: Solutions
+    title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Multiparty Applications
-        title_align: left
-        content: >
-          Aggregate disparate data into one environment—to make sense of it and
-          directly power novel apps across business units and partners
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /digital-operations-platform-api
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            type: action
-        actions_align: left
-        image: images/digital-operations-API-3.png
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        subtitle: For enterprise digital leaders
       - title: "No Code Data\_ Prototyping"
         title_align: left
         content: >
@@ -111,6 +90,27 @@ sections:
         image_align: center
         image_has_padding: true
         subtitle: For software product managers
+      - title: Multiparty Applications
+        title_align: left
+        content: >
+          Aggregate disparate data into one environment—to make sense of it and
+          directly power novel apps across business units and partners
+        content_align: left
+        actions:
+          - label: Learn More
+            url: /digital-operations-platform-api
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            type: action
+        actions_align: left
+        image: images/digital-operations-API-3.png
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        subtitle: For enterprise digital leaders
       - title: Secure Data Exchange
         subtitle: For application owners
         title_align: left
