@@ -50,9 +50,8 @@ sections:
         media_width: thirty-three
       - title: Separates data from applications
         content: >
-          Data sets managed in Above can be replicated and shared with any party
-          or additional application via role-based browser and API access you
-          define.
+          Data sets can serve multiple applications and also be replicated with
+          role-based browser and API access for external parties
         actions: []
         media_position: right
         media_width: thirty-three
