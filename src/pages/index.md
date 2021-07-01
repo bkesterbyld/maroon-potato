@@ -49,7 +49,7 @@ sections:
         actions: []
         image: images/charming-thyme.png
         media_position: left
-        media_width: fourty
+        media_width: fifty
       - title: Separates data from applications
         content: >
           Data sets can serve multiple applications and also be replicated with
