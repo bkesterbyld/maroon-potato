@@ -39,7 +39,7 @@ sections:
         media_position: right
         media_width: fourty
         title: Nothing to learn
-      - title: High performance
+      - title: High performance to power both analytics and real time apps
         subtitle: ''
         content: >
           Above is globally distributed and can handle ingest, analysis, and
