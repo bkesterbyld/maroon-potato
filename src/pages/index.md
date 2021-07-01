@@ -36,7 +36,7 @@ sections:
           unique APIs into a single service—all setup in minutes with low code
           tools
         actions: []
-        image: images/anyone.png
+        image: images/anyone2.png
         media_position: right
         media_width: fifty
         title: 'Nothing to learn, usable by anyone'
