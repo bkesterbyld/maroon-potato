@@ -2,7 +2,7 @@
     "description": "Distributed Data Management API",
     "layout": "full-width",
     "style": "bold",
-    "palette": "gray",
+    "palette": "green",
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
