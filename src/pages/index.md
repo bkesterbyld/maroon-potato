@@ -142,6 +142,7 @@ sections:
     align: center
     background_color: primary
     has_border: true
+    background_image: images/gradient-above-lower-1.png
   - type: grid_section
     title: Proven In Mission Critical Projects
     subtitle: ''
