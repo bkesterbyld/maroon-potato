@@ -47,7 +47,7 @@ sections:
           sets while simultaneously handling low-latency business logic for
           applications
         actions: []
-        image: images/speed5.png
+        image: images/logic.png
         media_position: left
         media_width: thirty-three
       - title: Separates data from applications
