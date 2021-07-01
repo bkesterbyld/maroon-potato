@@ -47,7 +47,7 @@ sections:
           sets while simultaneously handling low-latency business logic for
           applications
         actions: []
-        image: images/logic.png
+        image: images/charming-thyme.png
         media_position: left
         media_width: thirty-three
       - title: Separates data from applications
