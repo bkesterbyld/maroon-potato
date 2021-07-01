@@ -7,7 +7,7 @@ sections:
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
       processing logic. It enables anyone to create an intelligent operational
-      data lake for analytics, app development and secure data sharing with 3rd
+      data lake for app development, analytics and secure data sharing with 3rd
       parties.
     actions:
       - label: Learn More
@@ -18,14 +18,14 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: primary
     has_border: false
-    background_image_opacity: 20
+    background_image_opacity: 100
     background_image_position: center center
     background_image_size: auto
     video_embed_html: ''
     background_image_repeat: no-repeat
-    background_image: images/worldfaster.png
+    background_image: images/gradient-above-4.png
   - type: features_section
     title: ''
     subtitle: ''
@@ -36,33 +36,33 @@ sections:
           unique APIs into a single service—all setup in minutes with low code
           tools
         actions: []
-        image: images/jamstack-backend-2.png
+        image: images/anyone2.png
         media_position: right
-        media_width: fourty
+        media_width: fifty
         title: 'Nothing to learn, usable by anyone'
       - title: Scalable native analytics and business logic
         subtitle: ''
         content: >
-          Above is globally distributed and can handle ingest, analysis, and
-          processing of large data sets while simultaneously handling business
-          logic for applications
+          Above is globally distributed to run real time analytics on large data
+          sets while simultaneously handling low-latency business logic for
+          applications
         actions: []
-        image: images/speed5.png
+        image: images/charming-thyme.png
         media_position: left
-        media_width: thirty-three
+        media_width: fourty
       - title: Separates data from applications
         content: >
           Data sets can serve multiple applications and also be replicated with
           role-based browser and API access for external parties
         actions: []
         media_position: right
-        media_width: thirty-three
+        media_width: fifty
         align: right
         type: feature
-        image: images/secure2.png
+        image: images/separate.png
     feature_padding_vert: large
     align: right
-    background_color: secondary
+    background_color: none
     has_border: true
     padding_top: small
   - type: grid_section
@@ -142,6 +142,7 @@ sections:
     align: center
     background_color: primary
     has_border: true
+    background_image: images/gradient-above-lower-1.png
   - type: grid_section
     title: Proven In Mission Critical Projects
     subtitle: ''
