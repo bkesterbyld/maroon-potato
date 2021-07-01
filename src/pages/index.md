@@ -43,8 +43,9 @@ sections:
       - title: Scalable native analytics and business logic
         subtitle: ''
         content: >
-          Above is globally distributed and can ingest and process large data
-          sets while simultaneously handling business logic for applications
+          Above is globally distributed to run real time analytics on large data
+          sets while simultaneously handling low-latency business logic for
+          applications
         actions: []
         image: images/speed5.png
         media_position: left
