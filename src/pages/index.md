@@ -7,7 +7,7 @@ sections:
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
       processing logic. It enables anyone to create an intelligent operational
-      data lake for analytics, app development and secure data sharing with 3rd
+      data lake for app development, analytics and secure data sharing with 3rd
       parties.
     actions:
       - label: Learn More
