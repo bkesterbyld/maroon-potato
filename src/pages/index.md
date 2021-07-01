@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Low code cloud data lakehouse
+    title: Operational cloud data lake
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
@@ -38,7 +38,7 @@ sections:
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: Nothing to learn
+        title: 'Nothing to learn, usable by anyone'
       - title: High performance to power both analytics and real time apps
         subtitle: ''
         content: >
