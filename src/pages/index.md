@@ -38,7 +38,7 @@ sections:
         image: images/jamstack-backend-2.png
         media_position: right
         media_width: fourty
-        title: Nothing to learn
+        title: 'Nothing to learn, usable by anyone'
       - title: High performance to power both analytics and real time apps
         subtitle: ''
         content: >
