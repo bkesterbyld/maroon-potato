@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Low code cloud data lakehouse
+    title: Operational cloud data lake
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
