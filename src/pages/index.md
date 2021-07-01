@@ -59,7 +59,7 @@ sections:
         media_width: thirty-three
         align: right
         type: feature
-        image: images/secure2.png
+        image: images/separate.png
     feature_padding_vert: large
     align: right
     background_color: secondary
