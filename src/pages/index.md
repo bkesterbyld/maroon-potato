@@ -187,5 +187,7 @@ sections:
     padding_top: small
     padding_bottom: small
     background_color: primary
+    content: |
+      No technical skills required
 template: advanced
 ---
