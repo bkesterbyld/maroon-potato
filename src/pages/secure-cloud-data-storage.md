@@ -8,6 +8,7 @@ sections:
       For application owners that want full security and control over data
       exchanged with partners
     background_color: secondary
+    background_image: images/gradient-above.png
   - type: features_section
     features:
       - title: Exchange data without worries
