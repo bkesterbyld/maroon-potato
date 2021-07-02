@@ -176,7 +176,7 @@ sections:
     has_border: true
     enable_cards: false
   - type: cta_section
-    title: Digital innovators wanted
+    title: Try something
     actions:
       - label: Get a demo
         url: /general-enquiries
