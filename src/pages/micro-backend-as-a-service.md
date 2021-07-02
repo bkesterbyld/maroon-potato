@@ -5,7 +5,8 @@ sections:
   - type: hero_section
     title: Data Prototyping
     subtitle: for software product managers
-    background_color: secondary
+    background_color: primary
+    background_image: images/gradientx.png
   - type: features_section
     features:
       - title: Conceive and refine your products faster
@@ -23,7 +24,7 @@ sections:
           Above offers a no code cloud environment—as easy as a spreadsheet— for
           you to prototype data models and sophisticated logic for your ideas
           without coding. As you create data prototypes, developers
-          automatically get an API, so they can get to work on the frontend
+          automatically get an API, so they can start front-end to work
           immediately.
 
 
