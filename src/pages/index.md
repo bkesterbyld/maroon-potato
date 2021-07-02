@@ -176,7 +176,7 @@ sections:
     has_border: true
     enable_cards: false
   - type: cta_section
-    title: Digital innovators wanted
+    title: Try it out!
     actions:
       - label: Get a demo
         url: /general-enquiries
@@ -187,5 +187,7 @@ sections:
     padding_top: small
     padding_bottom: small
     background_color: primary
+    content: |
+      No technical skills required
 template: advanced
 ---
