@@ -7,7 +7,7 @@ sections:
     subtitle: >-
       For application owners that want full security and control over data
       exchanged with partners
-    background_color: secondary
+    background_color: primary
     background_image: images/gradient-above.png
   - type: features_section
     features:
