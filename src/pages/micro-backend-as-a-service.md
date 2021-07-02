@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     title: Data Prototyping
     subtitle: for software product managers
-    background_color: secondary
+    background_color: primary
     background_image: images/gradientx.png
   - type: features_section
     features:
