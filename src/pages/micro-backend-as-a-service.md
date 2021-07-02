@@ -6,6 +6,7 @@ sections:
     title: Data Prototyping
     subtitle: for software product managers
     background_color: secondary
+    background_image: images/gradientx.png
   - type: features_section
     features:
       - title: Conceive and refine your products faster
