@@ -8,6 +8,7 @@ sections:
       Build real time, intelligent new business processes and anlaytics above
       multi-party ERP, SaaS and point solutions
     background_color: primary
+    background_image: images/gradient-above-4.png
   - type: features_section
     features:
       - title: Get everyone on the same page
