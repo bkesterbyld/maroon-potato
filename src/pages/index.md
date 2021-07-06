@@ -48,7 +48,7 @@ sections:
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
-      - title: Separates data from applications
+      - title: Serve multiple solutions from centralized data
         content: >
           Data sets can serve multiple applications and also be replicated with
           role-based browser and API access for external parties
