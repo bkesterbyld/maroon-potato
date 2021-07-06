@@ -31,9 +31,8 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data models, data processing, storage, and automatic
-          unique APIs into a single service—all setup in minutes with low code
-          tools
+          Above unifies data models, data processing, storage, and bespoke APIs
+          into a single service—all setup in minutes with low code tools
         actions: []
         image: images/anyone2.png
         media_position: right
@@ -49,7 +48,7 @@ sections:
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
-      - title: Separates data from applications
+      - title: Serve multiple solutions from centralized data
         content: >
           Data sets can serve multiple applications and also be replicated with
           role-based browser and API access for external parties
