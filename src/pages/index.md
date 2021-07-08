@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Smart Cloud Datastore
+    title: Smart Cloud Data API
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with low code
-      processing logic. It enables anyone to create an intelligent operational
+      processing logic. It enables anyone to create an API-first, intelligent
       data lake to build apps, run analytics and share data.
     actions:
       - label: Learn More
