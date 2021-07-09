@@ -67,7 +67,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: "No Code Data\_ Prototyping"
+      - title: No Code Data Prototyping
         title_align: left
         content: >
           Prototype data models and logic requirements for your engineering team
