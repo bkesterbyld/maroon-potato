@@ -59,17 +59,10 @@ sections:
         type: feature
         image: images/separate.png
       - subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Above runs across public clouds and let's you choose which providers
+          and zones house your data, and you can easily export data out to any
+          zone—we never want you to feel locked in
         actions: []
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
