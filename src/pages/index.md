@@ -73,6 +73,7 @@ sections:
         align: left
         type: feature
         title: Runs across clouds with zero lock-in
+        image: images/multi-cloud.png
     feature_padding_vert: large
     align: right
     background_color: none
