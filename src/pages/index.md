@@ -60,9 +60,10 @@ sections:
         image: images/separate.png
       - subtitle: lorem-ipsum
         content: >
-          Above runs across public clouds and let's you choose which providers
-          and zones house your data, and you can easily export data out to any
-          zone—we never want you to feel locked in
+          Run across public clouds and choose which providers and zones house
+          your data; data is easily exported out of any zone and can be
+          replicated across providers for the ultimate in redundancy and
+          portability
         actions: []
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
