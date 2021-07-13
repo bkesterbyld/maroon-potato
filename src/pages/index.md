@@ -42,7 +42,7 @@ sections:
         subtitle: ''
         content: >
           Above is globally distributed to run real time analytics on large data
-          sets while simultaneously handling low-latency business logic for
+          sets while simultaneously handling high performance business logic for
           applications
         actions: []
         image: images/charming-thyme.png
