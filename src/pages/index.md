@@ -42,7 +42,7 @@ sections:
         subtitle: ''
         content: >
           Above is globally distributed to run real time analytics on large data
-          sets while simultaneously handling low-latency business logic for
+          sets while simultaneously handling high performance business logic for
           applications
         actions: []
         image: images/charming-thyme.png
@@ -51,7 +51,7 @@ sections:
       - title: Serve multiple solutions from centralized data
         content: >
           Data sets can serve multiple applications and also be replicated with
-          role-based browser and API access for external parties
+          secure role-based browser and API access for external parties
         actions: []
         media_position: right
         media_width: fifty
@@ -59,10 +59,9 @@ sections:
         type: feature
         image: images/separate.png
       - content: >
-          Run across public clouds and choose which providers and zones house
-          your data; data is easily exported out of any zone and can be
-          replicated across providers for the ultimate in redundancy and
-          portability
+          Run across public clouds and choose which providers and locations
+          house your data; datacan be replicated across providers for the
+          ultimate in redundancy and portability and is easily exported out
         actions: []
         media_position: left
         media_width: fifty
