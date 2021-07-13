@@ -58,8 +58,7 @@ sections:
         align: right
         type: feature
         image: images/separate.png
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
