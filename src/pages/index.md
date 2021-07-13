@@ -66,7 +66,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        title: Multicloud with zero lock-in
+        title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
     feature_padding_vert: large
     align: right
