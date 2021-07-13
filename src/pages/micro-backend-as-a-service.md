@@ -14,17 +14,17 @@ sections:
           Above provides a non-technical space for to build sophisticated,
           scalable data prototypes and APIs without coding
         content: >
-          The project phase when your engineers spin up, program and connect
+          The project phase when your engineers spin up, program, and connect
           databases is essentially a black box—you don't know what's happening
           and whether your requirements are being implemented correctly. Then
           once initial user feedback comes in, changes are slow and require high
-          communications overhead.
+          communications overhead. 
 
 
           Above offers a no code cloud environment—as easy as a spreadsheet— for
           you to prototype data models and sophisticated logic for your ideas
           without coding. As you create data prototypes, developers
-          automatically get an API, so they can start front-end to work
+          automatically get an API, so they can start frontend to work
           immediately.
 
 
