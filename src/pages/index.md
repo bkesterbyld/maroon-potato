@@ -58,8 +58,7 @@ sections:
         align: right
         type: feature
         image: images/separate.png
-      - subtitle: lorem-ipsum
-        content: >
+      - content: >
           Run across public clouds and choose which providers and zones house
           your data; data is easily exported out of any zone and can be
           replicated across providers for the ultimate in redundancy and
