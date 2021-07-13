@@ -60,8 +60,7 @@ sections:
         image: images/separate.png
       - content: >
           Run across public clouds and choose which providers and locations
-          house your data; data can be replicated across providers for the
-          ultimate in redundancy and portability and is easily exported out
+          house your data, then move, replicate and export it as needed
         actions: []
         media_position: left
         media_width: fifty
