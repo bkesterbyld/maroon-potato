@@ -60,14 +60,13 @@ sections:
         image: images/separate.png
       - content: >
           Run across public clouds and choose which providers and locations
-          house your data; data can be replicated across providers for the
-          ultimate in redundancy and portability and is easily exported out
+          house your data—then move, replicate and export it as needed
         actions: []
         media_position: left
         media_width: fifty
         align: left
         type: feature
-        title: Runs across clouds with zero lock-in
+        title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
     feature_padding_vert: large
     align: right
