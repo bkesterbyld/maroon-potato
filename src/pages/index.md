@@ -51,7 +51,7 @@ sections:
       - title: Serve multiple solutions from centralized data
         content: >
           Data sets can serve multiple applications and also be replicated with
-          role-based browser and API access for external parties
+          secure role-based browser and API access for external parties
         actions: []
         media_position: right
         media_width: fifty
