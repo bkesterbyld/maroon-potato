@@ -17,12 +17,12 @@ sections:
           powers novel applications
         content: >
           Keeping your back office in real-time sync with your partners and
-          stakeholdres is a costly proposition as you grow, add new digital
-          channels, and streamline your businesss. It often involves new
-          infrastructure, systems integration and adding user seats to your ERP,
-          CRM, WMS and vendor contracts. Above provides a no code, serverless
-          workspace to ingest, mix and serve key data from you and your
-          partner's key systems.
+          stakeholders is a costly proposition as you grow, add new digital
+          channels, and streamline your business. It often involves new
+          infrastructure, systems integration, and adding user seats to your
+          ERP, CRM, WMS and vendor contracts. Above provides a no code,
+          serverless workspace to ingest, mix and serve key data from you and
+          your partner's key systems.
 
 
           It handles disparate data from anywhere in the world regardless of
