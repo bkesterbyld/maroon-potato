@@ -72,7 +72,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        title: Runs across clouds
+        title: Runs across clouds with zero lock-in
     feature_padding_vert: large
     align: right
     background_color: none
