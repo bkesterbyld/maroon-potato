@@ -153,8 +153,9 @@ sections:
         type: grid_item
       - title: IoT
         title_align: left
-        content: |
-          Fuse all your sensor and workflow data into novel IoT solutions
+        content: >
+          Build digital twins and fuse all your sensor and workflow data into
+          novel IoT solutions
         content_align: left
         actions: []
         actions_align: left
