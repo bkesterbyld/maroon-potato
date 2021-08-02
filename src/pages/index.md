@@ -137,7 +137,6 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: images/jamstack-security-3.png
       - title: Cloud Migration
         title_align: left
         content: >
