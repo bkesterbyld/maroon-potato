@@ -118,8 +118,8 @@ sections:
       - title: Secure Data Exchange
         title_align: left
         content: >
-          An intermediate zone to publish data sets for other parties with
-          granular API and browser access
+          Publish data sets for other parties with granular API and browser
+          access
         content_align: left
         actions:
           - label: Learn More
