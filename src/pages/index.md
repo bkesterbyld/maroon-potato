@@ -167,7 +167,7 @@ sections:
         type: grid_item
     grid_cols: three
     grid_gap_horiz: medium
-    grid_gap_vert: small
+    grid_gap_vert: large
     enable_cards: true
     align: center
     background_color: primary
