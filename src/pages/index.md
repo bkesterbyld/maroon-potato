@@ -77,7 +77,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Data Prototyping
+      - title: Application Data Prototyping
         title_align: left
         content: >
           Prototype data models and logic requirements for your frontend
