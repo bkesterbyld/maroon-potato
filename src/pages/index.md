@@ -117,7 +117,6 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        subtitle: For enterprise digital leaders
       - title: Secure Data Exchange
         title_align: left
         content: >
