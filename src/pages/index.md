@@ -91,11 +91,11 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: 360 Customer Profiles
+      - title: IoT
         title_align: left
         content: >
-          Build and act on real time customer profiles from all your data
-          sources
+          Build digital twins and fuse all your sensor and workflow data into
+          novel IoT solutions
         content_align: left
         actions: []
         actions_align: left
@@ -105,11 +105,11 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: IoT
+      - title: 360 Customer Profiles
         title_align: left
         content: >
-          Build digital twins and fuse all your sensor and workflow data into
-          novel IoT solutions
+          Build and act on real time customer profiles from all your data
+          sources
         content_align: left
         actions: []
         actions_align: left
