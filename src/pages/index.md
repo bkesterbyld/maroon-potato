@@ -120,7 +120,6 @@ sections:
         image_has_padding: true
         subtitle: For enterprise digital leaders
       - title: Secure Data Exchange
-        subtitle: For application owners
         title_align: left
         content: >
           An intermediate zone to publish data sets for other parties with
