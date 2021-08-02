@@ -94,15 +94,7 @@ sections:
           Aggregate disparate data and power novel apps across business units
           and partners
         content_align: left
-        actions:
-          - label: Learn More
-            url: /digital-operations-platform-api
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            type: action
+        actions: []
         actions_align: left
         image_position: top
         image_align: center
