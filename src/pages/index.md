@@ -140,7 +140,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/jamstack-security-3.png
-      - title: lorem-ipsum
+      - title: Cloud Migration
         subtitle: lorem-ipsum
         title_align: left
         content: >-
