@@ -105,15 +105,7 @@ sections:
           Publish data sets for other parties with granular API and browser
           access
         content_align: left
-        actions:
-          - label: Learn More
-            url: /secure-cloud-data-storage
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            type: action
+        actions: []
         actions_align: left
         actions_width: auto
         image_position: top
