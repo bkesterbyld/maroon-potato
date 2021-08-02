@@ -83,15 +83,7 @@ sections:
           Prototype data models and logic requirements for your frontend
           engineering team
         content_align: left
-        actions:
-          - label: Learn More
-            url: /micro-backend-as-a-service
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            type: action
+        actions: []
         actions_align: left
         image_position: top
         image_align: center
