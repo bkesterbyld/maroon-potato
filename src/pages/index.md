@@ -141,7 +141,6 @@ sections:
         type: grid_item
         image: images/jamstack-security-3.png
       - title: Cloud Migration
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
