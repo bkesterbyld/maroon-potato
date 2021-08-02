@@ -91,6 +91,20 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title: IoT
+        title_align: left
+        content: >
+          Build digital twins and fuse all your sensor and workflow data into
+          novel IoT solutions
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: Application Data Prototyping
         title_align: left
         content: >
@@ -126,20 +140,6 @@ sections:
         image_width: twenty-five
         image_align: center
         image_has_padding: true
-        type: grid_item
-      - title: IoT
-        title_align: left
-        content: >
-          Build digital twins and fuse all your sensor and workflow data into
-          novel IoT solutions
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
         type: grid_item
       - title: 360 Customer Profiles
         title_align: left
