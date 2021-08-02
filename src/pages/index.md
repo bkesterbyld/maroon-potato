@@ -142,17 +142,9 @@ sections:
         image: images/jamstack-security-3.png
       - title: Cloud Migration
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Clone the backend of your internal tools and on prem applications in
+          days
         content_align: left
         actions: []
         actions_align: left
