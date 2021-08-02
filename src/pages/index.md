@@ -77,6 +77,20 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
+      - title: Cloud Migration
+        title_align: left
+        content: >
+          Clone the backend of your internal tools and on prem applications in
+          days
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: Application Data Prototyping
         title_align: left
         content: >
@@ -112,20 +126,6 @@ sections:
         image_width: twenty-five
         image_align: center
         image_has_padding: true
-        type: grid_item
-      - title: Cloud Migration
-        title_align: left
-        content: >
-          Clone the backend of your internal tools and on prem applications in
-          days
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
         type: grid_item
       - title: IoT
         title_align: left
