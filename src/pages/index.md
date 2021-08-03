@@ -77,64 +77,77 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: No Code Data Prototyping
+      - title: Cloud Migration
         title_align: left
         content: >
-          Prototype data models and logic requirements for your engineering team
-          and give them an API to power MVP and beta interfaces
+          Clone the backend of your internal tools and on prem applications in
+          days
         content_align: left
-        actions:
-          - label: Learn More
-            url: /micro-backend-as-a-service
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            type: action
+        actions: []
         actions_align: left
-        image: images/jamstack-backend-api-3.png
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: IoT
+        title_align: left
+        content: >
+          Build digital twins and fuse all your sensor and workflow data into
+          novel IoT solutions
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: 360 Customer Profiles
+        title_align: left
+        content: >
+          Build and act on real time customer profiles from all your data
+          sources
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Application Data Prototyping
+        title_align: left
+        content: >
+          Prototype data models and logic requirements for your frontend
+          engineering team
+        content_align: left
+        actions: []
+        actions_align: left
         image_position: top
         image_align: center
         image_has_padding: true
-        subtitle: For software product managers
       - title: Multiparty Applications
         title_align: left
         content: >
-          Aggregate disparate data into one environment—to make sense of it and
-          directly power novel apps across business units and partners
+          Aggregate disparate data and power novel apps across business units
+          and partners
         content_align: left
-        actions:
-          - label: Learn More
-            url: /digital-operations-platform-api
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            type: action
+        actions: []
         actions_align: left
-        image: images/digital-operations-API-3.png
         image_position: top
         image_align: center
         image_has_padding: true
-        subtitle: For enterprise digital leaders
       - title: Secure Data Exchange
-        subtitle: For application owners
         title_align: left
         content: >
-          An intermediate zone to publish data sets for other parties with
-          granular API and browser access
+          Publish data sets for other parties with granular API and browser
+          access
         content_align: left
-        actions:
-          - label: Learn More
-            url: /secure-cloud-data-storage
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            type: action
+        actions: []
         actions_align: left
         actions_width: auto
         image_position: top
@@ -142,10 +155,9 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: images/jamstack-security-3.png
     grid_cols: three
     grid_gap_horiz: medium
-    grid_gap_vert: small
+    grid_gap_vert: large
     enable_cards: true
     align: center
     background_color: primary
