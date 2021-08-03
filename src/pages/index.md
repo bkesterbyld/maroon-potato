@@ -119,7 +119,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Application Data Prototyping
+      - title: Application Prototyping
         title_align: left
         content: >
           Prototype data models and logic requirements for your frontend
