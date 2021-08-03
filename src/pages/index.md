@@ -121,9 +121,8 @@ sections:
         type: grid_item
       - title: Application Prototyping
         title_align: left
-        content: >
-          Prototype data models and logic requirements for your frontend
-          engineering team
+        content: |
+          Prototype data models and logic for your frontend engineering team
         content_align: left
         actions: []
         actions_align: left
