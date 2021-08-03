@@ -5,9 +5,9 @@ sections:
     title: Smart Cloud Datastore
     subtitle: ''
     content: >
-      Above combines the capabilities of SQL and NoSQL databases with low code
-      processing logic. It enables anyone to create an API-first operational
-      data lake to build apps, run analytics and share data.
+      Above combines the capabilities of SQL and NoSQL databases with easy low
+      code processing logic. It enables anyone to create an API-first
+      operational data sphere to build apps, run analytics and share data.
     actions:
       - label: Learn More
         url: /general-enquiries
@@ -94,7 +94,7 @@ sections:
       - title: IoT
         title_align: left
         content: >
-          Build digital twins and fuse all your sensor and workflow data into
+          Build digital twins and fuse you sensor, ERP and customer data into
           predictive IoT solutions
         content_align: left
         actions: []
@@ -119,11 +119,10 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Application Data Prototyping
+      - title: Application Prototyping
         title_align: left
-        content: >
-          Prototype data models and logic requirements for your frontend
-          engineering team
+        content: |
+          Prototype data models and logic for your frontend engineering team
         content_align: left
         actions: []
         actions_align: left
@@ -141,7 +140,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Secure Data Exchange
+      - title: Secure Data Sharing
         title_align: left
         content: >
           Publish data sets for other parties with granular API and browser
