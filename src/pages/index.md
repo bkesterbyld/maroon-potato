@@ -94,7 +94,7 @@ sections:
       - title: IoT
         title_align: left
         content: >
-          Build digital twins and fuse all your sensor and workflow data into
+          Build digital twins and fuse you sensor, ERP and customer data into
           predictive IoT solutions
         content_align: left
         actions: []
