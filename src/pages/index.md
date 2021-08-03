@@ -5,9 +5,9 @@ sections:
     title: Smart Cloud Datastore
     subtitle: ''
     content: >
-      Above combines the capabilities of SQL and NoSQL databases with low code
-      processing logic. It enables anyone to create an API-first operational
-      data lake to build apps, run analytics and share data.
+      Above combines the capabilities of SQL and NoSQL databases with easy low
+      code processing logic. It enables anyone to create an API-first
+      operational data sphere to build apps, run analytics and share data.
     actions:
       - label: Learn More
         url: /general-enquiries
