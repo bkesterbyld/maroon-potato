@@ -95,7 +95,7 @@ sections:
         title_align: left
         content: >
           Build digital twins and fuse all your sensor and workflow data into
-          novel IoT solutions
+          predictive IoT solutions
         content_align: left
         actions: []
         actions_align: left
@@ -108,8 +108,8 @@ sections:
       - title: 360 Customer Profiles
         title_align: left
         content: >
-          Build and act on real time customer profiles from all your data
-          sources
+          Build and act on real time customer profiles from all your touchpoints
+          and data sources
         content_align: left
         actions: []
         actions_align: left
