@@ -95,7 +95,7 @@ sections:
         title_align: left
         content: >
           Build digital twins and fuse all your sensor and workflow data into
-          novel IoT solutions
+          predictive IoT solutions
         content_align: left
         actions: []
         actions_align: left
