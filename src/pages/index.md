@@ -141,7 +141,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Secure Data Exchange
+      - title: Secure Data Sharing
         title_align: left
         content: >
           Publish data sets for other parties with granular API and browser
