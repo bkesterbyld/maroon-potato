@@ -6,8 +6,8 @@ sections:
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy low
-      code processing logic. It enables anyone to create an API-based
-      operational data sphere to build apps, run analytics and share data.
+      code processing logic. It enables anyone to create an API-based data
+      sphere to build apps, run analytics and share data.
     actions:
       - label: Learn More
         url: /general-enquiries
