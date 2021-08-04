@@ -8,7 +8,7 @@
     "header": {
         "title": "Above Computing",
         "logo": "images/jamstack-backend.png",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "label": "For Software Product Managers",
