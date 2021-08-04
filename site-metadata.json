@@ -11,16 +11,6 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "For Digital Leaders",
-                "url": "/digital-operations-platform-api",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "type": "action"
-            },
-            {
                 "label": "Learn More",
                 "url": "/general-enquiries",
                 "style": "primary",
