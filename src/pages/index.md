@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy low
-      code processing logic. It enables anyone to create an API-based datastore
+      code processing logic. It enables anyone to create an API-based data lake
       to build apps, run analytics and share data.
     actions:
       - label: Learn More
