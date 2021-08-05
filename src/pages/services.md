@@ -51,7 +51,7 @@ sections:
   - title: Experience delivering hundreds of apps
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Supply Chain
         title_align: left
         content: >-
           ## Lorem ipsum
