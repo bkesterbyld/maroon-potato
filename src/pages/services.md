@@ -16,7 +16,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: lorem-ipsum
+  - title: Services
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
