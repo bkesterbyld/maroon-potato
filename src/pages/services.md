@@ -26,7 +26,7 @@ sections:
 
       Easy extension with zero technical debt
 
-      Predictable scaling and costs
+      Predictable performance, scaling and costs
     actions: []
     actions_position: bottom
     actions_width: fourty
