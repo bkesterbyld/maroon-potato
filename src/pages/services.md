@@ -117,7 +117,7 @@ sections:
         subtitle: '    '
         title_align: center
         content: "Onsite Spares & MRO\n\n\r\nConsignment & VMI\n\n\r\nWarehouse Management\n\n\r\nTransportation Management\r\n\r\nReverse Logistics\n"
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
