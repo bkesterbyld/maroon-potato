@@ -38,7 +38,7 @@ sections:
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: Create new apps and data solutions faster than ever
+        title: New apps and data solutions delivered faster than ever
       - title: Scalable native analytics and business logic
         subtitle: ''
         content: >
