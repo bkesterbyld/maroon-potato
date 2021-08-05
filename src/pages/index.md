@@ -154,7 +154,7 @@ sections:
       - title: Cloud Migration
         title_align: left
         content: >
-          Clone the backend of your internal tools and on prem applications in
+          Clone the backend of legacy on prem applications and internal tools in
           days
         content_align: left
         actions: []
