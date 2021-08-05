@@ -24,18 +24,19 @@ sections:
       We build bespoke applications that deliver the following benefits:
 
 
-      1/10th the time and cost of traditional development
+      ###### 1/10th the time and cost of traditional development
 
 
-      No more black box projects—see exactly what is happening in real time with
-      your solution, data models and live data
+      ###### No more black box projects—see exactly what is happening in real
+      time with your solution, data models and live data
 
 
-      Zero technical debt—maintain your application by yourself and extend it
-      with any type of resource
+      ###### Zero technical debt—maintain your application by yourself and
+      extend it with any type of resource
 
 
-      Predictable cost—scaling from MVP to millions of users is zero mystery
+      ###### Predictable cost—scaling from MVP to millions of users is zero
+      mystery
     actions: []
     actions_position: bottom
     actions_width: fourty
