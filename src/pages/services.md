@@ -145,7 +145,7 @@ sections:
 
       Find out how we can get your project done at 1/10th the time and cost.
     actions:
-      - label: lorem-ipsum
+      - label: Learn MOre
         url: /general-enquiries
         style: primary
         has_icon: true
