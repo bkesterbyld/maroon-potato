@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Smart Cloud Datastore
+    title: Smart Cloud Data Service
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy low
