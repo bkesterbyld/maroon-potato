@@ -53,17 +53,6 @@ sections:
   - title: Some of what we've built
     actions: []
     grid_items:
-      - title: Supply Chain
-        title_align: left
-        content_align: center
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: IoT
         title_align: left
         content: |
