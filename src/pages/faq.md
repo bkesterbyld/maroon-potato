@@ -27,10 +27,13 @@ sections:
           **No.**
 
           Above is a service that runs above mature SQL, NoSQL and Object
-          storage technologies across cloud providers. It's a user experience
-          layer that brings physical distributed servers together with virtual
-          data modeling and logic technology. The result is a global, resilient
-          data processing network.
+          storage technologies across cloud providers. It's a no code user
+          experience layer that brings physical distributed servers together
+          with virtual data modeling and logic technology. The result is a
+          global, resilient data processing network that enables virtually
+          anyone to be a high end "database designer" without having to
+          interface or manage databases. It also gives users the ability to
+          build powerful logic and analytics without coding.
 
 
           We've been perfecting the technology for 10 years and it's proven in a
