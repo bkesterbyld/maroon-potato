@@ -17,7 +17,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-    background_image: images/20161201_162410_001 (2) (1).jpg
+    background_image: images/20170619_133727 (1).jpg
   - title: Solutions Store & Services
     features:
       - content: >
