@@ -131,10 +131,12 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/chevrons.png
-  - content: |
+  - content: >
       ## Learn More
 
-      Find out how we can get your project done at 1/10th the time and cost.
+
+      Find out how we can get your project done at 1/10th the time and cost,
+      even on the world's toughest computing challenges. 
     actions:
       - label: Learn More
         url: /general-enquiries
