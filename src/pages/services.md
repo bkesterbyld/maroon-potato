@@ -92,7 +92,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: PropTech
-        title_align: left
+        title_align: center
         content: |
           Construction Progress Monitoring
 
