@@ -74,6 +74,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        subtitle: '      '
       - title: Telecom
         title_align: center
         content: |
