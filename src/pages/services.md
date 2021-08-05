@@ -18,7 +18,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     background_image: images/purple-gradient.png
-  - title: lorem-ipsum
+  - title: Solutions store & services
     features: []
     feature_padding_vert: medium
     align: center
