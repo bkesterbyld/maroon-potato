@@ -2,7 +2,7 @@
 title: Service Solutions
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Solutions
     content: >-
       ## Lorem ipsum
 
