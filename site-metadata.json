@@ -11,6 +11,16 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
+                "label": "Solutions",
+                "url": "/services",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link",
@@ -24,16 +34,6 @@
                 "label": "Get a demo",
                 "url": "/general-enquiries",
                 "style": "primary",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "type": "action"
-            },
-            {
-                "label": "Solutions",
-                "url": "/services",
-                "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
