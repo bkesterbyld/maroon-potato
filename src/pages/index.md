@@ -151,7 +151,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Cloud Migration
+      - title: App Modernization
         title_align: left
         content: >
           Clone the backend of legacy on prem applications and internal tools in
