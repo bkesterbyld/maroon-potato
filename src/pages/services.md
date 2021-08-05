@@ -1,7 +1,7 @@
 ---
 title: Service Solutions
 sections:
-  - title: lorem-ipsum
+  - title: Bespoke Apps
     subtitle: lorem-ipsum
     content: |
       ## Bespoke Apps
