@@ -68,7 +68,7 @@ sections:
         type: feature
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
-      - title: Nothing to manage
+      - title: 'Nothing to manage, scales forever'
         content: >
           Say goodbye to unpredictable costs for database admin, DevOps,
           infrastructure, infrastructure monitoring, and unplanned downtime.
