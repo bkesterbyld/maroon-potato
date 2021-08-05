@@ -147,7 +147,7 @@ sections:
       Find out how we can get your project done at 1/10th the time and cost.
     actions:
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: /general-enquiries
         style: link
         has_icon: false
         icon: arrow-left
