@@ -72,8 +72,8 @@ sections:
         content: >
           Say goodbye to unpredictable costs for database admin, DevOps,
           infrastructure, infrastructure monitoring, and unplanned downtime.
-          Above is globally distributed to enable infinite scaling and gets rid
-          of hundreds of low-level data management tasks.
+          Above is globally distributed, scales infinitely and gets rid of
+          hundreds of data management tasks.
         actions: []
         media_position: right
         media_width: thirty-three
