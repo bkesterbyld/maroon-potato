@@ -87,20 +87,6 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Cloud Migration
-        title_align: left
-        content: >
-          Clone the backend of your internal tools and on prem applications in
-          days
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: IoT
         title_align: left
         content: >
@@ -120,6 +106,20 @@ sections:
         content: >
           Build and act on real time customer profiles from all your touchpoints
           and data sources
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Cloud Migration
+        title_align: left
+        content: >
+          Clone the backend of your internal tools and on prem applications in
+          days
         content_align: left
         actions: []
         actions_align: left
