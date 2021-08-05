@@ -141,17 +141,10 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/chevrons.png
-  - content: >-
-      ## Lorem ipsum
+  - content: |
+      ## Learn More
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Find out how we can get your project done at 1/10th the time and cost.
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
