@@ -69,17 +69,9 @@ sections:
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
       - title: Nothing to Manage
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Say goodbye to database admin, DevOps, infrastructure management tools
+          and more
         actions: []
         media_position: right
         media_width: thirty-three
