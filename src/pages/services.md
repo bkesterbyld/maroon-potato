@@ -22,7 +22,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/20161201_162410_001 (2) (1).jpg
+    image: images/bold/post-3.png
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
