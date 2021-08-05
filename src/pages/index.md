@@ -115,6 +115,20 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title: Secure Data Sharing
+        title_align: left
+        content: >
+          Publish data sets for other parties with granular API and browser
+          access
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: twenty-five
+        image_align: center
+        image_has_padding: true
+        type: grid_item
       - title: Cloud Migration
         title_align: left
         content: >
@@ -140,20 +154,6 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Secure Data Sharing
-        title_align: left
-        content: >
-          Publish data sets for other parties with granular API and browser
-          access
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: twenty-five
-        image_align: center
-        image_has_padding: true
-        type: grid_item
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
