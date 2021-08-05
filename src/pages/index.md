@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Smart Cloud Datastore
+    title: Smart Cloud Data Service
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy low
-      code processing logic. It enables anyone to create an API-based datasphere
+      code processing logic. It enables anyone to create an API-based data lake
       to build apps, run analytics and share data.
     actions:
       - label: Learn More
@@ -77,20 +77,16 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Cloud Migration
+      - title: Software Prototyping
         title_align: left
-        content: >
-          Clone the backend of your internal tools and on prem applications in
-          days
+        content: |
+          Prototype data models and logic for your frontend engineering team
         content_align: left
         actions: []
         actions_align: left
-        actions_width: auto
         image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
+        image_align: center
+        image_has_padding: true
       - title: IoT
         title_align: left
         content: >
@@ -119,27 +115,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Software Prototyping
-        title_align: left
-        content: |
-          Prototype data models and logic for your frontend engineering team
-        content_align: left
-        actions: []
-        actions_align: left
-        image_position: top
-        image_align: center
-        image_has_padding: true
-      - title: Multiparty Applications
-        title_align: left
-        content: >
-          Aggregate disparate data and power novel apps across business units
-          and partners
-        content_align: left
-        actions: []
-        actions_align: left
-        image_position: top
-        image_align: center
-        image_has_padding: true
       - title: Secure Data Sharing
         title_align: left
         content: >
@@ -153,6 +128,31 @@ sections:
         image_width: twenty-five
         image_align: center
         image_has_padding: true
+        type: grid_item
+      - title: Multiparty Applications
+        title_align: left
+        content: >
+          Aggregate disparate data and power novel apps across business units
+          and partners
+        content_align: left
+        actions: []
+        actions_align: left
+        image_position: top
+        image_align: center
+        image_has_padding: true
+      - title: Cloud Migration
+        title_align: left
+        content: >
+          Clone the backend of your internal tools and on prem applications in
+          days
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
         type: grid_item
     grid_cols: three
     grid_gap_horiz: medium
