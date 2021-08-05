@@ -83,7 +83,7 @@ sections:
           - dolor sit amet
         actions: []
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/undraw_My_universe_re_txot (1).svg
