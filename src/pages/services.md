@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Service Solutions
 excerpt: lorem-ipsum
 sections: []
 template: advanced
