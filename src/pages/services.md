@@ -53,8 +53,8 @@ sections:
     grid_items:
       - title: Supply Chain
         title_align: left
-        content: |
-
+        content: |2
+            
 
           Onsite Spares & MRO
 
