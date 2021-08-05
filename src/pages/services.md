@@ -19,7 +19,6 @@ sections:
     type: cta_section
     background_image: images/purple-gradient.png
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
