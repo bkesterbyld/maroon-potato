@@ -53,22 +53,6 @@ sections:
     grid_items:
       - title: Supply Chain
         title_align: left
-        content: |2
-            
-
-          Onsite Spares & MRO
-
-          Consignment & VMI
-
-          Warehouse Management
-
-          Transportation Management
-
-          Order Management
-
-          Trade Compliance
-
-          Reverse Logistics
         content_align: center
         actions: []
         actions_align: left
