@@ -91,6 +91,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        subtitle: '      '
       - title: PropTech
         title_align: center
         content: |
