@@ -32,12 +32,13 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, data processing, storage, and bespoke APIs
-          into a single service—all setup in minutes with low code tools
+          into a single service—all setup in minutes with low code tools. Above
+          users deliver new solutions 20X faster than traditional development.
         actions: []
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: 'Nothing to learn, usable by anyone'
+        title: 'Nothing to learn, ship faster than ever'
       - title: Scalable native analytics and business logic
         subtitle: ''
         content: >
@@ -68,6 +69,16 @@ sections:
         type: feature
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
+      - title: Nothing to Manage
+        content: >
+          Say goodbye to database admin, DevOps, infrastructure purchases,
+          infrastructure monitoring, and unplanned downtime
+        actions: []
+        media_position: right
+        media_width: thirty-three
+        align: left
+        type: feature
+        image: images/undraw_My_universe_re_txot (1).svg
     feature_padding_vert: large
     align: right
     background_color: none
@@ -80,7 +91,7 @@ sections:
       - title: Software Prototyping
         title_align: left
         content: |
-          Prototype data models and logic for your frontend engineering team
+          Prototype data models and logic for  frontend engineering teams
         content_align: left
         actions: []
         actions_align: left
@@ -90,7 +101,7 @@ sections:
       - title: IoT
         title_align: left
         content: >
-          Build digital twins and fuse you sensor, ERP and customer data into
+          Build digital asset models and fuse sensor, ERP and customer data into
           predictive IoT solutions
         content_align: left
         actions: []
@@ -104,8 +115,8 @@ sections:
       - title: 360 Customer Profiles
         title_align: left
         content: >
-          Build and act on real time customer profiles from all your touchpoints
-          and data sources
+          Build and act on real time profiles from all customer touchpoints and
+          data sources
         content_align: left
         actions: []
         actions_align: left
@@ -129,7 +140,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-      - title: Multiparty Applications
+      - title: Collaborative ERP & Supply Chain
         title_align: left
         content: >
           Aggregate disparate data and power novel apps across business units
@@ -140,10 +151,10 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Cloud Migration
+      - title: App Modernization
         title_align: left
         content: >
-          Clone the backend of your internal tools and on prem applications in
+          Clone the backend of legacy on prem applications and internal tools in
           days
         content_align: left
         actions: []
