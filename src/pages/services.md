@@ -21,96 +21,96 @@ sections:
   - title: Solutions Store & Services
     features:
       - content: >
-          We build bespoke applications for you using the Above platform that
-          deliver the following benefits:
+          ###### We build bespoke applications for you using the Above platform
+          that deliver the following benefits:
 
 
-          *   1/10th the time and cost of traditional development
+          ###### 1/10th the time and cost of traditional development
 
 
-          *   No more black box projects—you can exactly what is happening in
+          ###### No more black box projects—you can exactly what is happening in
           real time with your solution, data models and live data
 
 
-          *   Zero technical debt, you can maintain your application by yourself
-          and extend it with any type of resource
+          ###### Zero technical debt, you can maintain your application by
+          yourself and extend it with any type of resource
 
 
-          **APPLICATION TEMPLATES**
+          ###### **APPLICATION TEMPLATES**
 
 
-          In many cases, our library of Application Templates and commensurate
-          experience provides a kick-start to your project. Representative
-          solutions built on the Above service include:
+          ###### In many cases, our library of Application Templates and
+          commensurate experience provides a kick-start to your project.
+          Representative solutions built on the Above service include:
 
 
-          #### SUPPLY CHAIN
+          ###### SUPPLY CHAIN
 
 
-          ##### Onsite Spares & MRO
+          ###### Onsite Spares & MRO
 
 
-          ##### Consigned & Vendor Managed Inventory
+          ###### Consigned & Vendor Managed Inventory
 
 
-          ##### Warehouse Management
+          ###### Warehouse Management
 
 
-          ##### Transportation Management
+          ###### Transportation Management
 
 
-          ##### Order Management
+          ###### Order Management
 
 
-          ##### Trade Compliance
+          ###### Trade Compliance
 
 
-          ##### Collaborative Reverse Logistics
+          ###### Collaborative Reverse Logistics
 
 
-          IoT
+          ###### IoT
 
 
-          *   Kiosks with Media and Ad Management
+          ###### Kiosks with Media and Ad Management
 
 
-          *   Predictive Product Maintenance
+          ###### Predictive Product Maintenance
 
 
-          *   Factory Monitoring
+          ###### Factory Monitoring
 
 
-          *   Building and Factory Energy Management
+          ###### Building and Factory Energy Management
 
 
-          *   Solar Monitoring & Arbitrage
+          ###### Solar Monitoring & Arbitrage
 
 
-          *   Specialty Vehicle Monitoring
+          ###### Specialty Vehicle Monitoring
 
 
-          TELECOM
+          ###### TELECOM
 
 
-          *   Network Monitoring
+          ###### Network Monitoring
 
 
-          *   Cell Tower Management
+          ###### Cell Tower Management
 
 
-          *   Equipment Assembly & Fulfillment
+          ###### Equipment Assembly & Fulfillment
 
 
-          REAL ESTATE
+          ###### REAL ESTATE
 
 
-          *   Construction Progress Monitoring
+          ###### Construction Progress Monitoring
 
 
-          *   Loan Disbursement Tracking
+          ###### Loan Disbursement Tracking
 
 
-          *   ML-based Investment Modeling
+          ###### ML-based Investment Modeling
         actions: []
         media_position: top
         media_width: fifty
