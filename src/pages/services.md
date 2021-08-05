@@ -113,17 +113,7 @@ sections:
       - title: Supply Chain
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Onsite Spares & MRO\n\n\r\nConsignment & VMI\n\n\r\nWarehouse Management\n\n\r\nTransportation Management\r\n\r\nReverse Logistics\n"
         content_align: left
         actions: []
         actions_align: left
