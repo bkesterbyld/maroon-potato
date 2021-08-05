@@ -112,7 +112,7 @@ sections:
         type: grid_item
       - title: Supply Chain
         subtitle: lorem-ipsum
-        title_align: left
+        title_align: center
         content: "Onsite Spares & MRO\n\n\r\nConsignment & VMI\n\n\r\nWarehouse Management\n\n\r\nTransportation Management\r\n\r\nReverse Logistics\n"
         content_align: left
         actions: []
