@@ -88,17 +88,7 @@ sections:
         type: grid_item
       - title: Real Estate
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Construction Progress Monitoring\n\n\r\nLoan Disbursement Tracking\n\n\r\nML-based Investment Modeling\n"
         content_align: left
         actions: []
         actions_align: left
