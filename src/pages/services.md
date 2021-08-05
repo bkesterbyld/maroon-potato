@@ -20,17 +20,105 @@ sections:
     background_image: images/purple-gradient.png
   - title: Solutions Store & Services
     features:
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          Our service team builds bespoke solutions using the Above platform to
+          work as a solution backend, and then creates a frontend for you with
+          modern mobile and web interface technologies. Generally, we can get
+          you a custom, highly scalable and extensible application at 1/10th the
+          cost and time of your internal or external development options. We
+          work in a highly agile approach with daily iteration you can see and
+          test through the Above platform.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Benefits of working with us include:
 
 
-          - Lorem ipsum
+          *   1/10th the time and cost of traditional development
 
-          - dolor sit amet
+
+          *   No more black box projects—you can exactly what is happening in
+          real time with your solution, data models and live data
+
+
+          *   Zero technical debt, you can maintain your application by yourself
+          and extend it with any type of resource
+
+
+          **APPLICATION TEMPLATES**
+
+
+          In many cases, our library of Application Templates and commensurate
+          experience provides a kick-start to your project. Representative
+          solutions built on the Above service include:
+
+
+          SUPPLY CHAIN
+
+
+          *   Onsite Spares & MRO
+
+
+          *   Consigned & Vendor Managed Inventory
+
+
+          *   Warehouse Management
+
+
+          *   Transportation Management
+
+
+          *   Order Management
+
+
+          *   Trade Compliance
+
+
+          *   Collaborative Reverse Logistics
+
+
+          IoT
+
+
+          *   Kiosks with Media and Ad Management
+
+
+          *   Predictive Product Maintenance
+
+
+          *   Factory Monitoring
+
+
+          *   Building and Factory Energy Management
+
+
+          *   Solar Monitoring & Arbitrage
+
+
+          *   Specialty Vehicle Monitoring
+
+
+          TELECOM
+
+
+          *   Network Monitoring
+
+
+          *   Cell Tower Management
+
+
+          *   Equipment Assembly & Fulfillment
+
+
+          REAL ESTATE
+
+
+          *   Construction Progress Monitoring
+
+
+          *   Loan Disbursement Tracking
+
+
+          *   ML-based Investment Modeling
         actions: []
         media_position: top
         media_width: fifty
