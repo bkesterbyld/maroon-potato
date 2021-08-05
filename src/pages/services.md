@@ -54,7 +54,7 @@ sections:
     actions: []
     grid_items:
       - title: IoT
-        title_align: left
+        title_align: center
         content: |
           Kiosks & Signage
 
