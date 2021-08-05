@@ -33,8 +33,7 @@ sections:
         content: >
           Above unifies data models, data processing, storage, and bespoke APIs
           into a single simple service—setup in minutes with low code tools.
-          Deliver new solutions 20X faster than traditional approaches and
-          tools.
+          Deliver new solutions 20X faster than traditional approaches.
         actions: []
         image: images/anyone2.png
         media_position: right
