@@ -54,19 +54,19 @@ sections:
       - title: Supply Chain
         title_align: left
         content: |
-          *   Onsite Spares & MRO
+          Onsite Spares & MRO
 
-          *   Consigned & Vendor Managed Inventory
+          Consigned & Vendor Managed Inventory
 
-          *   Warehouse Management
+          Warehouse Management
 
-          *   Transportation Management
+          Transportation Management
 
-          *   Order Management
+          Order Management
 
-          *   Trade Compliance
+          Trade Compliance
 
-          *   Collaborative Reverse Logistics
+          Collaborative Reverse Logistics
         content_align: left
         actions: []
         actions_align: left
