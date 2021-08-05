@@ -135,7 +135,7 @@ sections:
       ## Learn More
 
 
-      Find out how we've consistently delivered at 1/10th the cost and time from
+      Find out how we've consistently delivered at 1/10th the cost and time—from
       simple applications to the world's most intense computing projects.
     actions:
       - label: Learn More
