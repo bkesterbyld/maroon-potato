@@ -68,7 +68,7 @@ sections:
         type: feature
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
-      - title: lorem-ipsum
+      - title: 'No'
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
