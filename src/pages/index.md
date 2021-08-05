@@ -43,8 +43,9 @@ sections:
         subtitle: ''
         content: >
           Above is globally distributed to run real time analytics on large data
-          sets while simultaneously handling high performance business logic for
-          applications
+          sets while simultaneously handling high-performance business logic for
+          applications. Logic is triggered by timers and external events,
+          resulting in the world's smartest datastore.
         actions: []
         image: images/charming-thyme.png
         media_position: left
@@ -52,7 +53,7 @@ sections:
       - title: Serve multiple solutions from centralized data
         content: >
           Data sets can serve multiple applications and also be replicated with
-          secure role-based browser and API access for external parties
+          secure role-based browser and API access for external parties.
         actions: []
         media_position: right
         media_width: fifty
@@ -61,7 +62,7 @@ sections:
         image: images/separate.png
       - content: >
           Run across public clouds and choose which providers and locations
-          house your data—then move, replicate and export it as needed
+          house your data—then move, replicate and export it as needed.
         actions: []
         media_position: left
         media_width: fifty
@@ -72,7 +73,7 @@ sections:
       - title: Nothing to manage
         content: >
           Say goodbye to database admin, DevOps, infrastructure purchases,
-          infrastructure monitoring, and unplanned downtime
+          infrastructure monitoring, and unplanned downtime.
         actions: []
         media_position: right
         media_width: thirty-three
