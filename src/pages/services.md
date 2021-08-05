@@ -80,7 +80,7 @@ sections:
         type: grid_item
       - title: IoT
         title_align: left
-        content: "Kiosks with Media and Ad Management\r\nPredictive Product Maintenance\r\nFactory Monitoring\r\nBuilding and Factory Energy Management\r\nSolar Monitoring & Arbitrage\r\nSpecialty Vehicle Monitoring\n"
+        content: "Kiosks\r\nPredictive Maintenance\r\nFactory Monitoring\r\nEnergy Management\r\nSolar Monitoring\r\nFleet Tracking\n"
         content_align: left
         actions: []
         actions_align: left
