@@ -17,20 +17,16 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - content: >
-      ###### 1/10th the time and cost of traditional development
+  - content: |
+      Working with Above's team delivers
 
+      A solution at 1/10th the time and cost of traditional development
 
-      ###### No more black box projects—see exactly what is happening in real
-      time with your solution, data models and live data
+      Immediate results and progress you can see daily
 
+      Easy extension with zero technical debt
 
-      ###### Zero technical debt—maintain your application by yourself and
-      extend it with any type of resource
-
-
-      ###### Predictable cost—scaling from MVP to millions of users is zero
-      mystery
+      Predictable scaling and costs
     actions: []
     actions_position: bottom
     actions_width: fourty
