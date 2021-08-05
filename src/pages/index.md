@@ -69,7 +69,7 @@ sections:
         type: feature
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
-      - title: Nothing to Manage
+      - title: Nothing to manage
         content: >
           Say goodbye to database admin, DevOps, infrastructure purchases,
           infrastructure monitoring, and unplanned downtime
