@@ -46,7 +46,7 @@ sections:
           Above is globally distributed to run real time analytics on large data
           sets while simultaneously handling high-performance business logic for
           applications. Logic is triggered by timers and external events,
-          resulting in the world's smartest datastore.
+          resulting in a smart, dynamic datastore.
         actions: []
         image: images/charming-thyme.png
         media_position: left
