@@ -32,9 +32,8 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, data processing, storage, and bespoke APIs
-          into a single simple service—all setup in minutes with low code tools.
-          Above users deliver new solutions 20X faster than traditional
-          approaches and tools. 
+          into a single simple service—setup in minutes with low code tools.
+          Deliver new solutions 20X faster than traditional approaches.
         actions: []
         image: images/anyone2.png
         media_position: right
@@ -45,7 +44,7 @@ sections:
         content: >
           Above is globally distributed to run real time analytics on large data
           sets while simultaneously handling high-performance business logic for
-          applications. Logic is triggered by timers and external events,
+          applications. Logic is triggered by both timers and external events,
           resulting in a smart, dynamic datastore.
         actions: []
         image: images/charming-thyme.png
@@ -73,8 +72,8 @@ sections:
         image: images/multi-cloud.png
       - title: Nothing to manage
         content: >
-          Say goodbye to database admin, DevOps, infrastructure purchases,
-          infrastructure monitoring, and unplanned downtime.
+          Say goodbye to unpredictable costs for database admin, DevOps,
+          infrastructure, infrastructure monitoring, and unplanned downtime.
         actions: []
         media_position: right
         media_width: thirty-three
