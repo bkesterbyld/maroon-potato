@@ -64,7 +64,16 @@ sections:
         type: grid_item
       - title: IoT
         title_align: left
-        content: "Kiosks\n\n\r\nPredictive Maintenance\n\n\r\nFactory Monitoring\n\n\r\nEnergy Management\n\n\r\nSolar Monitoring\n\n\r\nFleet Tracking\n"
+        content: |
+          Kiosks & Signage
+
+          Predictive Maintenance
+
+          Energy Management
+
+          Solar Monitoring
+
+          Fleet Tracking
         content_align: left
         actions: []
         actions_align: left
