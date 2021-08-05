@@ -18,7 +18,23 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/purple-gradient.png
-  - content: "## 100% Transparent Development\n\nWe build bespoke applications for you using the Above platform that deliver the following benefits:\n\n*\r    1/10th the time and cost of traditional development\n\n*   No more black box projects—you can exactly what is happening in real time with your solution, data models and live data\n\n*   Zero technical debt, you can maintain your application by yourself and extend it with any type of resource\n\n\r"
+  - content: >
+      ### 100% Transparent Development
+
+
+      We build bespoke applications for you using the Above platform that
+      deliver the following benefits:
+
+
+      *   1/10th the time and cost of traditional development
+
+
+      *   No more black box projects—you can exactly what is happening in real
+      time with your solution, data models and live data
+
+
+      *   Zero technical debt, you can maintain your application by yourself and
+      extend it with any type of resource
     actions: []
     actions_position: bottom
     actions_width: fourty
