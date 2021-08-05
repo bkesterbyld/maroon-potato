@@ -18,17 +18,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/purple-gradient.png
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: "## 100% Transparent Development\n\nWe build bespoke applications for you using the Above platform that deliver the following benefits:\n\n*\r    1/10th the time and cost of traditional development\n\n*   No more black box projects—you can exactly what is happening in real time with your solution, data models and live data\n\n*   Zero technical debt, you can maintain your application by yourself and extend it with any type of resource\n\n\r"
     actions: []
     actions_position: bottom
     actions_width: fourty
