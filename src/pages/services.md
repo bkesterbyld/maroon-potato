@@ -86,7 +86,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Real Estate
+      - title: PropTech
         title_align: left
         content: "Construction Progress Monitoring\n\n\r\nLoan Disbursement Tracking\n\n\r\nML-based Investment Modeling\n"
         content_align: left
