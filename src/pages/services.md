@@ -54,6 +54,8 @@ sections:
       - title: Supply Chain
         title_align: left
         content: |
+
+
           Onsite Spares & MRO
 
           Consignment & VMI
