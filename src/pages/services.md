@@ -3,7 +3,7 @@ title: Service Solutions
 sections:
   - title: High Speed Solutions
     content: |
-      Custom applications powered by Above
+      get a custom application powered by Above
     actions: []
     media_position: top
     media_width: fifty
@@ -17,29 +17,20 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - content: >
-      ### 100% Transparent Development
+  - content: |
+      ###### Working with Above's team delivers
 
+      A solution at 1/10th the time and cost of traditional development
 
-      We build bespoke applications that deliver the following benefits:
+      Immediate results and progress you can see daily
 
+      Easy extension with zero technical debt
 
-      *   1/10th the time and cost of traditional development
-
-
-      *   No more black box projects—see exactly what is happening in real time
-      with your solution, data models and live data
-
-
-      *   Zero technical debt—maintain your application by yourself and extend
-      it with any type of resource
-
-
-      *   Predictable cost—scaling from MVP to millions of users is zero mystery
+      Predictable performance, scaling and costs
     actions: []
     actions_position: bottom
     actions_width: fourty
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
@@ -49,7 +40,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - title: Some of what we've built
+  - title: Example solutions from our applications library
     actions: []
     grid_items:
       - title: IoT
@@ -73,7 +64,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: '      '
+        subtitle: '                                                            '
       - title: Telecom
         title_align: center
         content: |
@@ -140,12 +131,14 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/chevrons.png
-  - content: |
+  - content: >
       ## Learn More
 
-      Find out how we can get your project done at 1/10th the time and cost.
+
+      Find out how we've consistently delivered at 1/10th the cost and time—from
+      simple applications to the world's most intense computing projects.
     actions:
-      - label: lorem-ipsum
+      - label: Learn More
         url: /general-enquiries
         style: primary
         has_icon: true
