@@ -3,7 +3,7 @@ title: Service Solutions
 sections:
   - title: High Speed Solutions
     content: |
-      We deliver custom applications powered by Above
+      Custom applications powered by Above
     actions: []
     media_position: top
     media_width: fifty
