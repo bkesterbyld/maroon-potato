@@ -135,8 +135,8 @@ sections:
       ## Learn More
 
 
-      Find out how we can get your project done at 1/10th the time and cost,
-      even on the world's toughest computing challenges. 
+      Find out how we've consistently delivered at 1/10th the cost and time from
+      simple applications to the world's most demanding projects.
     actions:
       - label: Learn More
         url: /general-enquiries
