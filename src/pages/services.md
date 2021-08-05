@@ -18,12 +18,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: >
-      ### 100% Transparent Development
-
-
-      We build bespoke applications that deliver the following benefits:
-
-
       ###### 1/10th the time and cost of traditional development
 
 
