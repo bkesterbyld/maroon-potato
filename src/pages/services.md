@@ -3,8 +3,6 @@ title: Service Solutions
 sections:
   - title: Bespoke Apps
     content: |
-      ## Bespoke Apps
-
       We build custom applications using the Above Service
     actions: []
     media_position: top
