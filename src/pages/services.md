@@ -88,7 +88,12 @@ sections:
         type: grid_item
       - title: PropTech
         title_align: left
-        content: "Construction Progress Monitoring\n\n\r\nLoan Disbursement Tracking\n\n\r\nML-based Investment Modeling\n"
+        content: |
+          Construction Progress Monitoring
+
+          Loan Disbursement Tracking
+
+          Investment Modeling
         content_align: left
         actions: []
         actions_align: left
