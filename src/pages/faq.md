@@ -23,25 +23,25 @@ sections:
     title: About Above Computing
     grid_items:
       - title: Are you a database company?
-        content: >-
+        content: >
           **No.**
 
           Above is a service that runs above mature SQL, NoSQL and Object
-          storage technologies across cloud providers. It's an abstraction layer
-          that brings physical distributed servers together with virtual data
-          modeling and logic technology. The result is a global, resilient data
-          processing network.
+          storage technologies across cloud providers. It's a user experience
+          layer that brings physical distributed servers together with virtual
+          data modeling and logic technology. The result is a global, resilient
+          data processing network.
 
 
-          We've been perfecting the technology for 10 years and it's  proven in
-          a prior company that handled extreme enterprise-grade projects for
-          Tesla, BAE Systems, Facebook, Microsoft, AWS and others. 
+          We've been perfecting the technology for 10 years and it's proven in a
+          prior company that handled extreme enterprise-grade projects for
+          Tesla, BAE Systems, Facebook, Microsoft, AWS and others.
 
 
           Because we use proven technologies, Above is safe, reliable and
           predictable. Also, since we don't have to develop a database or other
           low level technologies, all of our time is focused on bringing new
-          features to our users. 
+          features and better experiences to our users.
       - title: How does the logic work? Can I use my own code?
         content: >-
           Above's no code logic is based in large part on [control-flow
