@@ -101,8 +101,8 @@ sections:
       - title: IoT
         title_align: left
         content: >
-          Build digital asset models and fuse your sensor, ERP and customer data
-          into predictive IoT solutions
+          Build digital asset models and fuse sensor, ERP and customer data into
+          predictive IoT solutions
         content_align: left
         actions: []
         actions_align: left
