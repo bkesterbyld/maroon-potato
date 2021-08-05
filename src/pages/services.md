@@ -18,7 +18,11 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: |
-      ###### We'll get your project started or do the whole thing for you
+      ###### We'll get your project started *or* do the whole thing for you
+
+
+
+
 
       A solution at 1/10th the time and cost of traditional development
 
