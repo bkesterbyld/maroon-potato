@@ -73,7 +73,7 @@ sections:
       - title: Nothing to manage
         content: >
           Say goodbye to database admin, DevOps, infrastructure purchases,
-          infrastructure monitoring, and unplanned downtime
+          infrastructure monitoring, and unplanned downtime.
         actions: []
         media_position: right
         media_width: thirty-three
