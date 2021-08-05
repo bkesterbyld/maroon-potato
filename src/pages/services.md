@@ -44,28 +44,28 @@ sections:
           solutions built on the Above service include:
 
 
-          SUPPLY CHAIN
+          ###### SUPPLY CHAIN
 
 
-          ###### Onsite Spares & MRO
+          ##### Onsite Spares & MRO
 
 
-          ###### Consigned & Vendor Managed Inventory
+          ##### Consigned & Vendor Managed Inventory
 
 
-          ###### Warehouse Management
+          ##### Warehouse Management
 
 
-          ###### Transportation Management
+          ##### Transportation Management
 
 
-          ###### Order Management
+          ##### Order Management
 
 
-          ###### Trade Compliance
+          ##### Trade Compliance
 
 
-          ###### Collaborative Reverse Logistics
+          ##### Collaborative Reverse Logistics
 
 
           IoT
