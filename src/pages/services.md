@@ -1,7 +1,7 @@
 ---
 title: Service Solutions
 sections:
-  - title: Bespoke Apps
+  - title: Bespoke Solutions
     content: |
       We build custom applications using the Above Service
     actions: []
