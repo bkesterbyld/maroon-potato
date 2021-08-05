@@ -101,7 +101,7 @@ sections:
           Investment Modeling
 
           Payments
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
