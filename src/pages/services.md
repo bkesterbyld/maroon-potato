@@ -1,6 +1,5 @@
 ---
 title: Service Solutions
-excerpt: lorem-ipsum
 sections:
   - title: Solutions
     content: >-
