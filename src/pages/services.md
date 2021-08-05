@@ -18,7 +18,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: |
-      Working with Above's team delivers
+      ###### Working with Above's team delivers
 
       A solution at 1/10th the time and cost of traditional development
 
