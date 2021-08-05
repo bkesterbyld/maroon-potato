@@ -20,9 +20,7 @@ sections:
     background_image: images/20161201_162410_001 (2) (1).jpg
   - title: Solutions Store & Services
     features:
-      - content: |
-          ######
-        actions: []
+      - actions: []
         media_position: top
         media_width: fifty
         align: left
