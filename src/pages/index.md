@@ -129,6 +129,17 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
+      - title: Multiparty Applications
+        title_align: left
+        content: >
+          Aggregate disparate data and power novel apps across business units
+          and partners
+        content_align: left
+        actions: []
+        actions_align: left
+        image_position: top
+        image_align: center
+        image_has_padding: true
       - title: Cloud Migration
         title_align: left
         content: >
@@ -143,17 +154,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Multiparty Applications
-        title_align: left
-        content: >
-          Aggregate disparate data and power novel apps across business units
-          and partners
-        content_align: left
-        actions: []
-        actions_align: left
-        image_position: top
-        image_align: center
-        image_has_padding: true
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
