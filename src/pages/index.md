@@ -69,7 +69,6 @@ sections:
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
       - title: Nothing to Manage
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
