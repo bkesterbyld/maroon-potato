@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy low
-      code processing logic. It enables anyone to create an API-based data lake
+      code processing logic. It enables anyone to create an API-based datastore
       to build apps, run analytics and share data.
     actions:
       - label: Learn More
@@ -32,20 +32,21 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, data processing, storage, and bespoke APIs
-          into a single service—all setup in minutes with low code tools. Above
-          users deliver new solutions 20X faster than traditional development.
+          into a single simple service—all setup in minutes with low code tools.
+          Above users deliver new solutions 20X faster than traditional
+          approaches and tools. 
         actions: []
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: 'Nothing to learn, ship faster than ever'
+        title: New apps and data solutions delivered faster than ever
       - title: Scalable native analytics and business logic
         subtitle: ''
         content: >
           Above is globally distributed to run real time analytics on large data
           sets while simultaneously handling high-performance business logic for
           applications. Logic is triggered by timers and external events,
-          resulting in the world's smartest datastore.
+          resulting in a smart, dynamic datastore.
         actions: []
         image: images/charming-thyme.png
         media_position: left
@@ -89,7 +90,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Software Prototyping
+      - title: Backend Prototyping
         title_align: left
         content: |
           Prototype data models and logic for  frontend engineering teams
