@@ -141,8 +141,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/chevrons.png
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
