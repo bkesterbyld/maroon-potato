@@ -38,7 +38,7 @@ sections:
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: 'Nothing to learn, create solution fast'
+        title: 'Nothing to learn, create solutions fast'
       - title: Scalable native analytics and business logic
         subtitle: ''
         content: >
