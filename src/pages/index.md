@@ -115,8 +115,8 @@ sections:
       - title: 360 Customer Profiles
         title_align: left
         content: >
-          Build and act on real time customer profiles from all your touchpoints
-          and data sources
+          Build and act on real time profiles from all customer touchpoints and
+          data sources
         content_align: left
         actions: []
         actions_align: left
