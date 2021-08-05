@@ -70,8 +70,8 @@ sections:
         image: images/multi-cloud.png
       - title: Nothing to Manage
         content: >
-          Say goodbye to database admin, DevOps, infrastructure management tools
-          and more
+          Say goodbye to database admin, DevOps, infrastructure purchases,
+          infrastructure monitoring, and unplanned downtime
         actions: []
         media_position: right
         media_width: thirty-three
