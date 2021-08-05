@@ -2,7 +2,6 @@
 title: Service Solutions
 sections:
   - title: Bespoke Apps
-    subtitle: lorem-ipsum
     content: |
       ## Bespoke Apps
 
