@@ -40,7 +40,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - title: Some of what we've built
+  - title: Example solutions from our applications library
     actions: []
     grid_items:
       - title: IoT
