@@ -22,19 +22,21 @@ sections:
       ### 100% Transparent Development
 
 
-      We build bespoke applications for you using the Above platform that
-      deliver the following benefits:
+      We build bespoke applications that deliver the following benefits:
 
 
       *   1/10th the time and cost of traditional development
 
 
-      *   No more black box projects—you can exactly what is happening in real
-      time with your solution, data models and live data
+      *   No more black box projects—see exactly what is happening in real time
+      with your solution, data models and live data
 
 
-      *   Zero technical debt, you can maintain your application by yourself and
-      extend it with any type of resource
+      *   Zero technical debt—maintain your application by yourself and extend
+      it with any type of resource
+
+
+      *   Predictable cost—scaling from MVP to millions of users is zero mystery
     actions: []
     actions_position: bottom
     actions_width: fourty
