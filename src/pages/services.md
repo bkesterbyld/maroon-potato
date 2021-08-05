@@ -53,17 +53,14 @@ sections:
     grid_items:
       - title: Supply Chain
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          *   Onsite Spares & MRO
+          *   Consigned & Vendor Managed Inventory
+          *   Warehouse Management
+          *   Transportation Management
+          *   Order Management
+          *   Trade Compliance
+          *   Collaborative Reverse Logistics
         content_align: left
         actions: []
         actions_align: left
