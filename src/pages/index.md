@@ -37,7 +37,7 @@ sections:
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: 'Nothing to learn, usable by anyone'
+        title: 'Nothing to learn, ship faster than ever'
       - title: Scalable native analytics and business logic
         subtitle: ''
         content: >
