@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Smart Cloud Data Service
+    title: Smart Cloud Datastore
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy low
@@ -33,19 +33,17 @@ sections:
         content: >
           Above unifies data models, data processing, storage, and bespoke APIs
           into a single simple service—setup in minutes with low code tools.
-          Deliver new solutions 20X faster than traditional approaches.
         actions: []
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: New apps and data solutions delivered faster than ever
+        title: 'Nothing to learn, usable by anyone'
       - title: Scalable native analytics and business logic
         subtitle: ''
         content: >
           Above is globally distributed to run real time analytics on large data
           sets while simultaneously handling high-performance business logic for
-          applications. Logic is triggered by both timers and external events,
-          resulting in a smart, dynamic datastore.
+          applications. 
         actions: []
         image: images/charming-thyme.png
         media_position: left
@@ -74,8 +72,8 @@ sections:
         content: >
           Say goodbye to unpredictable costs for database admin, DevOps,
           infrastructure, infrastructure monitoring, and unplanned downtime.
-          Above is globally distributed to enable infinite scaling and gets rid
-          of hundreds of low-level data management tasks.
+          Above is globally distributed, scales infinitely and gets rid of
+          hundreds of data management tasks.
         actions: []
         media_position: right
         media_width: thirty-three
@@ -156,9 +154,8 @@ sections:
         image_has_padding: true
       - title: App Modernization
         title_align: left
-        content: >
-          Clone the backend of legacy on prem applications and internal tools in
-          days
+        content: |
+          Clone the backend of on prem applications and internal tools in days
         content_align: left
         actions: []
         actions_align: left
