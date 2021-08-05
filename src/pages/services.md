@@ -1,7 +1,7 @@
 ---
 title: Service Solutions
 sections:
-  - title: Bespoke Solutions
+  - title: High Speed Solutions
     content: |
       We deliver custom applications powered by Above
     actions: []
