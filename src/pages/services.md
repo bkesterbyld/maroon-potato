@@ -17,7 +17,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-    background_image: images/gradient-above-4.png
+    background_image: images/purple-gradient.png
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
