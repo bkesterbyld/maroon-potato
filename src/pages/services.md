@@ -55,11 +55,17 @@ sections:
         title_align: left
         content: |
           *   Onsite Spares & MRO
+
           *   Consigned & Vendor Managed Inventory
+
           *   Warehouse Management
+
           *   Transportation Management
+
           *   Order Management
+
           *   Trade Compliance
+
           *   Collaborative Reverse Logistics
         content_align: left
         actions: []
