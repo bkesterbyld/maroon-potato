@@ -48,7 +48,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - title: Apps Built By Above
+  - title: Experience delivering hundreds of apps
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
