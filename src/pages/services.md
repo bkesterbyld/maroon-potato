@@ -18,8 +18,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/purple-gradient.png
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
