@@ -56,7 +56,7 @@ sections:
         content: |
           Onsite Spares & MRO
 
-          Consigned & Vendor Managed Inventory
+          Consignment & VMI
 
           Warehouse Management
 
@@ -66,7 +66,7 @@ sections:
 
           Trade Compliance
 
-          Collaborative Reverse Logistics
+          Reverse Logistics
         content_align: left
         actions: []
         actions_align: left
