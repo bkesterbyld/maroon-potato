@@ -3,7 +3,7 @@ title: Service Solutions
 sections:
   - title: Bespoke Solutions
     content: |
-      We build custom applications using the Above Service
+      We deliver custom applications powered by Above
     actions: []
     media_position: top
     media_width: fifty
