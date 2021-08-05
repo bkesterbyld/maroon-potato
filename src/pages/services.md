@@ -49,7 +49,6 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - title: Experience delivering hundreds of apps
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
