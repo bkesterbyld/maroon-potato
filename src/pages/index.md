@@ -90,7 +90,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Serverless Backend for Prototyping
+      - title: Backend Prototyping
         title_align: left
         content: |
           Prototype data models and logic for  frontend engineering teams
