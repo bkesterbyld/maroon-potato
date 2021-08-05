@@ -80,17 +80,7 @@ sections:
         type: grid_item
       - title: IoT
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Kiosks with Media and Ad Management\r\nPredictive Product Maintenance\r\nFactory Monitoring\r\nBuilding and Factory Energy Management\r\nSolar Monitoring & Arbitrage\r\nSpecialty Vehicle Monitoring\n"
         content_align: left
         actions: []
         actions_align: left
