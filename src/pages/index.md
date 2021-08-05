@@ -77,6 +77,16 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
+      - title: Software Prototyping
+        title_align: left
+        content: |
+          Prototype data models and logic for your frontend engineering team
+        content_align: left
+        actions: []
+        actions_align: left
+        image_position: top
+        image_align: center
+        image_has_padding: true
       - title: Cloud Migration
         title_align: left
         content: >
@@ -119,16 +129,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Software Prototyping
-        title_align: left
-        content: |
-          Prototype data models and logic for your frontend engineering team
-        content_align: left
-        actions: []
-        actions_align: left
-        image_position: top
-        image_align: center
-        image_has_padding: true
       - title: Multiparty Applications
         title_align: left
         content: >
