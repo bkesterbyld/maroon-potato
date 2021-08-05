@@ -20,8 +20,6 @@ sections:
   - content: |
       ###### Working with Above's team delivers
 
-      \<br>
-
       A solution at 1/10th the time and cost of traditional development
 
       Immediate results and progress you can see daily
