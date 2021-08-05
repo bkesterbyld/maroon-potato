@@ -156,9 +156,8 @@ sections:
         image_has_padding: true
       - title: App Modernization
         title_align: left
-        content: >
-          Clone the backend of legacy on prem applications and internal tools in
-          days
+        content: |
+          Clone the backend of on prem applications and internal tools in days
         content_align: left
         actions: []
         actions_align: left
