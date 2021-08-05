@@ -94,6 +94,8 @@ sections:
           Loan Disbursement Tracking
 
           Investment Modeling
+
+          Payments
         content_align: left
         actions: []
         actions_align: left
