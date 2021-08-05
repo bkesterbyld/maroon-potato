@@ -27,20 +27,18 @@ sections:
           **No.**
 
           Above is a service that runs above mature SQL, NoSQL and Object
-          storage technologies across cloud providers. It's a user experience
-          layer that brings physical distributed servers together with virtual
-          data modeling and logic technology. The result is a global, resilient
-          data processing network.
-
-
-          We've been perfecting the technology for 10 years and it's proven in a
-          prior company that handled extreme enterprise-grade projects for
-          Tesla, BAE Systems, Facebook, Microsoft, AWS and others.
+          storage technologies across cloud providers. It's a no code user
+          experience layer that brings physical distributed servers together
+          with virtual data modeling and logic technology. The result is a
+          global, resilient data processing network that enables virtually
+          anyone to be a high end "database arcthitect" without having to mess
+          with, or manage, databases. It also gives users the ability to build
+          powerful logic and analytics without coding.
 
 
           Because we use proven technologies, Above is safe, reliable and
           predictable. Also, since we don't have to develop a database or other
-          low level technologies, all of our time is focused on bringing new
+          low-level technologies, all of our time is focused on bringing new
           features and better experiences to our users.
       - title: How does the logic work? Can I use my own code?
         content: >-
