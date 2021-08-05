@@ -23,11 +23,13 @@ sections:
       - content: >
           Our service team builds bespoke solutions using the Above platform to
           work as a solution backend, and then creates a frontend for you with
-          modern mobile and web interface technologies. Generally, we can get
-          you a custom, highly scalable and extensible application at 1/10th the
-          cost and time of your internal or external development options. We
-          work in a highly agile approach with daily iteration you can see and
-          test through the Above platform.
+          modern mobile and web interface technologies.
+
+
+          We can get you a custom, highly scalable and extensible application at
+          1/10th the cost and time of your internal or external development
+          options. We work in a highly agile approach with daily iteration you
+          can see and test through the Above platform.
 
 
           Benefits of working with us include:
