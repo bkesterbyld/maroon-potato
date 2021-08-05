@@ -72,8 +72,8 @@ sections:
         image: images/multi-cloud.png
       - title: Nothing to manage
         content: >
-          Say goodbye to database admin, DevOps, infrastructure purchases,
-          infrastructure monitoring, and unplanned downtime.
+          Say goodbye to unpredictable costs for database admin, DevOps,
+          infrastructure, infrastructure monitoring, and unplanned downtime.
         actions: []
         media_position: right
         media_width: thirty-three
