@@ -21,8 +21,8 @@ sections:
   - title: Solutions Store & Services
     features:
       - content: >
-          We build bespoke applications for you using the Above platform.
-          Benefits of working with us include:
+          We build bespoke applications for you using the Above platform that
+          deliver the following benefits:
 
 
           *   1/10th the time and cost of traditional development
@@ -47,25 +47,25 @@ sections:
           SUPPLY CHAIN
 
 
-          *   Onsite Spares & MRO
+          ###### Onsite Spares & MRO
 
 
-          *   Consigned & Vendor Managed Inventory
+          ###### Consigned & Vendor Managed Inventory
 
 
-          *   Warehouse Management
+          ###### Warehouse Management
 
 
-          *   Transportation Management
+          ###### Transportation Management
 
 
-          *   Order Management
+          ###### Order Management
 
 
-          *   Trade Compliance
+          ###### Trade Compliance
 
 
-          *   Collaborative Reverse Logistics
+          ###### Collaborative Reverse Logistics
 
 
           IoT
