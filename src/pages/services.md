@@ -20,8 +20,7 @@ sections:
     background_image: images/purple-gradient.png
   - title: Solutions Store & Services
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
