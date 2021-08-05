@@ -48,7 +48,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - title: Experience delivering hundreds of apps
+  - title: Some of what we've built
     actions: []
     grid_items:
       - title: Supply Chain
