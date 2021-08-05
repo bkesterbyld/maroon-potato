@@ -91,7 +91,7 @@ sections:
       - title: Software Prototyping
         title_align: left
         content: |
-          Prototype data models and logic for your frontend engineering team
+          Prototype data models and logic for  frontend engineering teams
         content_align: left
         actions: []
         actions_align: left
