@@ -85,7 +85,12 @@ sections:
         type: grid_item
       - title: Telecom
         title_align: left
-        content: "Network Monitoring\n\n\r\nCell Tower Management\n\n\r\nEquipment Assembly & Fulfillment\n"
+        content: |
+          Network Monitoring
+
+          Cell Tower Management
+
+          Equipment Assembly & Refurb
         content_align: left
         actions: []
         actions_align: left
