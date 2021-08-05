@@ -65,7 +65,7 @@ sections:
           Solar Monitoring
 
           Fleet Tracking
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
