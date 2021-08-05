@@ -38,7 +38,7 @@ sections:
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: New apps and data solutions delivered faster than ever
+        title: 'Nothing to learn, usable by anyone'
       - title: Scalable native analytics and business logic
         subtitle: ''
         content: >
