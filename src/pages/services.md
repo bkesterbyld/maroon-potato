@@ -18,9 +18,9 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: |
-      ###### Working with Above's team delivers
+      ###### We'll get your project started *or* do the whole thing for you
 
-      A solution at 1/10th the time and cost of traditional development
+      A solution at a fraction of the time and cost of traditional development
 
       Immediate results and progress you can see daily
 
@@ -135,8 +135,9 @@ sections:
       ## Learn More
 
 
-      Find out how we've consistently delivered at 1/10th the cost and time—from
-      simple applications to the world's most intense computing projects.
+      Find out how we've consistently delivered at a fraction of the cost and
+      time—from simple applications to the world's most intense computing
+      projects.
     actions:
       - label: Learn More
         url: /general-enquiries

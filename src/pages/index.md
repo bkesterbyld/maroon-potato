@@ -70,10 +70,10 @@ sections:
         image: images/multi-cloud.png
       - title: 'Nothing to manage, scales forever'
         content: >
-          Say goodbye to unpredictable costs for database admin, DevOps,
-          infrastructure, infrastructure monitoring, and unplanned downtime.
-          Above is globally distributed, scales infinitely and gets rid of
-          hundreds of data management tasks.
+          Say goodbye to unpredictable costs for infrastructure, database admin,
+          DevOps, monitoring, and unplanned downtime. Above is globally
+          distributed, scales infinitely, and gets rid of hundreds of data
+          management tasks.
         actions: []
         media_position: right
         media_width: thirty-three
@@ -127,6 +127,17 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title: Collaborative ERP & Supply Chain
+        title_align: left
+        content: >
+          Aggregate disparate data and power novel apps across business units
+          and partners
+        content_align: left
+        actions: []
+        actions_align: left
+        image_position: top
+        image_align: center
+        image_has_padding: true
       - title: Secure Data Sharing
         title_align: left
         content: >
@@ -141,17 +152,6 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-      - title: Collaborative ERP & Supply Chain
-        title_align: left
-        content: >
-          Aggregate disparate data and power novel apps across business units
-          and partners
-        content_align: left
-        actions: []
-        actions_align: left
-        image_position: top
-        image_align: center
-        image_has_padding: true
       - title: App Modernization
         title_align: left
         content: |
