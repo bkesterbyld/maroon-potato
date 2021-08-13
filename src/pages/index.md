@@ -6,8 +6,9 @@ sections:
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy low
-      code processing logic. It enables anyone to create an API-based datastore
-      to build apps, run analytics and share data.
+      code processing logic. It enables product managers to conceive, test,
+      launch and refine software products and fully control the development
+      cycle.
     actions:
       - label: Learn More
         url: /general-enquiries
