@@ -68,17 +68,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Collaborative ERP & Supply Chain
-        title_align: left
-        content: >
-          Aggregate disparate data and power novel apps across business units
-          and partners
-        content_align: left
-        actions: []
-        actions_align: left
-        image_position: top
-        image_align: center
-        image_has_padding: true
       - title: Secure Data Sharing
         title_align: left
         content: >
