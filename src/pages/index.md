@@ -26,7 +26,7 @@ sections:
     form_position: right
     form_width: fourty
     form_layout: inline
-    enable_card: true
+    enable_card: false
     form_id: lorem-ipsum
     form_action: Join the waitlist
     form_fields:
