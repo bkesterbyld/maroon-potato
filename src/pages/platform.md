@@ -29,6 +29,9 @@ sections:
       - title: Model Data
         title_align: center
         content: >
+          ![](images/datamodel.svg)
+
+
           Build data tables and relationships between tables with a few clicks.
           Above handles any data type and leverages mature and safe SQL, NoSQL
           and object stores behind the scenes.
