@@ -204,7 +204,7 @@ sections:
     has_border: true
     background_image: images/gradient-above-lower-1.png
   - type: grid_section
-    title: Proven In Mission Critical Projects
+    title: Proven In Mission Critical Products
     subtitle: ''
     grid_items:
       - image: images/HP-logo.png
