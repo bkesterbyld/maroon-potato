@@ -30,10 +30,8 @@ sections:
         title_align: center
         content: >
           Build data tables and relationships between tables with a few clicks.
-          Data can be structured and stored in a SQL database or unstructured
-          and stored in a NoSQL database. The service also supports media, file
-          and other objects. The datastore is abstracted away so you don't worry
-          about any of the underlying technology. 
+          Above handles any data type and leverages mature and safe SQL, NoSQL
+          and object stores behind the scenes.
         content_align: center
         actions: []
         actions_align: left
