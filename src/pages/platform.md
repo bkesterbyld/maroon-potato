@@ -3,8 +3,8 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Cloud Service
-    subtitle: ''
+    title: Unified Cloud Service
+    subtitle: Product
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
       code processing logic—delivered as a unified, easy cloud service
@@ -111,9 +111,9 @@ sections:
         type: feature
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
-      - title: Edge Network
+      - title: Edge Computing
         content: >
-          Above enables you to put logic, data and content next to your
+          Above enables you to replicate logic, data and content next to your
           customers so your products deliver lighting fast data responses.
         actions: []
         media_position: right
@@ -136,39 +136,6 @@ sections:
     background_color: none
     has_border: true
     padding_top: small
-  - type: grid_section
-    title: Proven In Mission Critical Projects
-    subtitle: ''
-    grid_items:
-      - image: images/HP-logo.png
-        image_position: top
-        image_width: sixty
-        content_align: center
-        image_align: center
-      - image: images/teslaenergy.png
-        image_position: top
-        image_width: sixty
-        title_align: center
-        content_align: center
-        image_align: center
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        image: images/bae2.png
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: none
-    has_border: true
-    enable_cards: false
   - type: cta_section
     title: Try it out!
     actions:
