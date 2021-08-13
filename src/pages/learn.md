@@ -35,7 +35,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: textarea
-        name: What kind of apps are you building?
+        name: Details?
         label: What kind of apps are you building?
         default_value: Just a little bit of detail goes a long way!
       - input_type: checkbox
