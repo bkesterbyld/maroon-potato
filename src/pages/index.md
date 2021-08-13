@@ -256,7 +256,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: Joinwaitlist
+    submit_label: Join waitlist
     align_vert: middle
     padding_top: medium
     padding_bottom: medium
