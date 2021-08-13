@@ -53,7 +53,7 @@ sections:
 
           *   Incorporate and test new features in hours
 
-          *   Ship fast without fear of technical debt
+          *   Ship quickly without fear of cutting corners or technical debt
         actions: []
         image: images/charming-thyme.png
         media_position: left
