@@ -64,8 +64,8 @@ sections:
         media_width: fourty
       - title: Powerful
         content: >
-          Above's toolset follows fundamental programming patterns, so it's easy
-          for your engineering team to collaborate or take over.
+          Above's logic engine follows fundamental programming patterns, so it's
+          easy for your engineering team to collaborate or take over.
 
 
           *   Toolset delivers capabilities of a declarative programming
