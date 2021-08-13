@@ -167,7 +167,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Secure Data Sharing
+      - title: APIs for Legacy Products
         title_align: left
         content: >
           Publish data sets from your existing products for other parties to
