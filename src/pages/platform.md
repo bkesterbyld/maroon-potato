@@ -53,7 +53,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: 360 Customer Profiles
+      - title: Input Data & Test
         title_align: left
         content: >
           Build and act on real time profiles from all customer touchpoints and
