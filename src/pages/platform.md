@@ -122,7 +122,6 @@ sections:
         type: feature
         image: images/globe-sitck-jamstack3.png
       - title: Parallel & In Memory Processing
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
