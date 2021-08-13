@@ -3,7 +3,7 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Platform
+    title: Cloud Service
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
