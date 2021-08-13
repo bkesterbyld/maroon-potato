@@ -50,7 +50,13 @@ sections:
         content: >
           Above is globally distributed to run real time analytics on large data
           sets while simultaneously handling high-performance business logic for
-          applications. 
+          applications.
+
+
+          *   Ship fast without technical debt
+
+
+          *   Incorporate new features and iterations in hours
         actions: []
         image: images/charming-thyme.png
         media_position: left
