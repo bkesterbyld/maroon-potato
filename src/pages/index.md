@@ -89,7 +89,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Backend Prototyping
+      - title: Product Prototyping
         title_align: left
         content: |
           Prototype data models and logic for  frontend engineering teams
