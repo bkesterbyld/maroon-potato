@@ -122,7 +122,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: images/undraw_My_universe_re_txot (1).svg
+        image: images/globe-sitck-jamstack3.png
     feature_padding_vert: large
     align: center
     background_color: none
