@@ -43,8 +43,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Define Application Logic
-        title_align: center
+      - title_align: center
         content: >
           ![](images/undraw_prototyping_process_rswj%20\(1\).svg)
 
