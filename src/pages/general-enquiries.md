@@ -3,7 +3,9 @@ title: Above - Beta Signup
 sections:
   - type: hero_section
     title: Get on our waitlist
-    subtitle: Or get a demo
+    subtitle: >-
+      Above is currently in use with select enterprise and SMB companies, with
+      GA expected in Q1 2022
     align: center
     padding_top: medium
     padding_bottom: medium
