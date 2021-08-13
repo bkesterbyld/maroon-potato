@@ -47,7 +47,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: images/purple-gradient.png
+    background_image: images/gradient-above-4.png
   - type: features_section
     title: ''
     subtitle: ''
