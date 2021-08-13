@@ -34,7 +34,7 @@ sections:
           and stored in a NoSQL database. The service also supports media, file
           and other objects. The datastore is abstracted away so you don't worry
           about any of the underlying technology. 
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         image_position: top
