@@ -38,7 +38,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Define Logic
+      - title: Define Application Logic
         title_align: left
         content: >
           Create both CRUD and analytic routines via clicks. The service
