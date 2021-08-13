@@ -31,7 +31,7 @@
                 "type": "action"
             },
             {
-                "label": "Join the waitlis",
+                "label": "Join the waitlist",
                 "url": "/general-enquiries",
                 "style": "primary",
                 "has_icon": false,
