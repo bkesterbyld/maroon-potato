@@ -67,8 +67,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Input & Test
-        title_align: center
+      - title_align: center
         content: >
           ![](images/test.png)
 
