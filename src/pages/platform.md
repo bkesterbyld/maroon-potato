@@ -29,8 +29,11 @@ sections:
       - title: Model Data
         title_align: left
         content: >
-          Implement data models and logic requirements and immediately give
-          frontend teams an API to build from
+          Build data tables and relationships between tables with a few clicks.
+          Data can be structured and stored in a SQL database or unstructured
+          and stored in a NoSQL database. The service also supports media, file
+          and other objects. The datastore is abstracted away so you don't worry
+          about any of the underlying technology. 
         content_align: left
         actions: []
         actions_align: left
