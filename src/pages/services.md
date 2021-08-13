@@ -97,7 +97,7 @@ sections:
 
           Investment Modeling
 
-          Payments
+          B2B Payments
         content_align: center
         actions: []
         actions_align: left
