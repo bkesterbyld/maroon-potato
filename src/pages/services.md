@@ -147,7 +147,7 @@ sections:
       projects.
     actions:
       - label: Learn More
-        url: /general-enquiries
+        url: /learn
         style: primary
         has_icon: true
         icon: arrow-right
