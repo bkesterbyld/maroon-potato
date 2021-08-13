@@ -51,6 +51,8 @@ sections:
           requests virtually overnight
 
 
+          *   Incorporate and test new features in hours
+
           *   Ship fast without fear of technical debt
         actions: []
         image: images/charming-thyme.png
