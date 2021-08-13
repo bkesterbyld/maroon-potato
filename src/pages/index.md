@@ -238,7 +238,7 @@ sections:
     background_color: primary
     content: |
       No technical skills required
-  - title: lorem-ipsum
+  - title: join the waitlist
     subtitle: lorem-ipsum
     title_align: left
     content: >-
