@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
-      code processing logic.
+      code processing logic
     actions: []
     media_position: right
     media_width: fifty
