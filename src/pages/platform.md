@@ -95,7 +95,7 @@ sections:
     has_border: true
     padding_top: small
   - type: grid_section
-    title: Use Cases
+    title: How it Works
     subtitle: ''
     grid_items:
       - title: Product Prototyping
