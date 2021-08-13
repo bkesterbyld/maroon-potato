@@ -72,8 +72,8 @@ sections:
           language
 
 
-          *   Unifies structured  and unstructured data into single distributed,
-          fault-tolerant, scalable service
+          *   Unifies structured  and unstructured data into a single
+          distributed, fault-tolerant, scalable service
         actions: []
         media_position: right
         media_width: fifty
