@@ -3,7 +3,7 @@ title: Above - Beta Signup
 excerpt: Beta Signup for Distributed Backend API
 sections:
   - type: hero_section
-    title: Get on our waitlist
+    title: Learn More
     subtitle: >-
       Above is currently in use with select enterprise and SMB companies, with
       GA expected in Q1 2022
