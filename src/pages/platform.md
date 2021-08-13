@@ -24,7 +24,7 @@ sections:
     background_image: images/purple-gradient.png
   - type: grid_section
     title: How it Works
-    subtitle: ''
+    subtitle: 'No code backend '
     grid_items:
       - title: Model Data
         title_align: center
