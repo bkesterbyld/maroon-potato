@@ -183,8 +183,9 @@ sections:
         type: grid_item
       - title: App Modernization
         title_align: left
-        content: |
+        content: >
           Clone the backend of on prem applications and internal tools in days
+          or use Above to create data APIs for your legacy products.
         content_align: left
         actions: []
         actions_align: left
