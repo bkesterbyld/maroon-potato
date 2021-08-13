@@ -225,7 +225,7 @@ sections:
   - type: cta_section
     title: Learn about the platform
     actions:
-      - label: Get on the waitlist
+      - label: Learn More
         url: /general-enquiries
         style: primary
     actions_position: right
