@@ -60,12 +60,12 @@ sections:
         media_width: fourty
       - title: Powerful
         content: >
-          Above's logic engine follows fundamental programming concepts,
-          enabling engineers to easily collaborate or take over
+          Above's logic engine follows imperative programming patterns, enabling
+          engineers to easily collaborate or take over
 
 
-          *   Delivers the power of an imperative programming language like Java
-          and handles complex use cases
+          *   Handles complex use cases while accessible to anyone with a
+          logical mind
 
 
           *   Unifies structured  and unstructured data into a single
