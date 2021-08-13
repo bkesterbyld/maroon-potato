@@ -114,7 +114,7 @@ sections:
       - title: Distributed Computing
         content: >
           Above enables you to put logic, data and content next to your
-          customers so your products deliver low-latency snappy data responses
+          customers so your products deliver low-latency snappy data responses.
         actions: []
         media_position: right
         media_width: thirty-three
