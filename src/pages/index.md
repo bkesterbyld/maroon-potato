@@ -238,8 +238,7 @@ sections:
     background_color: primary
     content: |
       No technical skills required
-  - title: join the waitlist
-    subtitle: Coming soon
+  - subtitle: Coming soon
     title_align: left
     content_align: left
     form_position: bottom
