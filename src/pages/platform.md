@@ -31,7 +31,7 @@ sections:
           ![](images/datamodel.svg)
 
 
-          ##### Model Data
+          #### Model Data
 
 
           Build data tables and relationships between tables with a few clicks.
