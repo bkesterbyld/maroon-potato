@@ -123,8 +123,8 @@ sections:
         image: images/globe-sitck-jamstack3.png
       - title: Parallel & In Memory Processing
         content: >
-          Handle any volume of data and analytics with advanced parallel and in
-          memory processing.
+          Break down massive data sets and process them in parallel while
+          utilizing in-memory logic for intense calculations.
         actions: []
         media_position: left
         media_width: fourty
