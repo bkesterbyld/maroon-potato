@@ -100,8 +100,8 @@ sections:
           price
 
 
-          *   Minimize dependencies and blockers to get full control over the
-          software development lifecyle
+          *   Minimize dependencies and  get full control over the product
+          development cycle
         actions: []
         media_position: right
         media_width: thirty-three
