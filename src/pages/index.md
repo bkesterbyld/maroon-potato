@@ -185,7 +185,7 @@ sections:
         title_align: left
         content: >
           Clone the backend of on prem applications and internal tools in days
-          or use Above to create data APIs for your legacy products.
+          and reduce hosting, DBA and other maintainance costs
         content_align: left
         actions: []
         actions_align: left
