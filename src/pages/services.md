@@ -78,6 +78,8 @@ sections:
           Cell Tower Management
 
           Equipment Assembly & Refurb
+
+          Quality Management
         content_align: center
         actions: []
         actions_align: left
