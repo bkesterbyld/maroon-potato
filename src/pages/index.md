@@ -5,10 +5,8 @@ sections:
     title: No Code Data & Logic Prototyping
     subtitle: ''
     content: >
-      Above combines the capabilities of SQL and NoSQL databases with easy no
-      code processing logic. It enables product managers to conceive, test,
-      launch and refine software products and fully control the development
-      cycle.
+      Simple API-centric backend service for product managers to conceive, test,
+      launch, refine and scale new software
     actions:
       - label: Learn More
         url: /general-enquiries
