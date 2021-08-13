@@ -23,7 +23,7 @@ sections:
     background_image: images/gradient-above-4.png
   - title_align: left
     content_align: left
-    form_position: right
+    form_position: top
     form_width: fourty
     form_layout: inline
     enable_card: true
