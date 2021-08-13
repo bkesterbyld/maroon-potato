@@ -59,7 +59,7 @@ sections:
           As you build data models and logic, the service generates both web
           input forms and secure custom APIs. You can immediately put data
           through your solution and power user interfaces.
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
