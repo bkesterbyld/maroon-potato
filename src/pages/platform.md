@@ -111,7 +111,7 @@ sections:
         type: feature
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
-      - title: Edge Network
+      - title: Edge Computing
         content: >
           Above enables you to put logic, data and content next to your
           customers so your products deliver lighting fast data responses.
