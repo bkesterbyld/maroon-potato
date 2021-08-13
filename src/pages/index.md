@@ -52,13 +52,13 @@ sections:
           virtually overnight
 
 
-          *   Ship fast without fear of technical debt
+          *   Incorporate new features and iterations in hours
 
 
           <!---->
 
 
-          *   Incorporate new features and iterations in hours
+          *   Ship fast without fear of technical debt
         actions: []
         image: images/charming-thyme.png
         media_position: left
