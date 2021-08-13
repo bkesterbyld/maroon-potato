@@ -108,7 +108,7 @@ sections:
     grid_gap_vert: large
     enable_cards: true
     align: center
-    background_color: primary
+    background_color: secondary
     has_border: true
     background_image: images/gradient-above-lower-1.png
   - type: features_section
