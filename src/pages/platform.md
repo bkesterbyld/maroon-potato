@@ -23,7 +23,7 @@ sections:
     background_image_size: auto
     video_embed_html: ''
     background_image_repeat: no-repeat
-    background_image: images/gradient-above-4.png
+    background_image: images/purple-gradient.png
   - type: features_section
     title: ''
     subtitle: ''
