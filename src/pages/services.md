@@ -1,7 +1,7 @@
 ---
 title: Service Solutions
 sections:
-  - title: High Speed Solutions
+  - title: High Speed Services
     content: |
       get a custom application powered by Above
     actions: []

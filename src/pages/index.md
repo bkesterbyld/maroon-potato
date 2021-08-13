@@ -124,7 +124,7 @@ sections:
     has_border: true
     padding_top: small
   - type: grid_section
-    title: Use Cases
+    title: Solutions
     subtitle: ''
     grid_items:
       - title: Financial Services
@@ -180,8 +180,8 @@ sections:
       - title: APIs for Legacy Products
         title_align: left
         content: >
-          Publish data sets from your existing products that can be browsed
-          online or accessed through APIs
+          Publish data sets from your existing products that are browsed online
+          or accessed through APIs
         content_align: left
         actions: []
         actions_align: left
@@ -194,8 +194,8 @@ sections:
       - title: App Modernization
         title_align: left
         content: >
-          Clone the backend of on prem applications and internal tools in days
-          and reduce hosting, DBA and other maintainance costs
+          Clone the backend of legacy applications in days and reduce hosting,
+          DBA, and other maintenance costs
         content_align: left
         actions: []
         actions_align: left
