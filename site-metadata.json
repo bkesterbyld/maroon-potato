@@ -11,7 +11,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Solutions & Services",
+                "label": "Solutions",
                 "url": "/services",
                 "style": "link",
                 "has_icon": false,
