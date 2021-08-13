@@ -117,7 +117,7 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Product Prototyping
+      - title: Financial Services
         title_align: left
         content: >
           Implement data models and logic requirements and immediately give
