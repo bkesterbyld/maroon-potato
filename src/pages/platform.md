@@ -44,14 +44,14 @@ sections:
         image_has_padding: true
       - title_align: center
         content: >
-
-
           #### Define Logic
 
 
-          Create both CRUD and analytic routines via clicks. The service
-          generates a visual diagram so you or your engineers can trace and
-          troubleshoot business logic.
+          Create both CRUD and analytic routines via clicks.
+
+
+          The service generates a visual diagram so you or your engineers can
+          trace and troubleshoot business logic.
         content_align: center
         actions: []
         actions_align: left
