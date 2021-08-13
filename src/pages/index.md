@@ -8,7 +8,7 @@ sections:
       Simple API-based backend service for product managers to conceive, test,
       launch and extend software
     actions:
-      - label: Learn More
+      - label: Join the waitlist
         url: /general-enquiries
         style: primary
     media_position: right
