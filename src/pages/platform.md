@@ -174,7 +174,7 @@ sections:
   - type: cta_section
     title: Try it out!
     actions:
-      - label: Get a demo
+      - label: Get on the waitlist
         url: /general-enquiries
         style: primary
     actions_position: right
