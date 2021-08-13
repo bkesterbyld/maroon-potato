@@ -68,12 +68,12 @@ sections:
           enabling engineers to easily collaborate or take over
 
 
-          *   Toolset delivers capabilities of an imperative programming
-          language like Java or C and scales from simple to complex logic
+          *   Get the power of an imperative programming language like Java or
+          C, and scales from simple to complex logic
 
 
           *   Unifies structured  and unstructured data into a single
-          distributed, fault-tolerant, scalable service
+          distributed, fault-tolerant, scalable datastore
         actions: []
         media_position: right
         media_width: fifty
