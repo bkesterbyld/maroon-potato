@@ -239,7 +239,7 @@ sections:
     content: |
       No technical skills required
   - title: join the waitlist
-    subtitle: lorem-ipsum
+    subtitle: Coming soon
     title_align: left
     content: >-
       ## Lorem ipsum
