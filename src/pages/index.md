@@ -223,7 +223,7 @@ sections:
     has_border: true
     enable_cards: false
   - type: cta_section
-    title: Try it out!
+    title: Learn about the platform
     actions:
       - label: Get on the waitlist
         url: /general-enquiries
