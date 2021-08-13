@@ -36,7 +36,7 @@ sections:
         is_required: true
       - input_type: textarea
         name: Details?
-        label: What kind of apps are you building?
+        label: Details?
         default_value: Just a little bit of detail goes a long way!
       - input_type: checkbox
         name: consent
