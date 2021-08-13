@@ -47,8 +47,8 @@ sections:
       - title: Fast
         subtitle: ''
         content: >
-          Get to market fast, outmaneuver competitors and field market requests
-          virtually overnight
+          Get to market fast, outmaneuver competitors and implement market
+          requests virtually overnight
 
 
           *   Incorporate new features and iterations in hours
