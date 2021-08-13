@@ -43,7 +43,7 @@ sections:
           - Other (use message box)
       - input_type: textarea
         name: What kind of apps are you building?
-        label: Message?
+        label: What kind of apps are you building?
         default_value: Your message
       - input_type: checkbox
         name: consent
