@@ -137,7 +137,7 @@ sections:
         actions: []
         media_position: left
         media_width: fourty
-        align: left
+        align: right
         type: feature
         image: images/processing.png
     feature_padding_vert: large
