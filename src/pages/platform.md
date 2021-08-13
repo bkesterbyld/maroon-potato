@@ -47,6 +47,9 @@ sections:
         image_has_padding: true
       - title_align: center
         content: >
+          #### ![](images/spectacular-triceratops.png)
+
+
           #### Define Logic
 
 
