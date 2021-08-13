@@ -238,8 +238,7 @@ sections:
     background_color: primary
     content: |
       No technical skills required
-  - subtitle: Coming soon
-    title_align: left
+  - title_align: left
     content_align: left
     form_position: bottom
     form_width: fifty
