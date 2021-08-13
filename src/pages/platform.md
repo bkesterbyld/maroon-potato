@@ -70,6 +70,9 @@ sections:
       - title: Input & Test
         title_align: center
         content: >
+          ![](images/test.png)
+
+
           As you build data models and logic, the service generates both web
           input forms and secure custom APIs.
 
