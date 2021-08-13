@@ -31,11 +31,15 @@ sections:
     subtitle: ''
     features:
       - subtitle: ''
-        content: |+
+        content: >
+          Above unifies data models, data processing, storage, and bespoke APIs
+          into a single simple service—setup in minutes with low code tools.
+
+
           *   Bring requirements alive without engineering resources
 
-          *   Test data operations and output before building UX
 
+          *   Test data operations and output before building UX
         actions: []
         image: images/anyone2.png
         media_position: right
