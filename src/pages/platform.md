@@ -28,12 +28,12 @@ sections:
     grid_items:
       - title_align: center
         content: >
-
-
           #### Model Data
 
 
           Build data tables and relationships between tables with a few clicks.
+
+
           Above handles any data type and leverages mature and safe SQL, NoSQL
           and object stores behind the scenes.
         content_align: center
