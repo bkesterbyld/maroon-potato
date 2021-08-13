@@ -56,8 +56,9 @@ sections:
       - title: Input Data & Test
         title_align: left
         content: >
-          Build and act on real time profiles from all customer touchpoints and
-          data sources
+          As you build data models, the service generates both input forms and
+          APIs. You can immediately put data through your solution and power
+          user interfaces.
         content_align: left
         actions: []
         actions_align: left
