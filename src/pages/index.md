@@ -69,7 +69,7 @@ sections:
 
 
           *   Toolset delivers capabilities of an imperative programming
-          language like Java or C and scale from simple to complex logic
+          language like Java or C and scales from simple to complex logic
 
 
           *   Unifies structured  and unstructured data into a single
