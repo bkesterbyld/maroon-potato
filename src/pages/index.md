@@ -5,7 +5,7 @@ sections:
     title: No Code Data & Logic Prototyping
     subtitle: ''
     content: >
-      Above combines the capabilities of SQL and NoSQL databases with easy low
+      Above combines the capabilities of SQL and NoSQL databases with easy no
       code processing logic. It enables product managers to conceive, test,
       launch and refine software products and fully control the development
       cycle.
