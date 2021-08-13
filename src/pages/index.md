@@ -33,8 +33,7 @@ sections:
       - input_type: email
         name: join the waitlist
         default_value: email
-        options:
-          - lorem-ipsum
+        options: []
         is_required: false
         type: form_field
     submit_label: Join waitlist
