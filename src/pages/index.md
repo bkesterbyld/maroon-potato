@@ -65,9 +65,7 @@ sections:
         media_position: left
         media_width: fourty
       - title: Predictable
-        content: >
-          Data sets can serve multiple applications and also be replicated with
-          secure role-based browser and API access for external parties.
+        content: "Data sets can serve multiple applications and also be replicated with secure role-based browser and API access for external parties\_\_\_\n\n\nShip fast without fear of technical debt\_\_\_\_\_\_\_\_\_\nGlobally distributed, fault tolerant and scales\nforever\n\n\\-\_\_\_\_\_\_\_\_\_\nReduces product and COGS complexity into a\nsingle service and price\n"
         actions: []
         media_position: right
         media_width: fifty
