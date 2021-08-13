@@ -256,7 +256,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: lorem-ipsum
+    submit_label: Joinwaitlist
     align_vert: middle
     padding_top: medium
     padding_bottom: medium
