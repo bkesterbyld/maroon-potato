@@ -48,11 +48,14 @@ sections:
       - title: Fast
         subtitle: ''
         content: >
-          Get to market fast, outmaneuver competitors and translate customer
-          needs into a tangible solution virtually overnight.
+          Get to market fast, outmaneuver competitors and field market requests
+          virtually overnight
 
 
-          *   Ship fast without technical debt
+          *   Ship fast without fear of technical debt
+
+
+          <!---->
 
 
           *   Incorporate new features and iterations in hours
