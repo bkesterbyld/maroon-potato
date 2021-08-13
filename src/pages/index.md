@@ -223,7 +223,7 @@ sections:
     has_border: true
     enable_cards: false
   - type: cta_section
-    title: Learn about the platform
+    title: How it works
     actions:
       - label: Learn More
         url: /general-enquiries
