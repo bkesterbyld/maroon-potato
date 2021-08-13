@@ -110,7 +110,6 @@ sections:
     align: center
     background_color: secondary
     has_border: true
-    background_image: images/gradient-above-lower-1.png
   - type: features_section
     title: ''
     subtitle: ''
