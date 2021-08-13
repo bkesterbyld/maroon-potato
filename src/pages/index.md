@@ -76,16 +76,6 @@ sections:
         align: left
         type: feature
         image: images/separate.png
-      - content: >
-          Run across public clouds and choose which providers and locations
-          house your data—then move, replicate and export it as needed.
-        actions: []
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        title: 'Multicloud, zero lock-in'
-        image: images/multi-cloud.png
       - title: Predictable
         content: >
           Say goodbye to unpredictable costs for infrastructure, database admin,
