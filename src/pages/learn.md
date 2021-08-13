@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     title: Learn More
     subtitle: >-
-      Above is currently in use with select enterprise and SMB companies, with
-      GA expected in Q1 2022
+      Hit us up with any questions or to have our team help with your
+      application
     align: center
     padding_top: medium
     padding_bottom: medium
