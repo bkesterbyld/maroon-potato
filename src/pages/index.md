@@ -170,8 +170,8 @@ sections:
       - title: Secure Data Sharing
         title_align: left
         content: >
-          Publish data sets for other parties with granular API and browser
-          access
+          Publish data sets from your existing products for other parties to
+          browse online or access through APIs.
         content_align: left
         actions: []
         actions_align: left
