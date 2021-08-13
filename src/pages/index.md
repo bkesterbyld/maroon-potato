@@ -38,7 +38,7 @@ sections:
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: SIMPLE
+        title: Simple
       - title: Scalable native analytics and business logic
         subtitle: ''
         content: >
