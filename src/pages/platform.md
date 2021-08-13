@@ -111,7 +111,7 @@ sections:
         type: feature
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
-      - title: Geo-Distribution
+      - title: Distributed Computing
         content: >
           Above enables you to put logic, data and content next to your
           customers so your products deliver low-latency snappy data responses
