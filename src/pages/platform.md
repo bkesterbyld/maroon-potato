@@ -122,17 +122,11 @@ sections:
         type: feature
         image: images/globe-sitck-jamstack3.png
       - title: Parallel & In Memory Processing
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Handle any volume of data and analytics with advanced parallel and in
+          memory processing. In many financial, commerce and IoT use cases,
+          Above provider superior performance and reliability in handle massive
+          data sets and user loads.
         actions: []
         media_position: left
         media_width: fourty
