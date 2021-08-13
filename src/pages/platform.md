@@ -7,9 +7,9 @@ sections:
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
-      code processing logic. It enables product managers to conceive, test,
-      launch and refine software products and fully control the development
-      cycle.
+      code processing logic. It's the ultimate smart cloud datastore for
+      building apps, running real-time analytics and securely trading data with
+      3rd parties. 
     actions:
       - label: Learn More
         url: /general-enquiries
