@@ -49,7 +49,7 @@ sections:
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
-      - title: Serve multiple solutions from centralized data
+      - title: Predictable
         content: >
           Data sets can serve multiple applications and also be replicated with
           secure role-based browser and API access for external parties.
