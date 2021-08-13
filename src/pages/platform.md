@@ -40,7 +40,7 @@ sections:
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: Simple
+        title: Model Data
       - title: Fast
         subtitle: ''
         content: >
