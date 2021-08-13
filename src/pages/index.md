@@ -91,10 +91,17 @@ sections:
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
       - title: Predictable
-        content: >+
+        content: >
           Say goodbye to unpredictable costs for infrastructure, database admin,
           DevOps, monitoring, and unplanned downtime.
 
+
+          *   Always know the current and future COGS for products with a single
+          price
+
+
+          *   Minimize dependencies and blockers to get full control over the
+          software development lifecyle
         actions: []
         media_position: right
         media_width: thirty-three
