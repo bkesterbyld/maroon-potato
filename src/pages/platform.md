@@ -65,8 +65,11 @@ sections:
         title_align: center
         content: >
           As you build data models and logic, the service generates both web
-          input forms and secure custom APIs. You can immediately put data
-          through your solution and power user interfaces.
+          input forms and secure custom APIs.
+
+
+          You can immediately put data through your solution and power user
+          interfaces.
         content_align: center
         actions: []
         actions_align: left
