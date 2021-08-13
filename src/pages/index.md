@@ -39,7 +39,7 @@ sections:
     submit_label: Join waitlist
     align_vert: top
     padding_top: none
-    padding_bottom: medium
+    padding_bottom: none
     has_border: true
     background_color: secondary
     background_image_opacity: 0
