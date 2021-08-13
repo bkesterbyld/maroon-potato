@@ -64,18 +64,16 @@ sections:
         media_width: fourty
       - title: Powerful
         content: >
-          Above's toolset follows fundamental programming patterns and concepts,
-          so it's easy for your engineering team to help or take over.
+          Above's toolset follows fundamental programming patterns, so it's easy
+          for your engineering team to collaborate or take over.
 
 
-          Globally distributed, fault tolerant and scales
+          *   Toolset delivers capabilities of a declarative programming
+          language
 
-          forever
 
-
-          Reduces product and COGS complexity into a
-
-          single service and price
+          *   The service houses both SQL and NoSQL data, eliminating
+          infrastructure complexity
         actions: []
         media_position: right
         media_width: fifty
