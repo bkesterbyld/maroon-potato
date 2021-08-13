@@ -1,0 +1,187 @@
+---
+title: Home
+excerpt: lorem-ipsum
+sections:
+  - type: hero_section
+    title: Cloud Service
+    subtitle: ''
+    content: >
+      Above combines the capabilities of SQL and NoSQL databases with easy no
+      code processing logic—delivered as a unified, easy cloud service
+    actions: []
+    media_position: right
+    media_width: fifty
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    has_border: false
+    background_image_opacity: 100
+    background_image_position: center center
+    background_image_size: cover
+    video_embed_html: ''
+    background_image_repeat: no-repeat
+    background_image: images/purple-gradient.png
+  - type: grid_section
+    title: How it Works
+    subtitle: No code backend creation in minutes
+    grid_items:
+      - title_align: center
+        content: >
+          #### ![](images/model.png)
+
+
+          #### Model Data
+
+
+          Build data tables and relationships between tables with a few clicks.
+
+
+          Above handles any data type and leverages mature and safe SQL, NoSQL
+          and object stores behind the scenes.
+        content_align: center
+        actions: []
+        actions_align: left
+        image_position: top
+        image_align: center
+        image_has_padding: true
+      - title_align: center
+        content: >
+          #### ![](images/spectacular-triceratops.png)
+
+
+          #### Define Logic
+
+
+          Create both CRUD and analytic routines via clicks.
+
+
+          The service generates a visual diagram so you or your engineers can
+          trace and troubleshoot business logic.
+        content_align: center
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title_align: center
+        content: >
+          ![](images/test.png)
+
+
+          #### Test & Ship
+
+
+          As you build data models and logic, the service generates both web
+          data input forms and secure custom APIs.
+
+
+          You can immediately put data through your solution and power user
+          interfaces.
+        content_align: center
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+    grid_cols: three
+    grid_gap_horiz: large
+    grid_gap_vert: large
+    enable_cards: true
+    align: center
+    background_color: secondary
+    has_border: true
+  - type: features_section
+    title: Key Features
+    subtitle: ''
+    features:
+      - content: >
+          Run across public clouds and choose which providers and locations
+          house your data—then move, replicate and export it as needed. 
+        actions: []
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        title: 'Multicloud, zero lock-in'
+        image: images/multi-cloud.png
+      - title: Edge Network
+        content: >
+          Above enables you to put logic, data and content next to your
+          customers so your products deliver lighting fast data responses.
+        actions: []
+        media_position: right
+        media_width: thirty-three
+        align: left
+        type: feature
+        image: images/globe-sitck-jamstack3.png
+      - title: Parallel & In Memory Processing
+        content: >
+          Break down massive data sets and process them in parallel while
+          utilizing in-memory logic for intense calculations.
+        actions: []
+        media_position: left
+        media_width: fourty
+        align: right
+        type: feature
+        image: images/processing.png
+    feature_padding_vert: large
+    align: center
+    background_color: none
+    has_border: true
+    padding_top: small
+  - type: grid_section
+    title: Proven In Mission Critical Projects
+    subtitle: ''
+    grid_items:
+      - image: images/HP-logo.png
+        image_position: top
+        image_width: sixty
+        content_align: center
+        image_align: center
+      - image: images/teslaenergy.png
+        image_position: top
+        image_width: sixty
+        title_align: center
+        content_align: center
+        image_align: center
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: images/bae2.png
+    grid_cols: three
+    grid_gap_horiz: medium
+    grid_gap_vert: large
+    align: center
+    background_color: none
+    has_border: true
+    enable_cards: false
+  - type: cta_section
+    title: Try it out!
+    actions:
+      - label: Get on the waitlist
+        url: /general-enquiries
+        style: primary
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: small
+    padding_bottom: small
+    background_color: primary
+    content: |
+      No technical skills required
+template: advanced
+---

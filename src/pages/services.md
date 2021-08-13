@@ -45,7 +45,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - title: Example solutions from our applications library
+  - title: Example solutions we've built with Above
     actions: []
     grid_items:
       - title: IoT
@@ -78,6 +78,8 @@ sections:
           Cell Tower Management
 
           Equipment Assembly & Refurb
+
+          Quality Management
         content_align: center
         actions: []
         actions_align: left
@@ -88,7 +90,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: '      '
-      - title: PropTech
+      - title: FinTech / PropTech
         title_align: center
         content: |
           Construction Progress Monitoring
@@ -97,7 +99,7 @@ sections:
 
           Investment Modeling
 
-          Payments
+          B2B Payments
         content_align: center
         actions: []
         actions_align: left

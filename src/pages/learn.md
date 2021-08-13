@@ -1,11 +1,12 @@
 ---
 title: Above - Beta Signup
+excerpt: Beta Signup for Distributed Backend API
 sections:
   - type: hero_section
-    title: Get on our waitlist
+    title: Learn More
     subtitle: >-
-      Above is currently in use with select enterprise and SMB companies, with
-      GA expected in Q1 2022
+      Hit us up with any questions or to have our team help with your
+      application
     align: center
     padding_top: medium
     padding_bottom: medium
@@ -34,9 +35,9 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: textarea
-        name: What kind of apps are you building?
-        label: What kind of apps are you building?
-        default_value: Just a little bit of detail goes a long way!
+        name: Details?
+        label: Details?
+        default_value: We love to be prepared
       - input_type: checkbox
         name: consent
         label: >-
@@ -49,5 +50,4 @@ sections:
     padding_bottom: medium
     background_color: primary
 template: advanced
-excerpt: Beta Signup for Distributed Backend API
 ---

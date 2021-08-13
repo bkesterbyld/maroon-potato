@@ -2,14 +2,13 @@
 title: Home
 sections:
   - type: hero_section
-    title: Smart Cloud Datastore
+    title: No Code Data & Logic Prototyping
     subtitle: ''
     content: >
-      Above combines the capabilities of SQL and NoSQL databases with easy low
-      code processing logic. It enables anyone to create an API-based datastore
-      to build apps, run analytics and share data.
+      Simple API-based backend service for product managers to conceive, test,
+      launch and extend software
     actions:
-      - label: Learn More
+      - label: Join the waitlist
         url: /general-enquiries
         style: primary
     media_position: right
@@ -32,50 +31,65 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, data processing, storage, and bespoke APIs
-          into a single simple service—setup in minutes with low code tools.
+          into a simple backend service anyone can use—setup in minutes with no
+          code tools.
+
+
+          *   Bring requirements alive without engineering resources
+
+
+          *   Test data operations and output before building UX
         actions: []
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: 'Nothing to learn, usable by anyone'
-      - title: Scalable native analytics and business logic
+        title: Simple
+      - title: Fast
         subtitle: ''
         content: >
-          Above is globally distributed to run real time analytics on large data
-          sets while simultaneously handling high-performance business logic for
-          applications. 
+          Get to market fast, outmaneuver competitors and respond to market
+          requests virtually overnight
+
+
+          *   Incorporate and test new features in hours
+
+          *   Ship quickly without fear of technical debt
         actions: []
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
-      - title: Serve multiple solutions from centralized data
+      - title: Powerful
         content: >
-          Data sets can serve multiple applications and also be replicated with
-          secure role-based browser and API access for external parties.
+          Above's logic engine follows imperative programming patterns, enabling
+          engineers to easily collaborate or take over
+
+
+          *   Handles complex use cases while accessible to anyone with a
+          logical mind
+
+
+          *   Unifies structured  and unstructured data into a single
+          distributed, fault-tolerant, scalable datastore
         actions: []
         media_position: right
-        media_width: fifty
-        align: right
-        type: feature
-        image: images/separate.png
-      - content: >
-          Run across public clouds and choose which providers and locations
-          house your data—then move, replicate and export it as needed.
-        actions: []
-        media_position: left
         media_width: fifty
         align: left
         type: feature
-        title: 'Multicloud, zero lock-in'
-        image: images/multi-cloud.png
-      - title: 'Nothing to manage, scales forever'
+        image: images/separate.png
+      - title: Predictable
         content: >
-          Say goodbye to unpredictable costs for infrastructure, database admin,
-          DevOps, monitoring, and unplanned downtime. Above is globally
-          distributed, scales infinitely, and gets rid of hundreds of data
-          management tasks.
+          Say goodbye to unpredictable costs for cloud infrastructure, database
+          admin, DevOps, monitoring, and unplanned downtime.
+
+
+          *   Always know the current and future COGS for products with a single
+          price
+
+
+          *   Eliminate dependencies and get full control over the product
+          development cycle
         actions: []
-        media_position: right
+        media_position: left
         media_width: thirty-three
         align: left
         type: feature
@@ -89,11 +103,11 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Product Prototyping
+      - title: Financial Services
         title_align: left
         content: >
-          Implement data models and logic requirements and immediately give
-          frontend teams an API to build from
+          Power new mobile, payment, banking and trading apps that scale
+          ACID-compliant transactions infinitely
         content_align: left
         actions: []
         actions_align: left
@@ -103,8 +117,8 @@ sections:
       - title: IoT
         title_align: left
         content: >
-          Build digital asset models and fuse sensor, ERP and customer data into
-          predictive IoT solutions
+          Build digital asset models and fuse mass amounts of sensor, ERP and
+          customer data into predictive IoT solutions
         content_align: left
         actions: []
         actions_align: left
@@ -114,7 +128,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: 360 Customer Profiles
+      - title: 360 Customer Solutions
         title_align: left
         content: >
           Build and act on real time profiles from all customer touchpoints and
@@ -139,11 +153,11 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Secure Data Sharing
+      - title: APIs for Legacy Products
         title_align: left
         content: >
-          Publish data sets for other parties with granular API and browser
-          access
+          Publish data sets from your existing products that can be browsed
+          online or accessed through APIs
         content_align: left
         actions: []
         actions_align: left
@@ -155,8 +169,9 @@ sections:
         type: grid_item
       - title: App Modernization
         title_align: left
-        content: |
+        content: >
           Clone the backend of on prem applications and internal tools in days
+          and reduce hosting, DBA and other maintainance costs
         content_align: left
         actions: []
         actions_align: left
@@ -175,7 +190,7 @@ sections:
     has_border: true
     background_image: images/gradient-above-lower-1.png
   - type: grid_section
-    title: Proven In Mission Critical Projects
+    title: Proven In Mission Critical Products
     subtitle: ''
     grid_items:
       - image: images/HP-logo.png
@@ -210,7 +225,7 @@ sections:
   - type: cta_section
     title: Try it out!
     actions:
-      - label: Get a demo
+      - label: Get on the waitlist
         url: /general-enquiries
         style: primary
     actions_position: right
