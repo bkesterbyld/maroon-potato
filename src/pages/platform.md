@@ -76,7 +76,7 @@ sections:
 
 
           As you build data models and logic, the service generates both web
-          input forms and secure custom APIs.
+          data input forms and secure custom APIs.
 
 
           You can immediately put data through your solution and power user
