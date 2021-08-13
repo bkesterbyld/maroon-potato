@@ -49,7 +49,7 @@ sections:
         subtitle: ''
         content: >
           Get to market fast, outmaneuver competitors and translate customer
-          needs into tangible solution virtually overnight.
+          needs into a tangible solution virtually overnight.
 
 
           *   Ship fast without technical debt
