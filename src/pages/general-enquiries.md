@@ -2,7 +2,7 @@
 title: Above - Beta Signup
 sections:
   - type: hero_section
-    title: Learn more
+    title: Get on our waitlist
     subtitle: Or get a demo
     align: center
     padding_top: medium
