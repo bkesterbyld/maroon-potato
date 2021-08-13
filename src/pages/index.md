@@ -31,7 +31,7 @@ sections:
     form_layout: inline
     enable_card: true
     form_id: lorem-ipsum
-    form_action: lorem-ipsum
+    form_action: Join the waitlist
     form_fields:
       - input_type: email
         name: lorem-ipsum
