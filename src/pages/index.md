@@ -96,7 +96,7 @@ sections:
           price
 
 
-          *   Minimize dependencies and  get full control over the product
+          *   Minimize dependencies and get full control over the product
           development cycle
         actions: []
         media_position: right
