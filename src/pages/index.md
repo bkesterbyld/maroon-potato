@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Simple API-based backend service for product managers to conceive, test,
-      launch, refine and scale new software
+      launch and extend software
     actions:
       - label: Learn More
         url: /general-enquiries
