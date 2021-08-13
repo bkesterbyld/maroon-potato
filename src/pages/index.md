@@ -91,11 +91,10 @@ sections:
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
       - title: Predictable
-        content: >
+        content: >+
           Say goodbye to unpredictable costs for infrastructure, database admin,
-          DevOps, monitoring, and unplanned downtime. Above is globally
-          distributed, scales infinitely, and gets rid of hundreds of data
-          management tasks.
+          DevOps, monitoring, and unplanned downtime.
+
         actions: []
         media_position: right
         media_width: thirty-three
