@@ -27,7 +27,7 @@ sections:
     subtitle: ''
     grid_items:
       - title: Model Data
-        title_align: left
+        title_align: center
         content: >
           Build data tables and relationships between tables with a few clicks.
           Data can be structured and stored in a SQL database or unstructured
