@@ -34,7 +34,7 @@ sections:
         name: join the waitlist
         default_value: email
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Join waitlist
     align_vert: top
