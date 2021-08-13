@@ -92,7 +92,7 @@ sections:
       - title: Product Prototyping
         title_align: left
         content: >
-          Implement data models and logic from requirements and immediately give
+          Implement data models and logic requirements and immediately give
           frontend teams an API to build from
         content_align: left
         actions: []
