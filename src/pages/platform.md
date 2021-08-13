@@ -101,16 +101,6 @@ sections:
     title: Key Features
     subtitle: ''
     features:
-      - title: Predictable
-        content: >
-          Data sets can serve multiple applications and also be replicated with
-          secure role-based browser and API access for external parties.
-        actions: []
-        media_position: right
-        media_width: fifty
-        align: right
-        type: feature
-        image: images/separate.png
       - content: >
           Run across public clouds and choose which providers and locations
           house your data—then move, replicate and export it as needed.
