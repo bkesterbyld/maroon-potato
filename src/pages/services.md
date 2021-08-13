@@ -45,7 +45,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - title: Example solutions we've built with Above
+  - title: Example solutions we've built quickly with Above
     actions: []
     grid_items:
       - title: IoT
@@ -147,7 +147,7 @@ sections:
       projects.
     actions:
       - label: Learn More
-        url: /general-enquiries
+        url: /learn
         style: primary
         has_icon: true
         icon: arrow-right
