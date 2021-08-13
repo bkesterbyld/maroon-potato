@@ -41,8 +41,9 @@ sections:
       - title: Define Logic
         title_align: left
         content: >
-          Build digital asset models and fuse sensor, ERP and customer data into
-          predictive IoT solutions
+          Create both CRUD and analytic routines via clicks. The service
+          generates a visual diagram so you or your engineers can trace and
+          troubleshoot business logic. 
         content_align: left
         actions: []
         actions_align: left
