@@ -44,7 +44,7 @@ sections:
           Create both CRUD and analytic routines via clicks. The service
           generates a visual diagram so you or your engineers can trace and
           troubleshoot business logic. 
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
