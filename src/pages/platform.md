@@ -26,7 +26,7 @@ sections:
     title: How it Works
     subtitle: ''
     grid_items:
-      - title: Product Prototyping
+      - title: Model Data
         title_align: left
         content: >
           Implement data models and logic requirements and immediately give
