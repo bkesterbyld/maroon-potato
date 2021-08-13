@@ -20,7 +20,7 @@ sections:
     has_border: false
     background_image_opacity: 100
     background_image_position: center center
-    background_image_size: contain
+    background_image_size: cover
     video_embed_html: ''
     background_image_repeat: repeat
     background_image: images/purple-gradient.png
