@@ -19,7 +19,7 @@ sections:
     type: hero_section
   - content: >
       ###### We'll get your backend started *or* build whole applications for
-      you
+      you  
 
 
       A solution at a fraction of the time and cost of traditional development
