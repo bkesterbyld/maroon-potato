@@ -28,7 +28,10 @@ sections:
     grid_items:
       - title_align: center
         content: >
-          #### Model Data
+          #### ![](images/model.png)
+
+
+          Model Data
 
 
           Build data tables and relationships between tables with a few clicks.
