@@ -5,7 +5,7 @@ sections:
     title: No Code Data & Logic Prototyping
     subtitle: ''
     content: >
-      Simple API-centric backend service for product managers to conceive, test,
+      Simple API-based backend service for product managers to conceive, test,
       launch, refine and scale new software
     actions:
       - label: Learn More
