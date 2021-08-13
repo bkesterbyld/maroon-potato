@@ -47,14 +47,8 @@ sections:
       - title: Fast
         subtitle: ''
         content: >
-          Get to market fast, outmaneuver competitors and implement market
+          Get to market fast, outmaneuver competitors and respond to market
           requests virtually overnight
-
-
-          *   Incorporate new features and iterations in hours
-
-
-          <!---->
 
 
           *   Ship fast without fear of technical debt
