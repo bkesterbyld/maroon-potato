@@ -39,7 +39,7 @@ sections:
         image_align: center
         image_has_padding: true
       - title: Define Application Logic
-        title_align: left
+        title_align: center
         content: >
           Create both CRUD and analytic routines via clicks. The service
           generates a visual diagram so you or your engineers can trace and
