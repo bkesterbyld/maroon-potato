@@ -17,14 +17,19 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - content: |
-      ###### We'll get your project started *or* do the whole thing for you
+  - content: >
+      ###### We'll get your backend started *or* build whole applications for
+      you
+
 
       A solution at a fraction of the time and cost of traditional development
 
-      Immediate results and progress you can see daily
+
+      Immediate results and progress you can see online daily
+
 
       Easy extension with zero technical debt
+
 
       Predictable performance, scaling and costs
     actions: []

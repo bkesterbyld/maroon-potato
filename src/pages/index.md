@@ -89,10 +89,11 @@ sections:
     title: Use Cases
     subtitle: ''
     grid_items:
-      - title: Backend Prototyping
+      - title: Product Prototyping
         title_align: left
-        content: |
-          Prototype data models and logic for  frontend engineering teams
+        content: >
+          Implement data models and logic requirements and immediately give
+          frontend teams an API to build from
         content_align: left
         actions: []
         actions_align: left
