@@ -111,7 +111,7 @@ sections:
         type: feature
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
-      - title: 'Zero management, scales forever'
+      - title: Geo-Distribution
         content: >
           Say goodbye to unpredictable costs for infrastructure, database admin,
           DevOps, monitoring, and unplanned downtime. Above is globally
