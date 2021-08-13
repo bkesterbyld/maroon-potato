@@ -7,9 +7,7 @@ sections:
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
-      code processing logic. It's the ultimate smart cloud datastore for
-      building apps, running real-time analytics and securely trading data with
-      3rd parties. 
+      code processing logic.
     actions: []
     media_position: right
     media_width: fifty
