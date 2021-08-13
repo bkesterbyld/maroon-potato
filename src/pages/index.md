@@ -68,8 +68,8 @@ sections:
           enabling engineers to easily collaborate or take over
 
 
-          *   Toolset delivers capabilities of a declarative programming
-          language
+          *   Toolset delivers capabilities of an imperative programming
+          language like Java or C and scale from simple to complex logic
 
 
           *   Unifies structured  and unstructured data into a single
