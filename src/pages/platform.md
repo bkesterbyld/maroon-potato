@@ -4,7 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: Cloud Service
-    subtitle: ''
+    subtitle: product
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
       code processing logic—delivered as a unified, easy cloud service
