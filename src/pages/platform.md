@@ -3,7 +3,7 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: No Code Data & Logic Prototyping
+    title: Platform
     subtitle: ''
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
