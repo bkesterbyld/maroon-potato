@@ -88,7 +88,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: '      '
-      - title: PropTech
+      - title: FinTech / PropTech
         title_align: center
         content: |
           Construction Progress Monitoring
