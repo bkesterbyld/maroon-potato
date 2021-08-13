@@ -37,7 +37,7 @@ sections:
       - input_type: textarea
         name: Details?
         label: Details?
-        default_value: A few details goes a long way!
+        default_value: We love to be prepared
       - input_type: checkbox
         name: consent
         label: >-
