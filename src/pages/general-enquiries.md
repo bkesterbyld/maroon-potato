@@ -42,7 +42,7 @@ sections:
           - I have questions
           - Other (use message box)
       - input_type: textarea
-        name: message
+        name: 'What kind of '
         label: Message?
         default_value: Your message
       - input_type: checkbox
