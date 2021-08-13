@@ -226,7 +226,7 @@ sections:
     title: How it works
     actions:
       - label: Learn More
-        url: /general-enquiries
+        url: /platform
         style: primary
         has_icon: true
         icon: arrow-right
