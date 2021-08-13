@@ -38,7 +38,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: IoT
+      - title: Define Logic
         title_align: left
         content: >
           Build digital asset models and fuse sensor, ERP and customer data into
