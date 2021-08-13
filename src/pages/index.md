@@ -64,8 +64,8 @@ sections:
           enabling engineers to easily collaborate or take over
 
 
-          *   Delivers the power of an imperative programming language like
-          Java, and scales from simple to complex logic
+          *   Delivers the power of an imperative programming language like Java
+          and handles complex use cases
 
 
           *   Unifies structured  and unstructured data into a single
