@@ -28,7 +28,6 @@ sections:
     grid_items:
       - title_align: center
         content: >
-          ![](images/undraw_Spreadsheet_re_cn18%20\(3\).svg)
 
 
           #### Model Data
