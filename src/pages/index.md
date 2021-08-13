@@ -63,7 +63,19 @@ sections:
         media_position: left
         media_width: fourty
       - title: Predictable
-        content: "Data sets can serve multiple applications and also be replicated with secure role-based browser and API access for external parties\_\_\_\n\n\nShip fast without fear of technical debt\_\_\_\_\_\_\_\_\_\nGlobally distributed, fault tolerant and scales\nforever\n\n\\-\_\_\_\_\_\_\_\_\_\nReduces product and COGS complexity into a\nsingle service and price\n"
+        content: >
+          Above's toolset follows fundamental programming patterns and concepts,
+          so it's easy for your engineering team to help or take over.
+
+
+          Globally distributed, fault tolerant and scales
+
+          forever
+
+
+          Reduces product and COGS complexity into a
+
+          single service and price
         actions: []
         media_position: right
         media_width: fifty
