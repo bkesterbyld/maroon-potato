@@ -3,7 +3,7 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Cloud Service
+    title: Unified Cloud Service
     subtitle: Product
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
