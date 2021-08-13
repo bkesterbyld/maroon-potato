@@ -26,8 +26,7 @@ sections:
     title: How it Works
     subtitle: No code backend creation in minutes
     grid_items:
-      - title: Model Data
-        title_align: center
+      - title_align: center
         content: >
           ![](images/datamodel.svg)
 
