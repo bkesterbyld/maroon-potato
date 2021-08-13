@@ -45,7 +45,7 @@ sections:
         media_position: right
         media_width: fifty
         title: Simple
-      - title: Agile
+      - title: Fast
         subtitle: ''
         content: >
           Above is globally distributed to run real time analytics on large data
