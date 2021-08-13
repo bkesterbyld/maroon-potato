@@ -136,7 +136,7 @@ sections:
           - dolor sit amet
         actions: []
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/processing.png
