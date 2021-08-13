@@ -64,16 +64,16 @@ sections:
         media_width: fourty
       - title: Powerful
         content: >
-          Above's logic engine follows fundamental programming patterns, so it's
-          easy for your engineering team to collaborate or take over.
+          Above's logic engine follows fundamental programming patterns,
+          enabling engineers to easily collaborate or take over
 
 
           *   Toolset delivers capabilities of a declarative programming
           language
 
 
-          *   The service houses both SQL and NoSQL data, eliminating
-          infrastructure complexity
+          *   Unifies structured  and unstructured data into single distributed,
+          fault-tolerant, scalable service
         actions: []
         media_position: right
         media_width: fifty
