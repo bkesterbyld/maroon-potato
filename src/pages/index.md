@@ -47,10 +47,13 @@ sections:
         title: Simple
       - title: Fast
         subtitle: ''
-        content: |
-          Get to market fast, outmaneuver competitors and .
+        content: >
+          Get to market fast, outmaneuver competitors and translate customer
+          needs into tangible solution virtually overnight.
+
 
           *   Ship fast without technical debt
+
 
           *   Incorporate new features and iterations in hours
         actions: []
