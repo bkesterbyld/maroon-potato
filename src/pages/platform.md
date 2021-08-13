@@ -45,7 +45,6 @@ sections:
         image_has_padding: true
       - title_align: center
         content: >
-          ![](images/undraw_prototyping_process_rswj%20\(1\).svg)
 
 
           #### Define Logic
