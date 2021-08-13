@@ -46,9 +46,14 @@ sections:
       - title: Define Application Logic
         title_align: center
         content: >
+          ![](images/undraw_prototyping_process_rswj%20\(1\).svg)
+
+
+
+
           Create both CRUD and analytic routines via clicks. The service
           generates a visual diagram so you or your engineers can trace and
-          troubleshoot business logic. 
+          troubleshoot business logic.
         content_align: center
         actions: []
         actions_align: left
