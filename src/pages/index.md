@@ -24,6 +24,33 @@ sections:
     video_embed_html: ''
     background_image_repeat: no-repeat
     background_image: images/gradient-above-4.png
+  - title_align: left
+    content_align: left
+    form_position: bottom
+    form_width: fifty
+    form_layout: stacked
+    enable_card: false
+    form_id: lorem-ipsum
+    form_action: lorem-ipsum
+    form_fields:
+      - input_type: email
+        name: lorem-ipsum
+        default_value: email
+        options: []
+        is_required: false
+        type: form_field
+    submit_label: Join waitlist
+    align_vert: middle
+    padding_top: medium
+    padding_bottom: medium
+    has_border: true
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
+    background_image: images/gradient-above-4.png
   - type: features_section
     title: ''
     subtitle: ''
@@ -238,32 +265,5 @@ sections:
     background_color: primary
     content: |
       No technical skills required
-  - title_align: left
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: stacked
-    enable_card: false
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields:
-      - input_type: email
-        name: lorem-ipsum
-        default_value: email
-        options: []
-        is_required: false
-        type: form_field
-    submit_label: Join waitlist
-    align_vert: middle
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
-    background_image: images/gradient-above-4.png
 template: advanced
 ---
