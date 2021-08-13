@@ -77,7 +77,7 @@ sections:
         actions: []
         media_position: right
         media_width: fifty
-        align: right
+        align: left
         type: feature
         image: images/separate.png
       - content: >
