@@ -7,15 +7,12 @@ sections:
     content: >
       Simple API-based backend service for product managers to conceive, test,
       launch and extend software
-    actions:
-      - label: Join the waitlist
-        url: /general-enquiries
-        style: primary
+    actions: []
     media_position: right
     media_width: fifty
     align: center
     padding_top: large
-    padding_bottom: large
+    padding_bottom: none
     background_color: primary
     has_border: false
     background_image_opacity: 100
@@ -23,6 +20,33 @@ sections:
     background_image_size: auto
     video_embed_html: ''
     background_image_repeat: no-repeat
+    background_image: images/gradient-above-4.png
+  - title_align: left
+    content_align: left
+    form_position: right
+    form_width: fourty
+    form_layout: inline
+    enable_card: false
+    form_id: lorem-ipsum
+    form_action: Join the waitlist
+    form_fields:
+      - input_type: email
+        name: join the waitlist
+        default_value: email
+        options: []
+        is_required: true
+        type: form_field
+    submit_label: Join waitlist
+    align_vert: top
+    padding_top: none
+    padding_bottom: medium
+    has_border: true
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
     background_image: images/gradient-above-4.png
   - type: features_section
     title: ''
@@ -223,11 +247,13 @@ sections:
     has_border: true
     enable_cards: false
   - type: cta_section
-    title: Try it out!
+    title: How it works
     actions:
-      - label: Get on the waitlist
-        url: /general-enquiries
+      - label: Learn More
+        url: /platform
         style: primary
+        has_icon: true
+        icon: arrow-right
     actions_position: right
     actions_width: fourty
     align: left
