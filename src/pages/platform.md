@@ -56,9 +56,9 @@ sections:
       - title: Input Data & Test
         title_align: left
         content: >
-          As you build data models, the service generates both input forms and
-          APIs. You can immediately put data through your solution and power
-          user interfaces.
+          As you build data models and logic, the service generates both web
+          input forms and secure custom APIs. You can immediately put data
+          through your solution and power user interfaces.
         content_align: left
         actions: []
         actions_align: left
