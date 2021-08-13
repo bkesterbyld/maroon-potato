@@ -120,8 +120,8 @@ sections:
       - title: Financial Services
         title_align: left
         content: >
-          Implement data models and logic requirements and immediately give
-          frontend teams an API to build from
+          Power new mobile, payment, banking and trading apps that handle
+          ACID-compliant transaction processing that scale infinitely
         content_align: left
         actions: []
         actions_align: left
