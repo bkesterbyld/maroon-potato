@@ -10,10 +10,7 @@ sections:
       code processing logic. It's the ultimate smart cloud datastore for
       building apps, running real-time analytics and securely trading data with
       3rd parties. 
-    actions:
-      - label: Learn More
-        url: /general-enquiries
-        style: primary
+    actions: []
     media_position: right
     media_width: fifty
     align: center
