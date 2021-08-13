@@ -12,7 +12,7 @@ sections:
     media_width: fifty
     align: center
     padding_top: large
-    padding_bottom: large
+    padding_bottom: none
     background_color: primary
     has_border: false
     background_image_opacity: 100
