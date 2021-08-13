@@ -44,7 +44,7 @@ sections:
       - input_type: textarea
         name: What kind of apps are you building?
         label: What kind of apps are you building?
-        default_value: Your message
+        default_value: Just a little bit of detail goes a long way!
       - input_type: checkbox
         name: consent
         label: >-
