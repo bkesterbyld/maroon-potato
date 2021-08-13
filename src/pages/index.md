@@ -89,7 +89,7 @@ sections:
           *   Minimize dependencies and get full control over the product
           development cycle
         actions: []
-        media_position: right
+        media_position: left
         media_width: thirty-three
         align: left
         type: feature
