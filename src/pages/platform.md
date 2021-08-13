@@ -101,22 +101,6 @@ sections:
     title: Key Features
     subtitle: ''
     features:
-      - title: Fast
-        subtitle: ''
-        content: >
-          Above is globally distributed to run real time analytics on large data
-          sets while simultaneously handling high-performance business logic for
-          applications.
-
-
-          *   Ship fast without technical debt
-
-
-          *   Incorporate new features and iterations in hours
-        actions: []
-        image: images/charming-thyme.png
-        media_position: left
-        media_width: fourty
       - title: Predictable
         content: >
           Data sets can serve multiple applications and also be replicated with
