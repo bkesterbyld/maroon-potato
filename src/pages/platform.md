@@ -124,9 +124,7 @@ sections:
       - title: Parallel & In Memory Processing
         content: >
           Handle any volume of data and analytics with advanced parallel and in
-          memory processing. In many financial, commerce and IoT use cases,
-          Above provider superior performance and reliability in handle massive
-          data sets and user loads.
+          memory processing.
         actions: []
         media_position: left
         media_width: fourty
