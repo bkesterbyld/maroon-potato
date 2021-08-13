@@ -98,7 +98,7 @@ sections:
     background_color: secondary
     has_border: true
   - type: features_section
-    title: ''
+    title: Key Features
     subtitle: ''
     features:
       - subtitle: ''
