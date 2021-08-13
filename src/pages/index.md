@@ -124,7 +124,7 @@ sections:
     has_border: true
     padding_top: small
   - type: grid_section
-    title: Use Cases
+    title: Solutions
     subtitle: ''
     grid_items:
       - title: Financial Services
