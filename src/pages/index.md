@@ -47,14 +47,10 @@ sections:
         title: Simple
       - title: Fast
         subtitle: ''
-        content: >
-          Above is globally distributed to run real time analytics on large data
-          sets while simultaneously handling high-performance business logic for
-          applications.
-
+        content: |
+          Get to market fast, outmaneuver competitors and .
 
           *   Ship fast without technical debt
-
 
           *   Incorporate new features and iterations in hours
         actions: []
