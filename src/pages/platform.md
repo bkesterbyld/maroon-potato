@@ -31,7 +31,7 @@ sections:
           #### ![](images/model.png)
 
 
-          Model Data
+          #### Model Data
 
 
           Build data tables and relationships between tables with a few clicks.
