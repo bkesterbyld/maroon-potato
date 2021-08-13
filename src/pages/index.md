@@ -62,7 +62,7 @@ sections:
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
-      - title: Collaborative
+      - title: Powerful
         content: >
           Above's toolset follows fundamental programming patterns and concepts,
           so it's easy for your engineering team to help or take over.
