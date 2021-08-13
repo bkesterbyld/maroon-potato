@@ -33,14 +33,6 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Get a demo
-          - I have questions
-          - Other (use message box)
       - input_type: textarea
         name: What kind of apps are you building?
         label: What kind of apps are you building?
