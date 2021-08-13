@@ -194,8 +194,8 @@ sections:
       - title: App Modernization
         title_align: left
         content: >
-          Clone the backend of on prem applications and internal tools in days
-          and reduce hosting, DBA and other maintainance costs
+          Clone the backend of legacy applications in days and reduce hosting,
+          DBA, and other maintenance costs
         content_align: left
         actions: []
         actions_align: left
