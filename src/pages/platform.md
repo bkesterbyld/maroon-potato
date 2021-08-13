@@ -165,7 +165,7 @@ sections:
         type: feature
         image: images/undraw_My_universe_re_txot (1).svg
     feature_padding_vert: large
-    align: right
+    align: center
     background_color: none
     has_border: true
     padding_top: small
