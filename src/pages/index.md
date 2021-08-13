@@ -31,7 +31,7 @@ sections:
     form_action: Join the waitlist
     form_fields:
       - input_type: email
-        name: lorem-ipsum
+        name: join the waitlist
         default_value: email
         options: []
         is_required: false
