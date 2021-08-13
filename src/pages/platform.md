@@ -22,78 +22,6 @@ sections:
     video_embed_html: ''
     background_image_repeat: no-repeat
     background_image: images/purple-gradient.png
-  - type: features_section
-    title: ''
-    subtitle: ''
-    features:
-      - subtitle: ''
-        content: >
-          Above unifies data models, data processing, storage, and bespoke APIs
-          into a single simple service—setup in minutes with no code tools.
-
-
-          *   Bring requirements alive without engineering resources
-
-
-          *   Test data operations and output before building UX
-        actions: []
-        image: images/anyone2.png
-        media_position: right
-        media_width: fifty
-        title: Model Data
-      - title: Fast
-        subtitle: ''
-        content: >
-          Above is globally distributed to run real time analytics on large data
-          sets while simultaneously handling high-performance business logic for
-          applications.
-
-
-          *   Ship fast without technical debt
-
-
-          *   Incorporate new features and iterations in hours
-        actions: []
-        image: images/charming-thyme.png
-        media_position: left
-        media_width: fourty
-      - title: Predictable
-        content: >
-          Data sets can serve multiple applications and also be replicated with
-          secure role-based browser and API access for external parties.
-        actions: []
-        media_position: right
-        media_width: fifty
-        align: right
-        type: feature
-        image: images/separate.png
-      - content: >
-          Run across public clouds and choose which providers and locations
-          house your data—then move, replicate and export it as needed.
-        actions: []
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        title: 'Multicloud, zero lock-in'
-        image: images/multi-cloud.png
-      - title: 'Nothing to manage, scales forever'
-        content: >
-          Say goodbye to unpredictable costs for infrastructure, database admin,
-          DevOps, monitoring, and unplanned downtime. Above is globally
-          distributed, scales infinitely, and gets rid of hundreds of data
-          management tasks.
-        actions: []
-        media_position: right
-        media_width: thirty-three
-        align: left
-        type: feature
-        image: images/undraw_My_universe_re_txot (1).svg
-    feature_padding_vert: large
-    align: right
-    background_color: none
-    has_border: true
-    padding_top: small
   - type: grid_section
     title: How it Works
     subtitle: ''
@@ -183,6 +111,78 @@ sections:
     background_color: primary
     has_border: true
     background_image: images/gradient-above-lower-1.png
+  - type: features_section
+    title: ''
+    subtitle: ''
+    features:
+      - subtitle: ''
+        content: >
+          Above unifies data models, data processing, storage, and bespoke APIs
+          into a single simple service—setup in minutes with no code tools.
+
+
+          *   Bring requirements alive without engineering resources
+
+
+          *   Test data operations and output before building UX
+        actions: []
+        image: images/anyone2.png
+        media_position: right
+        media_width: fifty
+        title: Model Data
+      - title: Fast
+        subtitle: ''
+        content: >
+          Above is globally distributed to run real time analytics on large data
+          sets while simultaneously handling high-performance business logic for
+          applications.
+
+
+          *   Ship fast without technical debt
+
+
+          *   Incorporate new features and iterations in hours
+        actions: []
+        image: images/charming-thyme.png
+        media_position: left
+        media_width: fourty
+      - title: Predictable
+        content: >
+          Data sets can serve multiple applications and also be replicated with
+          secure role-based browser and API access for external parties.
+        actions: []
+        media_position: right
+        media_width: fifty
+        align: right
+        type: feature
+        image: images/separate.png
+      - content: >
+          Run across public clouds and choose which providers and locations
+          house your data—then move, replicate and export it as needed.
+        actions: []
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        title: 'Multicloud, zero lock-in'
+        image: images/multi-cloud.png
+      - title: 'Nothing to manage, scales forever'
+        content: >
+          Say goodbye to unpredictable costs for infrastructure, database admin,
+          DevOps, monitoring, and unplanned downtime. Above is globally
+          distributed, scales infinitely, and gets rid of hundreds of data
+          management tasks.
+        actions: []
+        media_position: right
+        media_width: thirty-three
+        align: left
+        type: feature
+        image: images/undraw_My_universe_re_txot (1).svg
+    feature_padding_vert: large
+    align: right
+    background_color: none
+    has_border: true
+    padding_top: small
   - type: grid_section
     title: Proven In Mission Critical Projects
     subtitle: ''
