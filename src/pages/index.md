@@ -76,7 +76,7 @@ sections:
       - title: Powerful
         content: >
           Above's imperative programming approach and distributed data store
-          handles complex use cases. Yout get enterprise-grade compute that also
+          handles complex use cases. You get enterprise-grade compute that also
           taps into complementary services such as Twilio® and ML tools
         actions: []
         media_position: right
