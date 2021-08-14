@@ -104,7 +104,8 @@ sections:
       - content: >
           Build data tables with a simple interface that stores structured,
           unstructured, and object data across public clouds. You can then move
-          and replicate data as needed and connect it to traditional databases.
+          and replicate data as needed within Above's network or migrate it to
+          traditional databases.
         actions: []
         media_position: left
         media_width: thirty-three
@@ -126,8 +127,8 @@ sections:
       - title: Automatic APIs for Frontend Devs
         content: >
           As you build data models and logic, the service generates secure,
-          scalable and granular APIs for you web, mobile and hardware clients
-          that frontend devs can use immediately
+          scalable and granular APIs for your web, mobile and hardware clients
+          that devs can use immediately
         actions: []
         media_position: left
         media_width: thirty-three
@@ -136,8 +137,10 @@ sections:
         image: images/undraw_proud_coder_7ain.svg
       - title: Edge Computing
         content: >
-          Above enables you to replicate logic, data and files next to your
-          customers—ensuring products deliver lightning-quick data responses
+          Above enables you to replicate and place logic, data and files next to
+          your customers around the world—ensuring products deliver
+          lightning-quick data responses and also helps you comply with regional
+          data privacy laws.
         actions: []
         media_position: right
         media_width: thirty-three

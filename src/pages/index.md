@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Easy API-based backend service for product managers to ship quickly and
-      get more control over the software development cycle
+      finally get control over the development lifecycle
     actions: []
     media_position: right
     media_width: fifty
@@ -55,9 +55,9 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, logic, storage, and APIs into a simple
-          backend service anyone can use. You can bring requirements alive
-          without engineering and test functionality and data before building
-          UX.
+          backend service anyone can use. Bring initial requirements alive
+          without engineering and then test functionality and data before
+          building UX.
         actions: []
         image: images/anyone2.png
         media_position: right
@@ -67,8 +67,8 @@ sections:
         subtitle: ''
         content: >
           Ship quickly, incorporate changing customer requirements, and
-          outmaneuver competitors. Above also allows you to avoid technical
-          debates and debt that bog down and kill innovation.
+          outmaneuver competitors. As your product grows, development teams can
+          easily jump in and help make your initial product more sophisticated. 
         actions: []
         image: images/charming-thyme.png
         media_position: left
@@ -76,8 +76,9 @@ sections:
       - title: Powerful
         content: >
           Above's imperative programming approach and distributed data store
-          handles complex use cases. You get enterprise-grade compute that also
-          taps into complementary services such as Twilio® and ML tools
+          handle complex use cases. You get enterprise-grade computing that also
+          taps into complementary services such as Twilio®,  ML tools, and
+          serverless cloud functions.
         actions: []
         media_position: right
         media_width: fifty
@@ -86,9 +87,9 @@ sections:
         image: images/jamstack-backend-2.png
       - title: Predictable
         content: >
-          Say goodbye to unpredictable COGs and timelines. Above helps you
-          minimize team dependencies and get control over the product cycle with
-          a single consumption-based fee.
+          Say goodbye to black box development that causes unpredictable product
+          timelines, quality and COGS. Above minimizes team blockers and
+          delivers full visibility and control over the product cycle.
         actions: []
         media_position: left
         media_width: thirty-three
@@ -157,8 +158,9 @@ sections:
       - title: APIs for Legacy Products
         title_align: left
         content: >
-          Publish data sets from your existing products that are browsed online
-          or accessed through APIs
+          Publish and monetize data sets from your existing products—customers
+          can browse data online or access it via API to power their own
+          solutions. 
         content_align: left
         actions: []
         actions_align: left
