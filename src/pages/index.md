@@ -61,7 +61,7 @@ sections:
           simple backend service anyone can use—setup in minutes easy tools.
 
 
-          |---
+          |---|
 
 
           *   Bring requirements alive without engineering resources
