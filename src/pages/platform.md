@@ -3,8 +3,8 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Serverless Backend
-    subtitle: Product
+    title: 'Implement, Test and Iterate Requirements Yourself'
+    subtitle: With a no code serverless backend
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
       code processing logic—delivered as a unified, easy cloud service
@@ -24,7 +24,7 @@ sections:
     background_image: images/purple-gradient.png
   - type: grid_section
     title: How it Works
-    subtitle: No code backend creation in minutes
+    subtitle: Bring your requirements alive in minutes
     grid_items:
       - title_align: center
         content: >
@@ -72,7 +72,7 @@ sections:
           ![](images/test.png)
 
 
-          #### Test & Ship
+          #### Test & Iterate
 
 
           As you build data models and logic, the service generates both web
@@ -102,21 +102,34 @@ sections:
     subtitle: ''
     features:
       - content: >
-          Run across public clouds and choose which providers and locations
-          house your data—then move, replicate and export it as needed
+          Build data tables with a simple interface that stores structured,
+          unstructured, and object data across public clouds. You can then move
+          and replicate data as needed and export it to traditional databases if
+          you want to leave.
         actions: []
         media_position: left
         media_width: fifty
         align: left
         type: feature
-        title: 'Multicloud, zero lock-in'
+        title: Multicloud Universal Datastore
         image: images/multi-cloud.png
+      - title: No Code Progamming
+        content: >
+          The service's imperative, click-based logic building approach gives
+          you all the power of languages like Java or C without years of
+          training or getting a Computer Science degree.
+        actions: []
+        media_position: right
+        media_width: fourty
+        align: left
+        type: feature
+        image: images/undraw_Mind_map_re_nlb6 (2).svg
       - title: Edge Computing
         content: >
           Above enables you to replicate logic, data and files next to your
           customers—ensuring products deliver lightning-quick data responses
         actions: []
-        media_position: right
+        media_position: left
         media_width: thirty-three
         align: left
         type: feature
@@ -126,19 +139,18 @@ sections:
           Break down big data sets and process them in parallel while utilizing
           in-memory logic for intense real-time analytics and calcuations
         actions: []
-        media_position: left
+        media_position: right
         media_width: fourty
         align: right
         type: feature
         image: images/processing.png
-      - title: Centralized Data Management
+      - title: Centralized Data Management & Analytics
         content: >
-          View and manage your product's live and historical data in a web
-          browser without any engineering requests. You can build more solutions
-          off the same data sets and also use your favorite BI and data science
-          tools. 
+          View and manage data in a web browser without any engineering
+          requests. You can build more solutions from the same data sets and can
+          easily connect your favorite analytical and data science tools.
         actions: []
-        media_position: right
+        media_position: left
         media_width: fifty
         align: left
         type: feature
