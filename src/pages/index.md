@@ -89,12 +89,7 @@ sections:
 
           *   Native logic engine delivers enteprise-grade computing options
 
-
-          <!---->
-
-
           *   Manages disparate data types in a single interface
-
 
           *   APIs easily tap into complementary services such as Twilio,
           Postmark and AI tools
