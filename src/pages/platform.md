@@ -136,7 +136,7 @@ sections:
         content: |
           With asflkajsdflajksd
         actions: []
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         type: feature
