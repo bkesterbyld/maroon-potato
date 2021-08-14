@@ -88,7 +88,7 @@ sections:
         content: >
           Say goodbye to unpredictable COGs and timelines. Above helps you
           minimize team dependencies and get control over the product cycle with
-          a single consumption-based fee.
+          a collaborative, always-transparent development process.
         actions: []
         media_position: left
         media_width: thirty-three
