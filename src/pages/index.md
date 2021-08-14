@@ -5,8 +5,8 @@ sections:
     title: No Code Data & Logic Prototyping
     subtitle: ''
     content: >
-      Simple API-based backend service for product managers to conceive, test,
-      launch and extend software
+      Simple API-based backend service for product managers to conceive, test
+      and extend software
     actions: []
     media_position: right
     media_width: fifty
@@ -54,15 +54,14 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data models, data processing, storage, and bespoke APIs
-          into a simple backend service anyone can use—setup in minutes with no
-          code tools.
+          Above unifies data models, data processing, storage, and APIs into a
+          simple backend service anyone can use—setup in minutes easy tools.
 
 
           *   Bring requirements alive without engineering resources
 
 
-          *   Test data operations and output before building UX
+          *   Test and view data operations before building UX
         actions: []
         image: images/anyone2.png
         media_position: right
@@ -70,10 +69,8 @@ sections:
         title: Simple
       - title: Fast
         subtitle: ''
-        content: >
-          Get to market fast, outmaneuver competitors and respond to market
-          requests virtually overnight
-
+        content: |
+          Get to market fast, quickly cycle feedback and outmaneuver competitors
 
           *   Incorporate and test new features in hours
 
@@ -84,16 +81,15 @@ sections:
         media_width: fourty
       - title: Powerful
         content: >
-          Above's logic engine follows imperative programming patterns, enabling
-          engineers to easily collaborate or take over
+          Above's uses imperative programming patterns, enabling engineers to
+          easily collaborate or take over
 
 
-          *   Handles complex use cases while accessible to anyone with a
-          logical mind
+          *   Handles complex use cases
 
 
-          *   Unifies structured  and unstructured data into a single
-          distributed, fault-tolerant, scalable datastore
+          *   Unifies structured and unstructured data into a single interface &
+          datastore
         actions: []
         media_position: right
         media_width: fifty
@@ -102,16 +98,14 @@ sections:
         image: images/separate.png
       - title: Predictable
         content: >
-          Say goodbye to unpredictable costs for cloud infrastructure, database
-          admin, DevOps, monitoring, and unplanned downtime.
+          Say goodbye to unpredictable costs and timelines
 
 
-          *   Always know the current and future COGS for products with a single
-          price
+          *   Know  current and future product COGS via a single service fee
 
 
-          *   Eliminate dependencies and get full control over the product
-          development cycle
+          *   Eliminate dependencies and get more control over the development
+          cycle
         actions: []
         media_position: left
         media_width: thirty-three
