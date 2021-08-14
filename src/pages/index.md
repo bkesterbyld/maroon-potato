@@ -91,12 +91,11 @@ sections:
           engineers to easily collaborate or take over
 
 
-          *   Handles complex use cases while accessible to anyone with a
-          logical mind
+          *   Handles complex use cases 
 
 
-          *   Unifies structured  and unstructured data into a single
-          distributed, fault-tolerant, scalable datastore
+          *   Unifies structured  and unstructured data into a single scalable
+          datastore
         actions: []
         media_position: right
         media_width: fifty
