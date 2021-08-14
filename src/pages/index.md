@@ -91,7 +91,7 @@ sections:
 
           *   Manage disparate data types without a zoo of databases
 
-          *   Tap into complementary services such as Twilio® and ML tools
+          *   Tap complementary services such as Twilio® and ML tools
         actions: []
         media_position: right
         media_width: fifty
