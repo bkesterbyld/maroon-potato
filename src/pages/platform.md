@@ -128,7 +128,7 @@ sections:
           Above enables you to replicate logic, data and files next to your
           customers—ensuring products deliver lightning-quick data responses
         actions: []
-        media_position: right
+        media_position: left
         media_width: thirty-three
         align: left
         type: feature
