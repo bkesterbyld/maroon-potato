@@ -104,7 +104,7 @@ sections:
           *   Know  current and future product COGS via a single service fee
 
 
-          *   Eliminate dependencies and get full control over the development
+          *   Eliminate dependencies and get more control over the development
           cycle
         actions: []
         media_position: left
