@@ -118,7 +118,7 @@ sections:
           degree in Computer Science. 
         actions: []
         media_position: left
-        media_width: fifty
+        media_width: fourty
         align: left
         type: feature
         image: images/undraw_Mind_map_re_nlb6 (2).svg
