@@ -3,7 +3,7 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: 'Implement, Test and Iterate Requirements Yourself'
+    title: Implement and Test Requirements Yourself
     subtitle: With a no code serverless backend
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
