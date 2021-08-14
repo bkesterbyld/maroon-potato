@@ -143,7 +143,7 @@ sections:
         align: left
         type: feature
         image: images/separate.png
-      - title: lorem-ipsum
+      - title: Imperative No Code Progamming
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
