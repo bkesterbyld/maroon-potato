@@ -18,7 +18,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: >
-      #### We'll get your backend started *or* build whole application for
+      #### We'll get your backend started *or* build a whole application for
       you&#xA;
 
 
