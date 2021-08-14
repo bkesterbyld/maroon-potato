@@ -130,7 +130,7 @@ sections:
           scalable and granular APIs for you web, mobile and hardware clients. 
         actions: []
         media_position: left
-        media_width: fourty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/undraw_proud_coder_7ain.svg
