@@ -132,6 +132,27 @@ sections:
         align: right
         type: feature
         image: images/processing.png
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        video_embed_html: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
     feature_padding_vert: large
     align: center
     background_color: none
