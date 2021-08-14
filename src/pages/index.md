@@ -84,15 +84,17 @@ sections:
       - title: Powerful
         content: >
           Above's imperative programming approach and simple data management
-          lets engineers quickly understand how things work and take over and
-          improve if needed
+          lets engineers quickly understand how things work and take over if
+          needed
 
 
           *   Handles complex use cases
 
 
-          *   Unifies structured and unstructured data into a single interface &
-          datastore
+          *   Distributed globally and scales infinitely
+
+
+          *   Manages disparate data types in a single interface
         actions: []
         media_position: right
         media_width: fifty
