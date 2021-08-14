@@ -134,9 +134,11 @@ sections:
         image: images/processing.png
       - title: 'Centralized, Accessible Data'
         content: >
-          View both live and historical data without any engineering tickets or
+          View both live and historical data without any engineering requests or
           specialized tools. And Above allows you to build multiple solutions
-          and products off the same data sets.
+          and products of the same data sets, eliminating the need for data
+          warehousing; BI and other tools readily connect to Above via your
+          bespoke APIs.
         actions: []
         media_position: right
         media_width: fifty
