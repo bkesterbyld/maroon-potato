@@ -149,7 +149,7 @@ sections:
           Break down big data sets and process them in parallel while utilizing
           in-memory logic for intense real-time analytics and calcuations
         actions: []
-        media_position: right
+        media_position: left
         media_width: thirty-three
         align: right
         type: feature
