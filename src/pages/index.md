@@ -84,7 +84,7 @@ sections:
       - title: Powerful
         content: >
           Above's imperative programming approach and distributed data store
-          handle complex use cases
+          handles complex use cases
 
 
           *   Distributed globally and scales infinitely
