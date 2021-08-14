@@ -109,7 +109,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        title: 'Multicloud, zero lock-in'
+        title: Multi-cloud Universal Datastore
         image: images/multi-cloud.png
       - title: No Code Progamming
         content: >
