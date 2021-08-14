@@ -24,7 +24,7 @@ sections:
     background_image: images/purple-gradient.png
   - type: grid_section
     title: How it Works
-    subtitle: Bring your requirements alive in minutes
+    subtitle: Bring your ideas alive in minutes
     grid_items:
       - title_align: center
         content: >
