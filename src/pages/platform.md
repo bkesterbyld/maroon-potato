@@ -164,6 +164,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/undraw_proud_coder_7ain.svg
     feature_padding_vert: large
     align: center
     background_color: none
