@@ -188,8 +188,8 @@ sections:
       - title: App Modernization
         title_align: left
         content: >
-          Clone the backend of legacy applications in days and reduce hosting,
-          DBA, and other maintenance costs
+          Clone the backend of legacy applications in days or weeks and reduce
+          hosting, DBA, and other maintenance costs
         content_align: left
         actions: []
         actions_align: left
