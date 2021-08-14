@@ -70,13 +70,13 @@ sections:
       - title: Fast
         subtitle: ''
         content: |
-          Get to market fast, quickly cycle feedback and outmaneuver competitors
+          Ship fast, quickly cycle feedback and outmaneuver competitors
 
           *   Easily run canary launches
 
-          *   Incorporate and test feedback in hours
+          *   Incorporate and test customer requirements in hours
 
-          *   Move quickly without architecture debates and technical debt
+          *   Avoid technical debates and debt
         actions: []
         image: images/charming-thyme.png
         media_position: left
