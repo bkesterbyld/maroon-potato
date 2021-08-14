@@ -5,8 +5,8 @@ sections:
     title: No Code Data & Logic Prototyping
     subtitle: ''
     content: >
-      Easy API-based backend service for product managers to conceive, test and
-      extend software
+      Easy API-based backend service for product managers to ship quickly and
+      get more control over the software development cycle
     actions: []
     media_position: right
     media_width: fifty
@@ -54,14 +54,10 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data models, data processing, storage, and APIs into a
-          simple backend service anyone can use—setup in minutes easy tools.
-
-
-          *   Bring requirements alive without engineering resources
-
-
-          *   Test and view data operations before building UX
+          Above unifies data models, logic, storage, and APIs into a simple
+          backend service anyone can use. You can bring requirements alive
+          without engineering and test functionality and data before building
+          UX.
         actions: []
         image: images/anyone2.png
         media_position: right
@@ -69,32 +65,19 @@ sections:
         title: Easy
       - title: Fast
         subtitle: ''
-        content: |
-          Get to market fast, quickly cycle feedback and outmaneuver competitors
-
-          *   Easily run canary launches
-
-          *   Incorporate and test feedback in hours
-
-          *   Move quickly without architecture debates and technical debt
+        content: >
+          Ship quickly, incorporate changing customer requirements, and
+          outmaneuver competitors. Above also allows you to avoid technical
+          debates and debt that bog down and kill innovation.
         actions: []
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
       - title: Powerful
         content: >
-          Above's imperative programming approach and simple data management
-          lets engineers quickly understand how things work and take over if
-          needed
-
-
-          *   Handles complex use cases
-
-
-          *   Distributed globally and scales infinitely
-
-
-          *   Manages disparate data types in a single interface
+          Above's imperative programming approach and distributed data store
+          handles complex use cases. You get enterprise-grade compute that also
+          taps into complementary services such as Twilio® and ML tools
         actions: []
         media_position: right
         media_width: fifty
@@ -103,14 +86,9 @@ sections:
         image: images/separate.png
       - title: Predictable
         content: >
-          Say goodbye to unpredictable costs and timelines
-
-
-          *   Know  current and future product COGS via a single service fee
-
-
-          *   Eliminate dependencies and get more control over the product
-          lifecycle
+          Say goodbye to unpredictable costs and timelines. Above helps you
+          minimize team dependencies, get control over the product cycle and
+          understand COGs.
         actions: []
         media_position: left
         media_width: thirty-three
