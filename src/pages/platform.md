@@ -143,7 +143,7 @@ sections:
         align: right
         type: feature
         image: images/processing.png
-      - title: Centralized Data Management
+      - title: Centralized Data Management & Analytics
         content: >
           View and manage data in a web browser without any engineering
           requests. You can build more solutions from the same data sets and can
