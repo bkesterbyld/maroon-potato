@@ -137,8 +137,8 @@ sections:
           View and manage your product's live and historical data in a web
           browser without any engineering requests or specialized tools. And
           Above allows you to build multiple solutions and products of the same
-          data sets, eliminating the need for data warehousing; BI and other
-          tools readily connect to Above via your bespoke APIs.
+          data sets and readily connects via API to BI and other analytical
+          tools.
         actions: []
         media_position: right
         media_width: fifty
