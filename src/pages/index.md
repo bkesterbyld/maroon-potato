@@ -66,9 +66,9 @@ sections:
         subtitle: ''
         content: >
           Ship quickly, incorporate changing customer requirements, and
-          outmaneuver competitors. Engineers also love using Above as it
+          outmaneuver competitors. Development teams love using Above as it
           eliminates hundreds of low-level DB tasks and allows them to focus on
-          solution design and avoiding technical debt. 
+          solution design and avoiding technical debt.
         actions: []
         image: images/charming-thyme.png
         media_position: left
