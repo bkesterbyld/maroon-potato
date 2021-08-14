@@ -127,7 +127,7 @@ sections:
         content: >
           As you build data models and logic, the service generates secure,
           scalable and granular APIs for you web, mobile and hardware clients
-          that your frontend devs can use immediately
+          that frontend devs can use immediately
         actions: []
         media_position: left
         media_width: thirty-three
