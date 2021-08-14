@@ -124,6 +124,16 @@ sections:
         align: left
         type: feature
         image: images/undraw_Mind_map_re_nlb6 (2).svg
+      - title: Automatic APIs for your frontend team
+        content: >
+          As you build data models and logic, the service generates secure,
+          scalable and granular APIs for you web, mobile and hardware clients. 
+        actions: []
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/undraw_proud_coder_7ain.svg
       - title: Edge Computing
         content: >
           Above enables you to replicate logic, data and files next to your
@@ -155,16 +165,6 @@ sections:
         align: left
         type: feature
         image: images/server.png
-      - title: Automatic APIs for your frontend team
-        content: >
-          As you build data models and logic, the service generates secure,
-          scalable and granular APIs for you web, mobile and hardware clients. 
-        actions: []
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/undraw_proud_coder_7ain.svg
     feature_padding_vert: large
     align: center
     background_color: none
