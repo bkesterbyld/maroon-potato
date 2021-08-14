@@ -102,9 +102,10 @@ sections:
     subtitle: ''
     features:
       - content: >
-          Store structured, unstructured, and object data across public clouds
-          and then move, replicate and export it as needed. With Above you are
-          never locked in and it's easy to migrate into traditional databases.
+          Build data tables with a simple interface that stores structured,
+          unstructured, and object data across public clouds. You can then move
+          and replicate data as needed and export to traditional databases if
+          you want to leave.
         actions: []
         media_position: left
         media_width: fifty
