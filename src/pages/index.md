@@ -83,7 +83,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/separate.png
+        image: images/jamstack-backend-2.png
       - title: Predictable
         content: >
           Say goodbye to unpredictable COGs and timelines. Above helps you
