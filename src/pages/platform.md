@@ -123,9 +123,8 @@ sections:
         image: images/globe-sitck-jamstack3.png
       - title: Parallel & In Memory Processing
         content: >
-          Break down massive data sets and process them in parallel while
-          utilizing in-memory logic for intense real-time analytics and
-          calcuations
+          Break down big data sets and process them in parallel while utilizing
+          in-memory logic for intense real-time analytics and calcuations
         actions: []
         media_position: left
         media_width: fourty
