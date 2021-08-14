@@ -66,8 +66,9 @@ sections:
         subtitle: ''
         content: >
           Ship quickly, incorporate changing customer requirements, and
-          outmaneuver competitors. Above also allows you to avoid technical debt
-          that bogs down and kill innovation.
+          outmaneuver competitors. Engineers also love using Above as it
+          eliminates hundreds of low-level DB tasks and allows them to focus on
+          solution design and avoiding technical debt. 
         actions: []
         image: images/charming-thyme.png
         media_position: left
