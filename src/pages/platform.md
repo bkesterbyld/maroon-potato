@@ -3,7 +3,7 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Unified Cloud Service
+    title: Serverless Backend Service
     subtitle: Product
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
@@ -103,7 +103,7 @@ sections:
     features:
       - content: >
           Run across public clouds and choose which providers and locations
-          house your data—then move, replicate and export it as needed. 
+          house your data—then move, replicate and export it as needed
         actions: []
         media_position: left
         media_width: fifty
@@ -113,8 +113,8 @@ sections:
         image: images/multi-cloud.png
       - title: Edge Computing
         content: >
-          Above enables you to replicate logic, data and content next to your
-          customers—ensuring products deliver lightning-quick data responses.
+          Above enables you to replicate logic, data and files next to your
+          customers—ensuring products deliver lightning-quick data responses
         actions: []
         media_position: right
         media_width: thirty-three
@@ -124,7 +124,8 @@ sections:
       - title: Parallel & In Memory Processing
         content: >
           Break down massive data sets and process them in parallel while
-          utilizing in-memory logic for intense calculations.
+          utilizing in-memory logic for intense real-time analytics and
+          calcuations
         actions: []
         media_position: left
         media_width: fourty

@@ -72,17 +72,20 @@ sections:
         content: |
           Get to market fast, quickly cycle feedback and outmaneuver competitors
 
-          *   Incorporate and test new features in hours
+          *   Easily run canary launches
 
-          *   Ship quickly without fear of technical debt
+          *   Incorporate and test feedback in hours
+
+          *   Move quickly without architecture debates and technical debt
         actions: []
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
       - title: Powerful
         content: >
-          Above's uses imperative programming patterns, enabling engineers to
-          easily collaborate or take over
+          Above's imperative programming pattern and simple data management
+          enables engineers to easily understand how things work and take over
+          when needed
 
 
           *   Handles complex use cases
@@ -104,8 +107,8 @@ sections:
           *   Know  current and future product COGS via a single service fee
 
 
-          *   Eliminate dependencies and get more control over the development
-          cycle
+          *   Eliminate dependencies and get more control over the product
+          lifecycle
         actions: []
         media_position: left
         media_width: thirty-three
