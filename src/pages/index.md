@@ -81,8 +81,8 @@ sections:
         media_width: fourty
       - title: Powerful
         content: >
-          Above's imperative programming pattern and unified datastore enables
-          engineers to easily collaborate or take over
+          Above's imperative programming pattern and simple data management
+          enables engineers to easily understand what's been done and take over
 
 
           *   Handles complex use cases
