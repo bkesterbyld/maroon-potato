@@ -142,7 +142,7 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        image: images/globe-sitck-jamstack3.png
+        image: images/undraw_connected_world_wuay (4).svg
       - title: Parallel & In Memory Processing
         content: >
           Break down big data sets and process them in parallel while utilizing
