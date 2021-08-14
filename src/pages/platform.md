@@ -150,7 +150,7 @@ sections:
           in-memory logic for intense real-time analytics and calcuations
         actions: []
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
         align: right
         type: feature
         image: images/processing.png
