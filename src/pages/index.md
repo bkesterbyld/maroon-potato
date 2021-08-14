@@ -65,14 +65,10 @@ sections:
         title: Easy
       - title: Fast
         subtitle: ''
-        content: |
-          Ship quickly and outmaneuver competitors
-
-          *   Easily run canary launches
-
-          *   Incorporate and test changing customer requirements in hours
-
-          *   Avoid technical debates and debt
+        content: >
+          Ship quickly, incorporate changing customer requirements, and
+          outmaneuver competitors. Above also allows you to avoid technical
+          debates and debt that bog down and kill great ideas. 
         actions: []
         image: images/charming-thyme.png
         media_position: left
