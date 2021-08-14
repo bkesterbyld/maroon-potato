@@ -70,11 +70,11 @@ sections:
       - title: Fast
         subtitle: ''
         content: |
-          Ship fast, quickly cycle feedback and outmaneuver competitors
+          Ship fast and outmaneuver competitors
 
           *   Easily run canary launches
 
-          *   Incorporate and test customer requirements in hours
+          *   Incorporate and test changing customer requirements in hours
 
           *   Avoid technical debates and debt
         actions: []
