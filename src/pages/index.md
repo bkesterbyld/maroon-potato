@@ -83,9 +83,9 @@ sections:
         media_width: fourty
       - title: Powerful
         content: >
-          Above's imperative programming pattern and simple data management
-          enables engineers to easily understand how things work and take over
-          when needed
+          Above's imperative programming approach and simple data management
+          lets engineers quickly understand how things work and take over and
+          improve if needed
 
 
           *   Handles complex use cases
