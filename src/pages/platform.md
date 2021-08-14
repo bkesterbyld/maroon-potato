@@ -129,7 +129,7 @@ sections:
           As you build data models and logic, the service generates secure,
           scalable and granular APIs for you web, mobile and hardware clients. 
         actions: []
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         type: feature
