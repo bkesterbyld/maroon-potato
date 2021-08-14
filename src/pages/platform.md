@@ -3,7 +3,7 @@ title: Home
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: Serverless Backend Service
+    title: Serverless Backend
     subtitle: Product
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
