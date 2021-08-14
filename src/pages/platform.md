@@ -156,7 +156,6 @@ sections:
         type: feature
         image: images/server.png
       - title: Automatic APIs for your frontend team
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
