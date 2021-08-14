@@ -132,6 +132,19 @@ sections:
         align: right
         type: feature
         image: images/processing.png
+      - title: Centralized Data Management
+        content: >
+          View and manage your product's live and historical data in a web
+          browser without any engineering requests or specialized tools. And
+          Above allows you to build multiple solutions and products of the same
+          data sets and readily connects via API to BI and other analytical
+          tools.
+        actions: []
+        media_position: right
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/separate.png
     feature_padding_vert: large
     align: center
     background_color: none

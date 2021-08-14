@@ -83,12 +83,12 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/separate.png
+        image: images/jamstack-backend-2.png
       - title: Predictable
         content: >
-          Say goodbye to unpredictable costs and timelines. Above helps you
-          minimize team dependencies, get control over the product cycle and
-          understand COGs.
+          Say goodbye to unpredictable COGs and timelines. Above helps you
+          minimize team dependencies and get control over the product cycle with
+          a single consumption-based fee.
         actions: []
         media_position: left
         media_width: thirty-three
