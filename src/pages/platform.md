@@ -132,7 +132,7 @@ sections:
         align: right
         type: feature
         image: images/processing.png
-      - title: lorem-ipsum
+      - title: Central Data and Analytics
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
