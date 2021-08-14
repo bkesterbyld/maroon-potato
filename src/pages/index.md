@@ -105,15 +105,12 @@ sections:
         type: feature
         image: images/separate.png
       - title: Predictable
-        content: >
+        content: |
           Say goodbye to unpredictable costs and timelines
 
+          *   Know current and future product COGS via a single service fee
 
-          *   Know  current and future product COGS via a single service fee
-
-
-          *   Eliminate dependencies and get more control over the product
-          lifecycle
+          *   Kill dependencies and get more control over the product lifecycle
         actions: []
         media_position: left
         media_width: thirty-three
