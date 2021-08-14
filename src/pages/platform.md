@@ -120,7 +120,7 @@ sections:
           training or getting a Computer Science degree.
         actions: []
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/undraw_Mind_map_re_nlb6 (2).svg
