@@ -135,10 +135,9 @@ sections:
       - title: Centralized Data Management
         content: >
           View and manage your product's live and historical data in a web
-          browser without any engineering requests or specialized tools. And
-          Above allows you to build multiple solutions and products of the same
-          data sets and readily connects via API to BI and other analytical
-          tools.
+          browser without any engineering requests. You can build more solutions
+          off the same data sets and also use your favorite BI and data science
+          tools. 
         actions: []
         media_position: right
         media_width: fifty
