@@ -18,8 +18,8 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - content: >
-      ###### We'll get your backend started *or* build whole applications for
-      you
+      #### We'll get your backend started *or* build a whole application for
+      you&#xA;
 
 
       A solution at a fraction of the time and cost of traditional development
