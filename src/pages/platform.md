@@ -161,7 +161,7 @@ sections:
           easily connect your favorite analytical and data science tools.
         actions: []
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/server.png
