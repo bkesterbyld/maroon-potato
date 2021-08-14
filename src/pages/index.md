@@ -89,7 +89,7 @@ sections:
 
           *   Logic engine delivers enterprise-grade compute
 
-          *   Manage disparate data types without a zoo of databases
+          *   Manage disparate data without a zoo of databases
 
           *   Tap complementary services such as Twilio® and ML tools
         actions: []
