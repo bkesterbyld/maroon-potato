@@ -54,9 +54,9 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data models, data processing, storage, and bespoke APIs
-          into a simple backend service anyone can use—setup in minutes with no
-          code tools.
+          Above unifies data models, data processing, storage, and APIs into a
+          simple backend service anyone can use—setup in minutes **with no code
+          tools.**
 
 
           *   Bring requirements alive without engineering resources
