@@ -91,8 +91,7 @@ sections:
           *   Handles complex use cases
 
 
-          *   Unifies structured and unstructured data into a single interface &
-          datastore
+          *   Manages disparate data types in a single interface
         actions: []
         media_position: right
         media_width: fifty
