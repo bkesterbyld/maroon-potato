@@ -133,17 +133,8 @@ sections:
         type: feature
         image: images/processing.png
       - title: Central Data and Analytics
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          With asflkajsdflajksd
         actions: []
         media_position: top
         media_width: fifty
