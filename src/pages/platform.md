@@ -147,7 +147,7 @@ sections:
         content: >
           View and manage data in a web browser without any engineering
           requests. You can build more solutions from the same data sets and can
-          easily connect your favorite BI and data science tools.
+          easily connect your favorite analytical and data science tools.
         actions: []
         media_position: left
         media_width: fifty
