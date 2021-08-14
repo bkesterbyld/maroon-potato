@@ -123,7 +123,7 @@ sections:
         align: left
         type: feature
         image: images/undraw_Mind_map_re_nlb6 (2).svg
-      - title: 'Automatic, Secure APIs'
+      - title: Automatic APIs for Frontend Devs
         content: >
           As you build data models and logic, the service generates secure,
           scalable and granular APIs for you web, mobile and hardware clients. 
