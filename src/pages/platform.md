@@ -133,8 +133,10 @@ sections:
         type: feature
         image: images/processing.png
       - title: 'Centralized, Accessible Data'
-        content: |
-          With asflkajsdflajksd
+        content: >
+          View both live and historical data without any engineering tickets or
+          specialized tools. And Above allows you to build multiple solutions
+          and products off the same data sets.
         actions: []
         media_position: right
         media_width: fifty
