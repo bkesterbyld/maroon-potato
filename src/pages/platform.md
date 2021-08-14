@@ -133,7 +133,6 @@ sections:
         type: feature
         image: images/processing.png
       - title: Central Data and Analytics
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
