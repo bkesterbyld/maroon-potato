@@ -144,7 +144,6 @@ sections:
         type: feature
         image: images/separate.png
       - title: No Code Progamming
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
