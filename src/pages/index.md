@@ -67,10 +67,8 @@ sections:
         subtitle: ''
         content: >
           Ship quickly, incorporate changing customer requirements, and
-          outmaneuver competitors. As your product grows, development teams
-          start using Above and appreciate that it eliminates hundreds of
-          low-level infrastructure tasks and maintenance. Your team's labor is
-          focused on one goal—great software that your customers love.
+          outmaneuver competitors. As your product grows, development teams can
+          easily jump in and help make your initial product more sophisticated. 
         actions: []
         image: images/charming-thyme.png
         media_position: left
