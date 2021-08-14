@@ -110,7 +110,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        title: Multi-cloud Universal Datastore
+        title: Multicloud Universal Datastore
         image: images/multi-cloud.png
       - title: No Code Progamming
         content: >
