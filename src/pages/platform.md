@@ -150,7 +150,7 @@ sections:
           off the same data sets and also use your favorite BI and data science
           tools. 
         actions: []
-        media_position: right
+        media_position: left
         media_width: fifty
         align: left
         type: feature
