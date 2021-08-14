@@ -145,10 +145,9 @@ sections:
         image: images/processing.png
       - title: Centralized Data Management
         content: >
-          View and manage your product's live and historical data in a web
-          browser without any engineering requests. You can build more solutions
-          off the same data sets and also use your favorite BI and data science
-          tools. 
+          View and manage data in a web browser without any engineering
+          requests. You can build more solutions from the same data sets and
+          also use your favorite BI and data science tools.
         actions: []
         media_position: left
         media_width: fifty
