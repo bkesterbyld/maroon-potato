@@ -76,7 +76,7 @@ sections:
 
           *   Incorporate and test feedback in hours
 
-          *   Move quickly without technical debt
+          *   Move quickly without architecture debates and technical debt
         actions: []
         image: images/charming-thyme.png
         media_position: left
