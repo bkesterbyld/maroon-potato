@@ -93,7 +93,7 @@ sections:
     grid_cols: three
     grid_gap_horiz: large
     grid_gap_vert: large
-    enable_cards: true
+    enable_cards: false
     align: center
     background_color: secondary
     has_border: true
