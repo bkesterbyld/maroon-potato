@@ -76,20 +76,8 @@ sections:
       - title: Powerful
         content: >
           Above's imperative programming approach and distributed data store
-          handles complex use cases
-
-
-          *   Logic engine delivers enterprise-grade compute
-
-
-
-
-          *   Manage disparate data without a zoo of databases
-
-
-
-
-          *   Tap complementary services such as Twilio® and ML tools
+          handles complex use cases. Yout get enterprise-grade compute that also
+          taps into complementary services such as Twilio® and ML tools
         actions: []
         media_position: right
         media_width: fifty
