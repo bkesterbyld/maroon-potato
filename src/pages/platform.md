@@ -160,7 +160,7 @@ sections:
           requests. You can build more solutions from the same data sets and can
           easily connect your favorite analytical and data science tools.
         actions: []
-        media_position: left
+        media_position: right
         media_width: thirty-three
         align: left
         type: feature
