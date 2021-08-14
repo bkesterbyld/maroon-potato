@@ -81,8 +81,8 @@ sections:
         media_width: fourty
       - title: Powerful
         content: >
-          Above's logic engine follows imperative programming patterns, enabling
-          engineers to easily collaborate or take over
+          Above's uses imperative programming patterns, enabling engineers to
+          easily collaborate or take over
 
 
           *   Handles complex use cases
