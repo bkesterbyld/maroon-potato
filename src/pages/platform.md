@@ -137,8 +137,10 @@ sections:
         image: images/undraw_proud_coder_7ain.svg
       - title: Edge Computing
         content: >
-          Above enables you to replicate logic, data and files next to your
-          customers—ensuring products deliver lightning-quick data responses
+          Above enables you to replicate and place logic, data and files next to
+          your customers around the world—ensuring products deliver
+          lightning-quick data responses and also helping with GDPR and other
+          data privacy regulations
         actions: []
         media_position: right
         media_width: thirty-three
