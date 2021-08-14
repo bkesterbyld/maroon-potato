@@ -72,7 +72,7 @@ sections:
           ![](images/test.png)
 
 
-          #### Test & Ship
+          #### Test & Iterate
 
 
           As you build data models and logic, the service generates both web
