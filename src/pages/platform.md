@@ -153,7 +153,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/undraw_Mind_map_re_nlb6 (1).svg
+        image: images/undraw_Mind_map_re_nlb6 (2).svg
     feature_padding_vert: large
     align: center
     background_color: none
