@@ -72,6 +72,8 @@ sections:
         content: |
           Get to market fast, quickly cycle feedback and outmaneuver competitors
 
+          *   Easily run canary launches
+
           *   Incorporate and test new features in hours
 
           *   Ship quickly without fear of technical debt
