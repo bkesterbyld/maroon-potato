@@ -101,8 +101,7 @@ sections:
           Say goodbye to unpredictable costs and timelines
 
 
-          *   Know the current and future COGS for product with a single service
-          fee
+          *   Know  current and future product COGS via a single service fee
 
 
           *   Eliminate dependencies and get full control over the product
