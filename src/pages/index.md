@@ -54,14 +54,8 @@ sections:
     features:
       - subtitle: ''
         content: >
-          |---|
-
-
           Above unifies data models, data processing, storage, and APIs into a
           simple backend service anyone can use—setup in minutes easy tools.
-
-
-          |---|
 
 
           *   Bring requirements alive without engineering resources
