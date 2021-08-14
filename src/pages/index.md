@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Simple API-based backend service for product managers to conceive, test
-      and extend software and get control over projects
+      and extend software
     actions: []
     media_position: right
     media_width: fifty
