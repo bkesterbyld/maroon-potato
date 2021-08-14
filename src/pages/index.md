@@ -82,7 +82,8 @@ sections:
       - title: Powerful
         content: >
           Above's imperative programming pattern and simple data management
-          enables engineers to easily understand what's been done and take over
+          enables engineers to easily understand how things work and take over
+          if needed
 
 
           *   Handles complex use cases
