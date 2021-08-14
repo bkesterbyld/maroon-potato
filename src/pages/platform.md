@@ -103,8 +103,9 @@ sections:
     features:
       - content: >
           Store structured, unstructured, and object data across public clouds
-          and then move, replicate and export it as needed—with Above you're
-          never locked-in
+          and then move, replicate and export it as needed—with Above you are
+          never locked-in and it's easy to transfer into traditional
+          infrastructure and DB schemas
         actions: []
         media_position: left
         media_width: fifty
