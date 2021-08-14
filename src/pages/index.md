@@ -74,9 +74,9 @@ sections:
 
           *   Easily run canary launches
 
-          *   Incorporate and test new features in hours
+          *   Incorporate and test feedback in hours
 
-          *   Ship quickly without fear of technical debt
+          *   Move quickly without technical debt
         actions: []
         image: images/charming-thyme.png
         media_position: left
