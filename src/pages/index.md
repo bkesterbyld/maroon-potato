@@ -83,12 +83,8 @@ sections:
         media_width: fourty
       - title: Powerful
         content: >
-          Above's imperative programming approach and simple data management
-          lets engineers quickly understand how things work and take over if
-          needed
-
-
-          *   Handles complex use cases
+          Above's imperative programming approach and distributed data store
+          handle complex use cases
 
 
           *   Distributed globally and scales infinitely
