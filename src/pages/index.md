@@ -61,7 +61,7 @@ sections:
           *   Bring requirements alive without engineering resources
 
 
-          *   Test data operations and output before building UX
+          *   Test and view data operations before building UX
         actions: []
         image: images/anyone2.png
         media_position: right
