@@ -86,9 +86,9 @@ sections:
         image: images/jamstack-backend-2.png
       - title: Predictable
         content: >
-          Say goodbye to unpredictable COGs and timelines. Above helps you
-          minimize team dependencies and get control over the product cycle with
-          a collaborative, always-transparent development process.
+          Say goodbye to unpredictable product timelines, quality and COGS.
+          Above minimizes team dependencies and delivers control over the
+          product cycle with everyone able to see and trace each other's work. 
         actions: []
         media_position: left
         media_width: thirty-three
