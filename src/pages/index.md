@@ -87,10 +87,17 @@ sections:
           handles complex use cases
 
 
-          *   Distributed globally and scales infinitely
+          *   Native logic engine delivers enteprise-grade computing options
+
+
+          <!---->
 
 
           *   Manages disparate data types in a single interface
+
+
+          *   APIs easily tap into complementary services such as Twilio,
+          Postmark and AI tools
         actions: []
         media_position: right
         media_width: fifty
