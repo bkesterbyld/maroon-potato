@@ -68,7 +68,7 @@ sections:
         content: >
           Ship quickly, incorporate changing customer requirements, and
           outmaneuver competitors. Above also allows you to avoid technical
-          debates and debt that bog down and kill great ideas. 
+          debates and debt that bog down and kill innovation.
         actions: []
         image: images/charming-thyme.png
         media_position: left
