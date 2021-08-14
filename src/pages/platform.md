@@ -108,7 +108,7 @@ sections:
           you want to leave.
         actions: []
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
         title: Multicloud Universal Datastore
