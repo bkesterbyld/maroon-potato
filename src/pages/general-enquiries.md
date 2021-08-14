@@ -18,12 +18,15 @@ sections:
       We never sell information to third parties. Period.
 
 
+      #### We're Intense Listeners!&#xA;
 
 
-      #### We're Intense Listeners!&#xA;&#xA;We may reach out to waitlist
-      registrants to show a demo or try the platform out before release. If we
-      ask for your time, we'll be sure to listen closely and do our best to help
-      with your unique use case and circumstances.
+
+
+      We may reach out to waitlist registrants to show a demo or try the
+      platform out before release. If we ask for your time, we'll be sure to
+      listen closely and do our best to help with your unique use case and
+      circumstances.
     content_align: left
     form_position: right
     form_width: fifty
