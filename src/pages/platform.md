@@ -132,7 +132,7 @@ sections:
         align: right
         type: feature
         image: images/processing.png
-      - title: Central Data and Analytics
+      - title: 'Centralized, Accessible Data'
         content: |
           With asflkajsdflajksd
         actions: []
