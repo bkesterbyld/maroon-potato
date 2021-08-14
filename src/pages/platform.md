@@ -132,7 +132,7 @@ sections:
         align: right
         type: feature
         image: images/processing.png
-      - title: 'Centralized, Accessible Data'
+      - title: Centralized Data Management
         content: >
           View and manage your product's live and historical data in a web
           browser without any engineering requests or specialized tools. And
