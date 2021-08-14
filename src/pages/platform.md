@@ -144,17 +144,10 @@ sections:
         type: feature
         image: images/separate.png
       - title: No Code Progamming
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          The service's imperative, click-based logic building approach gives
+          you all the power of languages like Java or C without having to get a
+          degree in Computer Science. 
         actions: []
         media_position: top
         media_width: fifty
