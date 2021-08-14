@@ -66,7 +66,7 @@ sections:
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: Simple
+        title: Easy
       - title: Fast
         subtitle: ''
         content: |
