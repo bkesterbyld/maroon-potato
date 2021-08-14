@@ -5,8 +5,8 @@ sections:
     title: No Code Data & Logic Prototyping
     subtitle: ''
     content: >
-      Simple API-based backend service for product managers to conceive, test
-      and extend software
+      Easy API-based backend service for product managers to conceive, test and
+      extend software
     actions: []
     media_position: right
     media_width: fifty
@@ -66,7 +66,7 @@ sections:
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: Simple
+        title: Easy
       - title: Fast
         subtitle: ''
         content: |
@@ -83,9 +83,9 @@ sections:
         media_width: fourty
       - title: Powerful
         content: >
-          Above's imperative programming pattern and simple data management
-          enables engineers to easily understand how things work and take over
-          when needed
+          Above's imperative programming approach and simple data management
+          lets engineers quickly understand how things work and take over and
+          improve if needed
 
 
           *   Handles complex use cases
