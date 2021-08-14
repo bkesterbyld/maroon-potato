@@ -102,8 +102,9 @@ sections:
     subtitle: ''
     features:
       - content: >
-          Run across public clouds and choose which providers and locations
-          house your data—then move, replicate and export it as needed
+          Store structured, unstructured, and object data across public clouds
+          and then move, replicate and export it as needed—with Above you're
+          never locked-in
         actions: []
         media_position: left
         media_width: fifty
