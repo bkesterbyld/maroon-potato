@@ -104,12 +104,11 @@ sections:
         image: images/separate.png
       - title: Predictable
         content: >
-          Say goodbye to unpredictable costs for cloud infrastructure, database
-          admin, DevOps, monitoring, and unplanned downtime.
+          Say goodbye to unpredictable costs and timelines
 
 
-          *   Always know the current and future COGS for products with a single
-          price
+          *   Know the current and future COGS for product with a single service
+          fee
 
 
           *   Eliminate dependencies and get full control over the product
