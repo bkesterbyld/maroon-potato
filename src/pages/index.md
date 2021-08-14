@@ -62,6 +62,9 @@ sections:
 
 
           *   Test and view data operations before building UX
+
+
+          *   Test and view data operations before building UX
         actions: []
         image: images/anyone2.png
         media_position: right
