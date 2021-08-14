@@ -18,7 +18,7 @@ sections:
       We never sell information to third parties. Period.
 
 
-      ### We're Intense Listeners!&#xA;
+      ### We're Listeners!&#xA;
 
 
       We may reach out to waitlist registrants to show a demo or try the
