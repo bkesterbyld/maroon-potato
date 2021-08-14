@@ -77,6 +77,9 @@ sections:
 
           *   Incorporate and test new features in hours
 
+
+
+
           *   Ship quickly without fear of technical debt
         actions: []
         image: images/charming-thyme.png
