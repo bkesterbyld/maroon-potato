@@ -87,12 +87,11 @@ sections:
           handles complex use cases
 
 
-          *   Native logic engine delivers enteprise-grade computing options
+          *   Logic engine delivers enterprise-grade compute
 
-          *   Manages disparate data types in a single interface
+          *   Manage disparate data types without a zoo of databases
 
-          *   APIs easily tap into complementary services such as Twilio,
-          Postmark and AI tools
+          *   Tap into complementary services such as Twilio® and ML tools
         actions: []
         media_position: right
         media_width: fifty
