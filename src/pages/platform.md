@@ -104,7 +104,7 @@ sections:
       - content: >
           Build data tables with a simple interface that stores structured,
           unstructured, and object data across public clouds. You can then move
-          and replicate data as needed and export it to traditional databases.
+          and replicate data as needed and connect it to traditional databases.
         actions: []
         media_position: left
         media_width: thirty-three
