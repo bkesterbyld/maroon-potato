@@ -113,7 +113,7 @@ sections:
         image: images/multi-cloud.png
       - title: Edge Computing
         content: >
-          Above enables you to replicate logic, data and content next to your
+          Above enables you to replicate logic, data and files next to your
           customers—ensuring products deliver lightning-quick data responses.
         actions: []
         media_position: right
