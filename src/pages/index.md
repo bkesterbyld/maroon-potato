@@ -156,8 +156,9 @@ sections:
       - title: APIs for Legacy Products
         title_align: left
         content: >
-          Publish data sets from your existing products that are browsed online
-          or accessed through APIs
+          Publish and monetize data sets from your existing products—customers
+          can browse data online or access it via API to power their own
+          solutions. 
         content_align: left
         actions: []
         actions_align: left
