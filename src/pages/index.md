@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Easy API-based backend service for product managers to ship quickly and
-      get more control over the software development cycle
+      stress less about timelines, quality, and technical debt
     actions: []
     media_position: right
     media_width: fifty
