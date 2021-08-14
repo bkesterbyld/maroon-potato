@@ -114,7 +114,7 @@ sections:
       - title: Edge Computing
         content: >
           Above enables you to replicate logic, data and content next to your
-          customers so your products deliver lighting fast data responses.
+          customers—ensuring products deliver lightning-quick data responses.
         actions: []
         media_position: right
         media_width: thirty-three
