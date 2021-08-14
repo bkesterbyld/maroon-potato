@@ -59,7 +59,7 @@ sections:
           code tools.
 
 
-          *   Bring requirements alive without engineering resources
+          Bring requirements alive without engineering resources
 
 
           *   Test data operations and output before building UX
