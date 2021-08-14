@@ -111,6 +111,17 @@ sections:
         type: feature
         title: 'Multicloud, zero lock-in'
         image: images/multi-cloud.png
+      - title: No Code Progamming
+        content: >
+          The service's imperative, click-based logic building approach gives
+          you all the power of languages like Java or C without having to get a
+          degree in Computer Science. 
+        actions: []
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/undraw_Mind_map_re_nlb6 (2).svg
       - title: Edge Computing
         content: >
           Above enables you to replicate logic, data and files next to your
@@ -143,17 +154,6 @@ sections:
         align: left
         type: feature
         image: images/separate.png
-      - title: No Code Progamming
-        content: >
-          The service's imperative, click-based logic building approach gives
-          you all the power of languages like Java or C without having to get a
-          degree in Computer Science. 
-        actions: []
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/undraw_Mind_map_re_nlb6 (2).svg
     feature_padding_vert: large
     align: center
     background_color: none
