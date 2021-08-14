@@ -54,7 +54,7 @@ sections:
     features:
       - subtitle: ''
         content: >
-          \---|
+          |---|
 
 
           Above unifies data models, data processing, storage, and APIs into a
