@@ -91,6 +91,9 @@ sections:
           *   Handles complex use cases
 
 
+          *   Distributed globally and scales infinitely
+
+
           *   Manages disparate data types in a single interface
         actions: []
         media_position: right
