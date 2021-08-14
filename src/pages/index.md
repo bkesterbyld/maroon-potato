@@ -85,7 +85,7 @@ sections:
         content: >
           Above's imperative programming pattern and simple data management
           enables engineers to easily understand how things work and take over
-          if needed
+          when needed
 
 
           *   Handles complex use cases
