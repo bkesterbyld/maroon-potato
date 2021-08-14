@@ -117,7 +117,7 @@ sections:
           you all the power of languages like Java or C without having to get a
           degree in Computer Science. 
         actions: []
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         type: feature
