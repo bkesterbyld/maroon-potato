@@ -156,17 +156,9 @@ sections:
         type: feature
         image: images/server.png
       - title: Automatic APIs for your frontend team
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          As you build data models and logic, the service generates secure,
+          scalable and granular APIs for you web, mobile and hardware clients. 
         actions: []
         media_position: top
         media_width: fifty
