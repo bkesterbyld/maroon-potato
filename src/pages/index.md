@@ -70,7 +70,7 @@ sections:
       - title: Fast
         subtitle: ''
         content: |
-          Get to market fast and outmaneuver competitors
+          Get to market fast, quickly cycle feedback and outmaneuver competitors
 
           *   Incorporate and test new features in hours
 
