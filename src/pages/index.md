@@ -87,7 +87,7 @@ sections:
         content: >
           Say goodbye to unpredictable product timelines, quality and COGS.
           Above minimizes team dependencies and delivers control over the
-          product cycle with everyone able to see and trace each other's work. 
+          product cycle—team members can see and trace each other's work.
         actions: []
         media_position: left
         media_width: thirty-three
