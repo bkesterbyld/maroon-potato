@@ -70,7 +70,7 @@ sections:
       - title: Fast
         subtitle: ''
         content: |
-          Ship quickly nd outmaneuver competitors
+          Ship quickly and outmaneuver competitors
 
           *   Easily run canary launches
 
