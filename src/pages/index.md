@@ -55,8 +55,9 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, logic, storage, and APIs into a simple
-          backend service anyone can use. Bring requirements alive without
-          engineering and test functionality and data before building UX.
+          backend service anyone can use. Bring initial requirements alive
+          without engineering and then test functionality and data before
+          building UX.
         actions: []
         image: images/anyone2.png
         media_position: right
