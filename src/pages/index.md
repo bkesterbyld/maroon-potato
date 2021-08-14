@@ -91,10 +91,10 @@ sections:
           engineers to easily collaborate or take over
 
 
-          *   Handles complex use cases 
+          *   Handles complex use cases
 
 
-          *   Unifies structured  and unstructured data into a single scalable
+          *   Unifies structured and unstructured data into a single interface &
           datastore
         actions: []
         media_position: right
