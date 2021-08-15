@@ -88,7 +88,7 @@ sections:
         content: >
           Say goodbye to black box projects that cause unpredictable timelines,
           quality and COGS. Above delivers full visibility and control over the
-          product development cycle.
+          core of your product.
         actions: []
         media_position: left
         media_width: thirty-three
