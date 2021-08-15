@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Easy API-based backend service for product managers to ship quickly and
-      finally get control over the development lifecycle
+      get control of the development lifecycle
     actions: []
     media_position: right
     media_width: fifty
@@ -55,9 +55,8 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, logic, storage, and APIs into a simple
-          backend service anyone can use. Bring initial requirements alive
-          without engineering and then test functionality and data before
-          building UX.
+          backend service anyone can use. Bring MVP requirements alive without
+          engineering and then test functionality and data before building UX.
         actions: []
         image: images/anyone2.png
         media_position: right
@@ -68,7 +67,7 @@ sections:
         content: >
           Ship quickly, incorporate changing customer requirements, and
           outmaneuver competitors. As your product grows, development teams can
-          easily jump in and help make your initial product more sophisticated. 
+          easily jump in and help make your MVP more sophisticated.
         actions: []
         image: images/charming-thyme.png
         media_position: left
@@ -76,9 +75,9 @@ sections:
       - title: Powerful
         content: >
           Above's imperative programming approach and distributed data store
-          handle complex use cases. You get enterprise-grade computing that also
-          taps into complementary services such as Twilio®,  ML tools, and
-          serverless cloud functions.
+          handle complex use cases. You get enterprise-grade computing that taps
+          into complementary services such as Twilio®,  ML tools, and serverless
+          cloud functions.
         actions: []
         media_position: right
         media_width: fifty
@@ -87,9 +86,9 @@ sections:
         image: images/jamstack-backend-2.png
       - title: Predictable
         content: >
-          Say goodbye to black box development that causes unpredictable product
-          timelines, quality and COGS. Above minimizes team blockers and
-          delivers full visibility and control over the product cycle.
+          Say goodbye to black box projects that cause unpredictable timelines,
+          quality and COGS. Above delivers full visibility and control over the
+          core of your product.
         actions: []
         media_position: left
         media_width: thirty-three
