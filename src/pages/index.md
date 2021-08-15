@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: No Code Data & Logic Prototyping
+    title: No Code Product Development
     subtitle: ''
     content: >
       Easy API-based backend service for product managers to ship quickly and
