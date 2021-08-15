@@ -86,9 +86,9 @@ sections:
         image: images/jamstack-backend-2.png
       - title: Predictable
         content: >
-          Say goodbye to black box development that causes unpredictable product
-          timelines, quality and COGS. Above minimizes team blockers and
-          delivers full visibility and control over the product cycle.
+          Say goodbye to black box projects that cause unpredictable timelines,
+          quality and COGS. Above delivers full visibility and control over the
+          product development cycle.
         actions: []
         media_position: left
         media_width: thirty-three
