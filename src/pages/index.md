@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Easy API-based backend service for product managers to ship quickly and
-      get control the development lifecycle
+      get control of the development lifecycle
     actions: []
     media_position: right
     media_width: fifty
