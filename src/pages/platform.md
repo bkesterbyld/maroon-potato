@@ -34,7 +34,7 @@ sections:
           #### Model Data
 
 
-          Build data tables and relationships between tables with a few clicks.
+          Build data tables and relationships with a few clicks.
 
 
           Above handles any data type and leverages mature and safe SQL, NoSQL
