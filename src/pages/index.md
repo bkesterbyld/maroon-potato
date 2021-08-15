@@ -67,7 +67,7 @@ sections:
         content: >
           Ship quickly, incorporate changing customer requirements, and
           outmaneuver competitors. As your product grows, development teams can
-          easily jump in and help make your initial product more sophisticated. 
+          easily jump in and help make your MVP more sophisticated.
         actions: []
         image: images/charming-thyme.png
         media_position: left
