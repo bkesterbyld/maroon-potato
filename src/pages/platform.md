@@ -117,7 +117,7 @@ sections:
         content: >
           The service's imperative, click-based logic building approach gives
           you all the power of languages like Java or C without years of
-          training or getting a Computer Science degree.
+          training or a Computer Science degree.
         actions: []
         media_position: right
         media_width: thirty-three
