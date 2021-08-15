@@ -34,7 +34,7 @@ sections:
           #### Model Data
 
 
-          Build data tables and relationships between tables with a few clicks.
+          Build data tables and relationships with a few clicks.
 
 
           Above handles any data type and leverages mature and safe SQL, NoSQL
@@ -56,8 +56,8 @@ sections:
           Create both CRUD and analytic routines via clicks.
 
 
-          The service generates a visual diagram so you or your engineers can
-          trace and troubleshoot business logic.
+          The service generates a visual diagram so your engineers can trace and
+          troubleshoot business logic.
         content_align: center
         actions: []
         actions_align: left
@@ -102,7 +102,7 @@ sections:
     subtitle: ''
     features:
       - content: >
-          Build data tables with a simple interface that stores structured,
+          Build data models with a simple interface that stores structured,
           unstructured, and object data across public clouds. You can then move
           and replicate data as needed within Above's network or migrate it to
           traditional databases.
@@ -117,7 +117,7 @@ sections:
         content: >
           The service's imperative, click-based logic building approach gives
           you all the power of languages like Java or C without years of
-          training or getting a Computer Science degree.
+          training or a Computer Science degree.
         actions: []
         media_position: right
         media_width: thirty-three
@@ -126,9 +126,9 @@ sections:
         image: images/undraw_Mind_map_re_nlb6 (2).svg
       - title: Automatic APIs for Frontend Devs
         content: >
-          As you build data models and logic, the service generates secure,
-          scalable and granular APIs for your web, mobile and hardware clients
-          that devs can use immediately
+          As you build data models and logic, the service generates secure and
+          scalable APIs for your web, mobile, and hardware clients that devs can
+          use immediately
         actions: []
         media_position: left
         media_width: thirty-three
@@ -137,10 +137,10 @@ sections:
         image: images/undraw_proud_coder_7ain.svg
       - title: Edge Computing
         content: >
-          Above enables you to replicate and place logic, data and files next to
-          your customers around the world—ensuring products deliver
-          lightning-quick data responses and also helps you comply with regional
-          data privacy laws.
+          Above enables you to place logic, data, and files next to your
+          customers around the world—ensuring products deliver lightning-quick
+          data responses and also helps you comply with regional data privacy
+          laws.
         actions: []
         media_position: right
         media_width: thirty-three
@@ -161,7 +161,8 @@ sections:
         content: >
           View and manage data in a web browser without any engineering
           requests. You can build more solutions from the same data sets and can
-          easily connect your favorite analytical and data science tools.
+          easily connect your favorite analytical and data science tools through
+          Above partners and your unique APIs.
         actions: []
         media_position: right
         media_width: thirty-three
