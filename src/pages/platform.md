@@ -128,7 +128,7 @@ sections:
         content: >
           As you build data models and logic, the service generates secure and
           scalable APIs for your web, mobile, and hardware clients that devs can
-          use immediately
+          use immediately.
         actions: []
         media_position: left
         media_width: thirty-three
@@ -139,8 +139,7 @@ sections:
         content: >
           Above enables you to place logic, data, and files next to your
           customers around the world—ensuring products deliver lightning-quick
-          data responses and also helps you comply with regional data privacy
-          laws.
+          data responses and comply with regional data privacy laws.
         actions: []
         media_position: right
         media_width: thirty-three
@@ -150,7 +149,7 @@ sections:
       - title: Parallel & In Memory Processing
         content: >
           Break down big data sets and process them in parallel while utilizing
-          in-memory logic for intense real-time analytics and calcuations
+          in-memory logic for intense real-time analytics and calculations.
         actions: []
         media_position: left
         media_width: thirty-three
@@ -161,8 +160,7 @@ sections:
         content: >
           View and manage data in a web browser without any engineering
           requests. You can build more solutions from the same data sets and can
-          easily connect your favorite analytical and data science tools through
-          Above partners and your unique APIs.
+          easily connect your favorite analytical and data science tools.
         actions: []
         media_position: right
         media_width: thirty-three

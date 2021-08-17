@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: No Code Data & Logic Prototyping
+    title: No Code Product Development
     subtitle: ''
     content: >
       Easy API-based backend service for product managers to ship quickly and
@@ -67,7 +67,7 @@ sections:
         content: >
           Ship quickly, incorporate changing customer requirements, and
           outmaneuver competitors. As your product grows, development teams can
-          easily jump in and help make your MVP more sophisticated.
+          easily jump in and help make your beta more sophisticated.
         actions: []
         image: images/charming-thyme.png
         media_position: left
