@@ -160,8 +160,7 @@ sections:
         content: >
           View and manage data in a web browser without any engineering
           requests. You can build more solutions from the same data sets and can
-          easily connect your favorite analytical and data science tools through
-          Above partners and your unique APIs.
+          easily connect your favorite analytical and data science tools.
         actions: []
         media_position: right
         media_width: thirty-three
