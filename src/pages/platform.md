@@ -150,7 +150,7 @@ sections:
       - title: Parallel & In Memory Processing
         content: >
           Break down big data sets and process them in parallel while utilizing
-          in-memory logic for intense real-time analytics and calcuations
+          in-memory logic for intense real-time analytics and calculations
         actions: []
         media_position: left
         media_width: thirty-three
