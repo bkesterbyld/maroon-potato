@@ -139,8 +139,7 @@ sections:
         content: >
           Above enables you to place logic, data, and files next to your
           customers around the world—ensuring products deliver lightning-quick
-          data responses and also helps you comply with regional data privacy
-          laws.
+          data responses and comply with regional data privacy laws.
         actions: []
         media_position: right
         media_width: thirty-three
