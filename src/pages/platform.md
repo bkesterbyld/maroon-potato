@@ -128,7 +128,7 @@ sections:
         content: >
           As you build data models and logic, the service generates secure and
           scalable APIs for your web, mobile, and hardware clients that devs can
-          use immediately
+          use immediately.
         actions: []
         media_position: left
         media_width: thirty-three
