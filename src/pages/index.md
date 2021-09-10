@@ -77,7 +77,9 @@ sections:
           Above's imperative programming approach and distributed data store
           handle complex use cases. You get enterprise-grade computing that taps
           into complementary services such as Twilio®,  ML tools, and serverless
-          cloud functions.
+          cloud functions. Via replication and other tools, Above also serves as
+          a data lake with controlled access to stakeholders such as data
+          scientists and trading partners. 
         actions: []
         media_position: right
         media_width: fifty
