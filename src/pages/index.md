@@ -54,9 +54,10 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data models, logic, storage, and APIs into a simple
-          backend service anyone can use. Bring MVP requirements alive without
-          engineering and then test functionality and data before building UX.
+          Above unifies data models, logic, and storage into a simple
+          enterprise-class backend service. Bring MVP requirements alive and
+          test data flows without engineering resources. Your frontend devs can
+          be immediately productive via instant custom APIs.
         actions: []
         image: images/anyone2.png
         media_position: right
@@ -65,9 +66,9 @@ sections:
       - title: Fast
         subtitle: ''
         content: >
-          Ship quickly, incorporate changing customer requirements, and
-          outmaneuver competitors. As your product grows, development teams can
-          easily jump in and help make your beta more sophisticated.
+          Iterate quickly, get to market first, and outmaneuver competitors. As
+          your product concept evolves, software engineers can easily jump in
+          and help make your beta more sophisticated.
         actions: []
         image: images/charming-thyme.png
         media_position: left
@@ -77,9 +78,9 @@ sections:
           Above's imperative programming approach and distributed data store
           handle complex use cases. You get enterprise-grade computing that taps
           into complementary services such as Twilio®,  ML tools, and serverless
-          cloud functions. Via replication and other tools, Above also serves as
-          a data lake with controlled access to stakeholders such as data
-          scientists and trading partners. 
+          cloud functions. Above also serves as a scalable data lake immediately
+          usable by data scientists via data browsing and APIs to AI, ML and BI
+          tools. 
         actions: []
         media_position: right
         media_width: fifty
