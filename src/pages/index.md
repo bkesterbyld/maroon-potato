@@ -57,7 +57,7 @@ sections:
           Above unifies data models, logic, and storage into a simple
           enterprise-class backend service. Bring MVP backend requirements alive
           and test data flows without engineering resources. Then give APIs to
-          your frontend devs and get prototype UX up fast.
+          your frontend devs and get beta UX running.
         actions: []
         image: images/anyone2.png
         media_position: right
