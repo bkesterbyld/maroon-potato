@@ -55,9 +55,9 @@ sections:
       - subtitle: ''
         content: >
           Above unifies data models, logic, and storage into a simple
-          enterprise-class backend service anyone can use. Bring MVP
-          requirements alive without engineering and then test functionality and
-          data before building UX.
+          enterprise-class backend service. Bring MVP backend requirements alive
+          and test data flows without engineering resources. Then give APIs to
+          your frontend devs and get prototype UX up fast.
         actions: []
         image: images/anyone2.png
         media_position: right
