@@ -54,9 +54,10 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data models, logic, storage, and APIs into a simple
-          backend service anyone can use. Bring MVP requirements alive without
-          engineering and then test functionality and data before building UX.
+          Above unifies data models, logic, and storage into a simple
+          enterprise-class backend service anyone can use. Bring MVP
+          requirements alive without engineering and then test functionality and
+          data before building UX.
         actions: []
         image: images/anyone2.png
         media_position: right
