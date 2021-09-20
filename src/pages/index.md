@@ -94,7 +94,14 @@ sections:
           into complementary services such as Twilio®,  ML tools, and serverless
           cloud functions. Above also serves as a scalable data lake immediately
           usable by data scientists.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
         media_position: right
         media_width: fifty
         align: left
