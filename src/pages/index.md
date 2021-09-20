@@ -76,7 +76,14 @@ sections:
           Iterate quickly, get to market first, and outmaneuver competitors. As
           your product concept evolves, software engineers can easily jump in
           and help make your beta more sophisticated.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
