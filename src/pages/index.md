@@ -96,7 +96,7 @@ sections:
           usable by data scientists.
         actions:
           - label: Learn More
-            url: lorem-ipsum
+            url: /platform
             style: link
             has_icon: false
             icon: arrow-left
