@@ -113,7 +113,7 @@ sections:
           quality and COGS. Above delivers full visibility and control over the
           core of your product.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: link
             has_icon: false
