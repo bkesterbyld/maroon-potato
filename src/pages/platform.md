@@ -53,7 +53,7 @@ sections:
           #### Define Logic
 
 
-          Create both CRUD and analytic routines via clicks.
+          Create both CRUD and analytic routines without programming.
 
 
           The service generates a visual diagram so your engineers can trace and
@@ -135,7 +135,7 @@ sections:
         align: left
         type: feature
         image: images/undraw_proud_coder_7ain.svg
-      - title: Edge Computing
+      - title: Edge Computing & Infinite Scaling
         content: >
           Above enables you to place logic, data, and files next to your
           customers around the world—ensuring products deliver lightning-quick
