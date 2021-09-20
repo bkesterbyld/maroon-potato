@@ -53,7 +53,7 @@ sections:
           #### Define Logic
 
 
-          Create both CRUD and analytic routines via clicks.
+          Create both CRUD and analytic routines without programming.
 
 
           The service generates a visual diagram so your engineers can trace and
