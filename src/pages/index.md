@@ -112,7 +112,14 @@ sections:
           Say goodbye to black box projects that cause unpredictable timelines,
           quality and COGS. Above delivers full visibility and control over the
           core of your product.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
         media_position: left
         media_width: thirty-three
         align: left
