@@ -77,7 +77,7 @@ sections:
           your product concept evolves, software engineers can easily jump in
           and help make your beta more sophisticated.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: /platform
             style: link
             has_icon: true
