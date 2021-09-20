@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: No Code Product Development
+    title: No Code Product Development & Extension
     subtitle: ''
     content: >
-      Easy API-based backend service for product managers to ship quickly and
-      get control of the development lifecycle
+      No Code API-based backend service for product managers to ship new ideas
+      quickly or extend legacy offerings
     actions: []
     media_position: right
     media_width: fifty
@@ -56,9 +56,16 @@ sections:
         content: >
           Above unifies data models, logic, and storage into a simple
           enterprise-class backend service. Bring MVP requirements alive and
-          test data flows without engineering resources. Your frontend devs can
-          be immediately productive via instant custom APIs.
-        actions: []
+          test data flows without engineering resources. Your frontend devs are
+          immediately productive via instant custom APIs.
+        actions:
+          - label: Learn More
+            url: /platform
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
         image: images/anyone2.png
         media_position: right
         media_width: fifty
@@ -69,19 +76,32 @@ sections:
           Iterate quickly, get to market first, and outmaneuver competitors. As
           your product concept evolves, software engineers can easily jump in
           and help make your beta more sophisticated.
-        actions: []
+        actions:
+          - label: Learn More
+            url: /platform
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
-      - title: Powerful
+      - title: 'No Code, No Compromise'
         content: >
           Above's imperative programming approach and distributed data store
           handle complex use cases. You get enterprise-grade computing that taps
           into complementary services such as Twilio®,  ML tools, and serverless
           cloud functions. Above also serves as a scalable data lake immediately
-          usable by data scientists via data browsing and APIs to AI, ML and BI
-          tools. 
-        actions: []
+          usable by data scientists.
+        actions:
+          - label: Learn More
+            url: /platform
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
         media_position: right
         media_width: fifty
         align: left
@@ -92,7 +112,14 @@ sections:
           Say goodbye to black box projects that cause unpredictable timelines,
           quality and COGS. Above delivers full visibility and control over the
           core of your product.
-        actions: []
+        actions:
+          - label: Learn More
+            url: /platform
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
         media_position: left
         media_width: thirty-three
         align: left
