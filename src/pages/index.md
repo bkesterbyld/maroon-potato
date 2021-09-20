@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: No Code Product Development & Augmentation
+    title: No Code Product Development & Extension
     subtitle: ''
     content: >
       No Code API-based backend service for product managers to ship new ideas
