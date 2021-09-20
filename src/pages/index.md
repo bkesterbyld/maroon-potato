@@ -114,7 +114,7 @@ sections:
           core of your product.
         actions:
           - label: Learn More
-            url: lorem-ipsum
+            url: /platform
             style: link
             has_icon: false
             icon: arrow-left
