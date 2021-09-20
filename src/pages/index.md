@@ -78,7 +78,7 @@ sections:
           and help make your beta more sophisticated.
         actions:
           - label: lorem-ipsum
-            url: lorem-ipsum
+            url: /platform
             style: link
             has_icon: true
             icon: arrow-right
