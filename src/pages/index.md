@@ -60,7 +60,7 @@ sections:
           immediately productive via instant custom APIs.
         actions:
           - label: Learn More
-            url: lorem-ipsum
+            url: /platform
             style: link
             has_icon: false
             icon: arrow-left
