@@ -58,7 +58,14 @@ sections:
           enterprise-class backend service. Bring MVP requirements alive and
           test data flows without engineering resources. Your frontend devs are
           immediately productive via instant custom APIs.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
         image: images/anyone2.png
         media_position: right
         media_width: fifty
