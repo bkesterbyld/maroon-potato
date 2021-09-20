@@ -73,7 +73,7 @@ sections:
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
-      - title: Powerful
+      - title: 'No Code, No Compromise'
         content: >
           Above's imperative programming approach and distributed data store
           handle complex use cases. You get enterprise-grade computing that taps
