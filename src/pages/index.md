@@ -5,8 +5,8 @@ sections:
     title: No Code Product Development & Augmentation
     subtitle: ''
     content: >
-      Easy API-based backend service for product managers to ship quickly and
-      get control of the development lifecycle
+      No Code API-based backend service for product managers to ship new ideas
+      quickly or extend legacy offerings
     actions: []
     media_position: right
     media_width: fifty
