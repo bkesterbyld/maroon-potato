@@ -61,7 +61,7 @@ sections:
         actions:
           - label: Learn More
             url: /platform
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
