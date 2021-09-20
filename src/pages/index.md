@@ -95,7 +95,7 @@ sections:
           cloud functions. Above also serves as a scalable data lake immediately
           usable by data scientists.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: link
             has_icon: false
