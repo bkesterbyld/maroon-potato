@@ -59,7 +59,7 @@ sections:
           test data flows without engineering resources. Your frontend devs are
           immediately productive via instant custom APIs.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: link
             has_icon: false
