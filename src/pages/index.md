@@ -130,7 +130,7 @@ sections:
           favorite BI, ML and AI tools to create differentiating data science
           from the earliest product stages.
         actions: []
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         image: images/graphs.png
