@@ -123,7 +123,7 @@ sections:
         align: left
         type: feature
         image: images/undraw_My_universe_re_txot (1).svg
-      - title: Central Data Management
+      - title: Centralize Data Management
         content: >
           Above delivers the capabilities of a database and a data lake in one
           so you can run analytics on operational, real time data. Connect your
