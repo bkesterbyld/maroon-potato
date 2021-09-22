@@ -134,7 +134,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Financial Services
+      - title: PropTech and FinTech
         title_align: left
         content: >
           Power new mobile, payment, banking and trading apps that scale
