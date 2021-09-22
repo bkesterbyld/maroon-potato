@@ -129,7 +129,14 @@ sections:
           so you can run analytics on operational, real time data. Connect your
           favorite BI, ML and AI tools to create differentiating data science
           from the earliest product stages.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
         media_position: right
         media_width: fifty
         align: left
