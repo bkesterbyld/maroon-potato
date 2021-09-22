@@ -56,7 +56,7 @@ sections:
         content: >
           Above unifies data models, logic, and storage into a simple
           enterprise-class backend service. Bring MVP requirements alive and
-          test data flows without engineering resources. Your frontend devs are
+          test data flows without engineering resources. Frontend devs are
           immediately productive via instant custom APIs.
         actions:
           - label: Learn More
