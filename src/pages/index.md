@@ -142,7 +142,7 @@ sections:
         media_position: right
         media_width: fifty
         align: left
-        image: images/datascience.png
+        image: images/undraw_statistic_chart_38b6.svg
     feature_padding_vert: large
     align: right
     background_color: none
