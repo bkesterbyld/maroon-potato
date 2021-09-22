@@ -123,7 +123,7 @@ sections:
         align: left
         type: feature
         image: images/undraw_My_universe_re_txot (1).svg
-      - title: Centralized Data Management
+      - title: Day 1 data science
         content: >
           For data scientists, Above functions as a data lake, with replication
           tools and access controls to keep live data safe. Connect your
