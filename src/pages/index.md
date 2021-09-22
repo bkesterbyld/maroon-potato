@@ -140,7 +140,7 @@ sections:
         media_position: right
         media_width: fifty
         align: left
-        image: images/graphs.png
+        image: images/datascience.png
     feature_padding_vert: large
     align: right
     background_color: none
