@@ -69,7 +69,7 @@ sections:
         media_position: right
         media_width: fifty
         title: Easy
-      - title: Fast
+      - title: Iterative
         subtitle: ''
         content: >
           Iterate quickly, get to market first, and outmaneuver competitors. As
