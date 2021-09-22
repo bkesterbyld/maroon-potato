@@ -140,7 +140,7 @@ sections:
             icon_position: right
             new_window: false
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
         align: left
         image: images/undraw_statistic_chart_38b6.svg
     feature_padding_vert: large
