@@ -75,7 +75,8 @@ sections:
         content: >
           Iterate quickly, get to market first, and outmaneuver competitors. As
           your product concept evolves, backend software engineers can easily
-          jump in and help make your beta more sophisticated.
+          jump in and help make your beta more sophisticated. Customers also use
+          Above to modernize and extend legacy applications with new features.
         actions:
           - label: Learn More
             url: /platform
