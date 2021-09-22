@@ -123,7 +123,7 @@ sections:
         align: left
         type: feature
         image: images/undraw_My_universe_re_txot (1).svg
-      - title: Centralize Data Management
+      - title: Centralized Data Management
         content: >
           Above functions as a data lake, with replication tools and access
           controls for data scientists. Connect your favorite BI, ML and AI
