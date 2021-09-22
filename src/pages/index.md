@@ -88,10 +88,11 @@ sections:
         media_width: fourty
       - title: Zero Compromises
         content: >
-          Most no code platforms have logic or scaling limiations. Above
+          Most low code platforms have logic or scaling limitations. Above
           utilizes an imperative programming approach that delivers the power of
-          languages like C and Java coupled with a distributed data store.
-          Together they let you tackle the most complex and intense use cases.
+          languages like C and Java. Product managers can build CRUD and logic
+          operations without coding while frontend and full stack developers can
+          access low code and JS features to accomplish most anything. 
         actions:
           - label: Learn More
             url: /platform
