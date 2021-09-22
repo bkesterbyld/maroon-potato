@@ -127,8 +127,8 @@ sections:
         content: >
           For data scientists, Above functions as a data lake, with a suite of
           replication tools and access controls to keep live product data safe.
-          Connect your favorite BI, ML and AI tools to create differentiating
-          algorithms and IP from the earliest product stages.
+          Connect your favorite BI, ML and AI tools to create differentiating IP
+          from the earliest product stages.
         actions:
           - label: Learn More
             url: /platform
