@@ -125,10 +125,10 @@ sections:
         image: images/undraw_My_universe_re_txot (1).svg
       - title: Centralized Data Management
         content: >
-          Above functions as a data lake, with replication tools and access
-          controls for data scientists. Connect your favorite BI, ML and AI
-          tools to create differentiating algorithms and IP from the earliest
-          product stages.
+          For data scientists, Above functions as a data lake, with replication
+          tools and access controls to keep live data safe. Connect your
+          favorite BI, ML and AI tools to create differentiating algorithms and
+          IP from the earliest product stages.
         actions:
           - label: Learn More
             url: /platform
