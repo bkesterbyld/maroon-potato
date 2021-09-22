@@ -123,7 +123,7 @@ sections:
         align: left
         type: feature
         image: images/undraw_My_universe_re_txot (1).svg
-      - title: lorem-ipsum
+      - title: Analyze
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
