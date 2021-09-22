@@ -109,7 +109,7 @@ sections:
         content: >
           Say goodbye to black box projects that cause unpredictable timelines,
           quality and COGS. Above delivers full visibility and control over the
-          core of your product.
+          core of your product mated with a predictable pricing model.
         actions:
           - label: Learn More
             url: /platform
