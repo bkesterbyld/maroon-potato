@@ -125,17 +125,11 @@ sections:
         image: images/undraw_My_universe_re_txot (1).svg
       - title: Analyze
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Above delivers the capabilities of a database and a data lake in one
+          so you can run analytics on operational, real time data. Connect your
+          favorite BI, ML and AI tools to create differentiating data science
+          from the earliest product stages.
         actions: []
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
