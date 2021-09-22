@@ -133,6 +133,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: images/graphs.png
     feature_padding_vert: large
     align: right
     background_color: none
