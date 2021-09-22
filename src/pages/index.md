@@ -89,9 +89,9 @@ sections:
       - title: Zero Compromises
         content: >
           Most no code platforms have logic or scaling limiations. Above
-          utilizes an imperative programming approach that gives you the power
-          of languages like C and Java coupled with a distributed data store
-          that together can handle the most complex and intense use cases. 
+          utilizes an imperative programming approach that delivers the power of
+          languages like C and Java coupled with a distributed data store.
+          Together they let you tackle the most complex and intense use cases.
         actions:
           - label: Learn More
             url: /platform
