@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: No Code Product Development & Extension
+    title: Product Development Cloud
     subtitle: ''
     content: >
-      No Code API-based backend service for product managers to ship new ideas
-      quickly or extend legacy offerings
+      Above helps product managers and frontend developers conceive, execute and
+      iterate ideas virtually overnight
     actions: []
     media_position: right
     media_width: fifty
@@ -54,9 +54,8 @@ sections:
     features:
       - subtitle: ''
         content: >
-          Above unifies data models, logic, and storage into a simple
-          enterprise-class backend service. Bring MVP requirements alive and
-          test data flows without engineering resources. Your frontend devs are
+          Above allows you to prototype and test your product's data models and
+          flows without backend engineering resources. Frontend devs are
           immediately productive via instant custom APIs.
         actions:
           - label: Learn More
@@ -70,12 +69,12 @@ sections:
         media_position: right
         media_width: fifty
         title: Easy
-      - title: Fast
+      - title: Iterative
         subtitle: ''
         content: >
           Iterate quickly, get to market first, and outmaneuver competitors. As
-          your product concept evolves, software engineers can easily jump in
-          and help make your beta more sophisticated.
+          your product concept evolves, backend software engineers can easily
+          jump in and help make your beta more sophisticated. 
         actions:
           - label: Learn More
             url: /platform
@@ -87,13 +86,12 @@ sections:
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
-      - title: 'No Code, No Compromise'
+      - title: Zero Compromises
         content: >
-          Above's imperative programming approach and distributed data store
-          handle complex use cases. You get enterprise-grade computing that taps
-          into complementary services such as Twilio®,  ML tools, and serverless
-          cloud functions. Above also serves as a scalable data lake immediately
-          usable by data scientists.
+          Most no code platforms have logic or scaling limiations. Above
+          utilizes an imperative programming approach that delivers the power of
+          languages like C and Java coupled with a distributed data store.
+          Together they let you tackle the most complex and intense use cases.
         actions:
           - label: Learn More
             url: /platform
@@ -111,7 +109,7 @@ sections:
         content: >
           Say goodbye to black box projects that cause unpredictable timelines,
           quality and COGS. Above delivers full visibility and control over the
-          core of your product.
+          core of your product mated with a predictable pricing model.
         actions:
           - label: Learn More
             url: /platform
@@ -125,6 +123,24 @@ sections:
         align: left
         type: feature
         image: images/undraw_My_universe_re_txot (1).svg
+      - title: Data Science Ready
+        content: >
+          For data scientists, Above functions as an infinitely scalable data
+          lake, with a suite of replication tools and access controls to keep
+          live product data safe. Connect your favorite BI, ML and AI tools to
+          create differentiating IP from the earliest product stages.
+        actions:
+          - label: Learn More
+            url: /platform
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+        media_position: right
+        media_width: fifty
+        align: left
+        image: images/graphs.png
     feature_padding_vert: large
     align: right
     background_color: none
@@ -134,11 +150,11 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: Financial Services
+      - title: PropTech and FinTech
         title_align: left
         content: >
-          Power new mobile, payment, banking and trading apps that scale
-          ACID-compliant transactions infinitely
+          Power new real estate, construction, payment  and trading apps that
+          scale ACID-compliant transactions infinitely
         content_align: left
         actions: []
         actions_align: left
@@ -199,7 +215,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-      - title: App Modernization
+      - title: App Extension and Modernization
         title_align: left
         content: >
           Clone the backend of legacy applications in days or weeks and reduce

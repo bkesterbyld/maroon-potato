@@ -135,7 +135,7 @@ sections:
         align: left
         type: feature
         image: images/undraw_proud_coder_7ain.svg
-      - title: Edge Computing & Infinite Scaling
+      - title: Edge Compute & Infinite Scaling
         content: >
           Above enables you to place logic, data, and files next to your
           customers around the world—ensuring products deliver lightning-quick
