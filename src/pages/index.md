@@ -5,7 +5,7 @@ sections:
     title: Product Development Cloud
     subtitle: ''
     content: >
-      We help product managers and frontend developers conceive, execute and
+      Above helps product managers and frontend developers conceive, execute and
       iterate ideas virtually overnight
     actions: []
     media_position: right
