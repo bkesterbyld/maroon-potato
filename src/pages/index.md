@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Low Code Product Development Cloud
+    title: Headless Product Development Cloud
     subtitle: ''
     content: >
       Above helps product managers and frontend developers conceive, execute and
