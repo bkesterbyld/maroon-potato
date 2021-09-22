@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Above helps product managers and frontend developers conceive, execute and
-      iterate ideas virtually overnight
+      iterate software ideas virtually overnight
     actions: []
     media_position: right
     media_width: fifty
