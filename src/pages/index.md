@@ -131,7 +131,7 @@ sections:
           from the earliest product stages.
         actions:
           - label: Learn More
-            url: lorem-ipsum
+            url: /platform
             style: link
             has_icon: false
             icon: arrow-left
