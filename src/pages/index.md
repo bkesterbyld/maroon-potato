@@ -74,8 +74,8 @@ sections:
         subtitle: ''
         content: >
           Iterate quickly, get to market first, and outmaneuver competitors. As
-          your product concept evolves, software engineers can easily jump in
-          and help make your beta more sophisticated.
+          your product concept evolves, backend software engineers can easily
+          jump in and help make your beta more sophisticated.
         actions:
           - label: Learn More
             url: /platform
