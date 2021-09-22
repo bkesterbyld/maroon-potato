@@ -94,7 +94,7 @@ sections:
           handle complex use cases. You get enterprise-grade computing that taps
           into complementary services such as Twilio®,  ML tools, and serverless
           cloud functions. Above also serves as a scalable data lake immediately
-          usable by data scientists.
+          accessible to data scientists via browser and API.
         actions:
           - label: Learn More
             url: /platform
