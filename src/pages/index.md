@@ -123,7 +123,7 @@ sections:
         align: left
         type: feature
         image: images/undraw_My_universe_re_txot (1).svg
-      - title: Day 1 Data Science
+      - title: Data Science Driven
         content: >
           For data scientists, Above functions as a data lake, with a suite of
           replication tools and access controls to keep live product data safe.
