@@ -200,7 +200,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-      - title: App Modernization
+      - title: App Extension and Modernization
         title_align: left
         content: >
           Clone the backend of legacy applications in days or weeks and reduce
