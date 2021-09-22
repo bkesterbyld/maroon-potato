@@ -88,11 +88,10 @@ sections:
         media_width: fourty
       - title: Zero Compromises
         content: >
-          Above's imperative programming approach and distributed data store
-          handle complex use cases. You get enterprise-grade computing that taps
-          into complementary services such as Twilio®,  ML tools, and serverless
-          cloud functions. Above also serves as a scalable data lake immediately
-          accessible to data scientists via browser and API.
+          Most no code platforms have logic or scaling limiations. Above
+          utilizes an imperative programming approach that gives you the power
+          of languages like C and Java coupled with a distributed data store
+          that together can handle the most complex and intense use cases. 
         actions:
           - label: Learn More
             url: /platform
