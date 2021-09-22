@@ -123,7 +123,7 @@ sections:
         align: left
         type: feature
         image: images/undraw_My_universe_re_txot (1).svg
-      - title: Analyze
+      - title: All-in-one data management
         subtitle: lorem-ipsum
         content: >
           Above delivers the capabilities of a database and a data lake in one
