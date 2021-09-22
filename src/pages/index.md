@@ -90,9 +90,8 @@ sections:
         content: >
           Most low code platforms have logic or scaling limitations. Above
           utilizes an imperative programming approach that delivers the power of
-          languages like C and Java. Product managers can build CRUD and logic
-          operations without coding while frontend and full stack developers can
-          access low code and JS features to accomplish most anything. 
+          languages like C and Java coupled with a distributed data store that
+          scales globally. 
         actions:
           - label: Learn More
             url: /platform
