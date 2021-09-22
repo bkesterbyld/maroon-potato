@@ -5,8 +5,8 @@ sections:
     title: Product Development Cloud
     subtitle: ''
     content: >
-      No Code API-based backend service for product managers to ship new ideas
-      quickly or extend legacy offerings
+      We help product managers and frontend developers conceive, execute and
+      iterate concepts without coding
     actions: []
     media_position: right
     media_width: fifty
