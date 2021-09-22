@@ -130,7 +130,7 @@ sections:
           favorite BI, ML and AI tools to create differentiating data science
           from the earliest product stages.
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: link
             has_icon: false
