@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       A low code service to help product pros and frontend devs get it out
-      there, without expensive and unpredictable backend engineering.
+      there, without expensive and unpredictable backend engineering
     actions: []
     media_position: right
     media_width: fifty
