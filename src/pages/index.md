@@ -89,9 +89,9 @@ sections:
       - title: Expand
         content: >
           Most low code platforms have computing limitations or require you to
-          learn something exotic and time-consuming. Above uses an imperative
-          programming model that delivers the power of languages like C and Java
-          in an easy, straightforward approach.
+          learn something proprietary. Above delivers the power of languages
+          like C and Java in an easy, straightforward logic-building approach
+          that scales from simple to the most demanding use cases.
         actions:
           - label: Learn More
             url: /platform
