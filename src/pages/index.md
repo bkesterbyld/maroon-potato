@@ -72,10 +72,9 @@ sections:
       - title: Iterate
         subtitle: ''
         content: >
-          Cycle user feedback quickly without programming delays or
-          infrastructure tasks. As your concept evolves, backend software
-          engineers can easily jump in and help make your beta more
-          sophisticated.
+          Cycle user feedback quickly without programming, QA or infrastructure
+          tasks. As your concept evolves, backend software engineers can easily
+          jump in and help make your beta more sophisticated.
         actions:
           - label: Learn More
             url: /platform
