@@ -88,7 +88,7 @@ sections:
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
-      - title: Zero Compromises
+      - title: 'Zero Compromises, Nothing to Learn'
         content: >
           Most low code platforms have computing limitations or require you to
           learn something exotic and time-consuming. Above utilizes an
