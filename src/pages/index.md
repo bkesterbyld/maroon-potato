@@ -5,8 +5,8 @@ sections:
     title: Headless Product Development Cloud
     subtitle: ''
     content: >
-      Above helps product managers and frontend developers conceive, execute and
-      iterate software ideas virtually overnight
+      Above helps product pros and their frontend partners get something built
+      in record time, without complicated and expensive backend engineering.
     actions: []
     media_position: right
     media_width: fifty
