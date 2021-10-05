@@ -69,7 +69,7 @@ sections:
         media_position: right
         media_width: fifty
         title: Prototype
-      - title: Iterative
+      - title: Iterate
         subtitle: ''
         content: >
           Iterate quickly without infrastructure tasks and outmaneuver
