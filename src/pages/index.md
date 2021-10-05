@@ -106,7 +106,7 @@ sections:
         align: left
         type: feature
         image: images/jamstack-backend-2.png
-      - title: Predictable and Debt Free
+      - title: Control
         content: >
           Say goodbye to black box projects that cause unpredictable timelines,
           tech debt and COGS. Above delivers full visibility and control over
