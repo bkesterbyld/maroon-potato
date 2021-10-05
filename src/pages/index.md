@@ -109,9 +109,9 @@ sections:
       - title: Control
         content: >
           Say goodbye to black box projects that cause unpredictable timelines,
-          tech debt and COGS. Above delivers full visibility and control over
-          the core of  your product and helps you understand your offer's costs
-          with a predictable fee model.
+          tech debt and COGS. Above delivers full control over your proudct,
+          delivers visibility to live data and helps you understand your offer's
+          costs with a predictable fee model.
         actions:
           - label: Learn More
             url: /platform
