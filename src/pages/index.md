@@ -5,8 +5,8 @@ sections:
     title: Headless Product Development Cloud
     subtitle: ''
     content: >
-      A low code service to help product pros and frontend devs something
-      impressive out there, without expensive and unpredictable backend
+      A low code service to help product pros and frontend devs get something
+      usable into customer's hands, without expensive and unpredictable backend
       engineering
     actions: []
     media_position: right
