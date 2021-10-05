@@ -72,10 +72,9 @@ sections:
       - title: Iterative
         subtitle: ''
         content: >
-          Get customer feedback fast, iterate quickly, and outmaneuver
-          competitors. As your product concept evolves, backend software
-          engineers can easily jump in and help make your beta more
-          sophisticated.
+          Iterate quickly without infrastructure tasks and outmaneuver
+          competitors. As your concept evolves, backend software engineers can
+          easily jump in and help make your beta more sophisticated.
         actions:
           - label: Learn More
             url: /platform
