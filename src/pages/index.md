@@ -5,8 +5,8 @@ sections:
     title: Headless Product Development Cloud
     subtitle: ''
     content: >
-      Above helps product pros and their frontend partners prototype and ship in
-      record time, without expensive and unpredictable backend engineering.
+      A low code service to help product pros and their frontend devs get it out
+      there, without expensive and unpredictable backend engineering.
     actions: []
     media_position: right
     media_width: fifty
