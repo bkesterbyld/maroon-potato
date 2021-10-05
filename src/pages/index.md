@@ -89,9 +89,9 @@ sections:
       - title: 'Zero Compromises, Nothing to Learn'
         content: >
           Most low code platforms have computing limitations or require you to
-          learn something exotic and time-consuming. Above utilizes an
-          imperative programming model that delivers the power of languages like
-          C and Java in an easy, straightforward approach. 
+          learn something exotic and time-consuming. Above uses an imperative
+          programming model that delivers the power of languages like C and Java
+          in an easy, straightforward approach.
         actions:
           - label: Learn More
             url: /platform
