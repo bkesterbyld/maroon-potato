@@ -89,10 +89,10 @@ sections:
         media_width: fourty
       - title: Zero Compromises
         content: >
-          Most low code platforms have logic or scaling limitations. Above
-          utilizes an imperative programming approach that delivers the power of
-          languages like C and Java coupled with a distributed data store that
-          scales globally. 
+          Most low code platforms have computing limitations or require you to
+          learn something exotic and time-consuming. Above utilizes an
+          imperative programming approach that delivers the power of languages
+          like C and Java in an easy, intuitive package.
         actions:
           - label: Learn More
             url: /platform
