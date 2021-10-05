@@ -125,7 +125,7 @@ sections:
         align: left
         type: feature
         image: images/undraw_My_universe_re_txot (1).svg
-      - title: Data Science Ready
+      - title: Analyze
         content: >
           For data scientists, Above functions as an infinitely scalable data
           lake, with replication and access controls to keep live product data
