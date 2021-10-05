@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Get a robust and delightful digital product into customers' hands without
-      backend engineering or coding
+      backend engineering
     actions: []
     media_position: right
     media_width: fifty
@@ -73,8 +73,9 @@ sections:
         subtitle: ''
         content: >
           Cycle user feedback quickly without programming, QA or infrastructure
-          tasks. As your concept evolves, backend software engineers can easily
-          jump in and help make your beta more sophisticated.
+          tasks. As your concept evolves, backend software engineers can jump in
+          and help make your beta more sophisticated, or move your concept to
+          their preferred stack.
         actions:
           - label: Learn More
             url: /platform
@@ -108,9 +109,9 @@ sections:
       - title: Control
         content: >
           Say goodbye to black box projects that cause unpredictable timelines,
-          tech debt and COGS. Above delivers full visibility and control over
-          the core of  your product and helps you understand your offer's costs
-          with a predictable fee model.
+          tech debt and COGS. Above delivers full control over your proudct,
+          delivers visibility to live data and helps you understand your offer's
+          costs with a predictable fee model.
         actions:
           - label: Learn More
             url: /platform
