@@ -87,7 +87,7 @@ sections:
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
-      - title: 'Zero Compromises, Zero Tech Debt'
+      - title: Zero Compromises
         content: >
           Most low code platforms have logic or scaling limitations. Above
           utilizes an imperative programming approach that delivers the power of
