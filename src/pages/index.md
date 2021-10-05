@@ -92,7 +92,8 @@ sections:
           Most low code platforms have computing limitations or require you to
           learn something proprietary. Above delivers the power of languages
           like C and Java in an easy, straightforward logic-building approach
-          that scales from simple to the most demanding use cases.
+          that scales from simple to handling millions of users, logic
+          operations and data I/O in real time.
         actions:
           - label: Learn More
             url: /platform
