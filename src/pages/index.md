@@ -5,8 +5,8 @@ sections:
     title: Headless Product Development Cloud
     subtitle: ''
     content: >
-      Low code service to get something usable into customers' hands without
-      unpredictable backend engineering
+      Get something robust and usable into customers' hands without backend
+      engineering or coding
     actions: []
     media_position: right
     media_width: fifty
