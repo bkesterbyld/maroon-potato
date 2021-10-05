@@ -68,7 +68,7 @@ sections:
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: Easy
+        title: Prototype
       - title: Iterative
         subtitle: ''
         content: >
