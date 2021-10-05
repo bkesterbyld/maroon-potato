@@ -55,8 +55,8 @@ sections:
       - subtitle: ''
         content: >
           Above allows you to prototype and test your product's data models and
-          logic flows without hardcore engineers. Frontend devs are immediately
-          productive via instant custom APIs.
+          logic flows on your own with low code tools. Frontend devs are
+          immediately productive via instant custom APIs.
         actions:
           - label: Learn More
             url: /platform
