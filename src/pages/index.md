@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Headless Product Development Cloud
+    title: Headless Product Creation Cloud
     subtitle: ''
     content: >
       Get a robust and delightful digital product into customers' hands without
