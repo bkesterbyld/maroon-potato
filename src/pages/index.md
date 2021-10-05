@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: >
       Get a robust and delightful digital product into customers' hands without
-      backend engineering or coding
+      backend engineering
     actions: []
     media_position: right
     media_width: fifty
