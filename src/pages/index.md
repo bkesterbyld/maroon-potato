@@ -5,8 +5,8 @@ sections:
     title: Headless Product Development Cloud
     subtitle: ''
     content: >
-      Get something robust and delightful into customers' hands without backend
-      engineering or coding
+      Get a robust and delightful digital product into customers' hands without
+      backend engineering or coding
     actions: []
     media_position: right
     media_width: fifty
