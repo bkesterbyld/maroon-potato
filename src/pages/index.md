@@ -5,8 +5,8 @@ sections:
     title: Headless Product Creation Cloud
     subtitle: ''
     content: >
-      Get a robust and delightful digital product into customers' hands without
-      backend engineering
+      Get a robust and delightful enterprise-grade digital product into
+      customers' hands without backend engineering
     actions: []
     media_position: right
     media_width: fifty
