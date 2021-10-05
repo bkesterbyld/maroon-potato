@@ -109,9 +109,9 @@ sections:
       - title: Predictable and Debt Free
         content: >
           Say goodbye to black box projects that cause unpredictable timelines,
-          quality and COGS. Above delivers full visibility and control over the
-          core of  your product and helps you understand your offer's costs with
-          a predictable fee model.
+          tech debt and COGS. Above delivers full visibility and control over
+          the core of  your product and helps you understand your offer's costs
+          with a predictable fee model.
         actions:
           - label: Learn More
             url: /platform
