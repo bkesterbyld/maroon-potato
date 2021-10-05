@@ -74,7 +74,8 @@ sections:
         content: >
           Cycle user feedback quickly without programming, QA or infrastructure
           tasks. As your concept evolves, backend software engineers can jump in
-          and help make your beta more sophisticated.
+          and help make your beta more sophisticated, or move to their own
+          custom environment.
         actions:
           - label: Learn More
             url: /platform
