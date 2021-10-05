@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Product Development Cloud
+    title: Headless Product Creation Cloud
     subtitle: ''
     content: >
-      Above helps product managers and frontend developers conceive, execute and
-      iterate ideas virtually overnight
+      Get a robust and delightful digital product into customers' hands without
+      backend engineering or coding
     actions: []
     media_position: right
     media_width: fifty
@@ -55,7 +55,7 @@ sections:
       - subtitle: ''
         content: >
           Above allows you to prototype and test your product's data models and
-          flows without backend engineering resources. Frontend devs are
+          logic flows on your own with low code tools. Frontend devs are
           immediately productive via instant custom APIs.
         actions:
           - label: Learn More
@@ -68,13 +68,13 @@ sections:
         image: images/anyone2.png
         media_position: right
         media_width: fifty
-        title: Easy
-      - title: Iterative
+        title: Prototype
+      - title: Iterate
         subtitle: ''
         content: >
-          Iterate quickly, get to market first, and outmaneuver competitors. As
-          your product concept evolves, backend software engineers can easily
-          jump in and help make your beta more sophisticated. 
+          Cycle user feedback quickly without programming, QA or infrastructure
+          tasks. As your concept evolves, backend software engineers can easily
+          jump in and help make your beta more sophisticated.
         actions:
           - label: Learn More
             url: /platform
@@ -86,12 +86,12 @@ sections:
         image: images/charming-thyme.png
         media_position: left
         media_width: fourty
-      - title: Zero Compromises
+      - title: Expand
         content: >
-          Most no code platforms have logic or scaling limiations. Above
-          utilizes an imperative programming approach that delivers the power of
-          languages like C and Java coupled with a distributed data store.
-          Together they let you tackle the most complex and intense use cases.
+          Most low code platforms have computing limitations or require you to
+          learn something proprietary. Above delivers the power of languages
+          like C and Java in an easy, straightforward logic-building approach
+          that scales from simple to the most demanding use cases.
         actions:
           - label: Learn More
             url: /platform
@@ -105,11 +105,12 @@ sections:
         align: left
         type: feature
         image: images/jamstack-backend-2.png
-      - title: Predictable
+      - title: Control
         content: >
           Say goodbye to black box projects that cause unpredictable timelines,
-          quality and COGS. Above delivers full visibility and control over the
-          core of your product mated with a predictable pricing model.
+          tech debt and COGS. Above delivers full visibility and control over
+          the core of  your product and helps you understand your offer's costs
+          with a predictable fee model.
         actions:
           - label: Learn More
             url: /platform
@@ -123,12 +124,12 @@ sections:
         align: left
         type: feature
         image: images/undraw_My_universe_re_txot (1).svg
-      - title: Data Science Ready
+      - title: Analyze
         content: >
           For data scientists, Above functions as an infinitely scalable data
-          lake, with a suite of replication tools and access controls to keep
-          live product data safe. Connect your favorite BI, ML and AI tools to
-          create differentiating IP from the earliest product stages.
+          lake, with replication and access controls to keep live product data
+          safe. Connect your favorite BI, ML and AI tools to create
+          differentiating IP from the earliest product stages.
         actions:
           - label: Learn More
             url: /platform
@@ -138,9 +139,9 @@ sections:
             icon_position: right
             new_window: false
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
         align: left
-        image: images/graphs.png
+        image: images/undraw_statistic_chart_38b6.svg
     feature_padding_vert: large
     align: right
     background_color: none

@@ -4,7 +4,7 @@ excerpt: lorem-ipsum
 sections:
   - type: hero_section
     title: Implement and Test Requirements Yourself
-    subtitle: With a no code serverless backend
+    subtitle: With a low code headless backend
     content: >
       Above combines the capabilities of SQL and NoSQL databases with easy no
       code processing logic—delivered as a unified, easy cloud service
