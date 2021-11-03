@@ -90,10 +90,10 @@ sections:
       - title: Expand
         content: >
           Most low code platforms have computing limitations or require you to
-          learn something proprietary. Above delivers the power of languages
-          like C and Java in an easy, straightforward logic-building approach
-          that scales from simple to handling millions of users and data
-          operations per second.
+          learn something proprietary. Above delivers the power of enterprise
+          languages like C and Java in an easy, straightforward logic-building
+          approach that scales to millions of users and data operations per
+          second.
         actions:
           - label: Learn More
             url: /platform
