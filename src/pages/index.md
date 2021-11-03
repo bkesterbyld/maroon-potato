@@ -5,8 +5,8 @@ sections:
     title: Headless Product Creation Cloud
     subtitle: ''
     content: >
-      Get a robust and delightful digital product into customers' hands without
-      backend engineering
+      Get a robust and delightful enterprise-grade digital product into
+      customers' hands without backend engineering
     actions: []
     media_position: right
     media_width: fifty
@@ -55,8 +55,8 @@ sections:
       - subtitle: ''
         content: >
           Above allows you to prototype and test your product's data models and
-          logic flows on your own with low code tools. Frontend devs are
-          immediately productive via instant custom APIs.
+          logic flows on your own without coding. Frontend devs are immediately
+          productive via instant custom APIs.
         actions:
           - label: Learn More
             url: /platform
@@ -74,8 +74,8 @@ sections:
         content: >
           Cycle user feedback quickly without programming, QA or infrastructure
           tasks. As your concept evolves, backend software engineers can jump in
-          and help make your beta more sophisticated, or move your concept to
-          their preferred stack.
+          and help make your beta more sophisticated. Or they can export your
+          data models to their preferred DB.
         actions:
           - label: Learn More
             url: /platform
@@ -90,10 +90,10 @@ sections:
       - title: Expand
         content: >
           Most low code platforms have computing limitations or require you to
-          learn something proprietary. Above delivers the power of languages
-          like C and Java in an easy, straightforward logic-building approach
-          that scales from simple to handling millions of users and data
-          operations per second.
+          learn something proprietary. Above delivers the power of enterprise
+          languages like C and Java in an easy, straightforward logic-building
+          approach that scales to millions of users and data operations per
+          second.
         actions:
           - label: Learn More
             url: /platform
