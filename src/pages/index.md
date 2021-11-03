@@ -74,8 +74,8 @@ sections:
         content: >
           Cycle user feedback quickly without programming, QA or infrastructure
           tasks. As your concept evolves, backend software engineers can jump in
-          and help make your beta more sophisticated. O they can export your
-          concept to their preferred stack.
+          and help make your beta more sophisticated. Or they can export your
+          data models to their preferred DB.
         actions:
           - label: Learn More
             url: /platform
