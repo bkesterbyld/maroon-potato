@@ -153,7 +153,7 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: PropTech and FinTech
+      - title: FinTech and PropTech
         title_align: left
         content: >
           Power new finance, real estate and trading apps that scale
