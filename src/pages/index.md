@@ -156,8 +156,8 @@ sections:
       - title: PropTech and FinTech
         title_align: left
         content: >
-          Power new real estate, construction, payment  and trading apps that
-          scale ACID-compliant transactions infinitely
+          Power new finance, real estate and trading apps that scale
+          ACID-compliant transactions infinitely
         content_align: left
         actions: []
         actions_align: left
