@@ -110,7 +110,7 @@ sections:
       - title: Control
         content: >
           Say goodbye to black box projects that cause unpredictable timelines,
-          tech debt and COGS. Above delivers full control over your proudct,
+          tech debt and COGS. Above delivers full control over your product,
           delivers visibility to live data and helps you understand your offer's
           costs with a predictable fee model.
         actions:
@@ -153,11 +153,11 @@ sections:
     title: Solutions
     subtitle: ''
     grid_items:
-      - title: PropTech and FinTech
+      - title: FinTech and PropTech
         title_align: left
         content: >
-          Power new real estate, construction, payment  and trading apps that
-          scale ACID-compliant transactions infinitely
+          Power new finance and real estate apps that aggregate and scale
+          ACID-compliant transactions infinitely
         content_align: left
         actions: []
         actions_align: left
